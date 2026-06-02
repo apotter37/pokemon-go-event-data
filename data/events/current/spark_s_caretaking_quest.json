@@ -1,0 +1,27 @@
+{
+  "id": "spark_s_caretaking_quest",
+  "title": "Spark's Caretaking Quest",
+  "status": "current",
+  "category": "Event",
+  "date_text": "Mon, Jun 8, at 8:00 PM",
+  "source": "LeekDuck",
+  "source_url": "https://leekduck.com/events/sparks-caretaking-quest/",
+  "generated_at": "2026-06-02 15:10:13",
+  "entries": [
+    {
+      "dex": 172,
+      "name": "Pichu",
+      "uri": "file:///android_asset/Pokemon/Normal/Pichu.png",
+      "label": "Eggs — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Pichu"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-06-02 15:10:15",
+  "source_priority": [
+    "LeekDuck",
+    "Official Pokémon GO"
+  ],
+  "current": [
+    {
+      "id": "candela_s_quest_for_victory",
+      "title": "Candela's Quest for Victory",
+      "category": "Event",
+      "date_text": "Mon, Jun 15, at 8:00 PM",
+      "file": "current/candela_s_quest_for_victory.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/candelas-quest-for-victory/"
+    },
+    {
+      "id": "flying_taxi_2026",
+      "title": "Flying Taxi 2026",
+      "category": "Event",
+      "date_text": "Mon, Jun 29, at 8:00 PM",
+      "file": "current/flying_taxi_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/flying-taxi-2026/"
+    },
+    {
+      "id": "flying_taxi_taken_over",
+      "title": "Flying Taxi: Taken Over",
+      "category": "Event",
+      "date_text": "Mon, Jun 29, at 8:00 PM",
+      "file": "current/flying_taxi_taken_over.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/"
+    },
+    {
+      "id": "spark_s_caretaking_quest",
+      "title": "Spark's Caretaking Quest",
+      "category": "Event",
+      "date_text": "Mon, Jun 8, at 8:00 PM",
+      "file": "current/spark_s_caretaking_quest.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/sparks-caretaking-quest/"
+    },
+    {
+      "id": "pokemon_fossil_museum_chicago",
+      "title": "Pokemon Fossil Museum - Chicago",
+      "category": "Event",
+      "date_text": "Sun, Apr 11, at 5:00 PM",
+      "file": "current/pokemon_fossil_museum_chicago.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-fossil-museum-chicago-2026/"
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "august_community_day",
+      "title": "August Community Day",
+      "category": "Community Day",
+      "date_text": "Sat, Aug 15, at 5:00 PM",
+      "file": "upcoming/august_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/august-communityday2026/"
+    },
+    {
+      "id": "raid_day_august_2026",
+      "title": "Raid Day August 2026",
+      "category": "Raid Day",
+      "date_text": "Sat, Aug 22, at 5:00 PM",
+      "file": "upcoming/raid_day_august_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/raid-day-august-2026/"
+    },
+    {
+      "id": "hatch_day_august_2026",
+      "title": "Hatch Day August 2026",
+      "category": "Event",
+      "date_text": "Sat, Aug 8, at 5:00 PM",
+      "file": "upcoming/hatch_day_august_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/hatch-day-august-2026/"
+    },
+    {
+      "id": "weekend_event",
+      "title": "Weekend Event",
+      "category": "Event",
+      "date_text": "Sat, Jul 18, at 8:00 PM",
+      "file": "upcoming/weekend_event.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/weekend-event-july-2026/"
+    },
+    {
+      "id": "july_community_day",
+      "title": "July Community Day",
+      "category": "Community Day",
+      "date_text": "Sat, Jul 4, at 5:00 PM",
+      "file": "upcoming/july_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/july-communityday2026/"
+    },
+    {
+      "id": "frigibax_community_day",
+      "title": "Frigibax Community Day",
+      "category": "Community Day",
+      "date_text": "Sat, Jun 20, at 5:00 PM",
+      "file": "upcoming/frigibax_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/june-communityday2026/"
+    },
+    {
+      "id": "mega_raid_day",
+      "title": "Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Jun 27, at 5:00 PM",
+      "file": "upcoming/mega_raid_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/raid-day-june-2026/"
+    },
+    {
+      "id": "pokemon_go_fest_2026_global",
+      "title": "Pokémon GO Fest 2026: Global",
+      "category": "Pokémon GO Fest",
+      "date_text": "Sun, Jul 12, at 7:00 PM",
+      "file": "upcoming/pokemon_go_fest_2026_global.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-global/"
+    }
+  ]
+}
