@@ -45,17 +45,6 @@
   },
   {
     "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
-    "title": "Pokemon Fossil Museum - Chicago",
-    "url": "https://leekduck.com/events/pokemon-fossil-museum-chicago-2026/",
-    "date_text": "Sun, Apr 11, at 5:00 PM",
-    "raw_text": "Event Event Pokemon Fossil Museum - Chicago Sun, Apr 11, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "pokemon_fossil_museum_chicago",
-    "file": "current/pokemon_fossil_museum_chicago.json"
-  },
-  {
-    "source": "LeekDuck",
     "status": "upcoming",
     "category": "Community Day",
     "title": "August Community Day",

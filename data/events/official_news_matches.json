@@ -58,46 +58,6 @@
   {
     "event": {
       "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
-      "title": "Pokemon Fossil Museum - Chicago",
-      "url": "https://leekduck.com/events/pokemon-fossil-museum-chicago-2026/",
-      "date_text": "Sun, Apr 11, at 5:00 PM",
-      "raw_text": "Event Event Pokemon Fossil Museum - Chicago Sun, Apr 11, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "pokemon_fossil_museum_chicago",
-      "file": "current/pokemon_fossil_museum_chicago.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "Pokemon GO Fest 2026: Chicago Community Ambassador Meet-ups",
-        "url": "https://pokemongo.com/news/go-fest-chicago-2026-community"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Know before you GO to Pokemon GO Fest 2026: Tokyo, Chicago, and Copenhagen",
-        "url": "https://pokemongo.com/news/know-before-you-go-gofest-2026-in-person-events"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Pokemon GO Fest 2026 and 100 Thieves team up for an exclusive capsule collection in Chicago!",
-        "url": "https://pokemongo.com/news/100-thieves-mega-mewtwo-go-fest-2026"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "The Pokemon GO engagement experience returns: Plan an epic proposal at Pokemon GO Fest Chicago and Copenhagen!",
-        "url": "https://pokemongo.com/news/gofest-2026-chicago-copenhagen-proposals"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Pokemon GO Fest 2026: Chicago | Community Engagement Meeting",
-        "url": "https://pokemongo.com/news/gofest-chicago-community-engagement-meeting"
-      }
-    ]
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
       "status": "upcoming",
       "category": "Community Day",
       "title": "August Community Day",
@@ -128,6 +88,11 @@
       "file": "upcoming/raid_day_august_2026.json"
     },
     "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Chicago Park Experience",
+        "url": "https://pokemongo.com/news/gofest-chicago-super-mega-raid"
+      },
       {
         "source": "Official Pokémon GO",
         "title": "Update on the “Super Mega Raid” at the Pokemon GO Fest 2026: Tokyo Park Experience",
@@ -212,6 +177,11 @@
     "official_matches": [
       {
         "source": "Official Pokémon GO",
+        "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Chicago Park Experience",
+        "url": "https://pokemongo.com/news/gofest-chicago-super-mega-raid"
+      },
+      {
+        "source": "Official Pokémon GO",
         "title": "Update on the “Super Mega Raid” at the Pokemon GO Fest 2026: Tokyo Park Experience",
         "url": "https://pokemongo.com/news/gofest-tokyo-super-mega-raid"
       },
@@ -237,6 +207,11 @@
     "official_matches": [
       {
         "source": "Official Pokémon GO",
+        "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Chicago Park Experience",
+        "url": "https://pokemongo.com/news/gofest-chicago-super-mega-raid"
+      },
+      {
+        "source": "Official Pokémon GO",
         "title": "Pokemon GO Fest 2026: Chicago Community Ambassador Meet-ups",
         "url": "https://pokemongo.com/news/go-fest-chicago-2026-community"
       },
@@ -254,11 +229,6 @@
         "source": "Official Pokémon GO",
         "title": "Update on the “Super Mega Raid” at the Pokemon GO Fest 2026: Tokyo Park Experience",
         "url": "https://pokemongo.com/news/gofest-tokyo-super-mega-raid"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Find your community at Community Celebrations during Pokemon GO Fest 2026: Global!",
-        "url": "https://pokemongo.com/news/community-celebrations-go-fest-2026"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02 17:45:03",
+  "generated_at": "2026-06-03 18:11:25",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -40,15 +40,6 @@
       "file": "current/spark_s_caretaking_quest.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/sparks-caretaking-quest/"
-    },
-    {
-      "id": "pokemon_fossil_museum_chicago",
-      "title": "Pokemon Fossil Museum - Chicago",
-      "category": "Event",
-      "date_text": "Sun, Apr 11, at 5:00 PM",
-      "file": "current/pokemon_fossil_museum_chicago.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/pokemon-fossil-museum-chicago-2026/"
     }
   ],
   "upcoming": [

@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 13
-Current events: 5
+Events kept after cleanup: 12
+Current events: 4
 Upcoming events: 8
 Official news items found: 18
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 180
+Matched entries: 164
 Unmatched candidates: 0
 No-match debug rows: 0
 
@@ -31,11 +31,6 @@ Events written:
   Entries: 23
   File: current/spark_s_caretaking_quest.json
   URL: https://leekduck.com/events/sparks-caretaking-quest/
-- [current] Event: Pokemon Fossil Museum - Chicago
-  Date: Sun, Apr 11, at 5:00 PM
-  Entries: 16
-  File: current/pokemon_fossil_museum_chicago.json
-  URL: https://leekduck.com/events/pokemon-fossil-museum-chicago-2026/
 - [upcoming] Community Day: August Community Day
   Date: Sat, Aug 15, at 5:00 PM
   Entries: 0
