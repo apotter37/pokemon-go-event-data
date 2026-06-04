@@ -167,14 +167,19 @@
       "source": "LeekDuck",
       "status": "upcoming",
       "category": "Raid Day",
-      "title": "Mega Raid Day",
-      "url": "https://leekduck.com/events/raid-day-june-2026/",
+      "title": "Skarmory Super Mega Raid Day",
+      "url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
       "date_text": "Sat, Jun 27, at 5:00 PM",
-      "raw_text": "Raid Day Raid Day Mega Raid Day Sat, Jun 27, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "mega_raid_day",
-      "file": "upcoming/mega_raid_day.json"
+      "raw_text": "Raid Day Raid Day Skarmory Super Mega Raid Day Sat, Jun 27, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "skarmory_super_mega_raid_day",
+      "file": "upcoming/skarmory_super_mega_raid_day.json"
     },
     "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Stay sharp for Skarmory Super Mega Raid Day!",
+        "url": "https://pokemongo.com/news/skarmory-super-mega-raid-day-2026"
+      },
       {
         "source": "Official Pokémon GO",
         "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Chicago Park Experience",
