@@ -212,6 +212,11 @@
     "official_matches": [
       {
         "source": "Official Pokémon GO",
+        "title": "Gameplay Update: Chicago Pokemon GO Fest",
+        "url": "https://pokemongo.com/news/gofest-chicago-saturday-update"
+      },
+      {
+        "source": "Official Pokémon GO",
         "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Chicago Park Experience",
         "url": "https://pokemongo.com/news/gofest-chicago-super-mega-raid"
       },
@@ -229,11 +234,6 @@
         "source": "Official Pokémon GO",
         "title": "Pokemon GO Fest 2026 and 100 Thieves team up for an exclusive capsule collection in Chicago!",
         "url": "https://pokemongo.com/news/100-thieves-mega-mewtwo-go-fest-2026"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Update on the “Super Mega Raid” at the Pokemon GO Fest 2026: Tokyo Park Experience",
-        "url": "https://pokemongo.com/news/gofest-tokyo-super-mega-raid"
       }
     ]
   }
