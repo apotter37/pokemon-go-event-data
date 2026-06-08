@@ -6,7 +6,7 @@
   "date_text": "Sat, Jun 20, at 5:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/june-communityday2026/",
-  "generated_at": "2026-06-07 16:55:15",
+  "generated_at": "2026-06-08 13:49:37",
   "entries": [
     {
       "dex": 996,
@@ -127,6 +127,21 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Take a few snapshots during Community Day for a surprise! During the event you can snap an AR Photo and get photobombed by Frigibax."
+    },
+    {
+      "dex": 996,
+      "name": "Frigibax",
+      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Frigibax_shiny.png",
+      "label": "Raids — Saturday — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Frigibax"
     },
     {
       "dex": 996,
