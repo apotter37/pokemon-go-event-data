@@ -6,7 +6,7 @@
   "date_text": "Mon, Jun 15, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/candelas-quest-for-victory/",
-  "generated_at": "2026-06-08 13:58:06",
+  "generated_at": "2026-06-08 14:36:25",
   "entries": [
     {
       "dex": 58,
@@ -20,7 +20,7 @@
       "shiny": false,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "Hisuian",
+      "form_hint": "",
       "source_text": "Hisuian Growlithe"
     },
     {
@@ -35,7 +35,7 @@
       "shiny": true,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "Hisuian",
+      "form_hint": "",
       "source_text": "Hisuian Growlithe"
     },
     {
@@ -335,7 +335,7 @@
       "shiny": false,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "Hisuian",
+      "form_hint": "",
       "source_text": "Hisuian Growlithe"
     },
     {
@@ -350,7 +350,7 @@
       "shiny": true,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "Hisuian",
+      "form_hint": "",
       "source_text": "Hisuian Growlithe"
     },
     {
