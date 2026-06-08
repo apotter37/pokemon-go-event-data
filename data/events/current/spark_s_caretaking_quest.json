@@ -6,7 +6,7 @@
   "date_text": "Mon, Jun 8, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/sparks-caretaking-quest/",
-  "generated_at": "2026-06-08 14:36:29",
+  "generated_at": "2026-06-08 14:44:59",
   "entries": [
     {
       "dex": 135,
@@ -86,7 +86,7 @@
     {
       "dex": 211,
       "name": "Qwilfish",
-      "uri": "file:///android_asset/Pokemon/Normal/Qwilfish.png",
+      "uri": "file:///android_asset/Pokemon/Hisuian/Qwilfish_hisuian.png",
       "label": "Eggs — Hisuian — Normal",
       "availability": "Egg",
       "section": "Eggs",
@@ -95,13 +95,13 @@
       "shiny": false,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Hisuian",
       "source_text": "Hisuian Qwilfish"
     },
     {
       "dex": 211,
       "name": "Qwilfish",
-      "uri": "file:///android_asset/Pokemon/Shiny/Qwilfish_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Hisuian/Shiny/Qwilfish_hisuian_shiny.png",
       "label": "Eggs — Hisuian — Shiny",
       "availability": "Egg",
       "section": "Eggs",
@@ -110,13 +110,13 @@
       "shiny": true,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Hisuian",
       "source_text": "Hisuian Qwilfish"
     },
     {
       "dex": 222,
       "name": "Corsola",
-      "uri": "file:///android_asset/Pokemon/Normal/Corsola.png",
+      "uri": "file:///android_asset/Pokemon/Galarian/Corsola_galarian.png",
       "label": "Eggs — Galarian — Normal",
       "availability": "Egg",
       "section": "Eggs",
@@ -125,13 +125,13 @@
       "shiny": false,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Galarian",
       "source_text": "Galarian Corsola"
     },
     {
       "dex": 222,
       "name": "Corsola",
-      "uri": "file:///android_asset/Pokemon/Shiny/Corsola_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Galarian/Shiny/Corsola_galarian_shiny.png",
       "label": "Eggs — Galarian — Shiny",
       "availability": "Egg",
       "section": "Eggs",
@@ -140,13 +140,13 @@
       "shiny": true,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Galarian",
       "source_text": "Galarian Corsola"
     },
     {
       "dex": 222,
       "name": "Corsola",
-      "uri": "file:///android_asset/Pokemon/Normal/Corsola.png",
+      "uri": "file:///android_asset/Pokemon/Galarian/Corsola_galarian.png",
       "label": "Eggs — Saturday — Galarian — Normal",
       "availability": "Egg",
       "section": "Eggs",
@@ -155,7 +155,7 @@
       "shiny": false,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Galarian",
       "source_text": "Encounters with Jolteon, Galarian Corsola, Elekid wearing a Spark-themed accessory with a background inspired by Team Instinct, and more!"
     },
     {
@@ -356,7 +356,7 @@
     {
       "dex": 26,
       "name": "Raichu",
-      "uri": "file:///android_asset/Pokemon/Normal/Raichu.png",
+      "uri": "file:///android_asset/Pokemon/Alolan/Raichu_alolan.png",
       "label": "Wild Encounters — Alolan — Normal",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -365,13 +365,13 @@
       "shiny": false,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Alolan",
       "source_text": "Alolan Raichu"
     },
     {
       "dex": 26,
       "name": "Raichu",
-      "uri": "file:///android_asset/Pokemon/Shiny/Raichu_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Alolan/Shiny/Raichu_alolan_shiny.png",
       "label": "Wild Encounters — Alolan — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -380,7 +380,7 @@
       "shiny": true,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Alolan",
       "source_text": "Alolan Raichu"
     },
     {

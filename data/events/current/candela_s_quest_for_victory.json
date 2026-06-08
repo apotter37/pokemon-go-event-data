@@ -6,12 +6,12 @@
   "date_text": "Mon, Jun 15, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/candelas-quest-for-victory/",
-  "generated_at": "2026-06-08 14:36:25",
+  "generated_at": "2026-06-08 14:44:56",
   "entries": [
     {
       "dex": 58,
       "name": "Growlithe",
-      "uri": "file:///android_asset/Pokemon/Normal/Growlithe.png",
+      "uri": "file:///android_asset/Pokemon/Hisuian/Growlithe_hisuian.png",
       "label": "Raids — Hisuian — Normal",
       "availability": "Raid",
       "section": "Raids",
@@ -20,13 +20,13 @@
       "shiny": false,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Hisuian",
       "source_text": "Hisuian Growlithe"
     },
     {
       "dex": 58,
       "name": "Growlithe",
-      "uri": "file:///android_asset/Pokemon/Shiny/Growlithe_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Hisuian/Shiny/Growlithe_hisuian_shiny.png",
       "label": "Raids — Hisuian — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -35,7 +35,7 @@
       "shiny": true,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Hisuian",
       "source_text": "Hisuian Growlithe"
     },
     {
@@ -326,7 +326,7 @@
     {
       "dex": 58,
       "name": "Growlithe",
-      "uri": "file:///android_asset/Pokemon/Normal/Growlithe.png",
+      "uri": "file:///android_asset/Pokemon/Hisuian/Growlithe_hisuian.png",
       "label": "Wild Encounters — Hisuian — Normal",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -335,13 +335,13 @@
       "shiny": false,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Hisuian",
       "source_text": "Hisuian Growlithe"
     },
     {
       "dex": 58,
       "name": "Growlithe",
-      "uri": "file:///android_asset/Pokemon/Shiny/Growlithe_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Hisuian/Shiny/Growlithe_hisuian_shiny.png",
       "label": "Wild Encounters — Hisuian — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -350,7 +350,7 @@
       "shiny": true,
       "costume": false,
       "costume_hint": "",
-      "form_hint": "",
+      "form_hint": "Hisuian",
       "source_text": "Hisuian Growlithe"
     },
     {

@@ -5,9 +5,9 @@ candela_s_quest_for_victory,Candela's Quest for Victory,Charmander,False,Normal/
 candela_s_quest_for_victory,Candela's Quest for Victory,Mankey,False,Normal/Mankey.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Mankey
 candela_s_quest_for_victory,Candela's Quest for Victory,Mankey,True,Shiny/Mankey_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Mankey
 candela_s_quest_for_victory,Candela's Quest for Victory,Mankey,False,Normal/Mankey.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Mankey
-candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,False,Normal/Growlithe.png,Wild Encounters — Hisuian — Normal,Wild,Wild Encounters,,,Hisuian Growlithe
-candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,True,Shiny/Growlithe_shiny.png,Wild Encounters — Hisuian — Shiny,Wild,Wild Encounters,,,Hisuian Growlithe
-candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,False,Normal/Growlithe.png,Wild Encounters — Hisuian — Normal,Wild,Wild Encounters,,,Hisuian Growlithe
+candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,False,Hisuian/Growlithe_hisuian.png,Wild Encounters — Hisuian — Normal,Wild,Wild Encounters,,,Hisuian Growlithe
+candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,True,Hisuian/Shiny/Growlithe_hisuian_shiny.png,Wild Encounters — Hisuian — Shiny,Wild,Wild Encounters,,,Hisuian Growlithe
+candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,False,Hisuian/Growlithe_hisuian.png,Wild Encounters — Hisuian — Normal,Wild,Wild Encounters,,,Hisuian Growlithe
 candela_s_quest_for_victory,Candela's Quest for Victory,Machop,False,Normal/Machop.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Machop
 candela_s_quest_for_victory,Candela's Quest for Victory,Machop,True,Shiny/Machop_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Machop
 candela_s_quest_for_victory,Candela's Quest for Victory,Machop,False,Normal/Machop.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Machop
@@ -26,8 +26,8 @@ candela_s_quest_for_victory,Candela's Quest for Victory,Slugma,False,Normal/Slug
 candela_s_quest_for_victory,Candela's Quest for Victory,Fletchling,False,Normal/Fletchling.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Fletchling
 candela_s_quest_for_victory,Candela's Quest for Victory,Fletchling,True,Shiny/Fletchling_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Fletchling
 candela_s_quest_for_victory,Candela's Quest for Victory,Fletchling,False,Normal/Fletchling.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Fletchling
-candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,False,Normal/Growlithe.png,Raids — Hisuian — Normal,Raid,Raids,,,Hisuian Growlithe
-candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,True,Shiny/Growlithe_shiny.png,Raids — Hisuian — Shiny,Raid,Raids,,,Hisuian Growlithe
+candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,False,Hisuian/Growlithe_hisuian.png,Raids — Hisuian — Normal,Raid,Raids,,,Hisuian Growlithe
+candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,True,Hisuian/Shiny/Growlithe_hisuian_shiny.png,Raids — Hisuian — Shiny,Raid,Raids,,,Hisuian Growlithe
 candela_s_quest_for_victory,Candela's Quest for Victory,Scraggy,False,Normal/Scraggy.png,Raids — Normal,Raid,Raids,,,Scraggy
 candela_s_quest_for_victory,Candela's Quest for Victory,Scraggy,True,Shiny/Scraggy_shiny.png,Raids — Shiny,Raid,Raids,,,Scraggy
 candela_s_quest_for_victory,Candela's Quest for Victory,Scraggy,False,Normal/Scraggy.png,Raids — Normal,Raid,Raids,,,Scraggy
@@ -52,9 +52,9 @@ candela_s_quest_for_victory,Candela's Quest for Victory,Ponyta,False,Normal/Pony
 spark_s_caretaking_quest,Spark's Caretaking Quest,Bulbasaur,False,Normal/Bulbasaur.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Bulbasaur
 spark_s_caretaking_quest,Spark's Caretaking Quest,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Bulbasaur
 spark_s_caretaking_quest,Spark's Caretaking Quest,Bulbasaur,False,Normal/Bulbasaur.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Bulbasaur
-spark_s_caretaking_quest,Spark's Caretaking Quest,Raichu,False,Normal/Raichu.png,Wild Encounters — Alolan — Normal,Wild,Wild Encounters,,,Alolan Raichu
-spark_s_caretaking_quest,Spark's Caretaking Quest,Raichu,True,Shiny/Raichu_shiny.png,Wild Encounters — Alolan — Shiny,Wild,Wild Encounters,,,Alolan Raichu
-spark_s_caretaking_quest,Spark's Caretaking Quest,Raichu,False,Normal/Raichu.png,Wild Encounters — Alolan — Normal,Wild,Wild Encounters,,,Alolan Raichu
+spark_s_caretaking_quest,Spark's Caretaking Quest,Raichu,False,Alolan/Raichu_alolan.png,Wild Encounters — Alolan — Normal,Wild,Wild Encounters,,,Alolan Raichu
+spark_s_caretaking_quest,Spark's Caretaking Quest,Raichu,True,Alolan/Shiny/Raichu_alolan_shiny.png,Wild Encounters — Alolan — Shiny,Wild,Wild Encounters,,,Alolan Raichu
+spark_s_caretaking_quest,Spark's Caretaking Quest,Raichu,False,Alolan/Raichu_alolan.png,Wild Encounters — Alolan — Normal,Wild,Wild Encounters,,,Alolan Raichu
 spark_s_caretaking_quest,Spark's Caretaking Quest,Drowzee,False,Normal/Drowzee.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Drowzee
 spark_s_caretaking_quest,Spark's Caretaking Quest,Drowzee,True,Shiny/Drowzee_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Drowzee
 spark_s_caretaking_quest,Spark's Caretaking Quest,Drowzee,False,Normal/Drowzee.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Drowzee
@@ -76,12 +76,12 @@ spark_s_caretaking_quest,Spark's Caretaking Quest,Combee,False,Normal/Combee.png
 spark_s_caretaking_quest,Spark's Caretaking Quest,Pichu,False,Normal/Pichu.png,Eggs — Normal,Egg,Eggs,,,Pichu
 spark_s_caretaking_quest,Spark's Caretaking Quest,Pichu,True,Shiny/Pichu_shiny.png,Eggs — Shiny,Egg,Eggs,,,Pichu
 spark_s_caretaking_quest,Spark's Caretaking Quest,Pichu,False,Normal/Pichu.png,Eggs — Normal,Egg,Eggs,,,Pichu
-spark_s_caretaking_quest,Spark's Caretaking Quest,Qwilfish,False,Normal/Qwilfish.png,Eggs — Hisuian — Normal,Egg,Eggs,,,Hisuian Qwilfish
-spark_s_caretaking_quest,Spark's Caretaking Quest,Qwilfish,True,Shiny/Qwilfish_shiny.png,Eggs — Hisuian — Shiny,Egg,Eggs,,,Hisuian Qwilfish
-spark_s_caretaking_quest,Spark's Caretaking Quest,Qwilfish,False,Normal/Qwilfish.png,Eggs — Hisuian — Normal,Egg,Eggs,,,Hisuian Qwilfish
-spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,False,Normal/Corsola.png,Eggs — Galarian — Normal,Egg,Eggs,,,Galarian Corsola
-spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,True,Shiny/Corsola_shiny.png,Eggs — Galarian — Shiny,Egg,Eggs,,,Galarian Corsola
-spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,False,Normal/Corsola.png,Eggs — Galarian — Normal,Egg,Eggs,,,Galarian Corsola
+spark_s_caretaking_quest,Spark's Caretaking Quest,Qwilfish,False,Hisuian/Qwilfish_hisuian.png,Eggs — Hisuian — Normal,Egg,Eggs,,,Hisuian Qwilfish
+spark_s_caretaking_quest,Spark's Caretaking Quest,Qwilfish,True,Hisuian/Shiny/Qwilfish_hisuian_shiny.png,Eggs — Hisuian — Shiny,Egg,Eggs,,,Hisuian Qwilfish
+spark_s_caretaking_quest,Spark's Caretaking Quest,Qwilfish,False,Hisuian/Qwilfish_hisuian.png,Eggs — Hisuian — Normal,Egg,Eggs,,,Hisuian Qwilfish
+spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,False,Galarian/Corsola_galarian.png,Eggs — Galarian — Normal,Egg,Eggs,,,Galarian Corsola
+spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,True,Galarian/Shiny/Corsola_galarian_shiny.png,Eggs — Galarian — Shiny,Egg,Eggs,,,Galarian Corsola
+spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,False,Galarian/Corsola_galarian.png,Eggs — Galarian — Normal,Egg,Eggs,,,Galarian Corsola
 spark_s_caretaking_quest,Spark's Caretaking Quest,Elekid,False,Normal/Elekid.png,Eggs — Normal,Egg,Eggs,,,Elekid
 spark_s_caretaking_quest,Spark's Caretaking Quest,Elekid,True,Shiny/Elekid_shiny.png,Eggs — Shiny,Egg,Eggs,,,Elekid
 spark_s_caretaking_quest,Spark's Caretaking Quest,Elekid,False,Normal/Elekid.png,Eggs — Normal,Egg,Eggs,,,Elekid
@@ -92,7 +92,7 @@ spark_s_caretaking_quest,Spark's Caretaking Quest,Varoom,False,Normal/Varoom.png
 spark_s_caretaking_quest,Spark's Caretaking Quest,Varoom,True,Shiny/Varoom_shiny.png,Eggs — Shiny,Egg,Eggs,,,Varoom
 spark_s_caretaking_quest,Spark's Caretaking Quest,Varoom,False,Normal/Varoom.png,Eggs — Normal,Egg,Eggs,,,Varoom
 spark_s_caretaking_quest,Spark's Caretaking Quest,Jolteon,False,Normal/Jolteon.png,Eggs — Saturday — Galarian — Normal,Egg,Eggs,Saturday,,"Encounters with Jolteon, Galarian Corsola, Elekid wearing a Spark-themed accessory with a background inspired by Team Instinct, and more!"
-spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,False,Normal/Corsola.png,Eggs — Saturday — Galarian — Normal,Egg,Eggs,Saturday,,"Encounters with Jolteon, Galarian Corsola, Elekid wearing a Spark-themed accessory with a background inspired by Team Instinct, and more!"
+spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,False,Galarian/Corsola_galarian.png,Eggs — Saturday — Galarian — Normal,Egg,Eggs,Saturday,,"Encounters with Jolteon, Galarian Corsola, Elekid wearing a Spark-themed accessory with a background inspired by Team Instinct, and more!"
 spark_s_caretaking_quest,Spark's Caretaking Quest,Elekid,False,Normal/Elekid.png,Eggs — Saturday — Galarian — Normal,Egg,Eggs,Saturday,,"Encounters with Jolteon, Galarian Corsola, Elekid wearing a Spark-themed accessory with a background inspired by Team Instinct, and more!"
 spark_s_caretaking_quest,Spark's Caretaking Quest,Elekid,False,Normal/Elekid.png,Eggs — Saturday — Normal,Egg,Eggs,Saturday,,Additional encounter with Elekid wearing a Spark-themed accessory with a background inspired by Team Instinct
 spark_s_caretaking_quest,Spark's Caretaking Quest,Houndour,False,Normal/Houndour.png,Eggs — Saturday — Normal,Egg,Eggs,Saturday,,Houndour Houndour
