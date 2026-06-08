@@ -6,7 +6,7 @@
   "date_text": "Mon, Jun 15, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/candelas-quest-for-victory/",
-  "generated_at": "2026-06-08 13:49:31",
+  "generated_at": "2026-06-08 13:58:06",
   "entries": [
     {
       "dex": 58,
@@ -26,7 +26,7 @@
     {
       "dex": 58,
       "name": "Growlithe",
-      "uri": "file:///android_asset/Pokemon/Hisuian/Shiny/Growlithe_hisuian_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Growlithe_shiny.png",
       "label": "Raids — Hisuian — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -56,7 +56,7 @@
     {
       "dex": 68,
       "name": "Machamp",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Machamp_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Machamp_shiny.png",
       "label": "Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -86,7 +86,7 @@
     {
       "dex": 212,
       "name": "Scizor",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Scizor_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Scizor_shiny.png",
       "label": "Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -116,7 +116,7 @@
     {
       "dex": 219,
       "name": "Magcargo",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Magcargo_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Magcargo_shiny.png",
       "label": "Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -146,7 +146,7 @@
     {
       "dex": 559,
       "name": "Scraggy",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Scraggy_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Scraggy_shiny.png",
       "label": "Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -176,7 +176,7 @@
     {
       "dex": 679,
       "name": "Honedge",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Honedge_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Honedge_shiny.png",
       "label": "Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -206,7 +206,7 @@
     {
       "dex": 744,
       "name": "Rockruff",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Rockruff_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Rockruff_shiny.png",
       "label": "Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -281,7 +281,7 @@
     {
       "dex": 4,
       "name": "Charmander",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Charmander_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Charmander_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -311,7 +311,7 @@
     {
       "dex": 56,
       "name": "Mankey",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Mankey_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Mankey_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -341,7 +341,7 @@
     {
       "dex": 58,
       "name": "Growlithe",
-      "uri": "file:///android_asset/Pokemon/Hisuian/Shiny/Growlithe_hisuian_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Growlithe_shiny.png",
       "label": "Wild Encounters — Hisuian — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -371,7 +371,7 @@
     {
       "dex": 66,
       "name": "Machop",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Machop_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Machop_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -401,7 +401,7 @@
     {
       "dex": 77,
       "name": "Ponyta",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Ponyta_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Ponyta_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -431,7 +431,7 @@
     {
       "dex": 123,
       "name": "Scyther",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Scyther_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Scyther_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -461,7 +461,7 @@
     {
       "dex": 136,
       "name": "Flareon",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Flareon_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Flareon_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -491,7 +491,7 @@
     {
       "dex": 218,
       "name": "Slugma",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Slugma_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Slugma_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -521,7 +521,7 @@
     {
       "dex": 661,
       "name": "Fletchling",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Fletchling_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Fletchling_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",

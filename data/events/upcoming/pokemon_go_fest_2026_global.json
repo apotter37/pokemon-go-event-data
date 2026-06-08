@@ -6,7 +6,7 @@
   "date_text": "Sun, Jul 12, at 7:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
-  "generated_at": "2026-06-08 13:49:50",
+  "generated_at": "2026-06-08 13:58:25",
   "entries": [
     {
       "dex": 150,
@@ -41,7 +41,7 @@
     {
       "dex": 357,
       "name": "Tropius",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Tropius_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Tropius_shiny.png",
       "label": "Incense — Sunday — Shiny",
       "availability": "Incense",
       "section": "Incense",
@@ -266,7 +266,7 @@
     {
       "dex": 144,
       "name": "Articuno",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Articuno_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Articuno_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -296,7 +296,7 @@
     {
       "dex": 145,
       "name": "Zapdos",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Zapdos_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Zapdos_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -326,7 +326,7 @@
     {
       "dex": 146,
       "name": "Moltres",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Moltres_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Moltres_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -356,7 +356,7 @@
     {
       "dex": 150,
       "name": "Mewtwo",
-      "uri": "file:///android_asset/Pokemon/Mega/Shiny/Mewtwo_x_mega_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Mewtwo_shiny.png",
       "label": "Raids — Day 1 — Mega Super — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -386,7 +386,7 @@
     {
       "dex": 150,
       "name": "Mewtwo",
-      "uri": "file:///android_asset/Pokemon/Mega/Shiny/Mewtwo_x_mega_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Mewtwo_shiny.png",
       "label": "Raids — Saturday — Mega — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -431,7 +431,7 @@
     {
       "dex": 150,
       "name": "Mewtwo",
-      "uri": "file:///android_asset/Pokemon/Mega/Shiny/Mewtwo_x_mega_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Mewtwo_shiny.png",
       "label": "Raids — Sunday — Mega — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -491,7 +491,7 @@
     {
       "dex": 243,
       "name": "Raikou",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Raikou_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Raikou_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -521,7 +521,7 @@
     {
       "dex": 244,
       "name": "Entei",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Entei_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Entei_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -551,7 +551,7 @@
     {
       "dex": 245,
       "name": "Suicune",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Suicune_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Suicune_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -611,7 +611,7 @@
     {
       "dex": 249,
       "name": "Lugia",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Lugia_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Lugia_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -641,7 +641,7 @@
     {
       "dex": 250,
       "name": "Ho-Oh",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Ho-Oh_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Ho-Oh_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -851,7 +851,7 @@
     {
       "dex": 377,
       "name": "Regirock",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Regirock_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Regirock_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -881,7 +881,7 @@
     {
       "dex": 378,
       "name": "Regice",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Regice_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Regice_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -911,7 +911,7 @@
     {
       "dex": 379,
       "name": "Registeel",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Registeel_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Registeel_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -941,7 +941,7 @@
     {
       "dex": 380,
       "name": "Latias",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Latias_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Latias_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -971,7 +971,7 @@
     {
       "dex": 381,
       "name": "Latios",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Latios_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Latios_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1001,7 +1001,7 @@
     {
       "dex": 382,
       "name": "Kyogre",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Kyogre_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Kyogre_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1031,7 +1031,7 @@
     {
       "dex": 383,
       "name": "Groudon",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Groudon_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Groudon_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1061,7 +1061,7 @@
     {
       "dex": 384,
       "name": "Rayquaza",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Rayquaza_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Rayquaza_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1091,7 +1091,7 @@
     {
       "dex": 386,
       "name": "Deoxys",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Deoxys_attack_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Deoxys_attack_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1211,7 +1211,7 @@
     {
       "dex": 480,
       "name": "Uxie",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Uxie_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Uxie_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1241,7 +1241,7 @@
     {
       "dex": 481,
       "name": "Mesprit",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Mesprit_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Mesprit_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1271,7 +1271,7 @@
     {
       "dex": 482,
       "name": "Azelf",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Azelf_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Azelf_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1331,7 +1331,7 @@
     {
       "dex": 484,
       "name": "Palkia",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Palkia_origin_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Palkia_origin_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1361,7 +1361,7 @@
     {
       "dex": 484,
       "name": "Palkia",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Palkia_origin_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Palkia_origin_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Origin — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1391,7 +1391,7 @@
     {
       "dex": 485,
       "name": "Heatran",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Heatran_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Heatran_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1421,7 +1421,7 @@
     {
       "dex": 486,
       "name": "Regigigas",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Regigigas_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Regigigas_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1466,7 +1466,7 @@
     {
       "dex": 487,
       "name": "Giratina",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Giratina_origin_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Giratina_origin_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Origin — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1481,7 +1481,7 @@
     {
       "dex": 487,
       "name": "Giratina",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Giratina_origin_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Giratina_origin_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1511,7 +1511,7 @@
     {
       "dex": 488,
       "name": "Cresselia",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Cresselia_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Cresselia_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1541,7 +1541,7 @@
     {
       "dex": 491,
       "name": "Darkrai",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Darkrai_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Darkrai_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1601,7 +1601,7 @@
     {
       "dex": 638,
       "name": "Cobalion",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Cobalion_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Cobalion_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1631,7 +1631,7 @@
     {
       "dex": 639,
       "name": "Terrakion",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Terrakion_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Terrakion_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1661,7 +1661,7 @@
     {
       "dex": 640,
       "name": "Virizion",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Virizion_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Virizion_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1691,7 +1691,7 @@
     {
       "dex": 641,
       "name": "Tornadus",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Tornadus_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Tornadus_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1721,7 +1721,7 @@
     {
       "dex": 641,
       "name": "Tornadus",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Tornadus_therian_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Tornadus_therian_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Therian — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1751,7 +1751,7 @@
     {
       "dex": 642,
       "name": "Thundurus",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Thundurus_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Thundurus_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1781,7 +1781,7 @@
     {
       "dex": 642,
       "name": "Thundurus",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Thundurus_therian_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Thundurus_therian_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Therian — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1811,7 +1811,7 @@
     {
       "dex": 643,
       "name": "Reshiram",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Reshiram_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Reshiram_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1841,7 +1841,7 @@
     {
       "dex": 644,
       "name": "Zekrom",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Zekrom_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Zekrom_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1871,7 +1871,7 @@
     {
       "dex": 645,
       "name": "Landorus",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Landorus_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Landorus_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1901,7 +1901,7 @@
     {
       "dex": 645,
       "name": "Landorus",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Landorus_therian_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Landorus_therian_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Therian — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1931,7 +1931,7 @@
     {
       "dex": 646,
       "name": "Kyurem",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Kyurem_black_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Kyurem_black_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1961,7 +1961,7 @@
     {
       "dex": 649,
       "name": "Genesect",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Genesect_burn_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Genesect_burn_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -1991,7 +1991,7 @@
     {
       "dex": 716,
       "name": "Xerneas",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Xerneas_active_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Xerneas_active_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2021,7 +2021,7 @@
     {
       "dex": 717,
       "name": "Yveltal",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Yveltal_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Yveltal_shiny.png",
       "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2051,7 +2051,7 @@
     {
       "dex": 785,
       "name": "Tapu Koko",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Tapu_Koko_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Tapu_Koko_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2081,7 +2081,7 @@
     {
       "dex": 786,
       "name": "Tapu Lele",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Tapu_Lele_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Tapu_Lele_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2111,7 +2111,7 @@
     {
       "dex": 787,
       "name": "Tapu Bulu",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Tapu_Bulu_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Tapu_Bulu_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2141,7 +2141,7 @@
     {
       "dex": 788,
       "name": "Tapu Fini",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Tapu_Fini_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Tapu_Fini_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2201,7 +2201,7 @@
     {
       "dex": 793,
       "name": "Nihilego",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Nihilego_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Nihilego_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2231,7 +2231,7 @@
     {
       "dex": 794,
       "name": "Buzzwole",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Buzzwole_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Buzzwole_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2261,7 +2261,7 @@
     {
       "dex": 795,
       "name": "Pheromosa",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Pheromosa_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Pheromosa_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2291,7 +2291,7 @@
     {
       "dex": 796,
       "name": "Xurkitree",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Xurkitree_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Xurkitree_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2321,7 +2321,7 @@
     {
       "dex": 797,
       "name": "Celesteela",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Celesteela_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Celesteela_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2351,7 +2351,7 @@
     {
       "dex": 798,
       "name": "Kartana",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Kartana_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Kartana_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2381,7 +2381,7 @@
     {
       "dex": 799,
       "name": "Guzzlord",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Guzzlord_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Guzzlord_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2411,7 +2411,7 @@
     {
       "dex": 800,
       "name": "Necrozma",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Necrozma_dawn_wings_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Necrozma_dawn_wings_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2441,7 +2441,7 @@
     {
       "dex": 805,
       "name": "Stakataka",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Stakataka_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Stakataka_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2471,7 +2471,7 @@
     {
       "dex": 806,
       "name": "Blacephalon",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Blacephalon_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Blacephalon_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2501,7 +2501,7 @@
     {
       "dex": 888,
       "name": "Zacian",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Zacian_crowned_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Zacian_crowned_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2531,7 +2531,7 @@
     {
       "dex": 889,
       "name": "Zamazenta",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Zamazenta_crowned_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Zamazenta_crowned_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2561,7 +2561,7 @@
     {
       "dex": 894,
       "name": "Regieleki",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Regieleki_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Regieleki_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2591,7 +2591,7 @@
     {
       "dex": 895,
       "name": "Regidrago",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Regidrago_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Regidrago_shiny.png",
       "label": "Raids — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -2711,7 +2711,7 @@
     {
       "dex": 1,
       "name": "Bulbasaur",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Bulbasaur_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Bulbasaur_shiny.png",
       "label": "Timed Research — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Research",
       "section": "Timed Research",
@@ -2741,7 +2741,7 @@
     {
       "dex": 4,
       "name": "Charmander",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Charmander_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Charmander_shiny.png",
       "label": "Timed Research — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Research",
       "section": "Timed Research",
@@ -2771,7 +2771,7 @@
     {
       "dex": 7,
       "name": "Squirtle",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Squirtle_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Squirtle_shiny.png",
       "label": "Timed Research — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Research",
       "section": "Timed Research",
@@ -2891,7 +2891,7 @@
     {
       "dex": 357,
       "name": "Tropius",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Tropius_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Tropius_shiny.png",
       "label": "Timed Research — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Research",
       "section": "Timed Research",
@@ -2921,7 +2921,7 @@
     {
       "dex": 626,
       "name": "Bouffalant",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Bouffalant_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Bouffalant_shiny.png",
       "label": "Timed Research — Sunday — Sunday Habitat Raids — Shiny",
       "availability": "Research",
       "section": "Timed Research",
@@ -2951,7 +2951,7 @@
     {
       "dex": 1,
       "name": "Bulbasaur",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Bulbasaur_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Bulbasaur_shiny.png",
       "label": "Wild Encounters — Sunday — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -2981,7 +2981,7 @@
     {
       "dex": 4,
       "name": "Charmander",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Charmander_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Charmander_shiny.png",
       "label": "Wild Encounters — Sunday — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -3011,7 +3011,7 @@
     {
       "dex": 7,
       "name": "Squirtle",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Squirtle_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Squirtle_shiny.png",
       "label": "Wild Encounters — Sunday — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -3071,7 +3071,7 @@
     {
       "dex": 25,
       "name": "Pikachu",
-      "uri": "file:///android_asset/Pokemon/Costume/Shiny/Pikachu_instinct_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Pikachu_shiny.png",
       "label": "Wild Encounters — Sunday — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -3082,36 +3082,6 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Pikachu wearing a Team Instinct hat"
-    },
-    {
-      "dex": 25,
-      "name": "Pikachu",
-      "uri": "file:///android_asset/Pokemon/Costume/Shiny/Pikachu_mystic_shiny.png",
-      "label": "Wild Encounters — Sunday — Shiny",
-      "availability": "Wild",
-      "section": "Wild Encounters",
-      "day": "Sunday",
-      "habitat": "",
-      "shiny": true,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "",
-      "source_text": "Pikachu wearing a Team Mystic hat"
-    },
-    {
-      "dex": 25,
-      "name": "Pikachu",
-      "uri": "file:///android_asset/Pokemon/Costume/Shiny/Pikachu_party_hat_shiny.png",
-      "label": "Wild Encounters — Sunday — Shiny",
-      "availability": "Wild",
-      "section": "Wild Encounters",
-      "day": "Sunday",
-      "habitat": "",
-      "shiny": true,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "",
-      "source_text": "Pikachu wearing a Team Valor hat"
     }
   ]
 }

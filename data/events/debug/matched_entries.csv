@@ -1,95 +1,95 @@
 ﻿event_id,event_title,pokemon,shiny,asset,label,availability,section,day,habitat,source_text
 candela_s_quest_for_victory,Candela's Quest for Victory,Charmander,False,Normal/Charmander.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Charmander
-candela_s_quest_for_victory,Candela's Quest for Victory,Charmander,True,Dynamax/Shiny/Charmander_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Charmander
+candela_s_quest_for_victory,Candela's Quest for Victory,Charmander,True,Shiny/Charmander_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Charmander
 candela_s_quest_for_victory,Candela's Quest for Victory,Charmander,False,Normal/Charmander.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Charmander
 candela_s_quest_for_victory,Candela's Quest for Victory,Mankey,False,Normal/Mankey.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Mankey
-candela_s_quest_for_victory,Candela's Quest for Victory,Mankey,True,Dynamax/Shiny/Mankey_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Mankey
+candela_s_quest_for_victory,Candela's Quest for Victory,Mankey,True,Shiny/Mankey_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Mankey
 candela_s_quest_for_victory,Candela's Quest for Victory,Mankey,False,Normal/Mankey.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Mankey
 candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,False,Normal/Growlithe.png,Wild Encounters — Hisuian — Normal,Wild,Wild Encounters,,,Hisuian Growlithe
-candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,True,Hisuian/Shiny/Growlithe_hisuian_shiny.png,Wild Encounters — Hisuian — Shiny,Wild,Wild Encounters,,,Hisuian Growlithe
+candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,True,Shiny/Growlithe_shiny.png,Wild Encounters — Hisuian — Shiny,Wild,Wild Encounters,,,Hisuian Growlithe
 candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,False,Normal/Growlithe.png,Wild Encounters — Hisuian — Normal,Wild,Wild Encounters,,,Hisuian Growlithe
 candela_s_quest_for_victory,Candela's Quest for Victory,Machop,False,Normal/Machop.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Machop
-candela_s_quest_for_victory,Candela's Quest for Victory,Machop,True,Dynamax/Shiny/Machop_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Machop
+candela_s_quest_for_victory,Candela's Quest for Victory,Machop,True,Shiny/Machop_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Machop
 candela_s_quest_for_victory,Candela's Quest for Victory,Machop,False,Normal/Machop.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Machop
 candela_s_quest_for_victory,Candela's Quest for Victory,Ponyta,False,Normal/Ponyta.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Ponyta
-candela_s_quest_for_victory,Candela's Quest for Victory,Ponyta,True,Dynamax/Shiny/Ponyta_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Ponyta
+candela_s_quest_for_victory,Candela's Quest for Victory,Ponyta,True,Shiny/Ponyta_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Ponyta
 candela_s_quest_for_victory,Candela's Quest for Victory,Ponyta,False,Normal/Ponyta.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Ponyta
 candela_s_quest_for_victory,Candela's Quest for Victory,Scyther,False,Normal/Scyther.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Scyther
-candela_s_quest_for_victory,Candela's Quest for Victory,Scyther,True,Dynamax/Shiny/Scyther_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Scyther
+candela_s_quest_for_victory,Candela's Quest for Victory,Scyther,True,Shiny/Scyther_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Scyther
 candela_s_quest_for_victory,Candela's Quest for Victory,Scyther,False,Normal/Scyther.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Scyther
 candela_s_quest_for_victory,Candela's Quest for Victory,Flareon,False,Normal/Flareon.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Flareon
-candela_s_quest_for_victory,Candela's Quest for Victory,Flareon,True,Dynamax/Shiny/Flareon_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Flareon
+candela_s_quest_for_victory,Candela's Quest for Victory,Flareon,True,Shiny/Flareon_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Flareon
 candela_s_quest_for_victory,Candela's Quest for Victory,Flareon,False,Normal/Flareon.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Flareon
 candela_s_quest_for_victory,Candela's Quest for Victory,Slugma,False,Normal/Slugma.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Slugma
-candela_s_quest_for_victory,Candela's Quest for Victory,Slugma,True,Dynamax/Shiny/Slugma_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Slugma
+candela_s_quest_for_victory,Candela's Quest for Victory,Slugma,True,Shiny/Slugma_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Slugma
 candela_s_quest_for_victory,Candela's Quest for Victory,Slugma,False,Normal/Slugma.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Slugma
 candela_s_quest_for_victory,Candela's Quest for Victory,Fletchling,False,Normal/Fletchling.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Fletchling
-candela_s_quest_for_victory,Candela's Quest for Victory,Fletchling,True,Dynamax/Shiny/Fletchling_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Fletchling
+candela_s_quest_for_victory,Candela's Quest for Victory,Fletchling,True,Shiny/Fletchling_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Fletchling
 candela_s_quest_for_victory,Candela's Quest for Victory,Fletchling,False,Normal/Fletchling.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Fletchling
 candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,False,Normal/Growlithe.png,Raids — Hisuian — Normal,Raid,Raids,,,Hisuian Growlithe
-candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,True,Hisuian/Shiny/Growlithe_hisuian_shiny.png,Raids — Hisuian — Shiny,Raid,Raids,,,Hisuian Growlithe
+candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,True,Shiny/Growlithe_shiny.png,Raids — Hisuian — Shiny,Raid,Raids,,,Hisuian Growlithe
 candela_s_quest_for_victory,Candela's Quest for Victory,Scraggy,False,Normal/Scraggy.png,Raids — Normal,Raid,Raids,,,Scraggy
-candela_s_quest_for_victory,Candela's Quest for Victory,Scraggy,True,Dynamax/Shiny/Scraggy_shiny.png,Raids — Shiny,Raid,Raids,,,Scraggy
+candela_s_quest_for_victory,Candela's Quest for Victory,Scraggy,True,Shiny/Scraggy_shiny.png,Raids — Shiny,Raid,Raids,,,Scraggy
 candela_s_quest_for_victory,Candela's Quest for Victory,Scraggy,False,Normal/Scraggy.png,Raids — Normal,Raid,Raids,,,Scraggy
 candela_s_quest_for_victory,Candela's Quest for Victory,Honedge,False,Normal/Honedge.png,Raids — Normal,Raid,Raids,,,Honedge
-candela_s_quest_for_victory,Candela's Quest for Victory,Honedge,True,Dynamax/Shiny/Honedge_shiny.png,Raids — Shiny,Raid,Raids,,,Honedge
+candela_s_quest_for_victory,Candela's Quest for Victory,Honedge,True,Shiny/Honedge_shiny.png,Raids — Shiny,Raid,Raids,,,Honedge
 candela_s_quest_for_victory,Candela's Quest for Victory,Honedge,False,Normal/Honedge.png,Raids — Normal,Raid,Raids,,,Honedge
 candela_s_quest_for_victory,Candela's Quest for Victory,Rockruff,False,Normal/Rockruff.png,Raids — Normal,Raid,Raids,,,Rockruff
-candela_s_quest_for_victory,Candela's Quest for Victory,Rockruff,True,Dynamax/Shiny/Rockruff_shiny.png,Raids — Shiny,Raid,Raids,,,Rockruff
+candela_s_quest_for_victory,Candela's Quest for Victory,Rockruff,True,Shiny/Rockruff_shiny.png,Raids — Shiny,Raid,Raids,,,Rockruff
 candela_s_quest_for_victory,Candela's Quest for Victory,Rockruff,False,Normal/Rockruff.png,Raids — Normal,Raid,Raids,,,Rockruff
 candela_s_quest_for_victory,Candela's Quest for Victory,Machamp,False,Normal/Machamp.png,Raids — Normal,Raid,Raids,,,Machamp
-candela_s_quest_for_victory,Candela's Quest for Victory,Machamp,True,Dynamax/Shiny/Machamp_shiny.png,Raids — Shiny,Raid,Raids,,,Machamp
+candela_s_quest_for_victory,Candela's Quest for Victory,Machamp,True,Shiny/Machamp_shiny.png,Raids — Shiny,Raid,Raids,,,Machamp
 candela_s_quest_for_victory,Candela's Quest for Victory,Machamp,False,Normal/Machamp.png,Raids — Normal,Raid,Raids,,,Machamp
 candela_s_quest_for_victory,Candela's Quest for Victory,Scizor,False,Normal/Scizor.png,Raids — Normal,Raid,Raids,,,Scizor
-candela_s_quest_for_victory,Candela's Quest for Victory,Scizor,True,Dynamax/Shiny/Scizor_shiny.png,Raids — Shiny,Raid,Raids,,,Scizor
+candela_s_quest_for_victory,Candela's Quest for Victory,Scizor,True,Shiny/Scizor_shiny.png,Raids — Shiny,Raid,Raids,,,Scizor
 candela_s_quest_for_victory,Candela's Quest for Victory,Scizor,False,Normal/Scizor.png,Raids — Normal,Raid,Raids,,,Scizor
 candela_s_quest_for_victory,Candela's Quest for Victory,Magcargo,False,Normal/Magcargo.png,Raids — Normal,Raid,Raids,,,Magcargo
-candela_s_quest_for_victory,Candela's Quest for Victory,Magcargo,True,Dynamax/Shiny/Magcargo_shiny.png,Raids — Shiny,Raid,Raids,,,Magcargo
+candela_s_quest_for_victory,Candela's Quest for Victory,Magcargo,True,Shiny/Magcargo_shiny.png,Raids — Shiny,Raid,Raids,,,Magcargo
 candela_s_quest_for_victory,Candela's Quest for Victory,Magcargo,False,Normal/Magcargo.png,Raids — Normal,Raid,Raids,,,Magcargo
 candela_s_quest_for_victory,Candela's Quest for Victory,Rockruff,False,Normal/Rockruff.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Flareon, Rockruff, Ponyta wearing a Candela-themed accessory with a background inspired by Team Valor, and more!"
 candela_s_quest_for_victory,Candela's Quest for Victory,Flareon,False,Normal/Flareon.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Flareon, Rockruff, Ponyta wearing a Candela-themed accessory with a background inspired by Team Valor, and more!"
 candela_s_quest_for_victory,Candela's Quest for Victory,Ponyta,False,Normal/Ponyta.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Flareon, Rockruff, Ponyta wearing a Candela-themed accessory with a background inspired by Team Valor, and more!"
 spark_s_caretaking_quest,Spark's Caretaking Quest,Bulbasaur,False,Normal/Bulbasaur.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Bulbasaur
-spark_s_caretaking_quest,Spark's Caretaking Quest,Bulbasaur,True,Dynamax/Shiny/Bulbasaur_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Bulbasaur
+spark_s_caretaking_quest,Spark's Caretaking Quest,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Bulbasaur
 spark_s_caretaking_quest,Spark's Caretaking Quest,Bulbasaur,False,Normal/Bulbasaur.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Bulbasaur
 spark_s_caretaking_quest,Spark's Caretaking Quest,Raichu,False,Normal/Raichu.png,Wild Encounters — Alolan — Normal,Wild,Wild Encounters,,,Alolan Raichu
-spark_s_caretaking_quest,Spark's Caretaking Quest,Raichu,True,Alolan/Shiny/Raichu_alolan_shiny.png,Wild Encounters — Alolan — Shiny,Wild,Wild Encounters,,,Alolan Raichu
+spark_s_caretaking_quest,Spark's Caretaking Quest,Raichu,True,Shiny/Raichu_shiny.png,Wild Encounters — Alolan — Shiny,Wild,Wild Encounters,,,Alolan Raichu
 spark_s_caretaking_quest,Spark's Caretaking Quest,Raichu,False,Normal/Raichu.png,Wild Encounters — Alolan — Normal,Wild,Wild Encounters,,,Alolan Raichu
 spark_s_caretaking_quest,Spark's Caretaking Quest,Drowzee,False,Normal/Drowzee.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Drowzee
-spark_s_caretaking_quest,Spark's Caretaking Quest,Drowzee,True,Dynamax/Shiny/Drowzee_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Drowzee
+spark_s_caretaking_quest,Spark's Caretaking Quest,Drowzee,True,Shiny/Drowzee_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Drowzee
 spark_s_caretaking_quest,Spark's Caretaking Quest,Drowzee,False,Normal/Drowzee.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Drowzee
 spark_s_caretaking_quest,Spark's Caretaking Quest,Jolteon,False,Normal/Jolteon.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Jolteon
-spark_s_caretaking_quest,Spark's Caretaking Quest,Jolteon,True,Dynamax/Shiny/Jolteon_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Jolteon
+spark_s_caretaking_quest,Spark's Caretaking Quest,Jolteon,True,Shiny/Jolteon_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Jolteon
 spark_s_caretaking_quest,Spark's Caretaking Quest,Jolteon,False,Normal/Jolteon.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Jolteon
 spark_s_caretaking_quest,Spark's Caretaking Quest,Dratini,False,Normal/Dratini.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Dratini
-spark_s_caretaking_quest,Spark's Caretaking Quest,Dratini,True,Dynamax/Shiny/Dratini_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Dratini
+spark_s_caretaking_quest,Spark's Caretaking Quest,Dratini,True,Shiny/Dratini_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Dratini
 spark_s_caretaking_quest,Spark's Caretaking Quest,Dratini,False,Normal/Dratini.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Dratini
 spark_s_caretaking_quest,Spark's Caretaking Quest,Houndour,False,Normal/Houndour.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Houndour
-spark_s_caretaking_quest,Spark's Caretaking Quest,Houndour,True,Dynamax/Shiny/Houndour_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Houndour
+spark_s_caretaking_quest,Spark's Caretaking Quest,Houndour,True,Shiny/Houndour_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Houndour
 spark_s_caretaking_quest,Spark's Caretaking Quest,Houndour,False,Normal/Houndour.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Houndour
 spark_s_caretaking_quest,Spark's Caretaking Quest,Lileep,False,Normal/Lileep.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Lileep
-spark_s_caretaking_quest,Spark's Caretaking Quest,Lileep,True,Dynamax/Shiny/Lileep_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Lileep
+spark_s_caretaking_quest,Spark's Caretaking Quest,Lileep,True,Shiny/Lileep_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Lileep
 spark_s_caretaking_quest,Spark's Caretaking Quest,Lileep,False,Normal/Lileep.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Lileep
 spark_s_caretaking_quest,Spark's Caretaking Quest,Combee,False,Normal/Combee.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Combee
-spark_s_caretaking_quest,Spark's Caretaking Quest,Combee,True,Dynamax/Shiny/Combee_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Combee
+spark_s_caretaking_quest,Spark's Caretaking Quest,Combee,True,Shiny/Combee_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Combee
 spark_s_caretaking_quest,Spark's Caretaking Quest,Combee,False,Normal/Combee.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Combee
 spark_s_caretaking_quest,Spark's Caretaking Quest,Pichu,False,Normal/Pichu.png,Eggs — Normal,Egg,Eggs,,,Pichu
-spark_s_caretaking_quest,Spark's Caretaking Quest,Pichu,True,Dynamax/Shiny/Pichu_shiny.png,Eggs — Shiny,Egg,Eggs,,,Pichu
+spark_s_caretaking_quest,Spark's Caretaking Quest,Pichu,True,Shiny/Pichu_shiny.png,Eggs — Shiny,Egg,Eggs,,,Pichu
 spark_s_caretaking_quest,Spark's Caretaking Quest,Pichu,False,Normal/Pichu.png,Eggs — Normal,Egg,Eggs,,,Pichu
 spark_s_caretaking_quest,Spark's Caretaking Quest,Qwilfish,False,Normal/Qwilfish.png,Eggs — Hisuian — Normal,Egg,Eggs,,,Hisuian Qwilfish
-spark_s_caretaking_quest,Spark's Caretaking Quest,Qwilfish,True,Hisuian/Shiny/Qwilfish_hisuian_shiny.png,Eggs — Hisuian — Shiny,Egg,Eggs,,,Hisuian Qwilfish
+spark_s_caretaking_quest,Spark's Caretaking Quest,Qwilfish,True,Shiny/Qwilfish_shiny.png,Eggs — Hisuian — Shiny,Egg,Eggs,,,Hisuian Qwilfish
 spark_s_caretaking_quest,Spark's Caretaking Quest,Qwilfish,False,Normal/Qwilfish.png,Eggs — Hisuian — Normal,Egg,Eggs,,,Hisuian Qwilfish
 spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,False,Normal/Corsola.png,Eggs — Galarian — Normal,Egg,Eggs,,,Galarian Corsola
-spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,True,Galarian/Shiny/Corsola_galarian_shiny.png,Eggs — Galarian — Shiny,Egg,Eggs,,,Galarian Corsola
+spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,True,Shiny/Corsola_shiny.png,Eggs — Galarian — Shiny,Egg,Eggs,,,Galarian Corsola
 spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,False,Normal/Corsola.png,Eggs — Galarian — Normal,Egg,Eggs,,,Galarian Corsola
 spark_s_caretaking_quest,Spark's Caretaking Quest,Elekid,False,Normal/Elekid.png,Eggs — Normal,Egg,Eggs,,,Elekid
-spark_s_caretaking_quest,Spark's Caretaking Quest,Elekid,True,Dynamax/Shiny/Elekid_shiny.png,Eggs — Shiny,Egg,Eggs,,,Elekid
+spark_s_caretaking_quest,Spark's Caretaking Quest,Elekid,True,Shiny/Elekid_shiny.png,Eggs — Shiny,Egg,Eggs,,,Elekid
 spark_s_caretaking_quest,Spark's Caretaking Quest,Elekid,False,Normal/Elekid.png,Eggs — Normal,Egg,Eggs,,,Elekid
 spark_s_caretaking_quest,Spark's Caretaking Quest,Shinx,False,Normal/Shinx.png,Eggs — Normal,Egg,Eggs,,,Shinx
-spark_s_caretaking_quest,Spark's Caretaking Quest,Shinx,True,Dynamax/Shiny/Shinx_shiny.png,Eggs — Shiny,Egg,Eggs,,,Shinx
+spark_s_caretaking_quest,Spark's Caretaking Quest,Shinx,True,Shiny/Shinx_shiny.png,Eggs — Shiny,Egg,Eggs,,,Shinx
 spark_s_caretaking_quest,Spark's Caretaking Quest,Shinx,False,Normal/Shinx.png,Eggs — Normal,Egg,Eggs,,,Shinx
 spark_s_caretaking_quest,Spark's Caretaking Quest,Varoom,False,Normal/Varoom.png,Eggs — Normal,Egg,Eggs,,,Varoom
-spark_s_caretaking_quest,Spark's Caretaking Quest,Varoom,True,Dynamax/Shiny/Varoom_shiny.png,Eggs — Shiny,Egg,Eggs,,,Varoom
+spark_s_caretaking_quest,Spark's Caretaking Quest,Varoom,True,Shiny/Varoom_shiny.png,Eggs — Shiny,Egg,Eggs,,,Varoom
 spark_s_caretaking_quest,Spark's Caretaking Quest,Varoom,False,Normal/Varoom.png,Eggs — Normal,Egg,Eggs,,,Varoom
 spark_s_caretaking_quest,Spark's Caretaking Quest,Jolteon,False,Normal/Jolteon.png,Eggs — Saturday — Galarian — Normal,Egg,Eggs,Saturday,,"Encounters with Jolteon, Galarian Corsola, Elekid wearing a Spark-themed accessory with a background inspired by Team Instinct, and more!"
 spark_s_caretaking_quest,Spark's Caretaking Quest,Corsola,False,Normal/Corsola.png,Eggs — Saturday — Galarian — Normal,Egg,Eggs,Saturday,,"Encounters with Jolteon, Galarian Corsola, Elekid wearing a Spark-themed accessory with a background inspired by Team Instinct, and more!"
@@ -103,70 +103,70 @@ spark_s_caretaking_quest,Spark's Caretaking Quest,Jolteon,False,Normal/Jolteon.p
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Community Day — Saturday — Normal,Event,Community Day,Saturday,,"Frigibax Community Day Community Day Starts: Saturday, June 20, 2026, at 2:00 PM Local Time Ends: Saturday, June 20, 2026, at 5:00 PM Local Time"
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Take a few snapshots during Community Day for a surprise! During the event you can snap an AR Photo and get photobombed by Frigibax.
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Frigibax
-frigibax_community_day,Frigibax Community Day,Frigibax,True,Dynamax/Shiny/Frigibax_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Frigibax
+frigibax_community_day,Frigibax Community Day,Frigibax,True,Shiny/Frigibax_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Frigibax
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Lure Encounters — Saturday — Normal,Lure,Lure Encounters,Saturday,,"From 2:00 p.m. to 9:00 p.m. local time , Frigibax will have a very high chance of appearing at PokeStops with active regular Lure Modules."
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Lure Encounters — Saturday — Normal,Lure,Lure Encounters,Saturday,,Frigibax attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
-frigibax_community_day,Frigibax Community Day,Frigibax,True,Dynamax/Shiny/Frigibax_shiny.png,Lure Encounters — Saturday — Shiny,Lure,Lure Encounters,Saturday,,Frigibax attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
+frigibax_community_day,Frigibax Community Day,Frigibax,True,Shiny/Frigibax_shiny.png,Lure Encounters — Saturday — Shiny,Lure,Lure Encounters,Saturday,,Frigibax attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Wild Encounters — Saturday — Normal,Wild,Wild Encounters,Saturday,,Frigibax will appear more frequently in the wild.
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"June Community Day-themed Field Research will be available! Catch Frigibax to earn rewards such as Stardust, Ultra Balls, additional encounters with Frigibax, and more! You may even find Field Research that leads to encounters with Frigibax that have a Special Background—if you're lucky!"
-frigibax_community_day,Frigibax Community Day,Frigibax,True,Dynamax/Shiny/Frigibax_shiny.png,Field Research — Saturday — Shiny,Research,Field Research,Saturday,,"June Community Day-themed Field Research will be available! Catch Frigibax to earn rewards such as Stardust, Ultra Balls, additional encounters with Frigibax, and more! You may even find Field Research that leads to encounters with Frigibax that have a Special Background—if you're lucky!"
+frigibax_community_day,Frigibax Community Day,Frigibax,True,Shiny/Frigibax_shiny.png,Field Research — Saturday — Shiny,Research,Field Research,Saturday,,"June Community Day-themed Field Research will be available! Catch Frigibax to earn rewards such as Stardust, Ultra Balls, additional encounters with Frigibax, and more! You may even find Field Research that leads to encounters with Frigibax that have a Special Background—if you're lucky!"
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,Frigibax Community Day
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Special Research — Saturday — Normal,Research,Special Research,Saturday,,3 encounters with Frigibax that have a Special Background (at the end of each page)
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Frigibax Community Day (1/3)
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Shiny Frigibax will be available! Trainers will have an increased chance of encountering Shiny Frigibax during Community Day.
-frigibax_community_day,Frigibax Community Day,Frigibax,True,Dynamax/Shiny/Frigibax_shiny.png,Incense — Saturday — Shiny,Incense,Incense,Saturday,,Shiny Frigibax will be available! Trainers will have an increased chance of encountering Shiny Frigibax during Community Day.
+frigibax_community_day,Frigibax Community Day,Frigibax,True,Shiny/Frigibax_shiny.png,Incense — Saturday — Shiny,Incense,Incense,Saturday,,Shiny Frigibax will be available! Trainers will have an increased chance of encountering Shiny Frigibax during Community Day.
 frigibax_community_day,Frigibax Community Day,Arctibax,False,Normal/Arctibax.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Arctibax
 frigibax_community_day,Frigibax Community Day,Baxcalibur,False,Normal/Baxcalibur.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Baxcalibur
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Wild Encounters — Saturday — Normal,Wild,Wild Encounters,Saturday,,Frigibax will appear more frequently in the wild.
-frigibax_community_day,Frigibax Community Day,Frigibax,True,Dynamax/Shiny/Frigibax_shiny.png,Wild Encounters — Saturday — Shiny,Wild,Wild Encounters,Saturday,,Frigibax will appear more frequently in the wild.
+frigibax_community_day,Frigibax Community Day,Frigibax,True,Shiny/Frigibax_shiny.png,Wild Encounters — Saturday — Shiny,Wild,Wild Encounters,Saturday,,Frigibax will appear more frequently in the wild.
 skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,False,Normal/Skarmory.png,Raid Day — Saturday — Mega Super — Normal,Raid,Raid Day,Saturday,,"Skarmory Super Mega Raid Day Raid Day Starts: Saturday, June 27, 2026, at 2:00 PM Local Time Ends: Saturday, June 27, 2026, at 5:00 PM Local Time"
 skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,False,Normal/Skarmory.png,Raids — Saturday — Mega Super — Normal,Raid,Raids,Saturday,,"Remote Raid Pass limit increased to 20 from Friday, June 26, at 5:00 p.m. to Saturday, June 27, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Increased chance of encountering Shiny Skarmory from Super Mega Raids"
-skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,True,Dynamax/Shiny/Skarmory_shiny.png,Raids — Saturday — Mega Super — Shiny,Raid,Raids,Saturday,,"Remote Raid Pass limit increased to 20 from Friday, June 26, at 5:00 p.m. to Saturday, June 27, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Increased chance of encountering Shiny Skarmory from Super Mega Raids"
+skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,True,Shiny/Skarmory_shiny.png,Raids — Saturday — Mega Super — Shiny,Raid,Raids,Saturday,,"Remote Raid Pass limit increased to 20 from Friday, June 26, at 5:00 p.m. to Saturday, June 27, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Increased chance of encountering Shiny Skarmory from Super Mega Raids"
 skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,False,Normal/Skarmory.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Skarmory
-skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,True,Dynamax/Shiny/Skarmory_shiny.png,Raids — Saturday — Mega — Shiny,Raid,Raids,Saturday,,Mega Skarmory
+skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,True,Shiny/Skarmory_shiny.png,Raids — Saturday — Mega — Shiny,Raid,Raids,Saturday,,Mega Skarmory
 skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,False,Normal/Skarmory.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Skarmory
 skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,False,Normal/Skarmory.png,Raids — Saturday — Mega Super — Normal,Raid,Raids,Saturday,,Mega Skarmory will make its Pokemon GO debut in Super Mega Raids.
 skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Houndoom,False,Normal/Houndoom.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Timed Research will be available to Trainers during the event. Complete the research tasks to earn a Premium Battle Pass and an encounter with Houndoom.
 skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,False,Normal/Skarmory.png,Timed Research — Saturday — Mega Super — Normal,Raid,Timed Research,Saturday,,Skarmory Super Mega Raid Day (1/1)
 skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,False,Normal/Skarmory.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Skarmory
-skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,True,Dynamax/Shiny/Skarmory_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Skarmory
+skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,True,Shiny/Skarmory_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Skarmory
 skarmory_super_mega_raid_day,Skarmory Super Mega Raid Day,Skarmory,False,Normal/Skarmory.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Skarmory
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zeraora,False,Normal/Zeraora.png,Special Research — Sunday — Normal,Research,Special Research,Sunday,,Special Research including an encounter with Zeraora
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Timed Research — Sunday — Mega — Normal,Research,Timed Research,Sunday,,Branching Timed Research with a choice between Mega Mewtwo X or Mega Mewtwo Y
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Bonuses — Day 1 — Mega — Normal,Bonus,Bonuses,Day 1,,Mega Mewtwo X and Mega Mewtwo Y debut
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Timed Research — Day 1 — Mega Super — Normal,Raid,Timed Research,Day 1,,"Starting during this event, Trainers can earn Mewtwo Mega Energy X and Mewtwo Mega Energy Y by defeating Mega Mewtwo X or Mega Mewtwo Y in Super Mega Raid Battles and by completing event Timed Research."
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Day 1 — Mega Super — Normal,Raid,Raids,Day 1,,"Every Mewtwo caught from Super Mega Battles during GO Fest: Global will have at least one Mega Level unlocked and can be Mega Evolved without the initial energy cost. If you're lucky, it may be at Mega Level 2 or 3."
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,True,Mega/Shiny/Mewtwo_x_mega_shiny.png,Raids — Day 1 — Mega Super — Shiny,Raid,Raids,Day 1,,"Every Mewtwo caught from Super Mega Battles during GO Fest: Global will have at least one Mega Level unlocked and can be Mega Evolved without the initial energy cost. If you're lucky, it may be at Mega Level 2 or 3."
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,True,Shiny/Mewtwo_shiny.png,Raids — Day 1 — Mega Super — Shiny,Raid,Raids,Day 1,,"Every Mewtwo caught from Super Mega Battles during GO Fest: Global will have at least one Mega Level unlocked and can be Mega Evolved without the initial energy cost. If you're lucky, it may be at Mega Level 2 or 3."
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Normal/Mewtwo.png,Timed Research — Day 1 — Normal,Research,Timed Research,Day 1,,"During in-person GO Fest events, only ticket holders can catch Mewtwo with the featured attacks."
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zeraora,False,Normal/Zeraora.png,Special Research — Day 1 — Normal,Research,Special Research,Day 1,,Special Research: Zeraora
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,False,Costume/Pikachu_instinct.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Instinct hat
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,True,Costume/Shiny/Pikachu_instinct_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Instinct hat
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,True,Shiny/Pikachu_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Instinct hat
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,False,Costume/Pikachu_instinct.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Instinct hat
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,False,Costume/Pikachu_mystic.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Mystic hat
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,True,Costume/Shiny/Pikachu_mystic_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Mystic hat
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,True,Shiny/Pikachu_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Mystic hat
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,False,Costume/Pikachu_mystic.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Mystic hat
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,False,Costume/Pikachu_party_hat.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Valor hat
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,True,Costume/Shiny/Pikachu_party_hat_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Valor hat
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,True,Shiny/Pikachu_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Valor hat
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,False,Costume/Pikachu_party_hat.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Pikachu wearing a Team Valor hat
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bulbasaur,False,Normal/Bulbasaur.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Bulbasaur
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bulbasaur,True,Dynamax/Shiny/Bulbasaur_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Bulbasaur
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Bulbasaur
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bulbasaur,False,Normal/Bulbasaur.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Bulbasaur
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Charmander,False,Normal/Charmander.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Charmander
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Charmander,True,Dynamax/Shiny/Charmander_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Charmander
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Charmander,True,Shiny/Charmander_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Charmander
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Charmander,False,Normal/Charmander.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Charmander
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Squirtle,False,Normal/Squirtle.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Squirtle
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Squirtle,True,Dynamax/Shiny/Squirtle_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Squirtle
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Squirtle,True,Shiny/Squirtle_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Squirtle
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Squirtle,False,Normal/Squirtle.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Squirtle
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,False,Normal/Tropius.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Tropius
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,True,Dynamax/Shiny/Tropius_shiny.png,Incense — Sunday — Shiny,Incense,Incense,Sunday,,Tropius
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,True,Shiny/Tropius_shiny.png,Incense — Sunday — Shiny,Incense,Incense,Sunday,,Tropius
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,False,Normal/Tropius.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Tropius
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bouffalant,False,Normal/Bouffalant.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Bouffalant
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Sunday — Mega Super — Normal,Raid,Raids,Sunday,,Mega Mewtwo X and Mega Mewtwo Y will appear in Super Mega Raids during GO Fest 2026: Global.
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Mewtwo X
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,True,Mega/Shiny/Mewtwo_x_mega_shiny.png,Raids — Saturday — Mega — Shiny,Raid,Raids,Saturday,,Mega Mewtwo X
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,True,Shiny/Mewtwo_shiny.png,Raids — Saturday — Mega — Shiny,Raid,Raids,Saturday,,Mega Mewtwo X
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Mewtwo X
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Sunday — Mega — Normal,Raid,Raids,Sunday,,Mega Mewtwo Y
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,True,Mega/Shiny/Mewtwo_x_mega_shiny.png,Raids — Sunday — Mega — Shiny,Raid,Raids,Sunday,,Mega Mewtwo Y
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,True,Shiny/Mewtwo_shiny.png,Raids — Sunday — Mega — Shiny,Raid,Raids,Sunday,,Mega Mewtwo Y
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Sunday — Mega — Normal,Raid,Raids,Sunday,,Mega Mewtwo Y
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Ampharos,False,Mega/Ampharos_mega.png,Raids — Saturday — Saturday Habitat Raids — Mega — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Ampharos
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Ampharos,True,Mega/Shiny/Ampharos_mega_shiny.png,Raids — Saturday — Saturday Habitat Raids — Mega — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Ampharos
@@ -178,28 +178,28 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Abomasnow,False,Mega/A
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Abomasnow,True,Mega/Shiny/Abomasnow_mega_shiny.png,Raids — Saturday — Saturday Habitat Raids — Mega — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Abomasnow
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Abomasnow,False,Mega/Abomasnow_mega.png,Raids — Saturday — Saturday Habitat Raids — Mega — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Abomasnow
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Articuno,False,Normal/Articuno.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Articuno
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Articuno,True,Dynamax/Shiny/Articuno_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Articuno
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Articuno,True,Shiny/Articuno_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Articuno
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Articuno,False,Normal/Articuno.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Articuno
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zapdos,False,Normal/Zapdos.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Zapdos
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zapdos,True,Dynamax/Shiny/Zapdos_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Zapdos
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zapdos,True,Shiny/Zapdos_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Zapdos
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zapdos,False,Normal/Zapdos.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Zapdos
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Moltres,False,Normal/Moltres.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Moltres
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Moltres,True,Dynamax/Shiny/Moltres_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Moltres
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Moltres,True,Shiny/Moltres_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Moltres
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Moltres,False,Normal/Moltres.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Moltres
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Raikou,False,Normal/Raikou.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Raikou
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Raikou,True,Dynamax/Shiny/Raikou_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Raikou
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Raikou,True,Shiny/Raikou_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Raikou
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Raikou,False,Normal/Raikou.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Raikou
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Entei,False,Normal/Entei.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Entei
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Entei,True,Dynamax/Shiny/Entei_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Entei
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Entei,True,Shiny/Entei_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Entei
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Entei,False,Normal/Entei.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Entei
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Suicune,False,Normal/Suicune.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Suicune
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Suicune,True,Dynamax/Shiny/Suicune_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Suicune
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Suicune,True,Shiny/Suicune_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Suicune
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Suicune,False,Normal/Suicune.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Suicune
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Lugia,False,Normal/Lugia.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Lugia
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Lugia,True,Dynamax/Shiny/Lugia_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Lugia
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Lugia,True,Shiny/Lugia_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Lugia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Lugia,False,Normal/Lugia.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Lugia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Ho-Oh,False,Normal/Ho-Oh.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Ho-Oh
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Ho-Oh,True,Dynamax/Shiny/Ho-Oh_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Ho-Oh
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Ho-Oh,True,Shiny/Ho-Oh_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Ho-Oh
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Ho-Oh,False,Normal/Ho-Oh.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Ho-Oh
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Alakazam,False,Mega/Alakazam_mega.png,Raids — Saturday — Saturday Habitat Raids — Mega — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Alakazam
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Alakazam,True,Mega/Shiny/Alakazam_mega_shiny.png,Raids — Saturday — Saturday Habitat Raids — Mega — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Alakazam
@@ -211,29 +211,29 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Swampert,False,Mega/Sw
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Swampert,True,Mega/Shiny/Swampert_mega_shiny.png,Raids — Saturday — Saturday Habitat Raids — Mega — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Swampert
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Swampert,False,Mega/Swampert_mega.png,Raids — Saturday — Saturday Habitat Raids — Mega — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Swampert
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Uxie,False,Normal/Uxie.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Uxie
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Uxie,True,Dynamax/Shiny/Uxie_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Uxie
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Uxie,True,Shiny/Uxie_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Uxie
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Uxie,False,Normal/Uxie.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Uxie
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mesprit,False,Normal/Mesprit.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Mesprit
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mesprit,True,Dynamax/Shiny/Mesprit_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Mesprit
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mesprit,True,Shiny/Mesprit_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Mesprit
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mesprit,False,Normal/Mesprit.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Mesprit
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Azelf,False,Normal/Azelf.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Azelf
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Azelf,True,Dynamax/Shiny/Azelf_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Azelf
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Azelf,True,Shiny/Azelf_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Azelf
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Azelf,False,Normal/Azelf.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Azelf
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Dialga,False,Normal/Dialga.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Dialga
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,False,Normal/Palkia.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Palkia
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,True,Dynamax/Shiny/Palkia_origin_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Palkia
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,True,Shiny/Palkia_origin_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Palkia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,False,Normal/Palkia.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Palkia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Giratina,False,Normal/Giratina.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Giratina (Altered)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Giratina,True,Dynamax/Shiny/Giratina_origin_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Giratina (Altered)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Giratina,True,Shiny/Giratina_origin_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Giratina (Altered)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Giratina,False,Normal/Giratina.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Giratina (Altered)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Giratina,False,Normal/Giratina_origin.png,Raids — Saturday — Saturday Habitat Raids — Origin — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Giratina (Origin)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Giratina,True,Dynamax/Shiny/Giratina_origin_shiny.png,Raids — Saturday — Saturday Habitat Raids — Origin — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Giratina (Origin)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Giratina,True,Shiny/Giratina_origin_shiny.png,Raids — Saturday — Saturday Habitat Raids — Origin — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Giratina (Origin)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Giratina,False,Normal/Giratina_origin.png,Raids — Saturday — Saturday Habitat Raids — Origin — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Giratina (Origin)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Xerneas,False,Normal/Xerneas.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Xerneas
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Xerneas,True,Dynamax/Shiny/Xerneas_active_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Xerneas
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Xerneas,True,Shiny/Xerneas_active_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Xerneas
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Xerneas,False,Normal/Xerneas.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Xerneas
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Yveltal,False,Normal/Yveltal.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Yveltal
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Yveltal,True,Dynamax/Shiny/Yveltal_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Yveltal
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Yveltal,True,Shiny/Yveltal_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Yveltal
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Yveltal,False,Normal/Yveltal.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Yveltal
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Solgaleo,False,Normal/Solgaleo.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Solgaleo
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Lunala,False,Normal/Lunala.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Lunala
@@ -247,22 +247,22 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Salamence,False,Mega/S
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Salamence,True,Mega/Shiny/Salamence_mega_shiny.png,Raids — Saturday — Saturday Habitat Raids — Mega — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Salamence
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Salamence,False,Mega/Salamence_mega.png,Raids — Saturday — Saturday Habitat Raids — Mega — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Salamence
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kyogre,False,Normal/Kyogre.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Kyogre
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kyogre,True,Dynamax/Shiny/Kyogre_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Kyogre
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kyogre,True,Shiny/Kyogre_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Kyogre
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kyogre,False,Normal/Kyogre.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Kyogre
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Groudon,False,Normal/Groudon.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Groudon
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Groudon,True,Dynamax/Shiny/Groudon_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Groudon
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Groudon,True,Shiny/Groudon_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Groudon
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Groudon,False,Normal/Groudon.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Groudon
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Rayquaza,False,Normal/Rayquaza.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Rayquaza
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Rayquaza,True,Dynamax/Shiny/Rayquaza_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Rayquaza
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Rayquaza,True,Shiny/Rayquaza_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Rayquaza
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Rayquaza,False,Normal/Rayquaza.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Rayquaza
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Reshiram,False,Normal/Reshiram.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Reshiram
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Reshiram,True,Dynamax/Shiny/Reshiram_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Reshiram
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Reshiram,True,Shiny/Reshiram_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Reshiram
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Reshiram,False,Normal/Reshiram.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Reshiram
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zekrom,False,Normal/Zekrom.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Zekrom
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zekrom,True,Dynamax/Shiny/Zekrom_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Zekrom
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zekrom,True,Shiny/Zekrom_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Zekrom
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zekrom,False,Normal/Zekrom.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Zekrom
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kyurem,False,Normal/Kyurem.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Kyurem
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kyurem,True,Dynamax/Shiny/Kyurem_black_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Kyurem
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kyurem,True,Shiny/Kyurem_black_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Kyurem
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kyurem,False,Normal/Kyurem.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Kyurem
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Metagross,False,Mega/Metagross_mega.png,Raids — Sunday — Sunday Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Metagross
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Metagross,True,Mega/Shiny/Metagross_mega_shiny.png,Raids — Sunday — Sunday Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Metagross
@@ -274,49 +274,49 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Audino,False,Mega/Audi
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Audino,True,Mega/Shiny/Audino_mega_shiny.png,Raids — Sunday — Sunday Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Audino
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Audino,False,Mega/Audino_mega.png,Raids — Sunday — Sunday Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Audino
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regirock,False,Normal/Regirock.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regirock
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regirock,True,Dynamax/Shiny/Regirock_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regirock
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regirock,True,Shiny/Regirock_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regirock
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regirock,False,Normal/Regirock.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regirock
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regice,False,Normal/Regice.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regice
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regice,True,Dynamax/Shiny/Regice_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regice
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regice,True,Shiny/Regice_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regice
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regice,False,Normal/Regice.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regice
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Registeel,False,Normal/Registeel.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Registeel
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Registeel,True,Dynamax/Shiny/Registeel_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Registeel
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Registeel,True,Shiny/Registeel_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Registeel
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Registeel,False,Normal/Registeel.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Registeel
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Dialga,False,Normal/Dialga_origin.png,Raids — Sunday — Sunday Habitat Raids — Origin — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Origin Forme Dialga
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,False,Normal/Palkia_origin.png,Raids — Sunday — Sunday Habitat Raids — Origin — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Origin Forme Palkia
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,True,Dynamax/Shiny/Palkia_origin_shiny.png,Raids — Sunday — Sunday Habitat Raids — Origin — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Origin Forme Palkia
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,True,Shiny/Palkia_origin_shiny.png,Raids — Sunday — Sunday Habitat Raids — Origin — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Origin Forme Palkia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,False,Normal/Palkia_origin.png,Raids — Sunday — Sunday Habitat Raids — Origin — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Origin Forme Palkia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Heatran,False,Normal/Heatran.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Heatran
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Heatran,True,Dynamax/Shiny/Heatran_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Heatran
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Heatran,True,Shiny/Heatran_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Heatran
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Heatran,False,Normal/Heatran.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Heatran
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regigigas,False,Normal/Regigigas.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regigigas
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regigigas,True,Dynamax/Shiny/Regigigas_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regigigas
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regigigas,True,Shiny/Regigigas_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regigigas
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regigigas,False,Normal/Regigigas.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regigigas
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tornadus,False,Normal/Tornadus.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tornadus (Incarnate)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tornadus,True,Dynamax/Shiny/Tornadus_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tornadus (Incarnate)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tornadus,True,Shiny/Tornadus_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tornadus (Incarnate)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tornadus,False,Normal/Tornadus.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tornadus (Incarnate)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tornadus,False,Normal/Tornadus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tornadus (Therian)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tornadus,True,Dynamax/Shiny/Tornadus_therian_shiny.png,Raids — Sunday — Sunday Habitat Raids — Therian — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tornadus (Therian)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tornadus,True,Shiny/Tornadus_therian_shiny.png,Raids — Sunday — Sunday Habitat Raids — Therian — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tornadus (Therian)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tornadus,False,Normal/Tornadus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tornadus (Therian)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Thundurus,False,Normal/Thundurus.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Thundurus (Incarnate)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Thundurus,True,Dynamax/Shiny/Thundurus_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Thundurus (Incarnate)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Thundurus,True,Shiny/Thundurus_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Thundurus (Incarnate)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Thundurus,False,Normal/Thundurus.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Thundurus (Incarnate)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Thundurus,False,Normal/Thundurus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Thundurus (Therian)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Thundurus,True,Dynamax/Shiny/Thundurus_therian_shiny.png,Raids — Sunday — Sunday Habitat Raids — Therian — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Thundurus (Therian)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Thundurus,True,Shiny/Thundurus_therian_shiny.png,Raids — Sunday — Sunday Habitat Raids — Therian — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Thundurus (Therian)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Thundurus,False,Normal/Thundurus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Thundurus (Therian)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,False,Normal/Landorus.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Incarnate)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,True,Dynamax/Shiny/Landorus_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Incarnate)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,True,Shiny/Landorus_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Incarnate)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,False,Normal/Landorus.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Incarnate)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,False,Normal/Landorus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Therian)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,True,Dynamax/Shiny/Landorus_therian_shiny.png,Raids — Sunday — Sunday Habitat Raids — Therian — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Therian)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,True,Shiny/Landorus_therian_shiny.png,Raids — Sunday — Sunday Habitat Raids — Therian — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Therian)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,False,Normal/Landorus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Therian)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Enamorus,False,Normal/Enamorus.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Enamorus (Incarnate)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Enamorus,False,Normal/Enamorus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Enamorus (Therian Forme)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regieleki,False,Normal/Regieleki.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regieleki
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regieleki,True,Dynamax/Shiny/Regieleki_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regieleki
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regieleki,True,Shiny/Regieleki_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regieleki
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regieleki,False,Normal/Regieleki.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regieleki
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regidrago,False,Normal/Regidrago.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regidrago
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regidrago,True,Dynamax/Shiny/Regidrago_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regidrago
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regidrago,True,Shiny/Regidrago_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regidrago
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regidrago,False,Normal/Regidrago.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regidrago
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Beedrill,False,Mega/Beedrill_mega.png,Raids — Sunday — Sunday Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Beedrill
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Beedrill,True,Mega/Shiny/Beedrill_mega_shiny.png,Raids — Sunday — Sunday Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Beedrill
@@ -328,52 +328,52 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Sceptile,False,Mega/Sc
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Sceptile,True,Mega/Shiny/Sceptile_mega_shiny.png,Raids — Sunday — Sunday Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Sceptile
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Sceptile,False,Mega/Sceptile_mega.png,Raids — Sunday — Sunday Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Sceptile
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Deoxys,False,Normal/Deoxys.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Deoxys (Normal)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Deoxys,True,Dynamax/Shiny/Deoxys_attack_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Deoxys (Normal)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Deoxys,True,Shiny/Deoxys_attack_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Deoxys (Normal)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Deoxys,False,Normal/Deoxys.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Deoxys (Normal)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Genesect,False,Normal/Genesect.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Genesect
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Genesect,True,Dynamax/Shiny/Genesect_burn_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Genesect
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Genesect,True,Shiny/Genesect_burn_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Genesect
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Genesect,False,Normal/Genesect.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Genesect
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Nihilego,False,Normal/Nihilego.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Nihilego
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Nihilego,True,Dynamax/Shiny/Nihilego_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Nihilego
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Nihilego,True,Shiny/Nihilego_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Nihilego
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Nihilego,False,Normal/Nihilego.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Nihilego
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Buzzwole,False,Normal/Buzzwole.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Buzzwole
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Buzzwole,True,Dynamax/Shiny/Buzzwole_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Buzzwole
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Buzzwole,True,Shiny/Buzzwole_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Buzzwole
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Buzzwole,False,Normal/Buzzwole.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Buzzwole
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pheromosa,False,Normal/Pheromosa.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Pheromosa
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pheromosa,True,Dynamax/Shiny/Pheromosa_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Pheromosa
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pheromosa,True,Shiny/Pheromosa_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Pheromosa
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pheromosa,False,Normal/Pheromosa.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Pheromosa
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Xurkitree,False,Normal/Xurkitree.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Xurkitree
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Xurkitree,True,Dynamax/Shiny/Xurkitree_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Xurkitree
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Xurkitree,True,Shiny/Xurkitree_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Xurkitree
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Xurkitree,False,Normal/Xurkitree.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Xurkitree
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Celesteela,False,Normal/Celesteela.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Celesteela
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Celesteela,True,Dynamax/Shiny/Celesteela_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Celesteela
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Celesteela,True,Shiny/Celesteela_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Celesteela
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Celesteela,False,Normal/Celesteela.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Celesteela
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kartana,False,Normal/Kartana.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Kartana
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kartana,True,Dynamax/Shiny/Kartana_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Kartana
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kartana,True,Shiny/Kartana_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Kartana
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Kartana,False,Normal/Kartana.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Kartana
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Guzzlord,False,Normal/Guzzlord.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Guzzlord
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Guzzlord,True,Dynamax/Shiny/Guzzlord_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Guzzlord
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Guzzlord,True,Shiny/Guzzlord_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Guzzlord
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Guzzlord,False,Normal/Guzzlord.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Guzzlord
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Necrozma,False,Normal/Necrozma.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Necrozma
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Necrozma,True,Dynamax/Shiny/Necrozma_dawn_wings_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Necrozma
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Necrozma,True,Shiny/Necrozma_dawn_wings_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Necrozma
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Necrozma,False,Normal/Necrozma.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Necrozma
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Stakataka,False,Normal/Stakataka.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Stakataka
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Stakataka,True,Dynamax/Shiny/Stakataka_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Stakataka
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Stakataka,True,Shiny/Stakataka_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Stakataka
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Stakataka,False,Normal/Stakataka.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Stakataka
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Blacephalon,False,Normal/Blacephalon.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Blacephalon
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Blacephalon,True,Dynamax/Shiny/Blacephalon_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Blacephalon
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Blacephalon,True,Shiny/Blacephalon_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Blacephalon
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Blacephalon,False,Normal/Blacephalon.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Blacephalon
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Koko,False,Normal/Tapu_Koko.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Koko
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Koko,True,Dynamax/Shiny/Tapu_Koko_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Koko
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Koko,True,Shiny/Tapu_Koko_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Koko
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Koko,False,Normal/Tapu_Koko.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Koko
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Lele,False,Normal/Tapu_Lele.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Lele
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Lele,True,Dynamax/Shiny/Tapu_Lele_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Lele
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Lele,True,Shiny/Tapu_Lele_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Lele
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Lele,False,Normal/Tapu_Lele.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Lele
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Bulu
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Bulu,True,Dynamax/Shiny/Tapu_Bulu_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Bulu
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Bulu,True,Shiny/Tapu_Bulu_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Bulu
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Bulu
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Fini
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Fini,True,Dynamax/Shiny/Tapu_Fini_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Fini
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Fini,True,Shiny/Tapu_Fini_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Fini
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Fini
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tyranitar,False,Mega/Tyranitar_mega.png,Raids — Sunday — Sunday Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Tyranitar
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tyranitar,True,Mega/Shiny/Tyranitar_mega_shiny.png,Raids — Sunday — Sunday Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Tyranitar
@@ -385,44 +385,44 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Lucario,False,Mega/Luc
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Lucario,True,Mega/Shiny/Lucario_mega_shiny.png,Raids — Sunday — Sunday Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Lucario
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Lucario,False,Mega/Lucario_mega.png,Raids — Sunday — Sunday Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Lucario
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Latias,False,Normal/Latias.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Latias
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Latias,True,Dynamax/Shiny/Latias_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Latias
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Latias,True,Shiny/Latias_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Latias
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Latias,False,Normal/Latias.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Latias
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Latios,False,Normal/Latios.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Latios
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Latios,True,Dynamax/Shiny/Latios_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Latios
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Latios,True,Shiny/Latios_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Latios
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Latios,False,Normal/Latios.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Latios
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Cresselia,False,Normal/Cresselia.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Cresselia
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Cresselia,True,Dynamax/Shiny/Cresselia_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Cresselia
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Cresselia,True,Shiny/Cresselia_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Cresselia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Cresselia,False,Normal/Cresselia.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Cresselia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Darkrai,False,Normal/Darkrai.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Darkrai
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Darkrai,True,Dynamax/Shiny/Darkrai_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Darkrai
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Darkrai,True,Shiny/Darkrai_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Darkrai
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Darkrai,False,Normal/Darkrai.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Darkrai
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Cobalion,False,Normal/Cobalion.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Cobalion
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Cobalion,True,Dynamax/Shiny/Cobalion_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Cobalion
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Cobalion,True,Shiny/Cobalion_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Cobalion
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Cobalion,False,Normal/Cobalion.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Cobalion
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Terrakion,False,Normal/Terrakion.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Terrakion
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Terrakion,True,Dynamax/Shiny/Terrakion_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Terrakion
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Terrakion,True,Shiny/Terrakion_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Terrakion
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Terrakion,False,Normal/Terrakion.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Terrakion
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Virizion,False,Normal/Virizion.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Virizion
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Virizion,True,Dynamax/Shiny/Virizion_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Virizion
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Virizion,True,Shiny/Virizion_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Virizion
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Virizion,False,Normal/Virizion.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Virizion
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zacian,False,Normal/Zacian.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Zacian (Hero of Many Battles)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zacian,True,Dynamax/Shiny/Zacian_crowned_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Zacian (Hero of Many Battles)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zacian,True,Shiny/Zacian_crowned_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Zacian (Hero of Many Battles)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zacian,False,Normal/Zacian.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Zacian (Hero of Many Battles)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zamazenta,False,Normal/Zamazenta.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Zamazenta (Hero of Many Battles)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zamazenta,True,Dynamax/Shiny/Zamazenta_crowned_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Zamazenta (Hero of Many Battles)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zamazenta,True,Shiny/Zamazenta_crowned_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Zamazenta (Hero of Many Battles)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zamazenta,False,Normal/Zamazenta.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Zamazenta (Hero of Many Battles)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zeraora,False,Normal/Zeraora.png,Special Research — Sunday — Sunday Habitat Raids — Normal,Research,Special Research,Sunday,Sunday Habitat Raids,Trainers who log in during event weekend will receive Special Research that leads to an encounter with Zeraora.
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Timed Research — Sunday — Sunday Habitat Raids — Mega — Normal,Research,Timed Research,Sunday,Sunday Habitat Raids,"A branching Timed Research experience will be available, with a choice between Mega Mewtwo X and Mega Mewtwo Y."
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bulbasaur,False,Normal/Bulbasaur.png,Timed Research — Sunday — Sunday Habitat Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Raids,Bulbasaur
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bulbasaur,True,Dynamax/Shiny/Bulbasaur_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Bulbasaur
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Bulbasaur
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Charmander,False,Normal/Charmander.png,Timed Research — Sunday — Sunday Habitat Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Raids,Charmander
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Charmander,True,Dynamax/Shiny/Charmander_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Charmander
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Charmander,True,Shiny/Charmander_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Charmander
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Squirtle,False,Normal/Squirtle.png,Timed Research — Sunday — Sunday Habitat Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Raids,Squirtle
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Squirtle,True,Dynamax/Shiny/Squirtle_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Squirtle
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Squirtle,True,Shiny/Squirtle_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Squirtle
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,False,Costume/Pikachu_instinct.png,Timed Research — Sunday — Sunday Habitat Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Raids,Pikachu wearing a Team Instinct hat
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,False,Costume/Pikachu_mystic.png,Timed Research — Sunday — Sunday Habitat Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Raids,Pikachu wearing a Team Mystic hat
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pikachu,False,Costume/Pikachu_party_hat.png,Timed Research — Sunday — Sunday Habitat Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Raids,Pikachu wearing a Team Valor hat
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,False,Normal/Tropius.png,Timed Research — Sunday — Sunday Habitat Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Raids,Tropius
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,True,Dynamax/Shiny/Tropius_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Tropius
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,True,Shiny/Tropius_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Tropius
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bouffalant,False,Normal/Bouffalant.png,Timed Research — Sunday — Sunday Habitat Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Raids,Bouffalant
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bouffalant,True,Dynamax/Shiny/Bouffalant_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Bouffalant
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bouffalant,True,Shiny/Bouffalant_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Bouffalant

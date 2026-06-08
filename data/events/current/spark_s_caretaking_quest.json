@@ -6,7 +6,7 @@
   "date_text": "Mon, Jun 8, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/sparks-caretaking-quest/",
-  "generated_at": "2026-06-08 13:49:34",
+  "generated_at": "2026-06-08 13:58:09",
   "entries": [
     {
       "dex": 135,
@@ -71,7 +71,7 @@
     {
       "dex": 172,
       "name": "Pichu",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Pichu_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Pichu_shiny.png",
       "label": "Eggs — Shiny",
       "availability": "Egg",
       "section": "Eggs",
@@ -101,7 +101,7 @@
     {
       "dex": 211,
       "name": "Qwilfish",
-      "uri": "file:///android_asset/Pokemon/Hisuian/Shiny/Qwilfish_hisuian_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Qwilfish_shiny.png",
       "label": "Eggs — Hisuian — Shiny",
       "availability": "Egg",
       "section": "Eggs",
@@ -131,7 +131,7 @@
     {
       "dex": 222,
       "name": "Corsola",
-      "uri": "file:///android_asset/Pokemon/Galarian/Shiny/Corsola_galarian_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Corsola_shiny.png",
       "label": "Eggs — Galarian — Shiny",
       "availability": "Egg",
       "section": "Eggs",
@@ -221,7 +221,7 @@
     {
       "dex": 239,
       "name": "Elekid",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Elekid_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Elekid_shiny.png",
       "label": "Eggs — Shiny",
       "availability": "Egg",
       "section": "Eggs",
@@ -266,7 +266,7 @@
     {
       "dex": 403,
       "name": "Shinx",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Shinx_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Shinx_shiny.png",
       "label": "Eggs — Shiny",
       "availability": "Egg",
       "section": "Eggs",
@@ -311,7 +311,7 @@
     {
       "dex": 965,
       "name": "Varoom",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Varoom_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Varoom_shiny.png",
       "label": "Eggs — Shiny",
       "availability": "Egg",
       "section": "Eggs",
@@ -341,7 +341,7 @@
     {
       "dex": 1,
       "name": "Bulbasaur",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Bulbasaur_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Bulbasaur_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -371,7 +371,7 @@
     {
       "dex": 26,
       "name": "Raichu",
-      "uri": "file:///android_asset/Pokemon/Alolan/Shiny/Raichu_alolan_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Raichu_shiny.png",
       "label": "Wild Encounters — Alolan — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -401,7 +401,7 @@
     {
       "dex": 96,
       "name": "Drowzee",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Drowzee_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Drowzee_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -431,7 +431,7 @@
     {
       "dex": 135,
       "name": "Jolteon",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Jolteon_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Jolteon_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -461,7 +461,7 @@
     {
       "dex": 147,
       "name": "Dratini",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Dratini_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Dratini_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -491,7 +491,7 @@
     {
       "dex": 228,
       "name": "Houndour",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Houndour_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Houndour_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -521,7 +521,7 @@
     {
       "dex": 345,
       "name": "Lileep",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Lileep_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Lileep_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",
@@ -551,7 +551,7 @@
     {
       "dex": 415,
       "name": "Combee",
-      "uri": "file:///android_asset/Pokemon/Dynamax/Shiny/Combee_shiny.png",
+      "uri": "file:///android_asset/Pokemon/Shiny/Combee_shiny.png",
       "label": "Wild Encounters — Shiny",
       "availability": "Wild",
       "section": "Wild Encounters",

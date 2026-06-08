@@ -68,7 +68,7 @@ Events written:
   URL: https://leekduck.com/events/skarmory-super-mega-raid-day-2026/
 - [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Global
   Date: Sun, Jul 12, at 7:00 PM
-  Entries: 207
+  Entries: 205
   File: upcoming/pokemon_go_fest_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-fest-2026-global/
 
