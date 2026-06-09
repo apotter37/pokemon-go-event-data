@@ -1,19 +1,19 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 12
-Current events: 4
+Events kept after cleanup: 11
+Current events: 3
 Upcoming events: 8
 Official news items found: 19
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 427
+Matched entries: 380
 Unmatched candidates: 0
 No-match debug rows: 0
 
 Events written:
 - [current] Event: Candela's Quest for Victory
   Date: Mon, Jun 15, at 8:00 PM
-  Entries: 35
+  Entries: 39
   File: current/candela_s_quest_for_victory.json
   URL: https://leekduck.com/events/candelas-quest-for-victory/
 - [current] Event: Flying Taxi 2026
@@ -26,11 +26,6 @@ Events written:
   Entries: 0
   File: current/flying_taxi_taken_over.json
   URL: https://leekduck.com/events/flying-taxi-taken-over-2026/
-- [current] Event: Spark's Caretaking Quest
-  Date: Mon, Jun 8, at 8:00 PM
-  Entries: 37
-  File: current/spark_s_caretaking_quest.json
-  URL: https://leekduck.com/events/sparks-caretaking-quest/
 - [upcoming] Community Day: August Community Day
   Date: Sat, Aug 15, at 5:00 PM
   Entries: 0

@@ -34,17 +34,6 @@
   },
   {
     "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
-    "title": "Spark's Caretaking Quest",
-    "url": "https://leekduck.com/events/sparks-caretaking-quest/",
-    "date_text": "Mon, Jun 8, at 8:00 PM",
-    "raw_text": "Event Event Spark's Caretaking Quest Mon, Jun 8, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "spark_s_caretaking_quest",
-    "file": "current/spark_s_caretaking_quest.json"
-  },
-  {
-    "source": "LeekDuck",
     "status": "upcoming",
     "category": "Community Day",
     "title": "August Community Day",

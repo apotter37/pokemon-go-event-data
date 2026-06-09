@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08 15:11:17",
+  "generated_at": "2026-06-09 11:48:09",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -31,15 +31,6 @@
       "file": "current/flying_taxi_taken_over.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/"
-    },
-    {
-      "id": "spark_s_caretaking_quest",
-      "title": "Spark's Caretaking Quest",
-      "category": "Event",
-      "date_text": "Mon, Jun 8, at 8:00 PM",
-      "file": "current/spark_s_caretaking_quest.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/sparks-caretaking-quest/"
     }
   ],
   "upcoming": [
