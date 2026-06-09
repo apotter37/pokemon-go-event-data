@@ -6,9 +6,9 @@ Upcoming events: 8
 Official news items found: 19
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 380
-Unmatched candidates: 0
-No-match debug rows: 0
+Matched entries: 408
+Unmatched candidates: 4
+No-match debug rows: 4
 
 Events written:
 - [current] Event: Candela's Quest for Victory
@@ -16,10 +16,10 @@ Events written:
   Entries: 39
   File: current/candela_s_quest_for_victory.json
   URL: https://leekduck.com/events/candelas-quest-for-victory/
-- [current] Event: Flying Taxi 2026
+- [current] Event: Flying Taxi
   Date: Mon, Jun 29, at 8:00 PM
-  Entries: 0
-  File: current/flying_taxi_2026.json
+  Entries: 20
+  File: current/flying_taxi.json
   URL: https://leekduck.com/events/flying-taxi-2026/
 - [current] Event: Flying Taxi: Taken Over
   Date: Mon, Jun 29, at 8:00 PM

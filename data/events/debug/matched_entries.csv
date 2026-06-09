@@ -53,6 +53,34 @@ candela_s_quest_for_victory,Candela's Quest for Victory,Ponyta,False,Normal/Pony
 candela_s_quest_for_victory,Candela's Quest for Victory,Growlithe,False,Hisuian/Growlithe_hisuian.png,Eggs — Saturday — Hisuian — Normal,Egg,Eggs,Saturday,,Hisuian Growlithe Hisuian Growlithe
 candela_s_quest_for_victory,Candela's Quest for Victory,Slugma,False,Normal/Slugma.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Slugma Slugma
 candela_s_quest_for_victory,Candela's Quest for Victory,Scyther,False,Normal/Scyther.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Scyther Scyther
+flying_taxi,Flying Taxi,Hoothoot,False,Normal/Hoothoot.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Hoothoot
+flying_taxi,Flying Taxi,Hoothoot,True,Shiny/Hoothoot_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Hoothoot
+flying_taxi,Flying Taxi,Hoothoot,False,Normal/Hoothoot.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Hoothoot
+flying_taxi,Flying Taxi,Rookidee,False,Normal/Rookidee.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Rookidee
+flying_taxi,Flying Taxi,Rookidee,True,Shiny/Rookidee_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Rookidee
+flying_taxi,Flying Taxi,Rookidee,False,Normal/Rookidee.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Rookidee
+flying_taxi,Flying Taxi,Swablu,False,Normal/Swablu.png,Raids — Normal,Raid,Raids,,,Swablu
+flying_taxi,Flying Taxi,Swablu,True,Shiny/Swablu_shiny.png,Raids — Shiny,Raid,Raids,,,Swablu
+flying_taxi,Flying Taxi,Swablu,False,Normal/Swablu.png,Raids — Normal,Raid,Raids,,,Swablu
+flying_taxi,Flying Taxi,Starly,False,Normal/Starly.png,Raids — Normal,Raid,Raids,,,Starly
+flying_taxi,Flying Taxi,Starly,True,Shiny/Starly_shiny.png,Raids — Shiny,Raid,Raids,,,Starly
+flying_taxi,Flying Taxi,Starly,False,Normal/Starly.png,Raids — Normal,Raid,Raids,,,Starly
+flying_taxi,Flying Taxi,Vullaby,False,Normal/Vullaby.png,Raids — Normal,Raid,Raids,,,Vullaby
+flying_taxi,Flying Taxi,Vullaby,True,Shiny/Vullaby_shiny.png,Raids — Shiny,Raid,Raids,,,Vullaby
+flying_taxi,Flying Taxi,Vullaby,False,Normal/Vullaby.png,Raids — Normal,Raid,Raids,,,Vullaby
+flying_taxi,Flying Taxi,Braviary,False,Hisuian/Braviary_hisuian.png,Raids — Hisuian — Normal,Raid,Raids,,,Hisuian Braviary
+flying_taxi,Flying Taxi,Braviary,True,Hisuian/Shiny/Braviary_hisuian_shiny.png,Raids — Hisuian — Shiny,Raid,Raids,,,Hisuian Braviary
+flying_taxi,Flying Taxi,Braviary,False,Hisuian/Braviary_hisuian.png,Raids — Hisuian — Normal,Raid,Raids,,,Hisuian Braviary
+flying_taxi,Flying Taxi,Corvisquire,False,Normal/Corvisquire.png,Raids — Normal,Raid,Raids,,,Corvisquire
+flying_taxi,Flying Taxi,Corvisquire,True,Shiny/Corvisquire_shiny.png,Raids — Shiny,Raid,Raids,,,Corvisquire
+flying_taxi,Flying Taxi,Corvisquire,False,Normal/Corvisquire.png,Raids — Normal,Raid,Raids,,,Corvisquire
+flying_taxi,Flying Taxi,Bombirdier,False,Normal/Bombirdier.png,Raids — Normal,Raid,Raids,,,Bombirdier
+flying_taxi,Flying Taxi,Bombirdier,True,Shiny/Bombirdier_shiny.png,Raids — Shiny,Raid,Raids,,,Bombirdier
+flying_taxi,Flying Taxi,Bombirdier,False,Normal/Bombirdier.png,Raids — Normal,Raid,Raids,,,Bombirdier
+flying_taxi,Flying Taxi,Pidgeotto,False,Normal/Pidgeotto.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
+flying_taxi,Flying Taxi,Hoothoot,False,Normal/Hoothoot.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
+flying_taxi,Flying Taxi,Rookidee,False,Normal/Rookidee.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
+flying_taxi,Flying Taxi,Vullaby,False,Normal/Vullaby.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Community Day — Saturday — Normal,Event,Community Day,Saturday,,"Frigibax Community Day Community Day Starts: Saturday, June 20, 2026, at 2:00 PM Local Time Ends: Saturday, June 20, 2026, at 5:00 PM Local Time"
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Take a few snapshots during Community Day for a surprise! During the event you can snap an AR Photo and get photobombed by Frigibax.
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Frigibax
