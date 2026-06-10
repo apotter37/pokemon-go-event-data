@@ -81,6 +81,27 @@ flying_taxi,Flying Taxi,Pidgeotto,False,Normal/Pidgeotto.png,Field Research — 
 flying_taxi,Flying Taxi,Hoothoot,False,Normal/Hoothoot.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
 flying_taxi,Flying Taxi,Rookidee,False,Normal/Rookidee.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
 flying_taxi,Flying Taxi,Vullaby,False,Normal/Vullaby.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
+flying_taxi_taken_over,Flying Taxi: Taken Over,Reshiram,False,Normal/Reshiram.png,Event — Shadow — Normal,Event,Event,,,"Rescue Shadow Reshiram and more during Flying Taxi: Taken Over! The Flying Taxi: Taken Over event will take place from June 25, 2026 at 12 am to June 29, 2026 at 8 pm."
+flying_taxi_taken_over,Flying Taxi: Taken Over,Reshiram,False,Normal/Reshiram.png,Raids — Shadow — Normal,Raid,Raids,,,Save Shadow Reshiram!
+flying_taxi_taken_over,Flying Taxi: Taken Over,Reshiram,False,Normal/Reshiram.png,Raids — Normal,Raid,Raids,,,Reshiram
+flying_taxi_taken_over,Flying Taxi: Taken Over,Reshiram,True,Shiny/Reshiram_shiny.png,Raids — Shiny,Raid,Raids,,,Reshiram
+flying_taxi_taken_over,Flying Taxi: Taken Over,Reshiram,False,Normal/Reshiram.png,Raids — Normal,Raid,Raids,,,Reshiram
+flying_taxi_taken_over,Flying Taxi: Taken Over,Seel,False,Normal/Seel.png,Raids — Normal,Raid,Raids,,,Seel
+flying_taxi_taken_over,Flying Taxi: Taken Over,Seel,True,Shiny/Seel_shiny.png,Raids — Shiny,Raid,Raids,,,Seel
+flying_taxi_taken_over,Flying Taxi: Taken Over,Seel,False,Normal/Seel.png,Raids — Normal,Raid,Raids,,,Seel
+flying_taxi_taken_over,Flying Taxi: Taken Over,Hoothoot,False,Normal/Hoothoot.png,Raids — Normal,Raid,Raids,,,Hoothoot
+flying_taxi_taken_over,Flying Taxi: Taken Over,Hoothoot,True,Shiny/Hoothoot_shiny.png,Raids — Shiny,Raid,Raids,,,Hoothoot
+flying_taxi_taken_over,Flying Taxi: Taken Over,Hoothoot,False,Normal/Hoothoot.png,Raids — Normal,Raid,Raids,,,Hoothoot
+flying_taxi_taken_over,Flying Taxi: Taken Over,Noibat,False,Normal/Noibat.png,Raids — Normal,Raid,Raids,,,Noibat
+flying_taxi_taken_over,Flying Taxi: Taken Over,Noibat,True,Shiny/Noibat_shiny.png,Raids — Shiny,Raid,Raids,,,Noibat
+flying_taxi_taken_over,Flying Taxi: Taken Over,Noibat,False,Normal/Noibat.png,Raids — Normal,Raid,Raids,,,Noibat
+flying_taxi_taken_over,Flying Taxi: Taken Over,Rookidee,False,Normal/Rookidee.png,Raids — Normal,Raid,Raids,,,Rookidee
+flying_taxi_taken_over,Flying Taxi: Taken Over,Rookidee,True,Shiny/Rookidee_shiny.png,Raids — Shiny,Raid,Raids,,,Rookidee
+flying_taxi_taken_over,Flying Taxi: Taken Over,Rookidee,False,Normal/Rookidee.png,Raids — Normal,Raid,Raids,,,Rookidee
+flying_taxi_taken_over,Flying Taxi: Taken Over,Pidgeotto,False,Normal/Pidgeotto.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
+flying_taxi_taken_over,Flying Taxi: Taken Over,Hoothoot,False,Normal/Hoothoot.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
+flying_taxi_taken_over,Flying Taxi: Taken Over,Rookidee,False,Normal/Rookidee.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
+flying_taxi_taken_over,Flying Taxi: Taken Over,Vullaby,False,Normal/Vullaby.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Community Day — Saturday — Normal,Event,Community Day,Saturday,,"Frigibax Community Day Community Day Starts: Saturday, June 20, 2026, at 2:00 PM Local Time Ends: Saturday, June 20, 2026, at 5:00 PM Local Time"
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Take a few snapshots during Community Day for a surprise! During the event you can snap an AR Photo and get photobombed by Frigibax.
 frigibax_community_day,Frigibax Community Day,Frigibax,False,Normal/Frigibax.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Frigibax
