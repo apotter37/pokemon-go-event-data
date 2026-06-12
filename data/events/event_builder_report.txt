@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 15
-Current events: 7
+Events kept after cleanup: 16
+Current events: 8
 Upcoming events: 8
-Official news items found: 20
+Official news items found: 19
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 429
+Matched entries: 482
 Unmatched candidates: 4
 No-match debug rows: 4
 
@@ -26,6 +26,11 @@ Events written:
   Entries: 0
   File: current/choose_your_path_choose_your_path_choose_your_path_fairy_trail.json
   URL: https://leekduck.com/events/choose-your-path-fairy-trail-2026/
+- [current] Event: 10th Anniversary Party
+  Date: Mon, Jul 6, at 8:00 PM
+  Entries: 38
+  File: current/10th_anniversary_party.json
+  URL: https://leekduck.com/events/10th-anniversary-party/
 - [current] Event: Candela's Quest for Victory
   Date: Mon, Jun 15, at 8:00 PM
   Entries: 39

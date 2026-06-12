@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11 14:26:31",
+  "generated_at": "2026-06-12 12:41:47",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -31,6 +31,15 @@
       "file": "current/choose_your_path_choose_your_path_choose_your_path_fairy_trail.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/"
+    },
+    {
+      "id": "10th_anniversary_party",
+      "title": "10th Anniversary Party",
+      "category": "Event",
+      "date_text": "Mon, Jul 6, at 8:00 PM",
+      "file": "current/10th_anniversary_party.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/10th-anniversary-party/"
     },
     {
       "id": "candela_s_quest_for_victory",

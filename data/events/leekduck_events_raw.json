@@ -36,6 +36,17 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
+    "title": "10th Anniversary Party",
+    "url": "https://leekduck.com/events/10th-anniversary-party/",
+    "date_text": "Mon, Jul 6, at 8:00 PM",
+    "raw_text": "Event Event 10th Anniversary Party Mon, Jul 6, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "10th_anniversary_party",
+    "file": "current/10th_anniversary_party.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
     "title": "Candela's Quest for Victory",
     "url": "https://leekduck.com/events/candelas-quest-for-victory/",
     "date_text": "Mon, Jun 15, at 8:00 PM",
