@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14 17:02:31",
+  "generated_at": "2026-06-15 18:12:54",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -105,6 +105,15 @@
       "file": "upcoming/hatch_day_august_2026.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/hatch-day-august-2026/"
+    },
+    {
+      "id": "raichu_super_mega_raid_day",
+      "title": "Raichu Super Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Jul 18, at 5:00 PM",
+      "file": "upcoming/raichu_super_mega_raid_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/"
     },
     {
       "id": "weekend_event",

@@ -123,6 +123,17 @@
   {
     "source": "LeekDuck",
     "status": "upcoming",
+    "category": "Raid Day",
+    "title": "Raichu Super Mega Raid Day",
+    "url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/",
+    "date_text": "Sat, Jul 18, at 5:00 PM",
+    "raw_text": "Raid Day Raid Day Raichu Super Mega Raid Day Sat, Jul 18, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "raichu_super_mega_raid_day",
+    "file": "upcoming/raichu_super_mega_raid_day.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "upcoming",
     "category": "Event",
     "title": "Weekend Event",
     "url": "https://leekduck.com/events/weekend-event-july-2026/",

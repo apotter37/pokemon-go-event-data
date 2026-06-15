@@ -1,17 +1,17 @@
 {
-  "id": "skarmory_super_mega_raid_day",
-  "title": "Skarmory Super Mega Raid Day",
+  "id": "raichu_super_mega_raid_day",
+  "title": "Raichu Super Mega Raid Day",
   "status": "upcoming",
   "category": "Raid Day",
-  "date_text": "Sat, Jun 27, at 5:00 PM",
+  "date_text": "Sat, Jul 18, at 5:00 PM",
   "source": "LeekDuck",
-  "source_url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
-  "generated_at": "2026-06-15 18:12:41",
+  "source_url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/",
+  "generated_at": "2026-06-15 18:12:38",
   "entries": [
     {
-      "dex": 227,
-      "name": "Skarmory",
-      "uri": "file:///android_asset/Pokemon/Normal/Skarmory.png",
+      "dex": 26,
+      "name": "Raichu",
+      "uri": "file:///android_asset/Pokemon/Normal/Raichu.png",
       "label": "Raid Day — Saturday — Mega Super — Normal",
       "availability": "Raid",
       "section": "Raid Day",
@@ -21,12 +21,12 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega Super",
-      "source_text": "Skarmory Super Mega Raid Day Raid Day Starts: Saturday, June 27, 2026, at 2:00 PM Local Time Ends: Saturday, June 27, 2026, at 5:00 PM Local Time"
+      "source_text": "Raichu Super Mega Raid Day Raid Day Starts: Saturday, July 18, 2026, at 2:00 PM Local Time Ends: Saturday, July 18, 2026, at 5:00 PM Local Time"
     },
     {
-      "dex": 227,
-      "name": "Skarmory",
-      "uri": "file:///android_asset/Pokemon/Normal/Skarmory.png",
+      "dex": 26,
+      "name": "Raichu",
+      "uri": "file:///android_asset/Pokemon/Normal/Raichu.png",
       "label": "Raids — Saturday — Mega Super — Normal",
       "availability": "Raid",
       "section": "Raids",
@@ -36,12 +36,12 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega Super",
-      "source_text": "Remote Raid Pass limit increased to 20 from Friday, June 26, at 5:00 p.m. to Saturday, June 27, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Increased chance of encountering Shiny Skarmory from Super Mega Raids"
+      "source_text": "Remote Raid Pass limit increased to 20 from Friday, July 17, at 5:00 p.m. to Saturday, July 18, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Raichu caught from Super Mega Raids will have Mega Level 1 unlocked Increased chance of encountering Shiny Raichu from Super Mega Raids"
     },
     {
-      "dex": 227,
-      "name": "Skarmory",
-      "uri": "file:///android_asset/Pokemon/Shiny/Skarmory_shiny.png",
+      "dex": 26,
+      "name": "Raichu",
+      "uri": "file:///android_asset/Pokemon/Shiny/Raichu_shiny.png",
       "label": "Raids — Saturday — Mega Super — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -51,12 +51,12 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega Super",
-      "source_text": "Remote Raid Pass limit increased to 20 from Friday, June 26, at 5:00 p.m. to Saturday, June 27, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Increased chance of encountering Shiny Skarmory from Super Mega Raids"
+      "source_text": "Remote Raid Pass limit increased to 20 from Friday, July 17, at 5:00 p.m. to Saturday, July 18, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Raichu caught from Super Mega Raids will have Mega Level 1 unlocked Increased chance of encountering Shiny Raichu from Super Mega Raids"
     },
     {
-      "dex": 227,
-      "name": "Skarmory",
-      "uri": "file:///android_asset/Pokemon/Normal/Skarmory.png",
+      "dex": 26,
+      "name": "Raichu",
+      "uri": "file:///android_asset/Pokemon/Normal/Raichu.png",
       "label": "Raids — Saturday — Mega — Normal",
       "availability": "Raid",
       "section": "Raids",
@@ -66,12 +66,12 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Mega Skarmory"
+      "source_text": "Mega Raichu X"
     },
     {
-      "dex": 227,
-      "name": "Skarmory",
-      "uri": "file:///android_asset/Pokemon/Shiny/Skarmory_shiny.png",
+      "dex": 26,
+      "name": "Raichu",
+      "uri": "file:///android_asset/Pokemon/Shiny/Raichu_shiny.png",
       "label": "Raids — Saturday — Mega — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -81,12 +81,12 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Mega Skarmory"
+      "source_text": "Mega Raichu X"
     },
     {
-      "dex": 227,
-      "name": "Skarmory",
-      "uri": "file:///android_asset/Pokemon/Normal/Skarmory.png",
+      "dex": 26,
+      "name": "Raichu",
+      "uri": "file:///android_asset/Pokemon/Normal/Raichu.png",
       "label": "Raids — Saturday — Normal",
       "availability": "Raid",
       "section": "Raids",
@@ -96,12 +96,12 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Skarmory"
+      "source_text": "Raichu"
     },
     {
-      "dex": 227,
-      "name": "Skarmory",
-      "uri": "file:///android_asset/Pokemon/Shiny/Skarmory_shiny.png",
+      "dex": 26,
+      "name": "Raichu",
+      "uri": "file:///android_asset/Pokemon/Shiny/Raichu_shiny.png",
       "label": "Raids — Saturday — Shiny",
       "availability": "Raid",
       "section": "Raids",
@@ -111,12 +111,12 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Skarmory"
+      "source_text": "Raichu"
     },
     {
-      "dex": 227,
-      "name": "Skarmory",
-      "uri": "file:///android_asset/Pokemon/Normal/Skarmory.png",
+      "dex": 26,
+      "name": "Raichu",
+      "uri": "file:///android_asset/Pokemon/Normal/Raichu.png",
       "label": "Timed Research — Saturday — Mega Super — Normal",
       "availability": "Raid",
       "section": "Timed Research",
@@ -126,12 +126,12 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega Super",
-      "source_text": "Skarmory Super Mega Raid Day (1/1)"
+      "source_text": "Raichu Super Mega Raid Day (1/1)"
     },
     {
-      "dex": 229,
-      "name": "Houndoom",
-      "uri": "file:///android_asset/Pokemon/Normal/Houndoom.png",
+      "dex": 208,
+      "name": "Steelix",
+      "uri": "file:///android_asset/Pokemon/Normal/Steelix.png",
       "label": "Timed Research — Saturday — Normal",
       "availability": "Research",
       "section": "Timed Research",
@@ -141,7 +141,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Timed Research will be available to Trainers during the event. Complete the research tasks to earn a Premium Battle Pass and an encounter with Houndoom."
+      "source_text": "Timed Research will be available to Trainers during the event. Complete the research tasks to earn a Premium Battle Pass and an encounter with Steelix."
     }
   ]
 }
