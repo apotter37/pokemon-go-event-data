@@ -60,20 +60,6 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "Candela's Quest for Victory",
-      "url": "https://leekduck.com/events/candelas-quest-for-victory/",
-      "date_text": "Mon, Jun 15, at 8:00 PM",
-      "raw_text": "Event Event Candela's Quest for Victory Mon, Jun 15, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "candela_s_quest_for_victory",
-      "file": "current/candela_s_quest_for_victory.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
       "title": "Flying Taxi",
       "url": "https://leekduck.com/events/flying-taxi-2026/",
       "date_text": "Mon, Jun 29, at 8:00 PM",
@@ -234,14 +220,20 @@
       "source": "LeekDuck",
       "status": "upcoming",
       "category": "Community Day",
-      "title": "July Community Day",
+      "title": "Sobble Community Day",
       "url": "https://leekduck.com/events/july-communityday2026/",
       "date_text": "Sat, Jul 4, at 5:00 PM",
-      "raw_text": "Community Day Community Day July Community Day Sat, Jul 4, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "july_community_day",
-      "file": "upcoming/july_community_day.json"
+      "raw_text": "Community Day Community Day Sobble Community Day Sat, Jul 4, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "sobble_community_day",
+      "file": "upcoming/sobble_community_day.json"
     },
-    "official_matches": []
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "July 2026 Community Day: Sobble",
+        "url": "https://pokemongo.com/news/communityday-july-2026-sobble"
+      }
+    ]
   },
   {
     "event": {

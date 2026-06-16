@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 17
-Current events: 8
+Events kept after cleanup: 16
+Current events: 7
 Upcoming events: 9
 Official news items found: 19
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 494
+Matched entries: 458
 Unmatched candidates: 4
 No-match debug rows: 4
 
@@ -31,11 +31,6 @@ Events written:
   Entries: 38
   File: current/10th_anniversary_party.json
   URL: https://leekduck.com/events/10th-anniversary-party/
-- [current] Event: Candela's Quest for Victory
-  Date: Mon, Jun 15, at 8:00 PM
-  Entries: 39
-  File: current/candela_s_quest_for_victory.json
-  URL: https://leekduck.com/events/candelas-quest-for-victory/
 - [current] Event: Flying Taxi
   Date: Mon, Jun 29, at 8:00 PM
   Entries: 20
@@ -76,10 +71,10 @@ Events written:
   Entries: 0
   File: upcoming/weekend_event.json
   URL: https://leekduck.com/events/weekend-event-july-2026/
-- [upcoming] Community Day: July Community Day
+- [upcoming] Community Day: Sobble Community Day
   Date: Sat, Jul 4, at 5:00 PM
-  Entries: 0
-  File: upcoming/july_community_day.json
+  Entries: 14
+  File: upcoming/sobble_community_day.json
   URL: https://leekduck.com/events/july-communityday2026/
 - [upcoming] Community Day: Frigibax Community Day
   Date: Sat, Jun 20, at 5:00 PM
