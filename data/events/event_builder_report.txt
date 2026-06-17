@@ -6,7 +6,7 @@ Upcoming events: 9
 Official news items found: 19
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 458
+Matched entries: 467
 Unmatched candidates: 4
 No-match debug rows: 4
 
@@ -43,7 +43,7 @@ Events written:
   URL: https://leekduck.com/events/flying-taxi-taken-over-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Fossil Fun
   Date: Sun, Jun 21, at 8:00 PM
-  Entries: 0
+  Entries: 8
   File: current/choose_your_path_choose_your_path_choose_your_path_fossil_fun.json
   URL: https://leekduck.com/events/choose-your-path-fossil-fun-2026/
 - [upcoming] Community Day: August Community Day
