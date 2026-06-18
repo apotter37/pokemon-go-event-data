@@ -101,26 +101,6 @@
     "event": {
       "source": "LeekDuck",
       "status": "upcoming",
-      "category": "Community Day",
-      "title": "August Community Day",
-      "url": "https://leekduck.com/events/august-communityday2026/",
-      "date_text": "Sat, Aug 15, at 5:00 PM",
-      "raw_text": "Community Day Community Day August Community Day Sat, Aug 15, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "august_community_day",
-      "file": "upcoming/august_community_day.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "Frigibax will be featured in June Community Day, and Community Day voting is back for August!",
-        "url": "https://pokemongo.com/news/communityday-june-2026-frigibax"
-      }
-    ]
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "upcoming",
       "category": "Raid Day",
       "title": "Raid Day August 2026",
       "url": "https://leekduck.com/events/raid-day-august-2026/",
@@ -299,6 +279,26 @@
     "event": {
       "source": "LeekDuck",
       "status": "upcoming",
+      "category": "Community Day",
+      "title": "August Community Day",
+      "url": "https://leekduck.com/events/august-communityday2026/",
+      "date_text": "Sun, Aug 16, at 5:00 PM",
+      "raw_text": "Community Day Community Day August Community Day Sun, Aug 16, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "august_community_day",
+      "file": "upcoming/august_community_day.json"
+    },
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Frigibax will be featured in June Community Day, and Community Day voting is back for August!",
+        "url": "https://pokemongo.com/news/communityday-june-2026-frigibax"
+      }
+    ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "upcoming",
       "category": "Pokémon GO Fest",
       "title": "Pokémon GO Fest 2026: Global",
       "url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
@@ -308,6 +308,16 @@
       "file": "upcoming/pokemon_go_fest_2026_global.json"
     },
     "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Get ready for Pokemon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!",
+        "url": "https://pokemongo.com/news/community-celebrations-go-fest-2026-details-asia-pacific"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "Get ready for Pokemon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!",
+        "url": "https://pokemongo.com/news/community-celebrations-go-fest-2026-details-en"
+      },
       {
         "source": "Official Pokémon GO",
         "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Copenhagen Park Experience",
@@ -322,16 +332,6 @@
         "source": "Official Pokémon GO",
         "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Chicago Park Experience",
         "url": "https://pokemongo.com/news/gofest-chicago-super-mega-raid"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Pokemon GO Fest 2026: Chicago Community Ambassador Meet-ups",
-        "url": "https://pokemongo.com/news/go-fest-chicago-2026-community"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Know before you GO to Pokemon GO Fest 2026: Tokyo, Chicago, and Copenhagen",
-        "url": "https://pokemongo.com/news/know-before-you-go-gofest-2026-in-person-events"
       }
     ]
   }

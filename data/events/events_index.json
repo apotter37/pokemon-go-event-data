@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17 13:04:03",
+  "generated_at": "2026-06-18 12:34:51",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -71,15 +71,6 @@
   ],
   "upcoming": [
     {
-      "id": "august_community_day",
-      "title": "August Community Day",
-      "category": "Community Day",
-      "date_text": "Sat, Aug 15, at 5:00 PM",
-      "file": "upcoming/august_community_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/august-communityday2026/"
-    },
-    {
       "id": "raid_day_august_2026",
       "title": "Raid Day August 2026",
       "category": "Raid Day",
@@ -141,6 +132,15 @@
       "file": "upcoming/skarmory_super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/"
+    },
+    {
+      "id": "august_community_day",
+      "title": "August Community Day",
+      "category": "Community Day",
+      "date_text": "Sun, Aug 16, at 5:00 PM",
+      "file": "upcoming/august_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/august-communityday2026/"
     },
     {
       "id": "pokemon_go_fest_2026_global",
