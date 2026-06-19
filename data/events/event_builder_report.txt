@@ -1,16 +1,21 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 16
-Current events: 7
+Events kept after cleanup: 17
+Current events: 8
 Upcoming events: 9
-Official news items found: 20
+Official news items found: 21
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 467
+Matched entries: 771
 Unmatched candidates: 4
 No-match debug rows: 4
 
 Events written:
+- [current] Event: Road of Legends
+  Date: Fri, Jul 10, at 11:59 PM
+  Entries: 205
+  File: current/road_of_legends.json
+  URL: https://leekduck.com/events/road-of-legends-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Charged Embers
   Date: Fri, Jul 3, at 8:00 PM
   Entries: 0

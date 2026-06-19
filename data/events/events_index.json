@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-06-18 12:34:51",
+  "generated_at": "2026-06-19 18:13:14",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
   ],
   "current": [
+    {
+      "id": "road_of_legends",
+      "title": "Road of Legends",
+      "category": "Event",
+      "date_text": "Fri, Jul 10, at 11:59 PM",
+      "file": "current/road_of_legends.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/road-of-legends-2026/"
+    },
     {
       "id": "choose_your_path_choose_your_path_choose_your_path_charged_embers",
       "title": "Choose Your Path Choose Your Path Choose Your Path: Charged Embers",

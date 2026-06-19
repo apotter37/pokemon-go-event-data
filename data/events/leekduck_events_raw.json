@@ -3,6 +3,17 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
+    "title": "Road of Legends",
+    "url": "https://leekduck.com/events/road-of-legends-2026/",
+    "date_text": "Fri, Jul 10, at 11:59 PM",
+    "raw_text": "Event Event Road of Legends Fri, Jul 10, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "road_of_legends",
+    "file": "current/road_of_legends.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
     "title": "Choose Your Path Choose Your Path Choose Your Path: Charged Embers",
     "url": "https://leekduck.com/events/choose-your-path-charged-embers-2026/",
     "date_text": "Fri, Jul 3, at 8:00 PM",
