@@ -1,8 +1,8 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 17
-Current events: 8
-Upcoming events: 9
+Current events: 9
+Upcoming events: 8
 Official news items found: 21
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
@@ -46,6 +46,11 @@ Events written:
   Entries: 16
   File: current/flying_taxi_taken_over.json
   URL: https://leekduck.com/events/flying-taxi-taken-over-2026/
+- [current] Community Day: Frigibax Community Day
+  Date: Sat, Jun 20, at 5:00 PM
+  Entries: 14
+  File: current/frigibax_community_day.json
+  URL: https://leekduck.com/events/june-communityday2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Fossil Fun
   Date: Sun, Jun 21, at 8:00 PM
   Entries: 8
@@ -76,11 +81,6 @@ Events written:
   Entries: 14
   File: upcoming/sobble_community_day.json
   URL: https://leekduck.com/events/july-communityday2026/
-- [upcoming] Community Day: Frigibax Community Day
-  Date: Sat, Jun 20, at 5:00 PM
-  Entries: 14
-  File: upcoming/frigibax_community_day.json
-  URL: https://leekduck.com/events/june-communityday2026/
 - [upcoming] Raid Day: Skarmory Super Mega Raid Day
   Date: Sat, Jun 27, at 5:00 PM
   Entries: 9

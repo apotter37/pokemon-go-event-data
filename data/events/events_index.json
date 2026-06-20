@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19 18:13:14",
+  "generated_at": "2026-06-20 10:21:32",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -69,6 +69,15 @@
       "source_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/"
     },
     {
+      "id": "frigibax_community_day",
+      "title": "Frigibax Community Day",
+      "category": "Community Day",
+      "date_text": "Sat, Jun 20, at 5:00 PM",
+      "file": "current/frigibax_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/june-communityday2026/"
+    },
+    {
       "id": "choose_your_path_choose_your_path_choose_your_path_fossil_fun",
       "title": "Choose Your Path Choose Your Path Choose Your Path: Fossil Fun",
       "category": "Event",
@@ -123,15 +132,6 @@
       "file": "upcoming/sobble_community_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/july-communityday2026/"
-    },
-    {
-      "id": "frigibax_community_day",
-      "title": "Frigibax Community Day",
-      "category": "Community Day",
-      "date_text": "Sat, Jun 20, at 5:00 PM",
-      "file": "upcoming/frigibax_community_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/june-communityday2026/"
     },
     {
       "id": "skarmory_super_mega_raid_day",

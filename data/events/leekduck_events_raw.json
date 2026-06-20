@@ -79,6 +79,17 @@
   {
     "source": "LeekDuck",
     "status": "current",
+    "category": "Community Day",
+    "title": "Frigibax Community Day",
+    "url": "https://leekduck.com/events/june-communityday2026/",
+    "date_text": "Sat, Jun 20, at 5:00 PM",
+    "raw_text": "Community Day Community Day Frigibax Community Day Sat, Jun 20, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "frigibax_community_day",
+    "file": "current/frigibax_community_day.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
     "category": "Event",
     "title": "Choose Your Path Choose Your Path Choose Your Path: Fossil Fun",
     "url": "https://leekduck.com/events/choose-your-path-fossil-fun-2026/",
@@ -141,17 +152,6 @@
     "raw_text": "Community Day Community Day Sobble Community Day Sat, Jul 4, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "sobble_community_day",
     "file": "upcoming/sobble_community_day.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "upcoming",
-    "category": "Community Day",
-    "title": "Frigibax Community Day",
-    "url": "https://leekduck.com/events/june-communityday2026/",
-    "date_text": "Sat, Jun 20, at 5:00 PM",
-    "raw_text": "Community Day Community Day Frigibax Community Day Sat, Jun 20, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "frigibax_community_day",
-    "file": "upcoming/frigibax_community_day.json"
   },
   {
     "source": "LeekDuck",
