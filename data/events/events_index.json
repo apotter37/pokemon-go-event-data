@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22 18:41:18",
+  "generated_at": "2026-06-23 04:19:20",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -42,6 +42,24 @@
       "source_url": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/"
     },
     {
+      "id": "july_event",
+      "title": "July Event",
+      "category": "Event",
+      "date_text": "Mon, Jul 20, at 8:00 PM",
+      "file": "current/july_event.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/july-event-2026/"
+    },
+    {
+      "id": "july_event_july_21",
+      "title": "July Event - July 21",
+      "category": "Event",
+      "date_text": "Mon, Jul 27, at 8:00 PM",
+      "file": "current/july_event_july_21.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/july-event-2026-july-21/"
+    },
+    {
       "id": "10th_anniversary_party",
       "title": "10th Anniversary Party",
       "category": "Event",
@@ -67,24 +85,6 @@
       "file": "current/flying_taxi_taken_over.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/"
-    },
-    {
-      "id": "frigibax_community_day",
-      "title": "Frigibax Community Day",
-      "category": "Community Day",
-      "date_text": "Sat, Jun 20, at 5:00 PM",
-      "file": "current/frigibax_community_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/june-communityday2026/"
-    },
-    {
-      "id": "choose_your_path_choose_your_path_choose_your_path_fossil_fun",
-      "title": "Choose Your Path Choose Your Path Choose Your Path: Fossil Fun",
-      "category": "Event",
-      "date_text": "Sun, Jun 21, at 8:00 PM",
-      "file": "current/choose_your_path_choose_your_path_choose_your_path_fossil_fun.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/choose-your-path-fossil-fun-2026/"
     }
   ],
   "upcoming": [

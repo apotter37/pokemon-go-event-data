@@ -7,8 +7,8 @@ Official news items found: 21
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
 Matched entries: 771
-Unmatched candidates: 4
-No-match debug rows: 4
+Unmatched candidates: 6
+No-match debug rows: 6
 
 Events written:
 - [current] Event: Road of Legends
@@ -31,6 +31,16 @@ Events written:
   Entries: 0
   File: current/choose_your_path_choose_your_path_choose_your_path_fairy_trail.json
   URL: https://leekduck.com/events/choose-your-path-fairy-trail-2026/
+- [current] Event: July Event
+  Date: Mon, Jul 20, at 8:00 PM
+  Entries: 0
+  File: current/july_event.json
+  URL: https://leekduck.com/events/july-event-2026/
+- [current] Event: July Event - July 21
+  Date: Mon, Jul 27, at 8:00 PM
+  Entries: 0
+  File: current/july_event_july_21.json
+  URL: https://leekduck.com/events/july-event-2026-july-21/
 - [current] Event: 10th Anniversary Party
   Date: Mon, Jul 6, at 8:00 PM
   Entries: 38
@@ -38,24 +48,14 @@ Events written:
   URL: https://leekduck.com/events/10th-anniversary-party/
 - [current] Event: Flying Taxi
   Date: Mon, Jun 29, at 8:00 PM
-  Entries: 20
+  Entries: 36
   File: current/flying_taxi.json
   URL: https://leekduck.com/events/flying-taxi-2026/
 - [current] Event: Flying Taxi: Taken Over
   Date: Mon, Jun 29, at 8:00 PM
-  Entries: 16
+  Entries: 23
   File: current/flying_taxi_taken_over.json
   URL: https://leekduck.com/events/flying-taxi-taken-over-2026/
-- [current] Community Day: Frigibax Community Day
-  Date: Sat, Jun 20, at 5:00 PM
-  Entries: 14
-  File: current/frigibax_community_day.json
-  URL: https://leekduck.com/events/june-communityday2026/
-- [current] Event: Choose Your Path Choose Your Path Choose Your Path: Fossil Fun
-  Date: Sun, Jun 21, at 8:00 PM
-  Entries: 8
-  File: current/choose_your_path_choose_your_path_choose_your_path_fossil_fun.json
-  URL: https://leekduck.com/events/choose-your-path-fossil-fun-2026/
 - [upcoming] Raid Day: Raid Day August 2026
   Date: Sat, Aug 22, at 5:00 PM
   Entries: 0
