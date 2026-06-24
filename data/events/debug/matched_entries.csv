@@ -421,6 +421,15 @@ flying_taxi_taken_over,Flying Taxi: Taken Over,Noibat,False,Normal/Noibat.png,Ra
 flying_taxi_taken_over,Flying Taxi: Taken Over,Rookidee,False,Normal/Rookidee.png,Raids — Normal,Raid,Raids,,,Rookidee
 flying_taxi_taken_over,Flying Taxi: Taken Over,Rookidee,True,Shiny/Rookidee_shiny.png,Raids — Shiny,Raid,Raids,,,Rookidee
 flying_taxi_taken_over,Flying Taxi: Taken Over,Rookidee,False,Normal/Rookidee.png,Raids — Normal,Raid,Raids,,,Rookidee
+flying_taxi_taken_over,Flying Taxi: Taken Over,Tyrunt,False,Normal/Tyrunt.png,Raids — Normal,Raid,Raids,,,Arlo - Tyrunt
+flying_taxi_taken_over,Flying Taxi: Taken Over,Axew,False,Normal/Axew.png,Raids — Normal,Raid,Raids,,,Cliff - Axew
+flying_taxi_taken_over,Flying Taxi: Taken Over,Amaura,False,Normal/Amaura.png,Raids — Normal,Raid,Raids,,,Sierra - Amaura
+flying_taxi_taken_over,Flying Taxi: Taken Over,Tyrunt,False,Normal/Tyrunt.png,Raids — Normal,Raid,Raids,,,Tyrunt
+flying_taxi_taken_over,Flying Taxi: Taken Over,Tyrunt,True,Shiny/Tyrunt_shiny.png,Raids — Shiny,Raid,Raids,,,Tyrunt
+flying_taxi_taken_over,Flying Taxi: Taken Over,Axew,False,Normal/Axew.png,Raids — Normal,Raid,Raids,,,Axew
+flying_taxi_taken_over,Flying Taxi: Taken Over,Axew,True,Shiny/Axew_shiny.png,Raids — Shiny,Raid,Raids,,,Axew
+flying_taxi_taken_over,Flying Taxi: Taken Over,Amaura,False,Normal/Amaura.png,Raids — Normal,Raid,Raids,,,Amaura
+flying_taxi_taken_over,Flying Taxi: Taken Over,Amaura,True,Shiny/Amaura_shiny.png,Raids — Shiny,Raid,Raids,,,Amaura
 flying_taxi_taken_over,Flying Taxi: Taken Over,Pidgeotto,False,Normal/Pidgeotto.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
 flying_taxi_taken_over,Flying Taxi: Taken Over,Hoothoot,False,Normal/Hoothoot.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"
 flying_taxi_taken_over,Flying Taxi: Taken Over,Rookidee,False,Normal/Rookidee.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Encounters with Pidgeotto, Hoothoot, Vullaby, Rookidee, and more!"

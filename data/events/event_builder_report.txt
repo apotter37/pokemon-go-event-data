@@ -6,7 +6,7 @@ Upcoming events: 8
 Official news items found: 20
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 771
+Matched entries: 780
 Unmatched candidates: 6
 No-match debug rows: 6
 
@@ -53,7 +53,7 @@ Events written:
   URL: https://leekduck.com/events/flying-taxi-2026/
 - [current] Event: Flying Taxi: Taken Over
   Date: Mon, Jun 29, at 8:00 PM
-  Entries: 23
+  Entries: 29
   File: current/flying_taxi_taken_over.json
   URL: https://leekduck.com/events/flying-taxi-taken-over-2026/
 - [upcoming] Raid Day: Raid Day August 2026
