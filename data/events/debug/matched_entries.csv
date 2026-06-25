@@ -163,6 +163,10 @@ road_of_legends,Road of Legends,Mesprit,True,Shiny/Mesprit_shiny.png,Raids — F
 road_of_legends,Road of Legends,Azelf,False,Normal/Azelf.png,Raids — Friday — Normal,Raid,Raids,Friday,,Azelf
 road_of_legends,Road of Legends,Azelf,True,Shiny/Azelf_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Azelf
 road_of_legends,Road of Legends,Dialga,False,Normal/Dialga.png,Raids — Friday — Normal,Raid,Raids,Friday,,Dialga
+road_of_legends,Road of Legends,Dialga,True,Shiny/Dialga_origin_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Dialga
+road_of_legends,Road of Legends,Dialga,False,Normal/Dialga.png,Raids — Friday — Normal,Raid,Raids,Friday,,Dialga
+road_of_legends,Road of Legends,Dialga,False,Normal/Dialga_origin.png,Raids — Friday — Origin — Normal,Raid,Raids,Friday,,Origin Forme Dialga
+road_of_legends,Road of Legends,Dialga,True,Shiny/Dialga_origin_shiny.png,Raids — Friday — Origin — Shiny,Raid,Raids,Friday,,Origin Forme Dialga
 road_of_legends,Road of Legends,Dialga,False,Normal/Dialga_origin.png,Raids — Friday — Origin — Normal,Raid,Raids,Friday,,Origin Forme Dialga
 road_of_legends,Road of Legends,Palkia,False,Normal/Palkia.png,Raids — Friday — Normal,Raid,Raids,Friday,,Palkia
 road_of_legends,Road of Legends,Palkia,True,Shiny/Palkia_origin_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Palkia
@@ -245,6 +249,8 @@ road_of_legends,Road of Legends,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — F
 road_of_legends,Road of Legends,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tapu Fini
 road_of_legends,Road of Legends,Tapu Fini,True,Shiny/Tapu_Fini_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Tapu Fini
 road_of_legends,Road of Legends,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tapu Fini
+road_of_legends,Road of Legends,Solgaleo,False,Normal/Solgaleo.png,Raids — Friday — Normal,Raid,Raids,Friday,,Solgaleo
+road_of_legends,Road of Legends,Solgaleo,True,Shiny/Solgaleo_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Solgaleo
 road_of_legends,Road of Legends,Solgaleo,False,Normal/Solgaleo.png,Raids — Friday — Normal,Raid,Raids,Friday,,Solgaleo
 road_of_legends,Road of Legends,Lunala,False,Normal/Lunala.png,Raids — Friday — Normal,Raid,Raids,Friday,,Lunala
 road_of_legends,Road of Legends,Nihilego,False,Normal/Nihilego.png,Raids — Friday — Normal,Raid,Raids,Friday,,Nihilego
@@ -573,6 +579,8 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Azelf,False,Normal/Aze
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Azelf,True,Shiny/Azelf_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Azelf
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Azelf,False,Normal/Azelf.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Azelf
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Dialga,False,Normal/Dialga.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Dialga
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Dialga,True,Shiny/Dialga_origin_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Dialga
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Dialga,False,Normal/Dialga.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Dialga
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,False,Normal/Palkia.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Palkia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,True,Shiny/Palkia_origin_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Palkia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,False,Normal/Palkia.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Palkia
@@ -588,6 +596,8 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Xerneas,False,Normal/X
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Yveltal,False,Normal/Yveltal.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Yveltal
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Yveltal,True,Shiny/Yveltal_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Yveltal
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Yveltal,False,Normal/Yveltal.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Yveltal
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Solgaleo,False,Normal/Solgaleo.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Solgaleo
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Solgaleo,True,Shiny/Solgaleo_shiny.png,Raids — Saturday — Saturday Habitat Raids — Shiny,Raid,Raids,Saturday,Saturday Habitat Raids,Solgaleo
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Solgaleo,False,Normal/Solgaleo.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Solgaleo
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Lunala,False,Normal/Lunala.png,Raids — Saturday — Saturday Habitat Raids — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Lunala
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Pidgeot,False,Mega/Pidgeot_mega.png,Raids — Saturday — Saturday Habitat Raids — Mega — Normal,Raid,Raids,Saturday,Saturday Habitat Raids,Mega Pidgeot
@@ -635,6 +645,8 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regice,False,Normal/Re
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Registeel,False,Normal/Registeel.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Registeel
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Registeel,True,Shiny/Registeel_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Registeel
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Registeel,False,Normal/Registeel.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Registeel
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Dialga,False,Normal/Dialga_origin.png,Raids — Sunday — Sunday Habitat Raids — Origin — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Origin Forme Dialga
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Dialga,True,Shiny/Dialga_origin_shiny.png,Raids — Sunday — Sunday Habitat Raids — Origin — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Origin Forme Dialga
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Dialga,False,Normal/Dialga_origin.png,Raids — Sunday — Sunday Habitat Raids — Origin — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Origin Forme Dialga
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,False,Normal/Palkia_origin.png,Raids — Sunday — Sunday Habitat Raids — Origin — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Origin Forme Palkia
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Palkia,True,Shiny/Palkia_origin_shiny.png,Raids — Sunday — Sunday Habitat Raids — Origin — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Origin Forme Palkia
