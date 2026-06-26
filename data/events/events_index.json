@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25 15:15:00",
+  "generated_at": "2026-06-26 04:38:27",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -42,13 +42,13 @@
       "source_url": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/"
     },
     {
-      "id": "july_event",
-      "title": "July Event",
+      "id": "special_anniversary_pikachu_celebration",
+      "title": "Special Anniversary Pikachu Celebration",
       "category": "Event",
       "date_text": "Mon, Jul 20, at 8:00 PM",
-      "file": "current/july_event.json",
+      "file": "current/special_anniversary_pikachu_celebration.json",
       "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/july-event-2026/"
+      "source_url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/"
     },
     {
       "id": "july_event_july_21",

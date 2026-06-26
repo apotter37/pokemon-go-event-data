@@ -6,7 +6,7 @@ Upcoming events: 8
 Official news items found: 20
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 792
+Matched entries: 813
 Unmatched candidates: 6
 No-match debug rows: 6
 
@@ -31,11 +31,11 @@ Events written:
   Entries: 0
   File: current/choose_your_path_choose_your_path_choose_your_path_fairy_trail.json
   URL: https://leekduck.com/events/choose-your-path-fairy-trail-2026/
-- [current] Event: July Event
+- [current] Event: Special Anniversary Pikachu Celebration
   Date: Mon, Jul 20, at 8:00 PM
-  Entries: 0
-  File: current/july_event.json
-  URL: https://leekduck.com/events/july-event-2026/
+  Entries: 14
+  File: current/special_anniversary_pikachu_celebration.json
+  URL: https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/
 - [current] Event: July Event - July 21
   Date: Mon, Jul 27, at 8:00 PM
   Entries: 0
