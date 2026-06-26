@@ -1,0 +1,57 @@
+{
+  "id": "ozone_ascent",
+  "title": "Ozone Ascent",
+  "status": "current",
+  "category": "Event",
+  "date_text": "Sun, Jul 26, at 8:00 PM",
+  "source": "LeekDuck",
+  "source_url": "https://leekduck.com/events/ozone-ascent-2026/",
+  "generated_at": "2026-06-26 14:45:49",
+  "entries": [
+    {
+      "dex": 384,
+      "name": "Rayquaza",
+      "uri": "file:///android_asset/Pokemon/Mega/Rayquaza_mega.png",
+      "label": "Timed Research — Sunday — Mega — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Complete the research tasks to earn a Meteorite, Rayquaza Mega Energy, an encounter with Rayquaza, and more!"
+    },
+    {
+      "dex": 384,
+      "name": "Rayquaza",
+      "uri": "file:///android_asset/Pokemon/Normal/Rayquaza.png",
+      "label": "Timed Research — Sunday — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
+    },
+    {
+      "dex": 384,
+      "name": "Rayquaza",
+      "uri": "file:///android_asset/Pokemon/Shiny/Rayquaza_shiny.png",
+      "label": "Timed Research — Sunday — Shiny",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Rayquaza"
+    }
+  ]
+}

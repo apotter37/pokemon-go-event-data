@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 17
-Current events: 9
-Upcoming events: 8
-Official news items found: 20
+Current events: 10
+Upcoming events: 7
+Official news items found: 19
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 813
+Matched entries: 823
 Unmatched candidates: 6
 No-match debug rows: 6
 
@@ -36,11 +36,6 @@ Events written:
   Entries: 14
   File: current/special_anniversary_pikachu_celebration.json
   URL: https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/
-- [current] Event: July Event - July 21
-  Date: Mon, Jul 27, at 8:00 PM
-  Entries: 0
-  File: current/july_event_july_21.json
-  URL: https://leekduck.com/events/july-event-2026-july-21/
 - [current] Event: 10th Anniversary Party
   Date: Mon, Jul 6, at 8:00 PM
   Entries: 38
@@ -56,6 +51,16 @@ Events written:
   Entries: 29
   File: current/flying_taxi_taken_over.json
   URL: https://leekduck.com/events/flying-taxi-taken-over-2026/
+- [current] Event: Ozone Ascent
+  Date: Sun, Jul 26, at 8:00 PM
+  Entries: 3
+  File: current/ozone_ascent.json
+  URL: https://leekduck.com/events/ozone-ascent-2026/
+- [current] Event: Happy Birthday, Professor Willow!
+  Date: Tue, Jul 21, at 8:00 PM
+  Entries: 5
+  File: current/happy_birthday_professor_willow.json
+  URL: https://leekduck.com/events/happy-birthday-professor-willow-2026/
 - [upcoming] Raid Day: Raid Day August 2026
   Date: Sat, Aug 22, at 5:00 PM
   Entries: 0
@@ -71,11 +76,6 @@ Events written:
   Entries: 9
   File: upcoming/raichu_super_mega_raid_day.json
   URL: https://leekduck.com/events/raichu-super-mega-raid-day-2026/
-- [upcoming] Event: Weekend Event
-  Date: Sat, Jul 18, at 8:00 PM
-  Entries: 0
-  File: upcoming/weekend_event.json
-  URL: https://leekduck.com/events/weekend-event-july-2026/
 - [upcoming] Community Day: Sobble Community Day
   Date: Sat, Jul 4, at 5:00 PM
   Entries: 14

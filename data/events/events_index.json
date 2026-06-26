@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26 04:38:27",
+  "generated_at": "2026-06-26 14:46:07",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -51,15 +51,6 @@
       "source_url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/"
     },
     {
-      "id": "july_event_july_21",
-      "title": "July Event - July 21",
-      "category": "Event",
-      "date_text": "Mon, Jul 27, at 8:00 PM",
-      "file": "current/july_event_july_21.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/july-event-2026-july-21/"
-    },
-    {
       "id": "10th_anniversary_party",
       "title": "10th Anniversary Party",
       "category": "Event",
@@ -85,6 +76,24 @@
       "file": "current/flying_taxi_taken_over.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/"
+    },
+    {
+      "id": "ozone_ascent",
+      "title": "Ozone Ascent",
+      "category": "Event",
+      "date_text": "Sun, Jul 26, at 8:00 PM",
+      "file": "current/ozone_ascent.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/ozone-ascent-2026/"
+    },
+    {
+      "id": "happy_birthday_professor_willow",
+      "title": "Happy Birthday, Professor Willow!",
+      "category": "Event",
+      "date_text": "Tue, Jul 21, at 8:00 PM",
+      "file": "current/happy_birthday_professor_willow.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/"
     }
   ],
   "upcoming": [
@@ -114,15 +123,6 @@
       "file": "upcoming/raichu_super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/"
-    },
-    {
-      "id": "weekend_event",
-      "title": "Weekend Event",
-      "category": "Event",
-      "date_text": "Sat, Jul 18, at 8:00 PM",
-      "file": "upcoming/weekend_event.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/weekend-event-july-2026/"
     },
     {
       "id": "sobble_community_day",

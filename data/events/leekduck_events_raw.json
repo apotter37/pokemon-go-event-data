@@ -58,17 +58,6 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
-    "title": "July Event - July 21",
-    "url": "https://leekduck.com/events/july-event-2026-july-21/",
-    "date_text": "Mon, Jul 27, at 8:00 PM",
-    "raw_text": "Event Event July Event - July 21 Mon, Jul 27, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "july_event_july_21",
-    "file": "current/july_event_july_21.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
     "title": "10th Anniversary Party",
     "url": "https://leekduck.com/events/10th-anniversary-party/",
     "date_text": "Mon, Jul 6, at 8:00 PM",
@@ -97,6 +86,28 @@
     "raw_text": "Event Event Flying Taxi: Taken Over Mon, Jun 29, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "flying_taxi_taken_over",
     "file": "current/flying_taxi_taken_over.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
+    "title": "Ozone Ascent",
+    "url": "https://leekduck.com/events/ozone-ascent-2026/",
+    "date_text": "Sun, Jul 26, at 8:00 PM",
+    "raw_text": "Event Event Ozone Ascent Sun, Jul 26, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "ozone_ascent",
+    "file": "current/ozone_ascent.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
+    "title": "Happy Birthday, Professor Willow!",
+    "url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
+    "date_text": "Tue, Jul 21, at 8:00 PM",
+    "raw_text": "Event Event Happy Birthday, Professor Willow! Tue, Jul 21, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "happy_birthday_professor_willow",
+    "file": "current/happy_birthday_professor_willow.json"
   },
   {
     "source": "LeekDuck",
@@ -130,17 +141,6 @@
     "raw_text": "Raid Day Raid Day Raichu Super Mega Raid Day Sat, Jul 18, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "raichu_super_mega_raid_day",
     "file": "upcoming/raichu_super_mega_raid_day.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "upcoming",
-    "category": "Event",
-    "title": "Weekend Event",
-    "url": "https://leekduck.com/events/weekend-event-july-2026/",
-    "date_text": "Sat, Jul 18, at 8:00 PM",
-    "raw_text": "Event Event Weekend Event Sat, Jul 18, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "weekend_event",
-    "file": "upcoming/weekend_event.json"
   },
   {
     "source": "LeekDuck",
