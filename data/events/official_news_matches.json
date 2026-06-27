@@ -127,6 +127,46 @@
     "event": {
       "source": "LeekDuck",
       "status": "current",
+      "category": "Raid Day",
+      "title": "Skarmory Super Mega Raid Day",
+      "url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
+      "date_text": "Sat, Jun 27, at 5:00 PM",
+      "raw_text": "Raid Day Raid Day Skarmory Super Mega Raid Day Sat, Jun 27, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "skarmory_super_mega_raid_day",
+      "file": "current/skarmory_super_mega_raid_day.json"
+    },
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Sparks fly for Raichu Super Mega Raid Day!",
+        "url": "https://pokemongo.com/news/raichu-super-mega-raid-day-2026"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Copenhagen Park Experience",
+        "url": "https://pokemongo.com/news/gofest-copenhagen-super-mega-raid"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "Stay sharp for Skarmory Super Mega Raid Day!",
+        "url": "https://pokemongo.com/news/skarmory-super-mega-raid-day-2026"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Chicago Park Experience",
+        "url": "https://pokemongo.com/news/gofest-chicago-super-mega-raid"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "Update on the “Super Mega Raid” at the Pokemon GO Fest 2026: Tokyo Park Experience",
+        "url": "https://pokemongo.com/news/gofest-tokyo-super-mega-raid"
+      }
+    ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
       "category": "Event",
       "title": "Ozone Ascent",
       "url": "https://leekduck.com/events/ozone-ascent-2026/",
@@ -252,46 +292,6 @@
         "source": "Official Pokémon GO",
         "title": "July 2026 Community Day: Sobble",
         "url": "https://pokemongo.com/news/communityday-july-2026-sobble"
-      }
-    ]
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "upcoming",
-      "category": "Raid Day",
-      "title": "Skarmory Super Mega Raid Day",
-      "url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
-      "date_text": "Sat, Jun 27, at 5:00 PM",
-      "raw_text": "Raid Day Raid Day Skarmory Super Mega Raid Day Sat, Jun 27, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "skarmory_super_mega_raid_day",
-      "file": "upcoming/skarmory_super_mega_raid_day.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "Sparks fly for Raichu Super Mega Raid Day!",
-        "url": "https://pokemongo.com/news/raichu-super-mega-raid-day-2026"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Copenhagen Park Experience",
-        "url": "https://pokemongo.com/news/gofest-copenhagen-super-mega-raid"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Stay sharp for Skarmory Super Mega Raid Day!",
-        "url": "https://pokemongo.com/news/skarmory-super-mega-raid-day-2026"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Chicago Park Experience",
-        "url": "https://pokemongo.com/news/gofest-chicago-super-mega-raid"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Update on the “Super Mega Raid” at the Pokemon GO Fest 2026: Tokyo Park Experience",
-        "url": "https://pokemongo.com/news/gofest-tokyo-super-mega-raid"
       }
     ]
   },

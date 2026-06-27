@@ -90,6 +90,17 @@
   {
     "source": "LeekDuck",
     "status": "current",
+    "category": "Raid Day",
+    "title": "Skarmory Super Mega Raid Day",
+    "url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
+    "date_text": "Sat, Jun 27, at 5:00 PM",
+    "raw_text": "Raid Day Raid Day Skarmory Super Mega Raid Day Sat, Jun 27, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "skarmory_super_mega_raid_day",
+    "file": "current/skarmory_super_mega_raid_day.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
     "category": "Event",
     "title": "Ozone Ascent",
     "url": "https://leekduck.com/events/ozone-ascent-2026/",
@@ -152,17 +163,6 @@
     "raw_text": "Community Day Community Day Sobble Community Day Sat, Jul 4, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "sobble_community_day",
     "file": "upcoming/sobble_community_day.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "upcoming",
-    "category": "Raid Day",
-    "title": "Skarmory Super Mega Raid Day",
-    "url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
-    "date_text": "Sat, Jun 27, at 5:00 PM",
-    "raw_text": "Raid Day Raid Day Skarmory Super Mega Raid Day Sat, Jun 27, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "skarmory_super_mega_raid_day",
-    "file": "upcoming/skarmory_super_mega_raid_day.json"
   },
   {
     "source": "LeekDuck",

@@ -1,12 +1,12 @@
 {
   "id": "skarmory_super_mega_raid_day",
   "title": "Skarmory Super Mega Raid Day",
-  "status": "upcoming",
+  "status": "current",
   "category": "Raid Day",
   "date_text": "Sat, Jun 27, at 5:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/",
-  "generated_at": "2026-06-26 14:45:54",
+  "generated_at": "2026-06-27 04:14:38",
   "entries": [
     {
       "dex": 227,
@@ -127,6 +127,21 @@
       "costume_hint": "",
       "form_hint": "Mega Super",
       "source_text": "Skarmory Super Mega Raid Day (1/1)"
+    },
+    {
+      "dex": 229,
+      "name": "Houndoom",
+      "uri": "file:///android_asset/Pokemon/Mega/Houndoom_mega.png",
+      "label": "Timed Research — Saturday — Mega — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Power up Pokemon 15 times ×200 Houndoom Mega Energy ×200"
     },
     {
       "dex": 229,
