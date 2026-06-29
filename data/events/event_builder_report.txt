@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 17
-Current events: 11
+Events kept after cleanup: 16
+Current events: 10
 Upcoming events: 6
 Official news items found: 19
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 824
+Matched entries: 811
 Unmatched candidates: 6
 No-match debug rows: 6
 
@@ -51,11 +51,6 @@ Events written:
   Entries: 29
   File: current/flying_taxi_taken_over.json
   URL: https://leekduck.com/events/flying-taxi-taken-over-2026/
-- [current] Raid Day: Skarmory Super Mega Raid Day
-  Date: Sat, Jun 27, at 5:00 PM
-  Entries: 10
-  File: current/skarmory_super_mega_raid_day.json
-  URL: https://leekduck.com/events/skarmory-super-mega-raid-day-2026/
 - [current] Event: Ozone Ascent
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 3

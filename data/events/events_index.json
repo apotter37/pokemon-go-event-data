@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29 04:58:05",
+  "generated_at": "2026-06-29 16:08:33",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -76,15 +76,6 @@
       "file": "current/flying_taxi_taken_over.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/"
-    },
-    {
-      "id": "skarmory_super_mega_raid_day",
-      "title": "Skarmory Super Mega Raid Day",
-      "category": "Raid Day",
-      "date_text": "Sat, Jun 27, at 5:00 PM",
-      "file": "current/skarmory_super_mega_raid_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/skarmory-super-mega-raid-day-2026/"
     },
     {
       "id": "ozone_ascent",
