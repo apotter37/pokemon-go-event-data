@@ -100,34 +100,6 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "Flying Taxi",
-      "url": "https://leekduck.com/events/flying-taxi-2026/",
-      "date_text": "Mon, Jun 29, at 8:00 PM",
-      "raw_text": "Event Event Flying Taxi Mon, Jun 29, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "flying_taxi",
-      "file": "current/flying_taxi.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
-      "title": "Flying Taxi: Taken Over",
-      "url": "https://leekduck.com/events/flying-taxi-taken-over-2026/",
-      "date_text": "Mon, Jun 29, at 8:00 PM",
-      "raw_text": "Event Event Flying Taxi: Taken Over Mon, Jun 29, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "flying_taxi_taken_over",
-      "file": "current/flying_taxi_taken_over.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
       "title": "Ozone Ascent",
       "url": "https://leekduck.com/events/ozone-ascent-2026/",
       "date_text": "Sun, Jul 26, at 8:00 PM",

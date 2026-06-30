@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30 04:22:58",
+  "generated_at": "2026-06-30 14:41:30",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -58,24 +58,6 @@
       "file": "current/10th_anniversary_party.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/10th-anniversary-party/"
-    },
-    {
-      "id": "flying_taxi",
-      "title": "Flying Taxi",
-      "category": "Event",
-      "date_text": "Mon, Jun 29, at 8:00 PM",
-      "file": "current/flying_taxi.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/flying-taxi-2026/"
-    },
-    {
-      "id": "flying_taxi_taken_over",
-      "title": "Flying Taxi: Taken Over",
-      "category": "Event",
-      "date_text": "Mon, Jun 29, at 8:00 PM",
-      "file": "current/flying_taxi_taken_over.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/flying-taxi-taken-over-2026/"
     },
     {
       "id": "ozone_ascent",

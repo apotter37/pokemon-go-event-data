@@ -1,7 +1,0 @@
-﻿event_id,event_title,pokemon,shiny,section,availability,day,habitat,form_hint,costume_hint,source_text
-flying_taxi,Flying Taxi,Squawkabilly,False,Event,Event,,,,,"Take flight as Squawkabilly makes its Pokemon GO debut! The Flying Taxi event will take place from June 23, 2026 at 10 am to June 29, 2026 at 8 pm."
-flying_taxi,Flying Taxi,Squawkabilly,False,Field Research,Wild,,,,,"Squawkabilly, the Parrot Pokemon, will make its Pokemon GO debut! You'll be able to encounter Squawkabilly from Field Research or in the wild."
-flying_taxi,Flying Taxi,Squawkabilly,False,Field Research,Research,,,,,Squawkabilly has four different plumage forms:
-flying_taxi,Flying Taxi,Squawkabilly,False,Wild Encounters,Wild,,,,,Note: Green Plumage Squawkabilly appears in the Eastern Hemisphere and Blue Plumage Squawkabilly appears in the Western Hemisphere.
-flying_taxi,Flying Taxi,Squawkabilly,False,Incense,Incense,Saturday,,,,Squawkabilly (White) Squawkabilly (White)
-flying_taxi_taken_over,Flying Taxi: Taken Over,Squawkabilly,False,Incense,Incense,Saturday,,,,Squawkabilly (White) Squawkabilly (White)

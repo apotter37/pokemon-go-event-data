@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 16
-Current events: 10
+Events kept after cleanup: 14
+Current events: 8
 Upcoming events: 6
 Official news items found: 19
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 818
-Unmatched candidates: 6
-No-match debug rows: 6
+Matched entries: 733
+Unmatched candidates: 0
+No-match debug rows: 0
 
 Events written:
 - [current] Event: Road of Legends
@@ -41,16 +41,6 @@ Events written:
   Entries: 38
   File: current/10th_anniversary_party.json
   URL: https://leekduck.com/events/10th-anniversary-party/
-- [current] Event: Flying Taxi
-  Date: Mon, Jun 29, at 8:00 PM
-  Entries: 36
-  File: current/flying_taxi.json
-  URL: https://leekduck.com/events/flying-taxi-2026/
-- [current] Event: Flying Taxi: Taken Over
-  Date: Mon, Jun 29, at 8:00 PM
-  Entries: 29
-  File: current/flying_taxi_taken_over.json
-  URL: https://leekduck.com/events/flying-taxi-taken-over-2026/
 - [current] Event: Ozone Ascent
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 3
