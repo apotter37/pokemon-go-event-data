@@ -6,7 +6,7 @@
   "date_text": "Sun, Jul 12, at 7:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
-  "generated_at": "2026-07-01 15:10:46",
+  "generated_at": "2026-07-02 04:20:09",
   "entries": [
     {
       "dex": 150,
@@ -2193,21 +2193,6 @@
       "day": "Saturday",
       "habitat": "Saturday Habitat Raids",
       "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "",
-      "source_text": "Solgaleo"
-    },
-    {
-      "dex": 791,
-      "name": "Solgaleo",
-      "uri": "file:///android_asset/Pokemon/Shiny/Solgaleo_shiny.png",
-      "label": "Raids — Saturday — Saturday Habitat Raids — Shiny",
-      "availability": "Raid",
-      "section": "Raids",
-      "day": "Saturday",
-      "habitat": "Saturday Habitat Raids",
-      "shiny": true,
       "costume": false,
       "costume_hint": "",
       "form_hint": "",

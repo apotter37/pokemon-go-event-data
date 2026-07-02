@@ -6,14 +6,14 @@ Upcoming events: 6
 Official news items found: 18
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 733
+Matched entries: 729
 Unmatched candidates: 0
 No-match debug rows: 0
 
 Events written:
 - [current] Event: Road of Legends
   Date: Fri, Jul 10, at 11:59 PM
-  Entries: 208
+  Entries: 207
   File: current/road_of_legends.json
   URL: https://leekduck.com/events/road-of-legends-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Charged Embers
@@ -78,7 +78,7 @@ Events written:
   URL: https://leekduck.com/events/august-communityday2026/
 - [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Global
   Date: Sun, Jul 12, at 7:00 PM
-  Entries: 208
+  Entries: 207
   File: upcoming/pokemon_go_fest_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-fest-2026-global/
 
