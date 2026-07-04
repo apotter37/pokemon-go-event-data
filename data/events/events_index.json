@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03 14:30:47",
+  "generated_at": "2026-07-04 03:59:18",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -60,6 +60,15 @@
       "source_url": "https://leekduck.com/events/10th-anniversary-party/"
     },
     {
+      "id": "sobble_community_day",
+      "title": "Sobble Community Day",
+      "category": "Community Day",
+      "date_text": "Sat, Jul 4, at 5:00 PM",
+      "file": "current/sobble_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/july-communityday2026/"
+    },
+    {
       "id": "ozone_ascent",
       "title": "Ozone Ascent",
       "category": "Event",
@@ -105,15 +114,6 @@
       "file": "upcoming/raichu_super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/"
-    },
-    {
-      "id": "sobble_community_day",
-      "title": "Sobble Community Day",
-      "category": "Community Day",
-      "date_text": "Sat, Jul 4, at 5:00 PM",
-      "file": "upcoming/sobble_community_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/july-communityday2026/"
     },
     {
       "id": "august_community_day",

@@ -80,6 +80,8 @@ road_of_legends,Road of Legends,Axew,False,Normal/Axew.png,Eggs — Sunday — N
 road_of_legends,Road of Legends,Axew,True,Shiny/Axew_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Axew
 road_of_legends,Road of Legends,Axew,False,Normal/Axew.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Axew
 road_of_legends,Road of Legends,Bouffalant,False,Normal/Bouffalant.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Bouffalant
+road_of_legends,Road of Legends,Bouffalant,True,Shiny/Bouffalant_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Bouffalant
+road_of_legends,Road of Legends,Bouffalant,False,Normal/Bouffalant.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Bouffalant
 road_of_legends,Road of Legends,Goomy,False,Normal/Goomy.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Goomy
 road_of_legends,Road of Legends,Goomy,True,Shiny/Goomy_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Goomy
 road_of_legends,Road of Legends,Goomy,False,Normal/Goomy.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Goomy
@@ -335,18 +337,36 @@ special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_amethyst.png,Raids — Saturday — Crown — Normal,Raid,Raids,Saturday,,Amethyst Crown Pikachu
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Saturday — Crown — Shiny,Raid,Raids,Saturday,,Amethyst Crown Pikachu
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_amethyst.png,Raids — Saturday — Crown — Normal,Raid,Raids,Saturday,,Amethyst Crown Pikachu
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Saturday — Event Costume — Normal,Wild,Bonuses,Saturday,,"4× XP for catching Pokemon. 4× Stardust for catching Pokemon. Event-themed Pokemon appearing in the wild are more likely to be Shiny. Gimmighoul holding a 10th anniversary coin may have a Special Background! When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Bonuses — Saturday — Event Costume — Shiny,Wild,Bonuses,Saturday,,"4× XP for catching Pokemon. 4× Stardust for catching Pokemon. Event-themed Pokemon appearing in the wild are more likely to be Shiny. Gimmighoul holding a 10th anniversary coin may have a Special Background! When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Saturday — Normal,Bonus,Bonuses,Saturday,,Gimmighoul holding a 10th anniversary coin may have a Special Background!
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Saturday — Normal,Bonus,Bonuses,Saturday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Bonuses — Saturday — Shiny,Bonus,Bonuses,Saturday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
+10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Saturday — Event Costume — Normal,Wild,Bonuses,Saturday,,"4× XP for catching Pokemon. 4× Stardust for catching Pokemon. Event-themed Pokemon appearing in the wild are more likely to be Shiny. Gimmighoul holding a 10th anniversary coin may have a Special Background!* When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!*"
+10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Bonuses — Saturday — Event Costume — Shiny,Wild,Bonuses,Saturday,,"4× XP for catching Pokemon. 4× Stardust for catching Pokemon. Event-themed Pokemon appearing in the wild are more likely to be Shiny. Gimmighoul holding a 10th anniversary coin may have a Special Background!* When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!*"
+10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Saturday — Normal,Bonus,Bonuses,Saturday,,Gimmighoul holding a 10th anniversary coin may have a Special Background!*
+10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Saturday — Normal,Bonus,Bonuses,Saturday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!*"
+10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Bonuses — Saturday — Shiny,Bonus,Bonuses,Saturday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!*"
 10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Friday — Normal,Bonus,Bonuses,Friday,,"* Gimmighoul holding a 10th anniversary coin bonuses will be active from July 4, 2026 at 10 am to Friday, July 31, 2026, at 11:59 p.m. local time."
 10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Gimmighoul (10th Anniversary Coin)
 10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Lure Encounters — Friday — Shiny,Lure,Lure Encounters,Friday,,Gimmighoul (10th Anniversary Coin)
 10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Gimmighoul (10th Anniversary Coin)
+10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Costume/Bulbasaur_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Bulbasaur
+10th_anniversary_party,10th Anniversary Party,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Lure Encounters — Friday — Party Hat — Shiny,Lure,Lure Encounters,Friday,,Party Hat Bulbasaur
+10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Costume/Bulbasaur_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Bulbasaur
+10th_anniversary_party,10th Anniversary Party,Charmander,False,Costume/Charmander_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Charmander
+10th_anniversary_party,10th Anniversary Party,Charmander,True,Shiny/Charmander_shiny.png,Lure Encounters — Friday — Party Hat — Shiny,Lure,Lure Encounters,Friday,,Party Hat Charmander
+10th_anniversary_party,10th Anniversary Party,Charmander,False,Costume/Charmander_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Charmander
+10th_anniversary_party,10th Anniversary Party,Squirtle,False,Costume/Squirtle_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Squirtle
+10th_anniversary_party,10th Anniversary Party,Squirtle,True,Shiny/Squirtle_shiny.png,Lure Encounters — Friday — Party Hat — Shiny,Lure,Lure Encounters,Friday,,Party Hat Squirtle
+10th_anniversary_party,10th Anniversary Party,Squirtle,False,Costume/Squirtle_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Squirtle
+10th_anniversary_party,10th Anniversary Party,Caterpie,False,Normal/Caterpie.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Caterpie
+10th_anniversary_party,10th Anniversary Party,Caterpie,True,Shiny/Caterpie_shiny.png,Lure Encounters — Friday — Shiny,Lure,Lure Encounters,Friday,,Caterpie
+10th_anniversary_party,10th Anniversary Party,Caterpie,False,Normal/Caterpie.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Caterpie
 10th_anniversary_party,10th Anniversary Party,Pikachu,False,Normal/Pikachu.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Cake Hat Pikachu
 10th_anniversary_party,10th Anniversary Party,Pikachu,True,Shiny/Pikachu_shiny.png,Lure Encounters — Friday — Shiny,Lure,Lure Encounters,Friday,,Cake Hat Pikachu
 10th_anniversary_party,10th Anniversary Party,Pikachu,False,Normal/Pikachu.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Cake Hat Pikachu
+10th_anniversary_party,10th Anniversary Party,Voltorb,False,Normal/Voltorb.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Voltorb
+10th_anniversary_party,10th Anniversary Party,Voltorb,True,Shiny/Voltorb_shiny.png,Lure Encounters — Friday — Shiny,Lure,Lure Encounters,Friday,,Voltorb
+10th_anniversary_party,10th Anniversary Party,Voltorb,False,Normal/Voltorb.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Voltorb
+10th_anniversary_party,10th Anniversary Party,Voltorb,False,Hisuian/Voltorb_hisuian.png,Lure Encounters — Friday — Hisuian — Normal,Lure,Lure Encounters,Friday,,Hisuian Voltorb
+10th_anniversary_party,10th Anniversary Party,Voltorb,True,Hisuian/Shiny/Voltorb_hisuian_shiny.png,Lure Encounters — Friday — Hisuian — Shiny,Lure,Lure Encounters,Friday,,Hisuian Voltorb
+10th_anniversary_party,10th Anniversary Party,Voltorb,False,Hisuian/Voltorb_hisuian.png,Lure Encounters — Friday — Hisuian — Normal,Lure,Lure Encounters,Friday,,Hisuian Voltorb
 10th_anniversary_party,10th Anniversary Party,Eevee,False,Normal/Eevee.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Eevee
 10th_anniversary_party,10th Anniversary Party,Eevee,True,Shiny/Eevee_shiny.png,Lure Encounters — Friday — Shiny,Lure,Lure Encounters,Friday,,Eevee
 10th_anniversary_party,10th Anniversary Party,Eevee,False,Normal/Eevee.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Eevee
@@ -354,40 +374,69 @@ special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,
 10th_anniversary_party,10th Anniversary Party,Wurmple,True,Shiny/Wurmple_shiny.png,Lure Encounters — Friday — Party Hat — Shiny,Lure,Lure Encounters,Friday,,Party Hat Wurmple
 10th_anniversary_party,10th Anniversary Party,Wurmple,False,Costume/Wurmple_party.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Wurmple
 10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,An encounter with Gimmighoul holding a 10th anniversary coin with a Special Background
-10th_anniversary_party,10th Anniversary Party,Venusaur,False,Normal/Venusaur.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Venusaur
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Normal/Bulbasaur.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Normal/Bulbasaur.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Ivysaur,False,Normal/Ivysaur.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Ivysaur
-10th_anniversary_party,10th Anniversary Party,Ivysaur,True,Shiny/Ivysaur_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Ivysaur
-10th_anniversary_party,10th Anniversary Party,Ivysaur,False,Normal/Ivysaur.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Ivysaur
-10th_anniversary_party,10th Anniversary Party,Venusaur,False,Normal/Venusaur.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Venusaur
-10th_anniversary_party,10th Anniversary Party,Venusaur,True,Shiny/Venusaur_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Venusaur
-10th_anniversary_party,10th Anniversary Party,Charizard,False,Normal/Charizard.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Charizard
-10th_anniversary_party,10th Anniversary Party,Charmander,False,Normal/Charmander.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Charmander
-10th_anniversary_party,10th Anniversary Party,Charmander,True,Shiny/Charmander_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Charmander
-10th_anniversary_party,10th Anniversary Party,Charmander,False,Normal/Charmander.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Charmander
-10th_anniversary_party,10th Anniversary Party,Charmeleon,False,Normal/Charmeleon.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Charmeleon
-10th_anniversary_party,10th Anniversary Party,Charmeleon,True,Shiny/Charmeleon_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Charmeleon
-10th_anniversary_party,10th Anniversary Party,Charmeleon,False,Normal/Charmeleon.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Charmeleon
-10th_anniversary_party,10th Anniversary Party,Charizard,False,Normal/Charizard.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Charizard
-10th_anniversary_party,10th Anniversary Party,Charizard,True,Shiny/Charizard_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Charizard
-10th_anniversary_party,10th Anniversary Party,Blastoise,False,Normal/Blastoise.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Blastoise
-10th_anniversary_party,10th Anniversary Party,Squirtle,False,Normal/Squirtle.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Squirtle
-10th_anniversary_party,10th Anniversary Party,Squirtle,True,Shiny/Squirtle_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Squirtle
-10th_anniversary_party,10th Anniversary Party,Squirtle,False,Normal/Squirtle.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Squirtle
-10th_anniversary_party,10th Anniversary Party,Wartortle,False,Normal/Wartortle.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Wartortle
-10th_anniversary_party,10th Anniversary Party,Wartortle,True,Shiny/Wartortle_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Wartortle
-10th_anniversary_party,10th Anniversary Party,Wartortle,False,Normal/Wartortle.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Wartortle
-10th_anniversary_party,10th Anniversary Party,Blastoise,False,Normal/Blastoise.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Blastoise
-10th_anniversary_party,10th Anniversary Party,Blastoise,True,Shiny/Blastoise_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Blastoise
-10th_anniversary_party,10th Anniversary Party,Pikachu,False,Normal/Pikachu.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Cake Hat Pikachu
-10th_anniversary_party,10th Anniversary Party,Eevee,False,Normal/Eevee.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Eevee
-10th_anniversary_party,10th Anniversary Party,Eevee,True,Shiny/Eevee_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Eevee
-10th_anniversary_party,10th Anniversary Party,Wurmple,False,Costume/Wurmple_party.png,Timed Research — Friday — Party Hat — Normal,Research,Timed Research,Friday,,Party Hat Wurmple
-10th_anniversary_party,10th Anniversary Party,Wurmple,True,Shiny/Wurmple_shiny.png,Timed Research — Friday — Party Hat — Shiny,Research,Timed Research,Friday,,Party Hat Wurmple
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
+10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Incense — Friday — Normal,Incense,Incense,Friday,,REWARDS Gimmighoul (10th Anniversary Coin) ×10000 ×1
+10th_anniversary_party,10th Anniversary Party,Venusaur,False,Normal/Venusaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Venusaur
+10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Normal/Bulbasaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Bulbasaur
+10th_anniversary_party,10th Anniversary Party,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Bulbasaur
+10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Normal/Bulbasaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Bulbasaur
+10th_anniversary_party,10th Anniversary Party,Ivysaur,False,Normal/Ivysaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Ivysaur
+10th_anniversary_party,10th Anniversary Party,Ivysaur,True,Shiny/Ivysaur_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Ivysaur
+10th_anniversary_party,10th Anniversary Party,Ivysaur,False,Normal/Ivysaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Ivysaur
+10th_anniversary_party,10th Anniversary Party,Venusaur,False,Normal/Venusaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Venusaur
+10th_anniversary_party,10th Anniversary Party,Venusaur,True,Shiny/Venusaur_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Venusaur
+10th_anniversary_party,10th Anniversary Party,Charizard,False,Normal/Charizard.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charizard
+10th_anniversary_party,10th Anniversary Party,Charmander,False,Normal/Charmander.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charmander
+10th_anniversary_party,10th Anniversary Party,Charmander,True,Shiny/Charmander_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Charmander
+10th_anniversary_party,10th Anniversary Party,Charmander,False,Normal/Charmander.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charmander
+10th_anniversary_party,10th Anniversary Party,Charmeleon,False,Normal/Charmeleon.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charmeleon
+10th_anniversary_party,10th Anniversary Party,Charmeleon,True,Shiny/Charmeleon_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Charmeleon
+10th_anniversary_party,10th Anniversary Party,Charmeleon,False,Normal/Charmeleon.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charmeleon
+10th_anniversary_party,10th Anniversary Party,Charizard,False,Normal/Charizard.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charizard
+10th_anniversary_party,10th Anniversary Party,Charizard,True,Shiny/Charizard_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Charizard
+10th_anniversary_party,10th Anniversary Party,Blastoise,False,Normal/Blastoise.png,Incense — Friday — Normal,Incense,Incense,Friday,,Blastoise
+10th_anniversary_party,10th Anniversary Party,Squirtle,False,Normal/Squirtle.png,Incense — Friday — Normal,Incense,Incense,Friday,,Squirtle
+10th_anniversary_party,10th Anniversary Party,Squirtle,True,Shiny/Squirtle_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Squirtle
+10th_anniversary_party,10th Anniversary Party,Squirtle,False,Normal/Squirtle.png,Incense — Friday — Normal,Incense,Incense,Friday,,Squirtle
+10th_anniversary_party,10th Anniversary Party,Wartortle,False,Normal/Wartortle.png,Incense — Friday — Normal,Incense,Incense,Friday,,Wartortle
+10th_anniversary_party,10th Anniversary Party,Wartortle,True,Shiny/Wartortle_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Wartortle
+10th_anniversary_party,10th Anniversary Party,Wartortle,False,Normal/Wartortle.png,Incense — Friday — Normal,Incense,Incense,Friday,,Wartortle
+10th_anniversary_party,10th Anniversary Party,Blastoise,False,Normal/Blastoise.png,Incense — Friday — Normal,Incense,Incense,Friday,,Blastoise
+10th_anniversary_party,10th Anniversary Party,Blastoise,True,Shiny/Blastoise_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Blastoise
+10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Costume/Bulbasaur_party_hat.png,Incense — Friday — Party Hat — Normal,Incense,Incense,Friday,,Party Hat Bulbasaur
+10th_anniversary_party,10th Anniversary Party,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Incense — Friday — Party Hat — Shiny,Incense,Incense,Friday,,Party Hat Bulbasaur
+10th_anniversary_party,10th Anniversary Party,Charmander,False,Costume/Charmander_party_hat.png,Incense — Friday — Party Hat — Normal,Incense,Incense,Friday,,Party Hat Charmander
+10th_anniversary_party,10th Anniversary Party,Charmander,True,Shiny/Charmander_shiny.png,Incense — Friday — Party Hat — Shiny,Incense,Incense,Friday,,Party Hat Charmander
+10th_anniversary_party,10th Anniversary Party,Squirtle,False,Costume/Squirtle_party_hat.png,Incense — Friday — Party Hat — Normal,Incense,Incense,Friday,,Party Hat Squirtle
+10th_anniversary_party,10th Anniversary Party,Squirtle,True,Shiny/Squirtle_shiny.png,Incense — Friday — Party Hat — Shiny,Incense,Incense,Friday,,Party Hat Squirtle
+10th_anniversary_party,10th Anniversary Party,Pikachu,False,Normal/Pikachu.png,Incense — Friday — Normal,Incense,Incense,Friday,,Cake Hat Pikachu
+10th_anniversary_party,10th Anniversary Party,Eevee,False,Normal/Eevee.png,Incense — Friday — Normal,Incense,Incense,Friday,,Eevee
+10th_anniversary_party,10th Anniversary Party,Eevee,True,Shiny/Eevee_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Eevee
+10th_anniversary_party,10th Anniversary Party,Wurmple,False,Costume/Wurmple_party.png,Incense — Friday — Party Hat — Normal,Incense,Incense,Friday,,Party Hat Wurmple
+10th_anniversary_party,10th Anniversary Party,Wurmple,True,Shiny/Wurmple_shiny.png,Incense — Friday — Party Hat — Shiny,Incense,Incense,Friday,,Party Hat Wurmple
+10th_anniversary_party,10th Anniversary Party,Caterpie,False,Normal/Caterpie.png,Incense — Friday — Normal,Incense,Incense,Friday,,* Unclear if Caterpie and Voltorb have increased shiny odds.
+10th_anniversary_party,10th Anniversary Party,Caterpie,True,Shiny/Caterpie_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,* Unclear if Caterpie and Voltorb have increased shiny odds.
+10th_anniversary_party,10th Anniversary Party,Voltorb,False,Normal/Voltorb.png,Incense — Friday — Normal,Incense,Incense,Friday,,* Unclear if Caterpie and Voltorb have increased shiny odds.
+10th_anniversary_party,10th Anniversary Party,Voltorb,True,Shiny/Voltorb_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,* Unclear if Caterpie and Voltorb have increased shiny odds.
+10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Incense — Friday — Normal,Incense,Incense,Friday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
+10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Community Day — Saturday — Normal,Event,Community Day,Saturday,,"Sobble Community Day Community Day Starts: Saturday, July 4, 2026, at 2:00 PM Local Time Ends: Saturday, July 4, 2026, at 5:00 PM Local Time"
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Take a few snapshots during Community Day for a surprise! During the event you can snap an AR Photo and get photobombed by Sobble.
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Sobble
+sobble_community_day,Sobble Community Day,Sobble,True,Shiny/Sobble_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Sobble
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Lure Encounters — Saturday — Normal,Lure,Lure Encounters,Saturday,,"From 2:00 p.m. to 9:00 p.m. local time , Sobble will have a very high chance of appearing at PokeStops with active regular Lure Modules."
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Lure Encounters — Saturday — Normal,Lure,Lure Encounters,Saturday,,Sobble attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
+sobble_community_day,Sobble Community Day,Sobble,True,Shiny/Sobble_shiny.png,Lure Encounters — Saturday — Shiny,Lure,Lure Encounters,Saturday,,Sobble attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Wild Encounters — Saturday — Normal,Wild,Wild Encounters,Saturday,,Sobble will appear more frequently in the wild.
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"July Community Day—themed Field Research will be available! Catch Sobble to earn rewards such as Stardust, Ultra Balls, additional encounters with Sobble, and more! You may even find Field Research that leads to encounters with Sobble that have a Special Background—if you're lucky!"
+sobble_community_day,Sobble Community Day,Sobble,True,Shiny/Sobble_shiny.png,Field Research — Saturday — Shiny,Research,Field Research,Saturday,,"July Community Day—themed Field Research will be available! Catch Sobble to earn rewards such as Stardust, Ultra Balls, additional encounters with Sobble, and more! You may even find Field Research that leads to encounters with Sobble that have a Special Background—if you're lucky!"
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Special Research — Saturday — Normal,Research,Special Research,Saturday,,3 encounters with Sobble that have a Special Background (at the end of each page)
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,REWARDS Sobble ×50 ×5
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Shiny Sobble will be available! Trainers will have an increased chance of encountering Shiny Sobble during Community Day.
+sobble_community_day,Sobble Community Day,Sobble,True,Shiny/Sobble_shiny.png,Incense — Saturday — Shiny,Incense,Incense,Saturday,,Shiny Sobble will be available! Trainers will have an increased chance of encountering Shiny Sobble during Community Day.
+sobble_community_day,Sobble Community Day,Drizzile,False,Normal/Drizzile.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Drizzile
+sobble_community_day,Sobble Community Day,Inteleon,False,Normal/Inteleon.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Inteleon
+sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Wild Encounters — Saturday — Normal,Wild,Wild Encounters,Saturday,,Sobble will appear more frequently in the wild.
+sobble_community_day,Sobble Community Day,Sobble,True,Shiny/Sobble_shiny.png,Wild Encounters — Saturday — Shiny,Wild,Wild Encounters,Saturday,,Sobble will appear more frequently in the wild.
 ozone_ascent,Ozone Ascent,Rayquaza,False,Normal/Rayquaza.png,Timed Research — Sunday — Normal,Research,Timed Research,Sunday,,"Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
 ozone_ascent,Ozone Ascent,Rayquaza,False,Normal/Rayquaza.png,Timed Research — Sunday — Normal,Research,Timed Research,Sunday,,Rayquaza
 ozone_ascent,Ozone Ascent,Rayquaza,True,Shiny/Rayquaza_shiny.png,Timed Research — Sunday — Shiny,Research,Timed Research,Sunday,,Rayquaza
@@ -410,25 +459,6 @@ raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Raichu
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,True,Shiny/Raichu_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Raichu
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Raichu
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Community Day — Saturday — Normal,Event,Community Day,Saturday,,"Sobble Community Day Community Day Starts: Saturday, July 4, 2026, at 2:00 PM Local Time Ends: Saturday, July 4, 2026, at 5:00 PM Local Time"
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Take a few snapshots during Community Day for a surprise! During the event you can snap an AR Photo and get photobombed by Sobble.
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Sobble
-sobble_community_day,Sobble Community Day,Sobble,True,Shiny/Sobble_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Sobble
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Lure Encounters — Saturday — Normal,Lure,Lure Encounters,Saturday,,"From 2:00 p.m. to 9:00 p.m. local time , Sobble will have a very high chance of appearing at PokeStops with active regular Lure Modules."
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Lure Encounters — Saturday — Normal,Lure,Lure Encounters,Saturday,,Sobble attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
-sobble_community_day,Sobble Community Day,Sobble,True,Shiny/Sobble_shiny.png,Lure Encounters — Saturday — Shiny,Lure,Lure Encounters,Saturday,,Sobble attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Wild Encounters — Saturday — Normal,Wild,Wild Encounters,Saturday,,Sobble will appear more frequently in the wild.
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"July Community Day—themed Field Research will be available! Catch Sobble to earn rewards such as Stardust, Ultra Balls, additional encounters with Sobble, and more! You may even find Field Research that leads to encounters with Sobble that have a Special Background—if you're lucky!"
-sobble_community_day,Sobble Community Day,Sobble,True,Shiny/Sobble_shiny.png,Field Research — Saturday — Shiny,Research,Field Research,Saturday,,"July Community Day—themed Field Research will be available! Catch Sobble to earn rewards such as Stardust, Ultra Balls, additional encounters with Sobble, and more! You may even find Field Research that leads to encounters with Sobble that have a Special Background—if you're lucky!"
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,Sobble Community Day
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Special Research — Saturday — Normal,Research,Special Research,Saturday,,3 encounters with Sobble that have a Special Background (at the end of each page)
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Sobble Community Day (1/3)
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Shiny Sobble will be available! Trainers will have an increased chance of encountering Shiny Sobble during Community Day.
-sobble_community_day,Sobble Community Day,Sobble,True,Shiny/Sobble_shiny.png,Incense — Saturday — Shiny,Incense,Incense,Saturday,,Shiny Sobble will be available! Trainers will have an increased chance of encountering Shiny Sobble during Community Day.
-sobble_community_day,Sobble Community Day,Drizzile,False,Normal/Drizzile.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Drizzile
-sobble_community_day,Sobble Community Day,Inteleon,False,Normal/Inteleon.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Inteleon
-sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Wild Encounters — Saturday — Normal,Wild,Wild Encounters,Saturday,,Sobble will appear more frequently in the wild.
-sobble_community_day,Sobble Community Day,Sobble,True,Shiny/Sobble_shiny.png,Wild Encounters — Saturday — Shiny,Wild,Wild Encounters,Saturday,,Sobble will appear more frequently in the wild.
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zeraora,False,Normal/Zeraora.png,Special Research — Sunday — Normal,Research,Special Research,Sunday,,Special Research including an encounter with Zeraora
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Timed Research — Sunday — Mega — Normal,Research,Timed Research,Sunday,,Branching Timed Research with a choice between Mega Mewtwo X or Mega Mewtwo Y
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Bonuses — Day 1 — Mega — Normal,Bonus,Bonuses,Day 1,,Mega Mewtwo X and Mega Mewtwo Y debut
@@ -458,6 +488,8 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Squirtle,False,Normal/
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,False,Normal/Tropius.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Tropius
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,True,Shiny/Tropius_shiny.png,Incense — Sunday — Shiny,Incense,Incense,Sunday,,Tropius
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,False,Normal/Tropius.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Tropius
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bouffalant,False,Normal/Bouffalant.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Bouffalant
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bouffalant,True,Shiny/Bouffalant_shiny.png,Incense — Sunday — Shiny,Incense,Incense,Sunday,,Bouffalant
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bouffalant,False,Normal/Bouffalant.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Bouffalant
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Sunday — Mega Super — Normal,Raid,Raids,Sunday,,Mega Mewtwo X and Mega Mewtwo Y will appear in Super Mega Raids during GO Fest 2026: Global.
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Mewtwo X

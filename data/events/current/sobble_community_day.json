@@ -1,12 +1,12 @@
 {
   "id": "sobble_community_day",
   "title": "Sobble Community Day",
-  "status": "upcoming",
+  "status": "current",
   "category": "Community Day",
   "date_text": "Sat, Jul 4, at 5:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/july-communityday2026/",
-  "generated_at": "2026-07-03 14:30:33",
+  "generated_at": "2026-07-04 03:59:02",
   "entries": [
     {
       "dex": 816,
@@ -36,7 +36,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Sobble Community Day (1/3)"
+      "source_text": "REWARDS Sobble ×50 ×5"
     },
     {
       "dex": 816,

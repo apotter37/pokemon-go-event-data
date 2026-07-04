@@ -1,19 +1,19 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 14
-Current events: 8
-Upcoming events: 6
+Current events: 9
+Upcoming events: 5
 Official news items found: 19
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 729
+Matched entries: 761
 Unmatched candidates: 0
 No-match debug rows: 0
 
 Events written:
 - [current] Event: Road of Legends
   Date: Fri, Jul 10, at 11:59 PM
-  Entries: 207
+  Entries: 208
   File: current/road_of_legends.json
   URL: https://leekduck.com/events/road-of-legends-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Charged Embers
@@ -38,9 +38,14 @@ Events written:
   URL: https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/
 - [current] Event: 10th Anniversary Party
   Date: Mon, Jul 6, at 8:00 PM
-  Entries: 38
+  Entries: 61
   File: current/10th_anniversary_party.json
   URL: https://leekduck.com/events/10th-anniversary-party/
+- [current] Community Day: Sobble Community Day
+  Date: Sat, Jul 4, at 5:00 PM
+  Entries: 14
+  File: current/sobble_community_day.json
+  URL: https://leekduck.com/events/july-communityday2026/
 - [current] Event: Ozone Ascent
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 3
@@ -66,11 +71,6 @@ Events written:
   Entries: 9
   File: upcoming/raichu_super_mega_raid_day.json
   URL: https://leekduck.com/events/raichu-super-mega-raid-day-2026/
-- [upcoming] Community Day: Sobble Community Day
-  Date: Sat, Jul 4, at 5:00 PM
-  Entries: 14
-  File: upcoming/sobble_community_day.json
-  URL: https://leekduck.com/events/july-communityday2026/
 - [upcoming] Community Day: August Community Day
   Date: Sun, Aug 16, at 5:00 PM
   Entries: 0
@@ -78,7 +78,7 @@ Events written:
   URL: https://leekduck.com/events/august-communityday2026/
 - [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Global
   Date: Sun, Jul 12, at 7:00 PM
-  Entries: 207
+  Entries: 208
   File: upcoming/pokemon_go_fest_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-fest-2026-global/
 
