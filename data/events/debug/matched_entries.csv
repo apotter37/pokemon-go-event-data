@@ -413,10 +413,8 @@ special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,
 10th_anniversary_party,10th Anniversary Party,Eevee,True,Shiny/Eevee_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Eevee
 10th_anniversary_party,10th Anniversary Party,Wurmple,False,Costume/Wurmple_party.png,Incense — Friday — Party Hat — Normal,Incense,Incense,Friday,,Party Hat Wurmple
 10th_anniversary_party,10th Anniversary Party,Wurmple,True,Shiny/Wurmple_shiny.png,Incense — Friday — Party Hat — Shiny,Incense,Incense,Friday,,Party Hat Wurmple
-10th_anniversary_party,10th Anniversary Party,Caterpie,False,Normal/Caterpie.png,Incense — Friday — Normal,Incense,Incense,Friday,,* Unclear if Caterpie and Voltorb have increased shiny odds.
-10th_anniversary_party,10th Anniversary Party,Caterpie,True,Shiny/Caterpie_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,* Unclear if Caterpie and Voltorb have increased shiny odds.
-10th_anniversary_party,10th Anniversary Party,Voltorb,False,Normal/Voltorb.png,Incense — Friday — Normal,Incense,Incense,Friday,,* Unclear if Caterpie and Voltorb have increased shiny odds.
-10th_anniversary_party,10th Anniversary Party,Voltorb,True,Shiny/Voltorb_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,* Unclear if Caterpie and Voltorb have increased shiny odds.
+10th_anniversary_party,10th Anniversary Party,Caterpie,False,Normal/Caterpie.png,Incense — Friday — Normal,Incense,Incense,Friday,,* Caterpie and Voltorb are not boosted.
+10th_anniversary_party,10th Anniversary Party,Voltorb,False,Normal/Voltorb.png,Incense — Friday — Normal,Incense,Incense,Friday,,* Caterpie and Voltorb are not boosted.
 10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Incense — Friday — Normal,Incense,Incense,Friday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
 10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
 sobble_community_day,Sobble Community Day,Sobble,False,Normal/Sobble.png,Community Day — Saturday — Normal,Event,Community Day,Saturday,,"Sobble Community Day Community Day Starts: Saturday, July 4, 2026, at 2:00 PM Local Time Ends: Saturday, July 4, 2026, at 5:00 PM Local Time"

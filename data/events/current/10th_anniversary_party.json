@@ -6,7 +6,7 @@
   "date_text": "Mon, Jul 6, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/10th-anniversary-party/",
-  "generated_at": "2026-07-04 03:59:01",
+  "generated_at": "2026-07-04 13:55:58",
   "entries": [
     {
       "dex": 999,
@@ -426,22 +426,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "* Unclear if Caterpie and Voltorb have increased shiny odds."
-    },
-    {
-      "dex": 10,
-      "name": "Caterpie",
-      "uri": "file:///android_asset/Pokemon/Shiny/Caterpie_shiny.png",
-      "label": "Incense — Friday — Shiny",
-      "availability": "Incense",
-      "section": "Incense",
-      "day": "Friday",
-      "habitat": "",
-      "shiny": true,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "",
-      "source_text": "* Unclear if Caterpie and Voltorb have increased shiny odds."
+      "source_text": "* Caterpie and Voltorb are not boosted."
     },
     {
       "dex": 25,
@@ -471,22 +456,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "* Unclear if Caterpie and Voltorb have increased shiny odds."
-    },
-    {
-      "dex": 100,
-      "name": "Voltorb",
-      "uri": "file:///android_asset/Pokemon/Shiny/Voltorb_shiny.png",
-      "label": "Incense — Friday — Shiny",
-      "availability": "Incense",
-      "section": "Incense",
-      "day": "Friday",
-      "habitat": "",
-      "shiny": true,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "",
-      "source_text": "* Unclear if Caterpie and Voltorb have increased shiny odds."
+      "source_text": "* Caterpie and Voltorb are not boosted."
     },
     {
       "dex": 133,
