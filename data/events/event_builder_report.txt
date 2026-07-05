@@ -1,19 +1,19 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 13
-Current events: 8
+Events kept after cleanup: 12
+Current events: 7
 Upcoming events: 5
 Official news items found: 19
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 756
+Matched entries: 747
 Unmatched candidates: 0
 No-match debug rows: 0
 
 Events written:
 - [current] Event: Road of Legends
   Date: Fri, Jul 10, at 11:59 PM
-  Entries: 211
+  Entries: 217
   File: current/road_of_legends.json
   URL: https://leekduck.com/events/road-of-legends-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Venom and Vines
@@ -36,11 +36,6 @@ Events written:
   Entries: 59
   File: current/10th_anniversary_party.json
   URL: https://leekduck.com/events/10th-anniversary-party/
-- [current] Community Day: Sobble Community Day
-  Date: Sat, Jul 4, at 5:00 PM
-  Entries: 14
-  File: current/sobble_community_day.json
-  URL: https://leekduck.com/events/july-communityday2026/
 - [current] Event: Ozone Ascent
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 3
