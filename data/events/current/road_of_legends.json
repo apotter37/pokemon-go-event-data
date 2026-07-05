@@ -6,8 +6,23 @@
   "date_text": "Fri, Jul 10, at 11:59 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/road-of-legends-2026/",
-  "generated_at": "2026-07-04 13:55:51",
+  "generated_at": "2026-07-05 04:17:54",
   "entries": [
+    {
+      "dex": 1,
+      "name": "Bulbasaur",
+      "uri": "file:///android_asset/Pokemon/Costume/Bulbasaur_fall.png",
+      "label": "Eggs — Sunday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Trainers, please note that on the first day of the Road to Legends event, Bulbasaur, Charmander, and Squirtle in 5 km Eggs will have Party Hats instead of Pikachu Visors because of the overlapping 10th Anniversary Party event. This applies to any Eggs obtained from midnight to 8:00 p.m. local time on July 6, 2026."
+    },
     {
       "dex": 1,
       "name": "Bulbasaur",
@@ -37,6 +52,21 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Bulbasaur"
+    },
+    {
+      "dex": 4,
+      "name": "Charmander",
+      "uri": "file:///android_asset/Pokemon/Costume/Charmander_fall.png",
+      "label": "Eggs — Sunday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Trainers, please note that on the first day of the Road to Legends event, Bulbasaur, Charmander, and Squirtle in 5 km Eggs will have Party Hats instead of Pikachu Visors because of the overlapping 10th Anniversary Party event. This applies to any Eggs obtained from midnight to 8:00 p.m. local time on July 6, 2026."
     },
     {
       "dex": 4,
@@ -81,7 +111,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Squirtle"
+      "source_text": "Trainers, please note that on the first day of the Road to Legends event, Bulbasaur, Charmander, and Squirtle in 5 km Eggs will have Party Hats instead of Pikachu Visors because of the overlapping 10th Anniversary Party event. This applies to any Eggs obtained from midnight to 8:00 p.m. local time on July 6, 2026."
     },
     {
       "dex": 7,
@@ -157,6 +187,21 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Pidgey"
+    },
+    {
+      "dex": 25,
+      "name": "Pikachu",
+      "uri": "file:///android_asset/Pokemon/Normal/Pikachu.png",
+      "label": "Eggs — Sunday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Trainers, please note that on the first day of the Road to Legends event, Bulbasaur, Charmander, and Squirtle in 5 km Eggs will have Party Hats instead of Pikachu Visors because of the overlapping 10th Anniversary Party event. This applies to any Eggs obtained from midnight to 8:00 p.m. local time on July 6, 2026."
     },
     {
       "dex": 63,
