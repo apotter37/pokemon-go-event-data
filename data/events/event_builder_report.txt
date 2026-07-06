@@ -3,17 +3,17 @@ Pokemon GO Event Builder Report
 Events kept after cleanup: 12
 Current events: 7
 Upcoming events: 5
-Official news items found: 19
+Official news items found: 18
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 747
+Matched entries: 749
 Unmatched candidates: 0
 No-match debug rows: 0
 
 Events written:
 - [current] Event: Road of Legends
   Date: Fri, Jul 10, at 11:59 PM
-  Entries: 217
+  Entries: 219
   File: current/road_of_legends.json
   URL: https://leekduck.com/events/road-of-legends-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Venom and Vines

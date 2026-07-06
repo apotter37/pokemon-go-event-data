@@ -1,6 +1,8 @@
 ﻿event_id,event_title,pokemon,shiny,asset,label,availability,section,day,habitat,source_text
 road_of_legends,Road of Legends,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Friday — Mega Super — Normal,Raid,Raids,Friday,,Mega Mewtwo X and Mega Mewtwo Y will be featured in Super Mega Raids during Pokemon GO Fest: Global!
 road_of_legends,Road of Legends,Pikachu,False,Costume/Pikachu_party_hat.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Encounters with Pikachu wearing a team hat
+road_of_legends,Road of Legends,Mewtwo,False,Normal/Mewtwo.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,GO Pass: Road of Legends Earn a Lucky Trinket at rank 100! Trainers who upgrade to the Deluxe pass can encounter Mewtwo with a Special Background at rank 90 and a Gold Bottle Cap at rank 100. Points / rank 100 Detailed Compact
+road_of_legends,Road of Legends,Mewtwo,False,Costume/Mewtwo_armored.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Earn a Lucky Trinket at rank 100! Trainers who upgrade to the Deluxe pass can encounter Mewtwo with a Special Background at rank 90 and a Gold Bottle Cap at rank 100.
 road_of_legends,Road of Legends,Gardevoir,False,Mega/Gardevoir_mega.png,Incense — Sunday — Mega — Normal,Incense,Incense,Sunday,,Gardevoir Gardevoir Mega Energy ×300
 road_of_legends,Road of Legends,Gardevoir,False,Normal/Gardevoir.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Gardevoir
 road_of_legends,Road of Legends,Pikachu,False,Costume/Pikachu_instinct.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Pikachu wearing a Team Instinct hat Pikachu wearing a Team Instinct hat
