@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 15:11:35",
+  "generated_at": "2026-07-08 03:41:29",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -40,15 +40,6 @@
       "file": "current/special_anniversary_pikachu_celebration.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/"
-    },
-    {
-      "id": "10th_anniversary_party",
-      "title": "10th Anniversary Party",
-      "category": "Event",
-      "date_text": "Mon, Jul 6, at 8:00 PM",
-      "file": "current/10th_anniversary_party.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/10th-anniversary-party/"
     },
     {
       "id": "ozone_ascent",
@@ -98,11 +89,11 @@
       "source_url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/"
     },
     {
-      "id": "august_community_day",
-      "title": "August Community Day",
+      "id": "nickit_community_day",
+      "title": "Nickit Community Day",
       "category": "Community Day",
       "date_text": "Sun, Aug 16, at 5:00 PM",
-      "file": "upcoming/august_community_day.json",
+      "file": "upcoming/nickit_community_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/august-communityday2026/"
     },

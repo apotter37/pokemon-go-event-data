@@ -47,17 +47,6 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
-    "title": "10th Anniversary Party",
-    "url": "https://leekduck.com/events/10th-anniversary-party/",
-    "date_text": "Mon, Jul 6, at 8:00 PM",
-    "raw_text": "Event Event 10th Anniversary Party Mon, Jul 6, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "10th_anniversary_party",
-    "file": "current/10th_anniversary_party.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
     "title": "Ozone Ascent",
     "url": "https://leekduck.com/events/ozone-ascent-2026/",
     "date_text": "Sun, Jul 26, at 8:00 PM",
@@ -113,12 +102,12 @@
     "source": "LeekDuck",
     "status": "upcoming",
     "category": "Community Day",
-    "title": "August Community Day",
+    "title": "Nickit Community Day",
     "url": "https://leekduck.com/events/august-communityday2026/",
     "date_text": "Sun, Aug 16, at 5:00 PM",
-    "raw_text": "Community Day Community Day August Community Day Sun, Aug 16, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "august_community_day",
-    "file": "upcoming/august_community_day.json"
+    "raw_text": "Community Day Community Day Nickit Community Day Sun, Aug 16, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "nickit_community_day",
+    "file": "upcoming/nickit_community_day.json"
   },
   {
     "source": "LeekDuck",

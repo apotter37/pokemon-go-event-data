@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 12
-Current events: 7
+Events kept after cleanup: 11
+Current events: 6
 Upcoming events: 5
 Official news items found: 18
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 749
+Matched entries: 690
 Unmatched candidates: 0
 No-match debug rows: 0
 
@@ -31,11 +31,6 @@ Events written:
   Entries: 14
   File: current/special_anniversary_pikachu_celebration.json
   URL: https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/
-- [current] Event: 10th Anniversary Party
-  Date: Mon, Jul 6, at 8:00 PM
-  Entries: 59
-  File: current/10th_anniversary_party.json
-  URL: https://leekduck.com/events/10th-anniversary-party/
 - [current] Event: Ozone Ascent
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 3
@@ -61,10 +56,10 @@ Events written:
   Entries: 9
   File: upcoming/raichu_super_mega_raid_day.json
   URL: https://leekduck.com/events/raichu-super-mega-raid-day-2026/
-- [upcoming] Community Day: August Community Day
+- [upcoming] Community Day: Nickit Community Day
   Date: Sun, Aug 16, at 5:00 PM
-  Entries: 0
-  File: upcoming/august_community_day.json
+  Entries: 16
+  File: upcoming/nickit_community_day.json
   URL: https://leekduck.com/events/august-communityday2026/
 - [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Global
   Date: Sun, Jul 12, at 7:00 PM

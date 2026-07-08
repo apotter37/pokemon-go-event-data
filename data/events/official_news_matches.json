@@ -72,20 +72,6 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "10th Anniversary Party",
-      "url": "https://leekduck.com/events/10th-anniversary-party/",
-      "date_text": "Mon, Jul 6, at 8:00 PM",
-      "raw_text": "Event Event 10th Anniversary Party Mon, Jul 6, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "10th_anniversary_party",
-      "file": "current/10th_anniversary_party.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
       "title": "Ozone Ascent",
       "url": "https://leekduck.com/events/ozone-ascent-2026/",
       "date_text": "Sun, Jul 26, at 8:00 PM",
@@ -124,6 +110,11 @@
     "official_matches": [
       {
         "source": "Official Pokémon GO",
+        "title": "August 2026 Community Day: Nickit",
+        "url": "https://pokemongo.com/news/communityday-august-2026-nickit"
+      },
+      {
+        "source": "Official Pokémon GO",
         "title": "Super Mega Raid Update at Pokemon GO Fest 2026: Copenhagen Park Experience",
         "url": "https://pokemongo.com/news/gofest-copenhagen-super-mega-raid"
       },
@@ -146,7 +137,13 @@
       "id": "hatch_day_august_2026",
       "file": "upcoming/hatch_day_august_2026.json"
     },
-    "official_matches": []
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "August 2026 Community Day: Nickit",
+        "url": "https://pokemongo.com/news/communityday-august-2026-nickit"
+      }
+    ]
   },
   {
     "event": {
@@ -188,18 +185,18 @@
       "source": "LeekDuck",
       "status": "upcoming",
       "category": "Community Day",
-      "title": "August Community Day",
+      "title": "Nickit Community Day",
       "url": "https://leekduck.com/events/august-communityday2026/",
       "date_text": "Sun, Aug 16, at 5:00 PM",
-      "raw_text": "Community Day Community Day August Community Day Sun, Aug 16, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "august_community_day",
-      "file": "upcoming/august_community_day.json"
+      "raw_text": "Community Day Community Day Nickit Community Day Sun, Aug 16, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "nickit_community_day",
+      "file": "upcoming/nickit_community_day.json"
     },
     "official_matches": [
       {
         "source": "Official Pokémon GO",
-        "title": "Frigibax will be featured in June Community Day, and Community Day voting is back for August!",
-        "url": "https://pokemongo.com/news/communityday-june-2026-frigibax"
+        "title": "August 2026 Community Day: Nickit",
+        "url": "https://pokemongo.com/news/communityday-august-2026-nickit"
       }
     ]
   },

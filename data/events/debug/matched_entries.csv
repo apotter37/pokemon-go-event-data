@@ -345,86 +345,6 @@ special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_amethyst.png,Raids — Saturday — Crown — Normal,Raid,Raids,Saturday,,Amethyst Crown Pikachu
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Saturday — Crown — Shiny,Raid,Raids,Saturday,,Amethyst Crown Pikachu
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_amethyst.png,Raids — Saturday — Crown — Normal,Raid,Raids,Saturday,,Amethyst Crown Pikachu
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Saturday — Event Costume — Normal,Wild,Bonuses,Saturday,,"4× XP for catching Pokemon. 4× Stardust for catching Pokemon. Event-themed Pokemon appearing in the wild are more likely to be Shiny. Gimmighoul holding a 10th anniversary coin may have a Special Background!* When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!*"
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Bonuses — Saturday — Event Costume — Shiny,Wild,Bonuses,Saturday,,"4× XP for catching Pokemon. 4× Stardust for catching Pokemon. Event-themed Pokemon appearing in the wild are more likely to be Shiny. Gimmighoul holding a 10th anniversary coin may have a Special Background!* When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!*"
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Saturday — Normal,Bonus,Bonuses,Saturday,,Gimmighoul holding a 10th anniversary coin may have a Special Background!*
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Saturday — Normal,Bonus,Bonuses,Saturday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!*"
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Bonuses — Saturday — Shiny,Bonus,Bonuses,Saturday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!*"
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Friday — Normal,Bonus,Bonuses,Friday,,"* Gimmighoul holding a 10th anniversary coin bonuses will be active from July 4, 2026 at 10 am to Friday, July 31, 2026, at 11:59 p.m. local time."
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Gimmighoul (10th Anniversary Coin)
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Lure Encounters — Friday — Shiny,Lure,Lure Encounters,Friday,,Gimmighoul (10th Anniversary Coin)
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Gimmighoul (10th Anniversary Coin)
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Costume/Bulbasaur_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Lure Encounters — Friday — Party Hat — Shiny,Lure,Lure Encounters,Friday,,Party Hat Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Costume/Bulbasaur_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Charmander,False,Costume/Charmander_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Charmander
-10th_anniversary_party,10th Anniversary Party,Charmander,True,Shiny/Charmander_shiny.png,Lure Encounters — Friday — Party Hat — Shiny,Lure,Lure Encounters,Friday,,Party Hat Charmander
-10th_anniversary_party,10th Anniversary Party,Charmander,False,Costume/Charmander_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Charmander
-10th_anniversary_party,10th Anniversary Party,Squirtle,False,Costume/Squirtle_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Squirtle
-10th_anniversary_party,10th Anniversary Party,Squirtle,True,Shiny/Squirtle_shiny.png,Lure Encounters — Friday — Party Hat — Shiny,Lure,Lure Encounters,Friday,,Party Hat Squirtle
-10th_anniversary_party,10th Anniversary Party,Squirtle,False,Costume/Squirtle_party_hat.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Squirtle
-10th_anniversary_party,10th Anniversary Party,Caterpie,False,Normal/Caterpie.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Caterpie
-10th_anniversary_party,10th Anniversary Party,Caterpie,True,Shiny/Caterpie_shiny.png,Lure Encounters — Friday — Shiny,Lure,Lure Encounters,Friday,,Caterpie
-10th_anniversary_party,10th Anniversary Party,Caterpie,False,Normal/Caterpie.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Caterpie
-10th_anniversary_party,10th Anniversary Party,Pikachu,False,Normal/Pikachu.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Cake Hat Pikachu
-10th_anniversary_party,10th Anniversary Party,Pikachu,True,Shiny/Pikachu_shiny.png,Lure Encounters — Friday — Shiny,Lure,Lure Encounters,Friday,,Cake Hat Pikachu
-10th_anniversary_party,10th Anniversary Party,Pikachu,False,Normal/Pikachu.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Cake Hat Pikachu
-10th_anniversary_party,10th Anniversary Party,Voltorb,False,Normal/Voltorb.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Voltorb
-10th_anniversary_party,10th Anniversary Party,Voltorb,True,Shiny/Voltorb_shiny.png,Lure Encounters — Friday — Shiny,Lure,Lure Encounters,Friday,,Voltorb
-10th_anniversary_party,10th Anniversary Party,Voltorb,False,Normal/Voltorb.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Voltorb
-10th_anniversary_party,10th Anniversary Party,Voltorb,False,Hisuian/Voltorb_hisuian.png,Lure Encounters — Friday — Hisuian — Normal,Lure,Lure Encounters,Friday,,Hisuian Voltorb
-10th_anniversary_party,10th Anniversary Party,Voltorb,True,Hisuian/Shiny/Voltorb_hisuian_shiny.png,Lure Encounters — Friday — Hisuian — Shiny,Lure,Lure Encounters,Friday,,Hisuian Voltorb
-10th_anniversary_party,10th Anniversary Party,Voltorb,False,Hisuian/Voltorb_hisuian.png,Lure Encounters — Friday — Hisuian — Normal,Lure,Lure Encounters,Friday,,Hisuian Voltorb
-10th_anniversary_party,10th Anniversary Party,Eevee,False,Normal/Eevee.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Eevee
-10th_anniversary_party,10th Anniversary Party,Eevee,True,Shiny/Eevee_shiny.png,Lure Encounters — Friday — Shiny,Lure,Lure Encounters,Friday,,Eevee
-10th_anniversary_party,10th Anniversary Party,Eevee,False,Normal/Eevee.png,Lure Encounters — Friday — Normal,Lure,Lure Encounters,Friday,,Eevee
-10th_anniversary_party,10th Anniversary Party,Wurmple,False,Costume/Wurmple_party.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Wurmple
-10th_anniversary_party,10th Anniversary Party,Wurmple,True,Shiny/Wurmple_shiny.png,Lure Encounters — Friday — Party Hat — Shiny,Lure,Lure Encounters,Friday,,Party Hat Wurmple
-10th_anniversary_party,10th Anniversary Party,Wurmple,False,Costume/Wurmple_party.png,Lure Encounters — Friday — Party Hat — Normal,Lure,Lure Encounters,Friday,,Party Hat Wurmple
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,An encounter with Gimmighoul holding a 10th anniversary coin with a Special Background
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Incense — Friday — Normal,Incense,Incense,Friday,,REWARDS Gimmighoul (10th Anniversary Coin) ×10000 ×1
-10th_anniversary_party,10th Anniversary Party,Venusaur,False,Normal/Venusaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Venusaur
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Normal/Bulbasaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Normal/Bulbasaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Ivysaur,False,Normal/Ivysaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Ivysaur
-10th_anniversary_party,10th Anniversary Party,Ivysaur,True,Shiny/Ivysaur_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Ivysaur
-10th_anniversary_party,10th Anniversary Party,Ivysaur,False,Normal/Ivysaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Ivysaur
-10th_anniversary_party,10th Anniversary Party,Venusaur,False,Normal/Venusaur.png,Incense — Friday — Normal,Incense,Incense,Friday,,Venusaur
-10th_anniversary_party,10th Anniversary Party,Venusaur,True,Shiny/Venusaur_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Venusaur
-10th_anniversary_party,10th Anniversary Party,Charizard,False,Normal/Charizard.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charizard
-10th_anniversary_party,10th Anniversary Party,Charmander,False,Normal/Charmander.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charmander
-10th_anniversary_party,10th Anniversary Party,Charmander,True,Shiny/Charmander_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Charmander
-10th_anniversary_party,10th Anniversary Party,Charmander,False,Normal/Charmander.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charmander
-10th_anniversary_party,10th Anniversary Party,Charmeleon,False,Normal/Charmeleon.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charmeleon
-10th_anniversary_party,10th Anniversary Party,Charmeleon,True,Shiny/Charmeleon_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Charmeleon
-10th_anniversary_party,10th Anniversary Party,Charmeleon,False,Normal/Charmeleon.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charmeleon
-10th_anniversary_party,10th Anniversary Party,Charizard,False,Normal/Charizard.png,Incense — Friday — Normal,Incense,Incense,Friday,,Charizard
-10th_anniversary_party,10th Anniversary Party,Charizard,True,Shiny/Charizard_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Charizard
-10th_anniversary_party,10th Anniversary Party,Blastoise,False,Normal/Blastoise.png,Incense — Friday — Normal,Incense,Incense,Friday,,Blastoise
-10th_anniversary_party,10th Anniversary Party,Squirtle,False,Normal/Squirtle.png,Incense — Friday — Normal,Incense,Incense,Friday,,Squirtle
-10th_anniversary_party,10th Anniversary Party,Squirtle,True,Shiny/Squirtle_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Squirtle
-10th_anniversary_party,10th Anniversary Party,Squirtle,False,Normal/Squirtle.png,Incense — Friday — Normal,Incense,Incense,Friday,,Squirtle
-10th_anniversary_party,10th Anniversary Party,Wartortle,False,Normal/Wartortle.png,Incense — Friday — Normal,Incense,Incense,Friday,,Wartortle
-10th_anniversary_party,10th Anniversary Party,Wartortle,True,Shiny/Wartortle_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Wartortle
-10th_anniversary_party,10th Anniversary Party,Wartortle,False,Normal/Wartortle.png,Incense — Friday — Normal,Incense,Incense,Friday,,Wartortle
-10th_anniversary_party,10th Anniversary Party,Blastoise,False,Normal/Blastoise.png,Incense — Friday — Normal,Incense,Incense,Friday,,Blastoise
-10th_anniversary_party,10th Anniversary Party,Blastoise,True,Shiny/Blastoise_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Blastoise
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,False,Costume/Bulbasaur_party_hat.png,Incense — Friday — Party Hat — Normal,Incense,Incense,Friday,,Party Hat Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Incense — Friday — Party Hat — Shiny,Incense,Incense,Friday,,Party Hat Bulbasaur
-10th_anniversary_party,10th Anniversary Party,Charmander,False,Costume/Charmander_party_hat.png,Incense — Friday — Party Hat — Normal,Incense,Incense,Friday,,Party Hat Charmander
-10th_anniversary_party,10th Anniversary Party,Charmander,True,Shiny/Charmander_shiny.png,Incense — Friday — Party Hat — Shiny,Incense,Incense,Friday,,Party Hat Charmander
-10th_anniversary_party,10th Anniversary Party,Squirtle,False,Costume/Squirtle_party_hat.png,Incense — Friday — Party Hat — Normal,Incense,Incense,Friday,,Party Hat Squirtle
-10th_anniversary_party,10th Anniversary Party,Squirtle,True,Shiny/Squirtle_shiny.png,Incense — Friday — Party Hat — Shiny,Incense,Incense,Friday,,Party Hat Squirtle
-10th_anniversary_party,10th Anniversary Party,Pikachu,False,Normal/Pikachu.png,Incense — Friday — Normal,Incense,Incense,Friday,,Cake Hat Pikachu
-10th_anniversary_party,10th Anniversary Party,Eevee,False,Normal/Eevee.png,Incense — Friday — Normal,Incense,Incense,Friday,,Eevee
-10th_anniversary_party,10th Anniversary Party,Eevee,True,Shiny/Eevee_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,Eevee
-10th_anniversary_party,10th Anniversary Party,Wurmple,False,Costume/Wurmple_party.png,Incense — Friday — Party Hat — Normal,Incense,Incense,Friday,,Party Hat Wurmple
-10th_anniversary_party,10th Anniversary Party,Wurmple,True,Shiny/Wurmple_shiny.png,Incense — Friday — Party Hat — Shiny,Incense,Incense,Friday,,Party Hat Wurmple
-10th_anniversary_party,10th Anniversary Party,Caterpie,False,Normal/Caterpie.png,Incense — Friday — Normal,Incense,Incense,Friday,,* Caterpie and Voltorb are not boosted.
-10th_anniversary_party,10th Anniversary Party,Voltorb,False,Normal/Voltorb.png,Incense — Friday — Normal,Incense,Incense,Friday,,* Caterpie and Voltorb are not boosted.
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Incense — Friday — Normal,Incense,Incense,Friday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
-10th_anniversary_party,10th Anniversary Party,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Incense — Friday — Shiny,Incense,Incense,Friday,,"When you use a Coin Bag during this event, you may encounter Shiny Gimmighoul—if you're lucky!"
 ozone_ascent,Ozone Ascent,Rayquaza,False,Normal/Rayquaza.png,Timed Research — Sunday — Normal,Research,Timed Research,Sunday,,"Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
 ozone_ascent,Ozone Ascent,Rayquaza,False,Normal/Rayquaza.png,Timed Research — Sunday — Normal,Research,Timed Research,Sunday,,Rayquaza
 ozone_ascent,Ozone Ascent,Rayquaza,True,Shiny/Rayquaza_shiny.png,Timed Research — Sunday — Shiny,Research,Timed Research,Sunday,,Rayquaza
@@ -447,6 +367,26 @@ raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Raichu
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,True,Shiny/Raichu_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Raichu
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Raichu
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Community Day — Sunday — Normal,Event,Community Day,Sunday,,"Nickit Community Day Community Day Starts: Sunday, August 16, 2026, at 2:00 PM Local Time Ends: Sunday, August 16, 2026, at 5:00 PM Local Time"
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Take a few snapshots during Community Day for a surprise! During the event you can snap an AR Photo and get photobombed by Nickit.
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Nickit
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Nickit
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Lure Encounters — Sunday — Normal,Lure,Lure Encounters,Sunday,,"From 2:00 p.m. to 9:00 p.m. local time , Nickit will have a very high chance of appearing at PokeStops with active regular Lure Modules."
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Lure Encounters — Sunday — Normal,Lure,Lure Encounters,Sunday,,Nickit attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Lure Encounters — Sunday — Shiny,Lure,Lure Encounters,Sunday,,Nickit attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Nickit will appear more frequently in the wild.
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,"August Community Day—themed Field Research will be available! Catch Nickit to earn rewards such as Stardust, Ultra Balls, additional encounters with Nickit, and more! You may even find Field Research that leads to encounters with Nickit that have a Special Background—if you're lucky!"
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Field Research — Sunday — Shiny,Research,Field Research,Sunday,,"August Community Day—themed Field Research will be available! Catch Nickit to earn rewards such as Stardust, Ultra Balls, additional encounters with Nickit, and more! You may even find Field Research that leads to encounters with Nickit that have a Special Background—if you're lucky!"
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,Nickit Community Day
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Special Research — Sunday — Normal,Research,Special Research,Sunday,,3 encounters with Nickit that have a Special Background (at the end of each page)
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Nickit Community Day (1/3)
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Shiny Nickit will be available! Trainers will have an increased chance of encountering Shiny Nickit during Community Day.
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Incense — Sunday — Shiny,Incense,Incense,Sunday,,Shiny Nickit will be available! Trainers will have an increased chance of encountering Shiny Nickit during Community Day.
+nickit_community_day,Nickit Community Day,Thievul,False,Normal/Thievul.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Thievul
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Nickit will appear more frequently in the wild.
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Nickit will appear more frequently in the wild.
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Nickit may be attracted to Lure Modules during the event.
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Nickit may be attracted to Lure Modules during the event.
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zeraora,False,Normal/Zeraora.png,Special Research — Sunday — Normal,Research,Special Research,Sunday,,Special Research including an encounter with Zeraora
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Timed Research — Sunday — Mega — Normal,Research,Timed Research,Sunday,,Branching Timed Research with a choice between Mega Mewtwo X or Mega Mewtwo Y
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Bonuses — Day 1 — Mega — Normal,Bonus,Bonuses,Day 1,,Mega Mewtwo X and Mega Mewtwo Y debut
@@ -632,14 +572,14 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,False,Normal/
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,False,Normal/Landorus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Therian)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,True,Shiny/Landorus_therian_shiny.png,Raids — Sunday — Sunday Habitat Raids — Therian — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Therian)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Landorus,False,Normal/Landorus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Landorus (Therian)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Enamorus,False,Normal/Enamorus.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Enamorus (Incarnate)
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Enamorus,False,Normal/Enamorus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Enamorus (Therian Forme)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regieleki,False,Normal/Regieleki.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regieleki
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regieleki,True,Shiny/Regieleki_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regieleki
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regieleki,False,Normal/Regieleki.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regieleki
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regidrago,False,Normal/Regidrago.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regidrago
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regidrago,True,Shiny/Regidrago_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Regidrago
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Regidrago,False,Normal/Regidrago.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Regidrago
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Enamorus,False,Normal/Enamorus.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Enamorus (Incarnate)
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Enamorus,False,Normal/Enamorus_therian.png,Raids — Sunday — Sunday Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Enamorus (Therian Forme)
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Beedrill,False,Mega/Beedrill_mega.png,Raids — Sunday — Sunday Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Beedrill
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Beedrill,True,Mega/Shiny/Beedrill_mega_shiny.png,Raids — Sunday — Sunday Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Beedrill
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Beedrill,False,Mega/Beedrill_mega.png,Raids — Sunday — Sunday Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Beedrill
@@ -655,6 +595,18 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Deoxys,False,Normal/De
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Genesect,False,Normal/Genesect.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Genesect
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Genesect,True,Shiny/Genesect_burn_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Genesect
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Genesect,False,Normal/Genesect.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Genesect
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Koko,False,Normal/Tapu_Koko.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Koko
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Koko,True,Shiny/Tapu_Koko_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Koko
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Koko,False,Normal/Tapu_Koko.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Koko
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Lele,False,Normal/Tapu_Lele.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Lele
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Lele,True,Shiny/Tapu_Lele_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Lele
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Lele,False,Normal/Tapu_Lele.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Lele
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Bulu
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Bulu,True,Shiny/Tapu_Bulu_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Bulu
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Bulu
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Fini
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Fini,True,Shiny/Tapu_Fini_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Fini
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Fini
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Nihilego,False,Normal/Nihilego.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Nihilego
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Nihilego,True,Shiny/Nihilego_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Nihilego
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Nihilego,False,Normal/Nihilego.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Nihilego
@@ -685,18 +637,6 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Stakataka,False,Normal
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Blacephalon,False,Normal/Blacephalon.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Blacephalon
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Blacephalon,True,Shiny/Blacephalon_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Blacephalon
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Blacephalon,False,Normal/Blacephalon.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Blacephalon
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Koko,False,Normal/Tapu_Koko.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Koko
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Koko,True,Shiny/Tapu_Koko_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Koko
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Koko,False,Normal/Tapu_Koko.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Koko
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Lele,False,Normal/Tapu_Lele.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Lele
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Lele,True,Shiny/Tapu_Lele_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Lele
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Lele,False,Normal/Tapu_Lele.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Lele
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Bulu
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Bulu,True,Shiny/Tapu_Bulu_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Bulu
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Bulu
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Fini
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Fini,True,Shiny/Tapu_Fini_shiny.png,Raids — Sunday — Sunday Habitat Raids — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Fini
-pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Tapu Fini
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tyranitar,False,Mega/Tyranitar_mega.png,Raids — Sunday — Sunday Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Tyranitar
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tyranitar,True,Mega/Shiny/Tyranitar_mega_shiny.png,Raids — Sunday — Sunday Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Tyranitar
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tyranitar,False,Mega/Tyranitar_mega.png,Raids — Sunday — Sunday Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Mega Tyranitar
@@ -748,3 +688,4 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,False,Normal/T
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Tropius,True,Shiny/Tropius_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Tropius
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bouffalant,False,Normal/Bouffalant.png,Timed Research — Sunday — Sunday Habitat Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Raids,Bouffalant
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Bouffalant,True,Shiny/Bouffalant_shiny.png,Timed Research — Sunday — Sunday Habitat Raids — Shiny,Research,Timed Research,Sunday,Sunday Habitat Raids,Bouffalant
+pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zeraora,False,Normal/Zeraora.png,Special Research — Sunday — Sunday Habitat Raids — Normal,Research,Special Research,Sunday,Sunday Habitat Raids,Zeraora T-Shirt
