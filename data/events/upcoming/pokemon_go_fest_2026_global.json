@@ -6,7 +6,7 @@
   "date_text": "Sun, Jul 12, at 7:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
-  "generated_at": "2026-07-11 03:38:38",
+  "generated_at": "2026-07-11 13:50:56",
   "entries": [
     {
       "dex": 150,
@@ -202,21 +202,6 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Win a raid REWARD ×150 Mega Mewtwo Y Mega Energy ×150"
-    },
-    {
-      "dex": 25,
-      "name": "Pikachu",
-      "uri": "file:///android_asset/Pokemon/Costume/Pikachu_instinct.png",
-      "label": "Field Research — Sunday — Sunday Habitat Raids — Normal",
-      "availability": "Raid",
-      "section": "Field Research",
-      "day": "Sunday",
-      "habitat": "Sunday Habitat Raids",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "",
-      "source_text": "Pikachu wearing a Team Instinct, Team Mystic, or Team Valor hat are available from Field Research and Raid Battles."
     },
     {
       "dex": 1,
@@ -487,6 +472,66 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Pidgeot"
+    },
+    {
+      "dex": 25,
+      "name": "Pikachu",
+      "uri": "file:///android_asset/Pokemon/Costume/Pikachu_instinct.png",
+      "label": "Raids — Sunday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Pikachu wearing a Team Instinct, Team Mystic, or Team Valor hat will appear in 1-Star Raids throughout both event days. These Pikachu can be Shiny."
+    },
+    {
+      "dex": 25,
+      "name": "Pikachu",
+      "uri": "file:///android_asset/Pokemon/Costume/Pikachu_mystic.png",
+      "label": "Raids — Sunday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Pikachu wearing a Team Mystic hat"
+    },
+    {
+      "dex": 25,
+      "name": "Pikachu",
+      "uri": "file:///android_asset/Pokemon/Costume/Pikachu_party_hat.png",
+      "label": "Raids — Sunday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Pikachu wearing a Team Valor hat"
+    },
+    {
+      "dex": 25,
+      "name": "Pikachu",
+      "uri": "file:///android_asset/Pokemon/Shiny/Pikachu_shiny.png",
+      "label": "Raids — Sunday — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Pikachu wearing a Team Instinct, Team Mystic, or Team Valor hat will appear in 1-Star Raids throughout both event days. These Pikachu can be Shiny."
     },
     {
       "dex": 25,
@@ -951,7 +996,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Choose this path to pursue Mega Mewtwo Y."
+      "source_text": "Choose Mega Mewtwo Y"
     },
     {
       "dex": 150,

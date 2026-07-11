@@ -6,7 +6,7 @@ Upcoming events: 5
 Official news items found: 18
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 759
+Matched entries: 764
 Unmatched candidates: 0
 No-match debug rows: 0
 
@@ -63,7 +63,7 @@ Events written:
   URL: https://leekduck.com/events/august-communityday2026/
 - [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Global
   Date: Sun, Jul 12, at 7:00 PM
-  Entries: 272
+  Entries: 275
   File: upcoming/pokemon_go_fest_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-fest-2026-global/
 
