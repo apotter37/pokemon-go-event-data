@@ -1,19 +1,10 @@
 {
-  "generated_at": "2026-07-11 13:50:56",
+  "generated_at": "2026-07-12 03:53:03",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
   ],
   "current": [
-    {
-      "id": "road_of_legends",
-      "title": "Road of Legends",
-      "category": "Event",
-      "date_text": "Fri, Jul 10, at 11:59 PM",
-      "file": "current/road_of_legends.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/road-of-legends-2026/"
-    },
     {
       "id": "choose_your_path_choose_your_path_choose_your_path_venom_and_vines",
       "title": "Choose Your Path Choose Your Path Choose Your Path: Venom and Vines",
@@ -22,6 +13,15 @@
       "file": "current/choose_your_path_choose_your_path_choose_your_path_venom_and_vines.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/"
+    },
+    {
+      "id": "water_festival",
+      "title": "Water Festival",
+      "category": "Event",
+      "date_text": "Mon, Aug 24, at 8:00 PM",
+      "file": "current/water_festival.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/water-festival-2026/"
     },
     {
       "id": "choose_your_path_choose_your_path_choose_your_path_fairy_trail",
@@ -40,6 +40,15 @@
       "file": "current/special_anniversary_pikachu_celebration.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/"
+    },
+    {
+      "id": "pokemon_go_fest_2026_global",
+      "title": "Pokémon GO Fest 2026: Global",
+      "category": "Pokémon GO Fest",
+      "date_text": "Sun, Jul 12, at 7:00 PM",
+      "file": "current/pokemon_go_fest_2026_global.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-global/"
     },
     {
       "id": "ozone_ascent",
@@ -96,15 +105,6 @@
       "file": "upcoming/nickit_community_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/august-communityday2026/"
-    },
-    {
-      "id": "pokemon_go_fest_2026_global",
-      "title": "Pokémon GO Fest 2026: Global",
-      "category": "Pokémon GO Fest",
-      "date_text": "Sun, Jul 12, at 7:00 PM",
-      "file": "upcoming/pokemon_go_fest_2026_global.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-global/"
     }
   ]
 }

@@ -3,23 +3,23 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
-    "title": "Road of Legends",
-    "url": "https://leekduck.com/events/road-of-legends-2026/",
-    "date_text": "Fri, Jul 10, at 11:59 PM",
-    "raw_text": "Event Event Road of Legends Fri, Jul 10, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "road_of_legends",
-    "file": "current/road_of_legends.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
     "title": "Choose Your Path Choose Your Path Choose Your Path: Venom and Vines",
     "url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/",
     "date_text": "Mon, Aug 17, at 8:00 PM",
     "raw_text": "Choose Your Path Choose Your Path Choose Your Path: Venom and Vines Mon, Aug 17, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "choose_your_path_choose_your_path_choose_your_path_venom_and_vines",
     "file": "current/choose_your_path_choose_your_path_choose_your_path_venom_and_vines.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
+    "title": "Water Festival",
+    "url": "https://leekduck.com/events/water-festival-2026/",
+    "date_text": "Mon, Aug 24, at 8:00 PM",
+    "raw_text": "Event Event Water Festival Mon, Aug 24, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "water_festival",
+    "file": "current/water_festival.json"
   },
   {
     "source": "LeekDuck",
@@ -42,6 +42,17 @@
     "raw_text": "Event Event Special Anniversary Pikachu Celebration Mon, Jul 20, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "special_anniversary_pikachu_celebration",
     "file": "current/special_anniversary_pikachu_celebration.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Pokémon GO Fest",
+    "title": "Pokémon GO Fest 2026: Global",
+    "url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
+    "date_text": "Sun, Jul 12, at 7:00 PM",
+    "raw_text": "Pokemon GO Fest Pokemon GO Fest Pokemon GO Fest 2026: Global Sun, Jul 12, at 7:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "pokemon_go_fest_2026_global",
+    "file": "current/pokemon_go_fest_2026_global.json"
   },
   {
     "source": "LeekDuck",
@@ -108,16 +119,5 @@
     "raw_text": "Community Day Community Day Nickit Community Day Sun, Aug 16, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "nickit_community_day",
     "file": "upcoming/nickit_community_day.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "upcoming",
-    "category": "Pokémon GO Fest",
-    "title": "Pokémon GO Fest 2026: Global",
-    "url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
-    "date_text": "Sun, Jul 12, at 7:00 PM",
-    "raw_text": "Pokemon GO Fest Pokemon GO Fest Pokemon GO Fest 2026: Global Sun, Jul 12, at 7:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "pokemon_go_fest_2026_global",
-    "file": "upcoming/pokemon_go_fest_2026_global.json"
   }
 ]

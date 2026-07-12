@@ -1,329 +1,7 @@
 ﻿event_id,event_title,pokemon,shiny,asset,label,availability,section,day,habitat,source_text
-road_of_legends,Road of Legends,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Friday — Mega Super — Normal,Raid,Raids,Friday,,Mega Mewtwo X and Mega Mewtwo Y will be featured in Super Mega Raids during Pokemon GO Fest: Global!
-road_of_legends,Road of Legends,Pikachu,False,Costume/Pikachu_party_hat.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Encounters with Pikachu wearing a team hat
-road_of_legends,Road of Legends,Mewtwo,False,Normal/Mewtwo.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,GO Pass: Road of Legends Earn a Lucky Trinket at rank 100! Trainers who upgrade to the Deluxe pass can encounter Mewtwo with a Special Background at rank 90 and a Gold Bottle Cap at rank 100. Points / rank 100 Detailed Compact
-road_of_legends,Road of Legends,Mewtwo,False,Costume/Mewtwo_armored.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Earn a Lucky Trinket at rank 100! Trainers who upgrade to the Deluxe pass can encounter Mewtwo with a Special Background at rank 90 and a Gold Bottle Cap at rank 100.
-road_of_legends,Road of Legends,Gardevoir,False,Mega/Gardevoir_mega.png,Incense — Sunday — Mega — Normal,Incense,Incense,Sunday,,Gardevoir Gardevoir Mega Energy ×300
-road_of_legends,Road of Legends,Gardevoir,False,Normal/Gardevoir.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Gardevoir
-road_of_legends,Road of Legends,Pikachu,False,Costume/Pikachu_instinct.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Pikachu wearing a Team Instinct hat Pikachu wearing a Team Instinct hat
-road_of_legends,Road of Legends,Pikachu,False,Costume/Pikachu_instinct.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Pikachu wearing a Team Instinct hat
-road_of_legends,Road of Legends,Pikachu,False,Costume/Pikachu_mystic.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Pikachu wearing a Team Mystic hat Pikachu wearing a Team Mystic hat
-road_of_legends,Road of Legends,Pikachu,False,Costume/Pikachu_mystic.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Pikachu wearing a Team Mystic hat
-road_of_legends,Road of Legends,Pikachu,False,Costume/Pikachu_party_hat.png,Lure Encounters — Sunday — Normal,Lure,Lure Encounters,Sunday,,Pikachu wearing a Team Valor hat Pikachu wearing a Team Valor hat
-road_of_legends,Road of Legends,Pikachu,False,Costume/Pikachu_party_hat.png,Lure Encounters — Sunday — Normal,Lure,Lure Encounters,Sunday,,Pikachu wearing a Team Valor hat
-road_of_legends,Road of Legends,Mewtwo,False,Normal/Mewtwo.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Mewtwo with a Special Background
-road_of_legends,Road of Legends,Larvesta,False,Normal/Larvesta.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,"Featured Eggs will be available starting Monday, July 6. If you're lucky, Larvesta may hatch from 2 km, 5 km, or 10 km Eggs!"
-road_of_legends,Road of Legends,Larvesta,True,Shiny/Larvesta_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,"Featured Eggs will be available starting Monday, July 6. If you're lucky, Larvesta may hatch from 2 km, 5 km, or 10 km Eggs!"
-road_of_legends,Road of Legends,Weedle,False,Normal/Weedle.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Weedle
-road_of_legends,Road of Legends,Weedle,True,Shiny/Weedle_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Weedle
-road_of_legends,Road of Legends,Weedle,False,Normal/Weedle.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Weedle
-road_of_legends,Road of Legends,Pidgey,False,Normal/Pidgey.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Pidgey
-road_of_legends,Road of Legends,Pidgey,True,Shiny/Pidgey_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Pidgey
-road_of_legends,Road of Legends,Pidgey,False,Normal/Pidgey.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Pidgey
-road_of_legends,Road of Legends,Abra,False,Normal/Abra.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Abra
-road_of_legends,Road of Legends,Abra,True,Shiny/Abra_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Abra
-road_of_legends,Road of Legends,Abra,False,Normal/Abra.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Abra
-road_of_legends,Road of Legends,Gastly,False,Normal/Gastly.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Gastly
-road_of_legends,Road of Legends,Gastly,True,Shiny/Gastly_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Gastly
-road_of_legends,Road of Legends,Gastly,False,Normal/Gastly.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Gastly
-road_of_legends,Road of Legends,Pinsir,False,Normal/Pinsir.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Pinsir
-road_of_legends,Road of Legends,Pinsir,True,Shiny/Pinsir_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Pinsir
-road_of_legends,Road of Legends,Pinsir,False,Normal/Pinsir.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Pinsir
-road_of_legends,Road of Legends,Aerodactyl,False,Normal/Aerodactyl.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Aerodactyl
-road_of_legends,Road of Legends,Aerodactyl,True,Shiny/Aerodactyl_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Aerodactyl
-road_of_legends,Road of Legends,Aerodactyl,False,Normal/Aerodactyl.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Aerodactyl
-road_of_legends,Road of Legends,Mareep,False,Normal/Mareep.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Mareep
-road_of_legends,Road of Legends,Mareep,True,Shiny/Mareep_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Mareep
-road_of_legends,Road of Legends,Mareep,False,Normal/Mareep.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Mareep
-road_of_legends,Road of Legends,Larvitar,False,Normal/Larvitar.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Larvitar
-road_of_legends,Road of Legends,Larvitar,True,Shiny/Larvitar_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Larvitar
-road_of_legends,Road of Legends,Larvitar,False,Normal/Larvitar.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Larvitar
-road_of_legends,Road of Legends,Treecko,False,Normal/Treecko.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Treecko
-road_of_legends,Road of Legends,Treecko,True,Shiny/Treecko_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Treecko
-road_of_legends,Road of Legends,Treecko,False,Normal/Treecko.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Treecko
-road_of_legends,Road of Legends,Torchic,False,Normal/Torchic.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Torchic
-road_of_legends,Road of Legends,Torchic,True,Shiny/Torchic_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Torchic
-road_of_legends,Road of Legends,Torchic,False,Normal/Torchic.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Torchic
-road_of_legends,Road of Legends,Mudkip,False,Normal/Mudkip.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Mudkip
-road_of_legends,Road of Legends,Mudkip,True,Shiny/Mudkip_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Mudkip
-road_of_legends,Road of Legends,Mudkip,False,Normal/Mudkip.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Mudkip
-road_of_legends,Road of Legends,Ralts,False,Normal/Ralts.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Ralts
-road_of_legends,Road of Legends,Ralts,True,Shiny/Ralts_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Ralts
-road_of_legends,Road of Legends,Ralts,False,Normal/Ralts.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Ralts
-road_of_legends,Road of Legends,Bagon,False,Normal/Bagon.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Bagon
-road_of_legends,Road of Legends,Bagon,True,Shiny/Bagon_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Bagon
-road_of_legends,Road of Legends,Bagon,False,Normal/Bagon.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Bagon
-road_of_legends,Road of Legends,Beldum,False,Normal/Beldum.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Beldum
-road_of_legends,Road of Legends,Beldum,True,Shiny/Beldum_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Beldum
-road_of_legends,Road of Legends,Beldum,False,Normal/Beldum.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Beldum
-road_of_legends,Road of Legends,Gible,False,Normal/Gible.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Gible
-road_of_legends,Road of Legends,Gible,True,Shiny/Gible_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Gible
-road_of_legends,Road of Legends,Gible,False,Normal/Gible.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Gible
-road_of_legends,Road of Legends,Riolu,False,Normal/Riolu.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Riolu
-road_of_legends,Road of Legends,Riolu,True,Shiny/Riolu_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Riolu
-road_of_legends,Road of Legends,Riolu,False,Normal/Riolu.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Riolu
-road_of_legends,Road of Legends,Snover,False,Normal/Snover.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Snover
-road_of_legends,Road of Legends,Snover,True,Shiny/Snover_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Snover
-road_of_legends,Road of Legends,Snover,False,Normal/Snover.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Snover
-road_of_legends,Road of Legends,Audino,False,Normal/Audino.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Audino
-road_of_legends,Road of Legends,Audino,True,Shiny/Audino_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Audino
-road_of_legends,Road of Legends,Audino,False,Normal/Audino.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Audino
-road_of_legends,Road of Legends,Larvesta,False,Normal/Larvesta.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Larvesta
-road_of_legends,Road of Legends,Charmander,False,Costume/Charmander_fall.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,"Trainers, please note that on the first day of the Road to Legends event, Bulbasaur, Charmander, and Squirtle in 5 km Eggs will have Party Hats instead of Pikachu Visors because of the overlapping 10th Anniversary Party event. This applies to any Eggs obtained from midnight to 8:00 p.m. local time on July 6, 2026."
-road_of_legends,Road of Legends,Bulbasaur,False,Costume/Bulbasaur_fall.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,"Trainers, please note that on the first day of the Road to Legends event, Bulbasaur, Charmander, and Squirtle in 5 km Eggs will have Party Hats instead of Pikachu Visors because of the overlapping 10th Anniversary Party event. This applies to any Eggs obtained from midnight to 8:00 p.m. local time on July 6, 2026."
-road_of_legends,Road of Legends,Squirtle,False,Normal/Squirtle.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,"Trainers, please note that on the first day of the Road to Legends event, Bulbasaur, Charmander, and Squirtle in 5 km Eggs will have Party Hats instead of Pikachu Visors because of the overlapping 10th Anniversary Party event. This applies to any Eggs obtained from midnight to 8:00 p.m. local time on July 6, 2026."
-road_of_legends,Road of Legends,Pikachu,False,Normal/Pikachu.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,"Trainers, please note that on the first day of the Road to Legends event, Bulbasaur, Charmander, and Squirtle in 5 km Eggs will have Party Hats instead of Pikachu Visors because of the overlapping 10th Anniversary Party event. This applies to any Eggs obtained from midnight to 8:00 p.m. local time on July 6, 2026."
-road_of_legends,Road of Legends,Bulbasaur,False,Normal/Bulbasaur.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Bulbasaur
-road_of_legends,Road of Legends,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Bulbasaur
-road_of_legends,Road of Legends,Bulbasaur,False,Normal/Bulbasaur.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Bulbasaur
-road_of_legends,Road of Legends,Charmander,False,Normal/Charmander.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Charmander
-road_of_legends,Road of Legends,Charmander,True,Shiny/Charmander_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Charmander
-road_of_legends,Road of Legends,Charmander,False,Normal/Charmander.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Charmander
-road_of_legends,Road of Legends,Squirtle,False,Normal/Squirtle.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Squirtle
-road_of_legends,Road of Legends,Squirtle,True,Shiny/Squirtle_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Squirtle
-road_of_legends,Road of Legends,Squirtle,False,Normal/Squirtle.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Squirtle
-road_of_legends,Road of Legends,Heracross,False,Normal/Heracross.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Heracross
-road_of_legends,Road of Legends,Heracross,True,Shiny/Heracross_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Heracross
-road_of_legends,Road of Legends,Heracross,False,Normal/Heracross.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Heracross
-road_of_legends,Road of Legends,Mime Jr.,False,Normal/Mime_Jr..png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Mime Jr.
-road_of_legends,Road of Legends,Mime Jr.,True,Shiny/Mime_Jr._shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Mime Jr.
-road_of_legends,Road of Legends,Mime Jr.,False,Normal/Mime_Jr..png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Mime Jr.
-road_of_legends,Road of Legends,Tropius,False,Normal/Tropius.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Tropius
-road_of_legends,Road of Legends,Tropius,True,Shiny/Tropius_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Tropius
-road_of_legends,Road of Legends,Tropius,False,Normal/Tropius.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Tropius
-road_of_legends,Road of Legends,Axew,False,Normal/Axew.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Axew
-road_of_legends,Road of Legends,Axew,True,Shiny/Axew_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Axew
-road_of_legends,Road of Legends,Axew,False,Normal/Axew.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Axew
-road_of_legends,Road of Legends,Bouffalant,False,Normal/Bouffalant.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Bouffalant
-road_of_legends,Road of Legends,Bouffalant,True,Shiny/Bouffalant_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Bouffalant
-road_of_legends,Road of Legends,Bouffalant,False,Normal/Bouffalant.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Bouffalant
-road_of_legends,Road of Legends,Goomy,False,Normal/Goomy.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Goomy
-road_of_legends,Road of Legends,Goomy,True,Shiny/Goomy_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Goomy
-road_of_legends,Road of Legends,Goomy,False,Normal/Goomy.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Goomy
-road_of_legends,Road of Legends,Jangmo-o,False,Normal/Jangmo-o.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Jangmo-o
-road_of_legends,Road of Legends,Jangmo-o,True,Shiny/Jangmo-o_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Jangmo-o
-road_of_legends,Road of Legends,Jangmo-o,False,Normal/Jangmo-o.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Jangmo-o
-road_of_legends,Road of Legends,Toxel,False,Normal/Toxel.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Toxel
-road_of_legends,Road of Legends,Toxel,True,Shiny/Toxel_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Toxel
-road_of_legends,Road of Legends,Toxel,False,Normal/Toxel.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Toxel
-road_of_legends,Road of Legends,Frigibax,False,Normal/Frigibax.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Frigibax
-road_of_legends,Road of Legends,Frigibax,True,Shiny/Frigibax_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Frigibax
-road_of_legends,Road of Legends,Frigibax,False,Normal/Frigibax.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Frigibax
-road_of_legends,Road of Legends,Uxie,False,Normal/Uxie.png,Raids — Friday — Normal,Raid,Raids,Friday,,Uxie — Asia-Pacific only
-road_of_legends,Road of Legends,Mesprit,False,Normal/Mesprit.png,Raids — Friday — Normal,Raid,Raids,Friday,,"Mesprit — Europe, Middle East, Africa, and India only"
-road_of_legends,Road of Legends,Azelf,False,Normal/Azelf.png,Raids — Friday — Normal,Raid,Raids,Friday,,Azelf — Americas and Greenland only
-road_of_legends,Road of Legends,Buzzwole,False,Normal/Buzzwole.png,Raids — Friday — Normal,Raid,Raids,Friday,,Buzzwole — Americas and Greenland only
-road_of_legends,Road of Legends,Pheromosa,False,Normal/Pheromosa.png,Raids — Friday — Normal,Raid,Raids,Friday,,"Pheromosa — Europe, Middle East, Africa, and India only"
-road_of_legends,Road of Legends,Xurkitree,False,Normal/Xurkitree.png,Raids — Friday — Normal,Raid,Raids,Friday,,Xurkitree — Asia-Pacific only
-road_of_legends,Road of Legends,Celesteela,False,Normal/Celesteela.png,Raids — Friday — Normal,Raid,Raids,Friday,,Celesteela — Southern Hemisphere only
-road_of_legends,Road of Legends,Kartana,False,Normal/Kartana.png,Raids — Friday — Normal,Raid,Raids,Friday,,Kartana — Northern Hemisphere only
-road_of_legends,Road of Legends,Stakataka,False,Normal/Stakataka.png,Raids — Friday — Normal,Raid,Raids,Friday,,Stakataka — Eastern Hemisphere only
-road_of_legends,Road of Legends,Blacephalon,False,Normal/Blacephalon.png,Raids — Friday — Normal,Raid,Raids,Friday,,Blacephalon — Western Hemisphere only
-road_of_legends,Road of Legends,Nihilego,False,Normal/Nihilego.png,Raids — Friday — Normal,Raid,Raids,Friday,,"Nihilego, Guzzlord, and Necrozma — Global (no regional lock)"
-road_of_legends,Road of Legends,Guzzlord,False,Normal/Guzzlord.png,Raids — Friday — Normal,Raid,Raids,Friday,,"Nihilego, Guzzlord, and Necrozma — Global (no regional lock)"
-road_of_legends,Road of Legends,Necrozma,False,Normal/Necrozma.png,Raids — Friday — Normal,Raid,Raids,Friday,,"Nihilego, Guzzlord, and Necrozma — Global (no regional lock)"
-road_of_legends,Road of Legends,Articuno,False,Normal/Articuno.png,Raids — Friday — Normal,Raid,Raids,Friday,,Articuno
-road_of_legends,Road of Legends,Articuno,True,Shiny/Articuno_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Articuno
-road_of_legends,Road of Legends,Articuno,False,Normal/Articuno.png,Raids — Friday — Normal,Raid,Raids,Friday,,Articuno
-road_of_legends,Road of Legends,Zapdos,False,Normal/Zapdos.png,Raids — Friday — Normal,Raid,Raids,Friday,,Zapdos
-road_of_legends,Road of Legends,Zapdos,True,Shiny/Zapdos_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Zapdos
-road_of_legends,Road of Legends,Zapdos,False,Normal/Zapdos.png,Raids — Friday — Normal,Raid,Raids,Friday,,Zapdos
-road_of_legends,Road of Legends,Moltres,False,Normal/Moltres.png,Raids — Friday — Normal,Raid,Raids,Friday,,Moltres
-road_of_legends,Road of Legends,Moltres,True,Shiny/Moltres_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Moltres
-road_of_legends,Road of Legends,Moltres,False,Normal/Moltres.png,Raids — Friday — Normal,Raid,Raids,Friday,,Moltres
-road_of_legends,Road of Legends,Raikou,False,Normal/Raikou.png,Raids — Friday — Normal,Raid,Raids,Friday,,Raikou
-road_of_legends,Road of Legends,Raikou,True,Shiny/Raikou_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Raikou
-road_of_legends,Road of Legends,Raikou,False,Normal/Raikou.png,Raids — Friday — Normal,Raid,Raids,Friday,,Raikou
-road_of_legends,Road of Legends,Entei,False,Normal/Entei.png,Raids — Friday — Normal,Raid,Raids,Friday,,Entei
-road_of_legends,Road of Legends,Entei,True,Shiny/Entei_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Entei
-road_of_legends,Road of Legends,Entei,False,Normal/Entei.png,Raids — Friday — Normal,Raid,Raids,Friday,,Entei
-road_of_legends,Road of Legends,Suicune,False,Normal/Suicune.png,Raids — Friday — Normal,Raid,Raids,Friday,,Suicune
-road_of_legends,Road of Legends,Suicune,True,Shiny/Suicune_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Suicune
-road_of_legends,Road of Legends,Suicune,False,Normal/Suicune.png,Raids — Friday — Normal,Raid,Raids,Friday,,Suicune
-road_of_legends,Road of Legends,Lugia,False,Normal/Lugia.png,Raids — Friday — Normal,Raid,Raids,Friday,,Lugia
-road_of_legends,Road of Legends,Lugia,True,Shiny/Lugia_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Lugia
-road_of_legends,Road of Legends,Lugia,False,Normal/Lugia.png,Raids — Friday — Normal,Raid,Raids,Friday,,Lugia
-road_of_legends,Road of Legends,Ho-Oh,False,Normal/Ho-Oh.png,Raids — Friday — Normal,Raid,Raids,Friday,,Ho-Oh
-road_of_legends,Road of Legends,Ho-Oh,True,Shiny/Ho-Oh_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Ho-Oh
-road_of_legends,Road of Legends,Ho-Oh,False,Normal/Ho-Oh.png,Raids — Friday — Normal,Raid,Raids,Friday,,Ho-Oh
-road_of_legends,Road of Legends,Regirock,False,Normal/Regirock.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regirock
-road_of_legends,Road of Legends,Regirock,True,Shiny/Regirock_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Regirock
-road_of_legends,Road of Legends,Regirock,False,Normal/Regirock.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regirock
-road_of_legends,Road of Legends,Regice,False,Normal/Regice.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regice
-road_of_legends,Road of Legends,Regice,True,Shiny/Regice_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Regice
-road_of_legends,Road of Legends,Regice,False,Normal/Regice.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regice
-road_of_legends,Road of Legends,Registeel,False,Normal/Registeel.png,Raids — Friday — Normal,Raid,Raids,Friday,,Registeel
-road_of_legends,Road of Legends,Registeel,True,Shiny/Registeel_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Registeel
-road_of_legends,Road of Legends,Registeel,False,Normal/Registeel.png,Raids — Friday — Normal,Raid,Raids,Friday,,Registeel
-road_of_legends,Road of Legends,Latias,False,Normal/Latias.png,Raids — Friday — Normal,Raid,Raids,Friday,,Latias
-road_of_legends,Road of Legends,Latias,True,Shiny/Latias_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Latias
-road_of_legends,Road of Legends,Latias,False,Normal/Latias.png,Raids — Friday — Normal,Raid,Raids,Friday,,Latias
-road_of_legends,Road of Legends,Latios,False,Normal/Latios.png,Raids — Friday — Normal,Raid,Raids,Friday,,Latios
-road_of_legends,Road of Legends,Latios,True,Shiny/Latios_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Latios
-road_of_legends,Road of Legends,Latios,False,Normal/Latios.png,Raids — Friday — Normal,Raid,Raids,Friday,,Latios
-road_of_legends,Road of Legends,Kyogre,False,Normal/Kyogre.png,Raids — Friday — Normal,Raid,Raids,Friday,,Kyogre
-road_of_legends,Road of Legends,Kyogre,True,Shiny/Kyogre_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Kyogre
-road_of_legends,Road of Legends,Kyogre,False,Normal/Kyogre.png,Raids — Friday — Normal,Raid,Raids,Friday,,Kyogre
-road_of_legends,Road of Legends,Groudon,False,Normal/Groudon.png,Raids — Friday — Normal,Raid,Raids,Friday,,Groudon
-road_of_legends,Road of Legends,Groudon,True,Shiny/Groudon_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Groudon
-road_of_legends,Road of Legends,Groudon,False,Normal/Groudon.png,Raids — Friday — Normal,Raid,Raids,Friday,,Groudon
-road_of_legends,Road of Legends,Rayquaza,False,Normal/Rayquaza.png,Raids — Friday — Normal,Raid,Raids,Friday,,Rayquaza
-road_of_legends,Road of Legends,Rayquaza,True,Shiny/Rayquaza_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Rayquaza
-road_of_legends,Road of Legends,Rayquaza,False,Normal/Rayquaza.png,Raids — Friday — Normal,Raid,Raids,Friday,,Rayquaza
-road_of_legends,Road of Legends,Deoxys,False,Normal/Deoxys.png,Raids — Friday — Normal,Raid,Raids,Friday,,Deoxys (Normal)
-road_of_legends,Road of Legends,Deoxys,True,Shiny/Deoxys_attack_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Deoxys (Normal)
-road_of_legends,Road of Legends,Deoxys,False,Normal/Deoxys.png,Raids — Friday — Normal,Raid,Raids,Friday,,Deoxys (Normal)
-road_of_legends,Road of Legends,Uxie,False,Normal/Uxie.png,Raids — Friday — Normal,Raid,Raids,Friday,,Uxie
-road_of_legends,Road of Legends,Uxie,True,Shiny/Uxie_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Uxie
-road_of_legends,Road of Legends,Mesprit,False,Normal/Mesprit.png,Raids — Friday — Normal,Raid,Raids,Friday,,Mesprit
-road_of_legends,Road of Legends,Mesprit,True,Shiny/Mesprit_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Mesprit
-road_of_legends,Road of Legends,Azelf,False,Normal/Azelf.png,Raids — Friday — Normal,Raid,Raids,Friday,,Azelf
-road_of_legends,Road of Legends,Azelf,True,Shiny/Azelf_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Azelf
-road_of_legends,Road of Legends,Dialga,False,Normal/Dialga.png,Raids — Friday — Normal,Raid,Raids,Friday,,Dialga
-road_of_legends,Road of Legends,Dialga,True,Shiny/Dialga_origin_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Dialga
-road_of_legends,Road of Legends,Dialga,False,Normal/Dialga.png,Raids — Friday — Normal,Raid,Raids,Friday,,Dialga
-road_of_legends,Road of Legends,Dialga,False,Normal/Dialga_origin.png,Raids — Friday — Origin — Normal,Raid,Raids,Friday,,Origin Forme Dialga
-road_of_legends,Road of Legends,Dialga,True,Shiny/Dialga_origin_shiny.png,Raids — Friday — Origin — Shiny,Raid,Raids,Friday,,Origin Forme Dialga
-road_of_legends,Road of Legends,Dialga,False,Normal/Dialga_origin.png,Raids — Friday — Origin — Normal,Raid,Raids,Friday,,Origin Forme Dialga
-road_of_legends,Road of Legends,Palkia,False,Normal/Palkia.png,Raids — Friday — Normal,Raid,Raids,Friday,,Palkia
-road_of_legends,Road of Legends,Palkia,True,Shiny/Palkia_origin_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Palkia
-road_of_legends,Road of Legends,Palkia,False,Normal/Palkia.png,Raids — Friday — Normal,Raid,Raids,Friday,,Palkia
-road_of_legends,Road of Legends,Palkia,False,Normal/Palkia_origin.png,Raids — Friday — Origin — Normal,Raid,Raids,Friday,,Origin Forme Palkia
-road_of_legends,Road of Legends,Palkia,True,Shiny/Palkia_origin_shiny.png,Raids — Friday — Origin — Shiny,Raid,Raids,Friday,,Origin Forme Palkia
-road_of_legends,Road of Legends,Palkia,False,Normal/Palkia_origin.png,Raids — Friday — Origin — Normal,Raid,Raids,Friday,,Origin Forme Palkia
-road_of_legends,Road of Legends,Heatran,False,Normal/Heatran.png,Raids — Friday — Normal,Raid,Raids,Friday,,Heatran
-road_of_legends,Road of Legends,Heatran,True,Shiny/Heatran_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Heatran
-road_of_legends,Road of Legends,Heatran,False,Normal/Heatran.png,Raids — Friday — Normal,Raid,Raids,Friday,,Heatran
-road_of_legends,Road of Legends,Regigigas,False,Normal/Regigigas.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regigigas
-road_of_legends,Road of Legends,Regigigas,True,Shiny/Regigigas_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Regigigas
-road_of_legends,Road of Legends,Regigigas,False,Normal/Regigigas.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regigigas
-road_of_legends,Road of Legends,Giratina,False,Normal/Giratina.png,Raids — Friday — Normal,Raid,Raids,Friday,,Giratina (Altered)
-road_of_legends,Road of Legends,Giratina,True,Shiny/Giratina_origin_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Giratina (Altered)
-road_of_legends,Road of Legends,Giratina,False,Normal/Giratina.png,Raids — Friday — Normal,Raid,Raids,Friday,,Giratina (Altered)
-road_of_legends,Road of Legends,Giratina,False,Normal/Giratina_origin.png,Raids — Friday — Origin — Normal,Raid,Raids,Friday,,Giratina (Origin)
-road_of_legends,Road of Legends,Giratina,True,Shiny/Giratina_origin_shiny.png,Raids — Friday — Origin — Shiny,Raid,Raids,Friday,,Giratina (Origin)
-road_of_legends,Road of Legends,Giratina,False,Normal/Giratina_origin.png,Raids — Friday — Origin — Normal,Raid,Raids,Friday,,Giratina (Origin)
-road_of_legends,Road of Legends,Cresselia,False,Normal/Cresselia.png,Raids — Friday — Normal,Raid,Raids,Friday,,Cresselia
-road_of_legends,Road of Legends,Cresselia,True,Shiny/Cresselia_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Cresselia
-road_of_legends,Road of Legends,Cresselia,False,Normal/Cresselia.png,Raids — Friday — Normal,Raid,Raids,Friday,,Cresselia
-road_of_legends,Road of Legends,Darkrai,False,Normal/Darkrai.png,Raids — Friday — Normal,Raid,Raids,Friday,,Darkrai
-road_of_legends,Road of Legends,Darkrai,True,Shiny/Darkrai_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Darkrai
-road_of_legends,Road of Legends,Darkrai,False,Normal/Darkrai.png,Raids — Friday — Normal,Raid,Raids,Friday,,Darkrai
-road_of_legends,Road of Legends,Cobalion,False,Normal/Cobalion.png,Raids — Friday — Normal,Raid,Raids,Friday,,Cobalion
-road_of_legends,Road of Legends,Cobalion,True,Shiny/Cobalion_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Cobalion
-road_of_legends,Road of Legends,Cobalion,False,Normal/Cobalion.png,Raids — Friday — Normal,Raid,Raids,Friday,,Cobalion
-road_of_legends,Road of Legends,Terrakion,False,Normal/Terrakion.png,Raids — Friday — Normal,Raid,Raids,Friday,,Terrakion
-road_of_legends,Road of Legends,Terrakion,True,Shiny/Terrakion_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Terrakion
-road_of_legends,Road of Legends,Terrakion,False,Normal/Terrakion.png,Raids — Friday — Normal,Raid,Raids,Friday,,Terrakion
-road_of_legends,Road of Legends,Virizion,False,Normal/Virizion.png,Raids — Friday — Normal,Raid,Raids,Friday,,Virizion
-road_of_legends,Road of Legends,Virizion,True,Shiny/Virizion_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Virizion
-road_of_legends,Road of Legends,Virizion,False,Normal/Virizion.png,Raids — Friday — Normal,Raid,Raids,Friday,,Virizion
-road_of_legends,Road of Legends,Tornadus,False,Normal/Tornadus.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tornadus (Incarnate)
-road_of_legends,Road of Legends,Tornadus,True,Shiny/Tornadus_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Tornadus (Incarnate)
-road_of_legends,Road of Legends,Tornadus,False,Normal/Tornadus.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tornadus (Incarnate)
-road_of_legends,Road of Legends,Tornadus,False,Normal/Tornadus_therian.png,Raids — Friday — Therian — Normal,Raid,Raids,Friday,,Tornadus (Therian)
-road_of_legends,Road of Legends,Tornadus,True,Shiny/Tornadus_therian_shiny.png,Raids — Friday — Therian — Shiny,Raid,Raids,Friday,,Tornadus (Therian)
-road_of_legends,Road of Legends,Tornadus,False,Normal/Tornadus_therian.png,Raids — Friday — Therian — Normal,Raid,Raids,Friday,,Tornadus (Therian)
-road_of_legends,Road of Legends,Thundurus,False,Normal/Thundurus.png,Raids — Friday — Normal,Raid,Raids,Friday,,Thundurus (Incarnate)
-road_of_legends,Road of Legends,Thundurus,True,Shiny/Thundurus_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Thundurus (Incarnate)
-road_of_legends,Road of Legends,Thundurus,False,Normal/Thundurus.png,Raids — Friday — Normal,Raid,Raids,Friday,,Thundurus (Incarnate)
-road_of_legends,Road of Legends,Thundurus,False,Normal/Thundurus_therian.png,Raids — Friday — Therian — Normal,Raid,Raids,Friday,,Thundurus (Therian)
-road_of_legends,Road of Legends,Thundurus,True,Shiny/Thundurus_therian_shiny.png,Raids — Friday — Therian — Shiny,Raid,Raids,Friday,,Thundurus (Therian)
-road_of_legends,Road of Legends,Thundurus,False,Normal/Thundurus_therian.png,Raids — Friday — Therian — Normal,Raid,Raids,Friday,,Thundurus (Therian)
-road_of_legends,Road of Legends,Reshiram,False,Normal/Reshiram.png,Raids — Friday — Normal,Raid,Raids,Friday,,Reshiram
-road_of_legends,Road of Legends,Reshiram,True,Shiny/Reshiram_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Reshiram
-road_of_legends,Road of Legends,Reshiram,False,Normal/Reshiram.png,Raids — Friday — Normal,Raid,Raids,Friday,,Reshiram
-road_of_legends,Road of Legends,Zekrom,False,Normal/Zekrom.png,Raids — Friday — Normal,Raid,Raids,Friday,,Zekrom
-road_of_legends,Road of Legends,Zekrom,True,Shiny/Zekrom_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Zekrom
-road_of_legends,Road of Legends,Zekrom,False,Normal/Zekrom.png,Raids — Friday — Normal,Raid,Raids,Friday,,Zekrom
-road_of_legends,Road of Legends,Landorus,False,Normal/Landorus.png,Raids — Friday — Normal,Raid,Raids,Friday,,Landorus (Incarnate)
-road_of_legends,Road of Legends,Landorus,True,Shiny/Landorus_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Landorus (Incarnate)
-road_of_legends,Road of Legends,Landorus,False,Normal/Landorus.png,Raids — Friday — Normal,Raid,Raids,Friday,,Landorus (Incarnate)
-road_of_legends,Road of Legends,Landorus,False,Normal/Landorus_therian.png,Raids — Friday — Therian — Normal,Raid,Raids,Friday,,Landorus (Therian)
-road_of_legends,Road of Legends,Landorus,True,Shiny/Landorus_therian_shiny.png,Raids — Friday — Therian — Shiny,Raid,Raids,Friday,,Landorus (Therian)
-road_of_legends,Road of Legends,Landorus,False,Normal/Landorus_therian.png,Raids — Friday — Therian — Normal,Raid,Raids,Friday,,Landorus (Therian)
-road_of_legends,Road of Legends,Kyurem,False,Normal/Kyurem.png,Raids — Friday — Normal,Raid,Raids,Friday,,Kyurem
-road_of_legends,Road of Legends,Kyurem,True,Shiny/Kyurem_black_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Kyurem
-road_of_legends,Road of Legends,Kyurem,False,Normal/Kyurem.png,Raids — Friday — Normal,Raid,Raids,Friday,,Kyurem
-road_of_legends,Road of Legends,Genesect,False,Normal/Genesect.png,Raids — Friday — Normal,Raid,Raids,Friday,,Genesect
-road_of_legends,Road of Legends,Genesect,True,Shiny/Genesect_burn_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Genesect
-road_of_legends,Road of Legends,Genesect,False,Normal/Genesect.png,Raids — Friday — Normal,Raid,Raids,Friday,,Genesect
-road_of_legends,Road of Legends,Xerneas,False,Normal/Xerneas.png,Raids — Friday — Normal,Raid,Raids,Friday,,Xerneas
-road_of_legends,Road of Legends,Xerneas,True,Shiny/Xerneas_active_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Xerneas
-road_of_legends,Road of Legends,Xerneas,False,Normal/Xerneas.png,Raids — Friday — Normal,Raid,Raids,Friday,,Xerneas
-road_of_legends,Road of Legends,Yveltal,False,Normal/Yveltal.png,Raids — Friday — Normal,Raid,Raids,Friday,,Yveltal
-road_of_legends,Road of Legends,Yveltal,True,Shiny/Yveltal_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Yveltal
-road_of_legends,Road of Legends,Yveltal,False,Normal/Yveltal.png,Raids — Friday — Normal,Raid,Raids,Friday,,Yveltal
-road_of_legends,Road of Legends,Tapu Koko,False,Normal/Tapu_Koko.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tapu Koko
-road_of_legends,Road of Legends,Tapu Koko,True,Shiny/Tapu_Koko_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Tapu Koko
-road_of_legends,Road of Legends,Tapu Koko,False,Normal/Tapu_Koko.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tapu Koko
-road_of_legends,Road of Legends,Tapu Lele,False,Normal/Tapu_Lele.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tapu Lele
-road_of_legends,Road of Legends,Tapu Lele,True,Shiny/Tapu_Lele_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Tapu Lele
-road_of_legends,Road of Legends,Tapu Lele,False,Normal/Tapu_Lele.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tapu Lele
-road_of_legends,Road of Legends,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tapu Bulu
-road_of_legends,Road of Legends,Tapu Bulu,True,Shiny/Tapu_Bulu_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Tapu Bulu
-road_of_legends,Road of Legends,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tapu Bulu
-road_of_legends,Road of Legends,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tapu Fini
-road_of_legends,Road of Legends,Tapu Fini,True,Shiny/Tapu_Fini_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Tapu Fini
-road_of_legends,Road of Legends,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Friday — Normal,Raid,Raids,Friday,,Tapu Fini
-road_of_legends,Road of Legends,Solgaleo,False,Normal/Solgaleo.png,Raids — Friday — Normal,Raid,Raids,Friday,,Solgaleo
-road_of_legends,Road of Legends,Lunala,False,Normal/Lunala.png,Raids — Friday — Normal,Raid,Raids,Friday,,Lunala
-road_of_legends,Road of Legends,Nihilego,False,Normal/Nihilego.png,Raids — Friday — Normal,Raid,Raids,Friday,,Nihilego
-road_of_legends,Road of Legends,Nihilego,True,Shiny/Nihilego_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Nihilego
-road_of_legends,Road of Legends,Buzzwole,False,Normal/Buzzwole.png,Raids — Friday — Normal,Raid,Raids,Friday,,Buzzwole
-road_of_legends,Road of Legends,Buzzwole,True,Shiny/Buzzwole_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Buzzwole
-road_of_legends,Road of Legends,Pheromosa,False,Normal/Pheromosa.png,Raids — Friday — Normal,Raid,Raids,Friday,,Pheromosa
-road_of_legends,Road of Legends,Pheromosa,True,Shiny/Pheromosa_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Pheromosa
-road_of_legends,Road of Legends,Xurkitree,False,Normal/Xurkitree.png,Raids — Friday — Normal,Raid,Raids,Friday,,Xurkitree
-road_of_legends,Road of Legends,Xurkitree,True,Shiny/Xurkitree_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Xurkitree
-road_of_legends,Road of Legends,Celesteela,False,Normal/Celesteela.png,Raids — Friday — Normal,Raid,Raids,Friday,,Celesteela
-road_of_legends,Road of Legends,Celesteela,True,Shiny/Celesteela_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Celesteela
-road_of_legends,Road of Legends,Kartana,False,Normal/Kartana.png,Raids — Friday — Normal,Raid,Raids,Friday,,Kartana
-road_of_legends,Road of Legends,Kartana,True,Shiny/Kartana_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Kartana
-road_of_legends,Road of Legends,Guzzlord,False,Normal/Guzzlord.png,Raids — Friday — Normal,Raid,Raids,Friday,,Guzzlord
-road_of_legends,Road of Legends,Guzzlord,True,Shiny/Guzzlord_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Guzzlord
-road_of_legends,Road of Legends,Necrozma,False,Normal/Necrozma.png,Raids — Friday — Normal,Raid,Raids,Friday,,Necrozma
-road_of_legends,Road of Legends,Necrozma,True,Shiny/Necrozma_dawn_wings_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Necrozma
-road_of_legends,Road of Legends,Stakataka,False,Normal/Stakataka.png,Raids — Friday — Normal,Raid,Raids,Friday,,Stakataka
-road_of_legends,Road of Legends,Stakataka,True,Shiny/Stakataka_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Stakataka
-road_of_legends,Road of Legends,Blacephalon,False,Normal/Blacephalon.png,Raids — Friday — Normal,Raid,Raids,Friday,,Blacephalon
-road_of_legends,Road of Legends,Blacephalon,True,Shiny/Blacephalon_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Blacephalon
-road_of_legends,Road of Legends,Zacian,False,Normal/Zacian.png,Raids — Friday — Normal,Raid,Raids,Friday,,Zacian (Hero of Many Battles)
-road_of_legends,Road of Legends,Zacian,True,Shiny/Zacian_crowned_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Zacian (Hero of Many Battles)
-road_of_legends,Road of Legends,Zacian,False,Normal/Zacian.png,Raids — Friday — Normal,Raid,Raids,Friday,,Zacian (Hero of Many Battles)
-road_of_legends,Road of Legends,Zamazenta,False,Normal/Zamazenta.png,Raids — Friday — Normal,Raid,Raids,Friday,,Zamazenta (Hero of Many Battles)
-road_of_legends,Road of Legends,Zamazenta,True,Shiny/Zamazenta_crowned_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Zamazenta (Hero of Many Battles)
-road_of_legends,Road of Legends,Zamazenta,False,Normal/Zamazenta.png,Raids — Friday — Normal,Raid,Raids,Friday,,Zamazenta (Hero of Many Battles)
-road_of_legends,Road of Legends,Regieleki,False,Normal/Regieleki.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regieleki
-road_of_legends,Road of Legends,Regieleki,True,Shiny/Regieleki_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Regieleki
-road_of_legends,Road of Legends,Regieleki,False,Normal/Regieleki.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regieleki
-road_of_legends,Road of Legends,Regidrago,False,Normal/Regidrago.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regidrago
-road_of_legends,Road of Legends,Regidrago,True,Shiny/Regidrago_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Regidrago
-road_of_legends,Road of Legends,Regidrago,False,Normal/Regidrago.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regidrago
-road_of_legends,Road of Legends,Enamorus,False,Normal/Enamorus.png,Raids — Friday — Normal,Raid,Raids,Friday,,Enamorus (Incarnate)
-road_of_legends,Road of Legends,Enamorus,False,Normal/Enamorus_therian.png,Raids — Friday — Therian — Normal,Raid,Raids,Friday,,Enamorus (Therian Forme)
-road_of_legends,Road of Legends,Salamence,False,Mega/Salamence_mega.png,Raids — Friday — Mega — Normal,Raid,Raids,Friday,,Mega Salamence
-road_of_legends,Road of Legends,Salamence,True,Mega/Shiny/Salamence_mega_shiny.png,Raids — Friday — Mega — Shiny,Raid,Raids,Friday,,Mega Salamence
-road_of_legends,Road of Legends,Salamence,False,Mega/Salamence_mega.png,Raids — Friday — Mega — Normal,Raid,Raids,Friday,,Mega Salamence
-road_of_legends,Road of Legends,Tyranitar,False,Mega/Tyranitar_mega.png,Raids — Friday — Mega — Normal,Raid,Raids,Friday,,Mega Tyranitar
-road_of_legends,Road of Legends,Tyranitar,True,Mega/Shiny/Tyranitar_mega_shiny.png,Raids — Friday — Mega — Shiny,Raid,Raids,Friday,,Mega Tyranitar
-road_of_legends,Road of Legends,Tyranitar,False,Mega/Tyranitar_mega.png,Raids — Friday — Mega — Normal,Raid,Raids,Friday,,Mega Tyranitar
-road_of_legends,Road of Legends,Gardevoir,False,Mega/Gardevoir_mega.png,Raids — Friday — Mega — Normal,Raid,Raids,Friday,,Mega Gardevoir
-road_of_legends,Road of Legends,Gardevoir,True,Mega/Shiny/Gardevoir_mega_shiny.png,Raids — Friday — Mega — Shiny,Raid,Raids,Friday,,Mega Gardevoir
-road_of_legends,Road of Legends,Gardevoir,False,Mega/Gardevoir_mega.png,Raids — Friday — Mega — Normal,Raid,Raids,Friday,,Mega Gardevoir
-road_of_legends,Road of Legends,Zacian,False,Normal/Zacian_crowned.png,Raids — Friday — Crown — Normal,Raid,Raids,Friday,,Zacian (Crowned Sword)
-road_of_legends,Road of Legends,Zamazenta,False,Normal/Zamazenta_crowned.png,Raids — Friday — Crown — Normal,Raid,Raids,Friday,,Zamazenta (Crowned Shield)
-road_of_legends,Road of Legends,Gengar,False,Mega/Gengar_mega.png,Raids — Friday — Mega — Normal,Raid,Raids,Friday,,Mega Gengar
-road_of_legends,Road of Legends,Gengar,True,Mega/Shiny/Gengar_mega_shiny.png,Raids — Friday — Mega — Shiny,Raid,Raids,Friday,,Mega Gengar
-road_of_legends,Road of Legends,Gengar,False,Mega/Gengar_mega.png,Raids — Friday — Mega — Normal,Raid,Raids,Friday,,Mega Gengar
-road_of_legends,Road of Legends,Zamazenta,False,Normal/Zamazenta_crowned.png,Raids — Friday — Crown — Normal,Raid,Raids,Friday,,There will be a Raid Hour featuring Crowned Sword Zacian and Crowned Shield Zamazenta from 6:00 p.m. to 7:00 p.m. local time on July 9 .
-road_of_legends,Road of Legends,Zacian,False,Normal/Zacian_crowned.png,Raids — Friday — Crown — Normal,Raid,Raids,Friday,,There will be a Raid Hour featuring Crowned Sword Zacian and Crowned Shield Zamazenta from 6:00 p.m. to 7:00 p.m. local time on July 9 .
-road_of_legends,Road of Legends,Kyogre,False,Normal/Kyogre.png,Raids — Friday — Primal — Normal,Raid,Raids,Friday,,Primal Kyogre
-road_of_legends,Road of Legends,Kyogre,True,Shiny/Kyogre_shiny.png,Raids — Friday — Primal — Shiny,Raid,Raids,Friday,,Primal Kyogre
-road_of_legends,Road of Legends,Kyogre,False,Normal/Kyogre.png,Raids — Friday — Primal — Normal,Raid,Raids,Friday,,Primal Kyogre
-road_of_legends,Road of Legends,Groudon,False,Normal/Groudon.png,Raids — Friday — Primal — Normal,Raid,Raids,Friday,,Primal Groudon
-road_of_legends,Road of Legends,Groudon,True,Shiny/Groudon_shiny.png,Raids — Friday — Primal — Shiny,Raid,Raids,Friday,,Primal Groudon
-road_of_legends,Road of Legends,Groudon,False,Normal/Groudon.png,Raids — Friday — Primal — Normal,Raid,Raids,Friday,,Primal Groudon
+water_festival,Water Festival,Psyduck,False,Normal/Psyduck.png,Event — Normal,Event,Event,,,"Dive into the Water Festival with returning Psyduck in a swim ring, plus the Pokemon GO debuts of Cramorant, Arrokuda, and Barraskewda! The Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
+water_festival,Water Festival,Psyduck,False,Normal/Psyduck.png,Event — Normal,Event,Event,,,Psyduck (Swim Ring)
+water_festival,Water Festival,Psyduck,True,Shiny/Psyduck_shiny.png,Event — Shiny,Event,Event,,,Psyduck (Swim Ring)
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Normal/Pikachu.png,Event — Normal,Event,Event,,,"Special Anniversary Pikachu Celebration Event Starts: Monday, July 13, 2026, at 10:00 AM Local Time Ends: Monday, July 20, 2026, at 8:00 PM Local Time"
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_2023.png,Event — Costume — Normal,Event,Event,,,"Keep the festivities going with three celebrations of different costumed Pikachu! The Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm."
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_2023.png,Event — Costume — Normal,Event,Event,,,Keep the festivities going with three celebrations of different costumed Pikachu!
@@ -345,48 +23,6 @@ special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_amethyst.png,Raids — Saturday — Crown — Normal,Raid,Raids,Saturday,,Amethyst Crown Pikachu
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Saturday — Crown — Shiny,Raid,Raids,Saturday,,Amethyst Crown Pikachu
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_amethyst.png,Raids — Saturday — Crown — Normal,Raid,Raids,Saturday,,Amethyst Crown Pikachu
-ozone_ascent,Ozone Ascent,Rayquaza,False,Normal/Rayquaza.png,Timed Research — Sunday — Normal,Research,Timed Research,Sunday,,"Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
-ozone_ascent,Ozone Ascent,Rayquaza,False,Normal/Rayquaza.png,Timed Research — Sunday — Normal,Research,Timed Research,Sunday,,Rayquaza
-ozone_ascent,Ozone Ascent,Rayquaza,True,Shiny/Rayquaza_shiny.png,Timed Research — Sunday — Shiny,Research,Timed Research,Sunday,,Rayquaza
-ozone_ascent,Ozone Ascent,Rayquaza,False,Mega/Rayquaza_mega.png,Timed Research — Sunday — Mega — Normal,Research,Timed Research,Sunday,,"Complete the research tasks to earn a Meteorite, Rayquaza Mega Energy, an encounter with Rayquaza, and more!"
-happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,False,Normal/Pikachu.png,Event — Normal,Event,Event,,,"Wish Professor Willow a very happy birthday with Professor Willow's assistant Pikachu! The Happy Birthday, Professor Willow! event will take place on July 21, 2026 from 10 am to 8 pm."
-happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,False,Normal/Pikachu.png,Raids — Normal,Raid,Raids,,,Professor Willow's assistant Pikachu
-happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Shiny,Raid,Raids,,,Professor Willow's assistant Pikachu
-happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,False,Normal/Pikachu.png,Raids — Normal,Raid,Raids,,,Professor Willow's assistant Pikachu
-happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,False,Normal/Pikachu.png,Eggs — Normal,Egg,Eggs,,,"Complete Field Research tasks to earn rewards such as PokeCoins, Lucky Eggs, additional encounters with Professor Willow's assistant Pikachu, and more!"
-happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,False,Normal/Pikachu.png,Timed Research — Normal,Research,Timed Research,,,Encounters with Professor Willow's assistant Pikachu
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raid Day — Saturday — Mega Super — Normal,Raid,Raid Day,Saturday,,"Raichu Super Mega Raid Day Raid Day Starts: Saturday, July 18, 2026, at 2:00 PM Local Time Ends: Saturday, July 18, 2026, at 5:00 PM Local Time"
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Mega Super — Normal,Raid,Raids,Saturday,,"Remote Raid Pass limit increased to 20 from Friday, July 17, at 5:00 p.m. to Saturday, July 18, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Raichu caught from Super Mega Raids will have Mega Level 1 unlocked Increased chance of encountering Shiny Raichu from Super Mega Raids"
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,True,Shiny/Raichu_shiny.png,Raids — Saturday — Mega Super — Shiny,Raid,Raids,Saturday,,"Remote Raid Pass limit increased to 20 from Friday, July 17, at 5:00 p.m. to Saturday, July 18, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Raichu caught from Super Mega Raids will have Mega Level 1 unlocked Increased chance of encountering Shiny Raichu from Super Mega Raids"
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Mega Super — Normal,Raid,Raids,Saturday,,Raichu caught from Super Mega Raids will have Mega Level 1 unlocked
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Raichu X
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,True,Shiny/Raichu_shiny.png,Raids — Saturday — Mega — Shiny,Raid,Raids,Saturday,,Mega Raichu X
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Raichu X
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Steelix,False,Normal/Steelix.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Timed Research will be available to Trainers during the event. Complete the research tasks to earn a Premium Battle Pass and an encounter with Steelix.
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Timed Research — Saturday — Mega Super — Normal,Raid,Timed Research,Saturday,,Raichu Super Mega Raid Day (1/1)
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Raichu
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,True,Shiny/Raichu_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Raichu
-raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Raichu
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Community Day — Sunday — Normal,Event,Community Day,Sunday,,"Nickit Community Day Community Day Starts: Sunday, August 16, 2026, at 2:00 PM Local Time Ends: Sunday, August 16, 2026, at 5:00 PM Local Time"
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Take a few snapshots during Community Day for a surprise! During the event you can snap an AR Photo and get photobombed by Nickit.
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Nickit
-nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Nickit
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Lure Encounters — Sunday — Normal,Lure,Lure Encounters,Sunday,,"From 2:00 p.m. to 9:00 p.m. local time , Nickit will have a very high chance of appearing at PokeStops with active regular Lure Modules."
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Lure Encounters — Sunday — Normal,Lure,Lure Encounters,Sunday,,Nickit attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
-nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Lure Encounters — Sunday — Shiny,Lure,Lure Encounters,Sunday,,Nickit attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Nickit will appear more frequently in the wild.
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,"August Community Day—themed Field Research will be available! Catch Nickit to earn rewards such as Stardust, Ultra Balls, additional encounters with Nickit, and more! You may even find Field Research that leads to encounters with Nickit that have a Special Background—if you're lucky!"
-nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Field Research — Sunday — Shiny,Research,Field Research,Sunday,,"August Community Day—themed Field Research will be available! Catch Nickit to earn rewards such as Stardust, Ultra Balls, additional encounters with Nickit, and more! You may even find Field Research that leads to encounters with Nickit that have a Special Background—if you're lucky!"
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,Nickit Community Day
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Special Research — Sunday — Normal,Research,Special Research,Sunday,,3 encounters with Nickit that have a Special Background (at the end of each page)
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Nickit Community Day (1/3)
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Shiny Nickit will be available! Trainers will have an increased chance of encountering Shiny Nickit during Community Day.
-nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Incense — Sunday — Shiny,Incense,Incense,Sunday,,Shiny Nickit will be available! Trainers will have an increased chance of encountering Shiny Nickit during Community Day.
-nickit_community_day,Nickit Community Day,Thievul,False,Normal/Thievul.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Thievul
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Nickit will appear more frequently in the wild.
-nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Nickit will appear more frequently in the wild.
-nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Nickit may be attracted to Lure Modules during the event.
-nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Nickit may be attracted to Lure Modules during the event.
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Zeraora,False,Normal/Zeraora.png,Special Research — Sunday — Normal,Research,Special Research,Sunday,,Special Research including an encounter with Zeraora
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Timed Research — Sunday — Mega — Normal,Research,Timed Research,Sunday,,Branching Timed Research with a choice between Mega Mewtwo X or Mega Mewtwo Y
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Mewtwo,False,Mega/Mewtwo_x_mega.png,Bonuses — Day 1 — Mega — Normal,Bonus,Bonuses,Day 1,,Mega Mewtwo X and Mega Mewtwo Y debut
@@ -763,3 +399,45 @@ pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Riolu,False,Normal/Rio
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Garchomp,False,Normal/Garchomp.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Garchomp
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Gible,False,Normal/Gible.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Gible
 pokemon_go_fest_2026_global,Pokémon GO Fest 2026: Global,Gabite,False,Normal/Gabite.png,Raids — Sunday — Sunday Habitat Raids — Normal,Raid,Raids,Sunday,Sunday Habitat Raids,Gabite
+ozone_ascent,Ozone Ascent,Rayquaza,False,Normal/Rayquaza.png,Timed Research — Sunday — Normal,Research,Timed Research,Sunday,,"Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
+ozone_ascent,Ozone Ascent,Rayquaza,False,Normal/Rayquaza.png,Timed Research — Sunday — Normal,Research,Timed Research,Sunday,,Rayquaza
+ozone_ascent,Ozone Ascent,Rayquaza,True,Shiny/Rayquaza_shiny.png,Timed Research — Sunday — Shiny,Research,Timed Research,Sunday,,Rayquaza
+ozone_ascent,Ozone Ascent,Rayquaza,False,Mega/Rayquaza_mega.png,Timed Research — Sunday — Mega — Normal,Research,Timed Research,Sunday,,"Complete the research tasks to earn a Meteorite, Rayquaza Mega Energy, an encounter with Rayquaza, and more!"
+happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,False,Normal/Pikachu.png,Event — Normal,Event,Event,,,"Wish Professor Willow a very happy birthday with Professor Willow's assistant Pikachu! The Happy Birthday, Professor Willow! event will take place on July 21, 2026 from 10 am to 8 pm."
+happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,False,Normal/Pikachu.png,Raids — Normal,Raid,Raids,,,Professor Willow's assistant Pikachu
+happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Shiny,Raid,Raids,,,Professor Willow's assistant Pikachu
+happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,False,Normal/Pikachu.png,Raids — Normal,Raid,Raids,,,Professor Willow's assistant Pikachu
+happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,False,Normal/Pikachu.png,Eggs — Normal,Egg,Eggs,,,"Complete Field Research tasks to earn rewards such as PokeCoins, Lucky Eggs, additional encounters with Professor Willow's assistant Pikachu, and more!"
+happy_birthday_professor_willow,"Happy Birthday, Professor Willow!",Pikachu,False,Normal/Pikachu.png,Timed Research — Normal,Research,Timed Research,,,Encounters with Professor Willow's assistant Pikachu
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raid Day — Saturday — Mega Super — Normal,Raid,Raid Day,Saturday,,"Raichu Super Mega Raid Day Raid Day Starts: Saturday, July 18, 2026, at 2:00 PM Local Time Ends: Saturday, July 18, 2026, at 5:00 PM Local Time"
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Mega Super — Normal,Raid,Raids,Saturday,,"Remote Raid Pass limit increased to 20 from Friday, July 17, at 5:00 p.m. to Saturday, July 18, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Raichu caught from Super Mega Raids will have Mega Level 1 unlocked Increased chance of encountering Shiny Raichu from Super Mega Raids"
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,True,Shiny/Raichu_shiny.png,Raids — Saturday — Mega Super — Shiny,Raid,Raids,Saturday,,"Remote Raid Pass limit increased to 20 from Friday, July 17, at 5:00 p.m. to Saturday, July 18, 2026, at 8:00 p.m. PDT Receive up to six free Raid Passes from spinning Gym Photo Discs Raichu caught from Super Mega Raids will have Mega Level 1 unlocked Increased chance of encountering Shiny Raichu from Super Mega Raids"
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Mega Super — Normal,Raid,Raids,Saturday,,Raichu caught from Super Mega Raids will have Mega Level 1 unlocked
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Raichu X
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,True,Shiny/Raichu_shiny.png,Raids — Saturday — Mega — Shiny,Raid,Raids,Saturday,,Mega Raichu X
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Raichu X
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Steelix,False,Normal/Steelix.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Timed Research will be available to Trainers during the event. Complete the research tasks to earn a Premium Battle Pass and an encounter with Steelix.
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Timed Research — Saturday — Mega Super — Normal,Raid,Timed Research,Saturday,,Raichu Super Mega Raid Day (1/1)
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Raichu
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,True,Shiny/Raichu_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Raichu
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Raichu
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Community Day — Sunday — Normal,Event,Community Day,Sunday,,"Nickit Community Day Community Day Starts: Sunday, August 16, 2026, at 2:00 PM Local Time Ends: Sunday, August 16, 2026, at 5:00 PM Local Time"
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Take a few snapshots during Community Day for a surprise! During the event you can snap an AR Photo and get photobombed by Nickit.
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Nickit
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Nickit
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Lure Encounters — Sunday — Normal,Lure,Lure Encounters,Sunday,,"From 2:00 p.m. to 9:00 p.m. local time , Nickit will have a very high chance of appearing at PokeStops with active regular Lure Modules."
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Lure Encounters — Sunday — Normal,Lure,Lure Encounters,Sunday,,Nickit attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Lure Encounters — Sunday — Shiny,Lure,Lure Encounters,Sunday,,Nickit attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Nickit will appear more frequently in the wild.
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,"August Community Day—themed Field Research will be available! Catch Nickit to earn rewards such as Stardust, Ultra Balls, additional encounters with Nickit, and more! You may even find Field Research that leads to encounters with Nickit that have a Special Background—if you're lucky!"
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Field Research — Sunday — Shiny,Research,Field Research,Sunday,,"August Community Day—themed Field Research will be available! Catch Nickit to earn rewards such as Stardust, Ultra Balls, additional encounters with Nickit, and more! You may even find Field Research that leads to encounters with Nickit that have a Special Background—if you're lucky!"
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,Nickit Community Day
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Special Research — Sunday — Normal,Research,Special Research,Sunday,,3 encounters with Nickit that have a Special Background (at the end of each page)
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Nickit Community Day (1/3)
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Shiny Nickit will be available! Trainers will have an increased chance of encountering Shiny Nickit during Community Day.
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Incense — Sunday — Shiny,Incense,Incense,Sunday,,Shiny Nickit will be available! Trainers will have an increased chance of encountering Shiny Nickit during Community Day.
+nickit_community_day,Nickit Community Day,Thievul,False,Normal/Thievul.png,Incense — Sunday — Normal,Incense,Incense,Sunday,,Thievul
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Nickit will appear more frequently in the wild.
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Nickit will appear more frequently in the wild.
+nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Nickit may be attracted to Lure Modules during the event.
+nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Nickit may be attracted to Lure Modules during the event.

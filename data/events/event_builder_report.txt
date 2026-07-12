@@ -1,26 +1,26 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 11
-Current events: 6
-Upcoming events: 5
+Current events: 7
+Upcoming events: 4
 Official news items found: 18
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 764
-Unmatched candidates: 0
-No-match debug rows: 0
+Matched entries: 442
+Unmatched candidates: 3
+No-match debug rows: 3
 
 Events written:
-- [current] Event: Road of Legends
-  Date: Fri, Jul 10, at 11:59 PM
-  Entries: 219
-  File: current/road_of_legends.json
-  URL: https://leekduck.com/events/road-of-legends-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Venom and Vines
   Date: Mon, Aug 17, at 8:00 PM
   Entries: 0
   File: current/choose_your_path_choose_your_path_choose_your_path_venom_and_vines.json
   URL: https://leekduck.com/events/choose-your-path-venom-and-vines-2026/
+- [current] Event: Water Festival
+  Date: Mon, Aug 24, at 8:00 PM
+  Entries: 2
+  File: current/water_festival.json
+  URL: https://leekduck.com/events/water-festival-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Fairy Trail
   Date: Mon, Aug 3, at 8:00 PM
   Entries: 0
@@ -31,6 +31,11 @@ Events written:
   Entries: 14
   File: current/special_anniversary_pikachu_celebration.json
   URL: https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/
+- [current] Pokémon GO Fest: Pokémon GO Fest 2026: Global
+  Date: Sun, Jul 12, at 7:00 PM
+  Entries: 275
+  File: current/pokemon_go_fest_2026_global.json
+  URL: https://leekduck.com/events/pokemon-go-fest-2026-global/
 - [current] Event: Ozone Ascent
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 3
@@ -61,11 +66,6 @@ Events written:
   Entries: 16
   File: upcoming/nickit_community_day.json
   URL: https://leekduck.com/events/august-communityday2026/
-- [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Global
-  Date: Sun, Jul 12, at 7:00 PM
-  Entries: 275
-  File: upcoming/pokemon_go_fest_2026_global.json
-  URL: https://leekduck.com/events/pokemon-go-fest-2026-global/
 
 Wrote index: data/events/events_index.json
 Wrote raw LeekDuck data: data/events/leekduck_events_raw.json
