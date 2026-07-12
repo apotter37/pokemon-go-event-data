@@ -6,7 +6,7 @@
   "date_text": "Sun, Jul 12, at 7:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
-  "generated_at": "2026-07-12 03:53:01",
+  "generated_at": "2026-07-12 13:52:56",
   "entries": [
     {
       "dex": 150,
@@ -81,7 +81,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "REWARD ×150 Mega Mewtwo Y Mega Energy ×150"
+      "source_text": "Choose Mega Mewtwo X"
     },
     {
       "dex": 357,
@@ -192,9 +192,9 @@
       "dex": 150,
       "name": "Mewtwo",
       "uri": "file:///android_asset/Pokemon/Mega/Mewtwo_x_mega.png",
-      "label": "Eggs — Sunday — Sunday Habitat Raids — Mega — Normal",
+      "label": "Field Research — Sunday — Sunday Habitat Raids — Mega — Normal",
       "availability": "Raid",
-      "section": "Eggs",
+      "section": "Field Research",
       "day": "Sunday",
       "habitat": "Sunday Habitat Raids",
       "shiny": false,
@@ -3847,6 +3847,21 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Make 5 Great Curveball Throws Aerodactyl"
+    },
+    {
+      "dex": 150,
+      "name": "Mewtwo",
+      "uri": "file:///android_asset/Pokemon/Mega/Mewtwo_x_mega.png",
+      "label": "Field Research — Sunday — Sunday Habitat Raids — Mega — Normal",
+      "availability": "Research",
+      "section": "Field Research",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "REWARD ×150 Mega Mewtwo Y Mega Energy ×150"
     },
     {
       "dex": 150,
