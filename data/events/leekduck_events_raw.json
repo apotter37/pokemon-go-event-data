@@ -46,17 +46,6 @@
   {
     "source": "LeekDuck",
     "status": "current",
-    "category": "Pokémon GO Fest",
-    "title": "Pokémon GO Fest 2026: Global",
-    "url": "https://leekduck.com/events/pokemon-go-fest-2026-global/",
-    "date_text": "Sun, Jul 12, at 7:00 PM",
-    "raw_text": "Pokemon GO Fest Pokemon GO Fest Pokemon GO Fest 2026: Global Sun, Jul 12, at 7:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "pokemon_go_fest_2026_global",
-    "file": "current/pokemon_go_fest_2026_global.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "current",
     "category": "Event",
     "title": "Ozone Ascent",
     "url": "https://leekduck.com/events/ozone-ascent-2026/",

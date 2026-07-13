@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 11
-Current events: 7
+Events kept after cleanup: 10
+Current events: 6
 Upcoming events: 4
-Official news items found: 18
+Official news items found: 17
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 466
+Matched entries: 89
 Unmatched candidates: 3
 No-match debug rows: 3
 
@@ -31,11 +31,6 @@ Events written:
   Entries: 26
   File: current/special_anniversary_pikachu_celebration.json
   URL: https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/
-- [current] Pokémon GO Fest: Pokémon GO Fest 2026: Global
-  Date: Sun, Jul 12, at 7:00 PM
-  Entries: 276
-  File: current/pokemon_go_fest_2026_global.json
-  URL: https://leekduck.com/events/pokemon-go-fest-2026-global/
 - [current] Event: Ozone Ascent
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 3
