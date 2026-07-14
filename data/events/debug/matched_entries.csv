@@ -1,7 +1,52 @@
 ﻿event_id,event_title,pokemon,shiny,asset,label,availability,section,day,habitat,source_text
-water_festival,Water Festival,Psyduck,False,Normal/Psyduck.png,Event — Normal,Event,Event,,,"Dive into the Water Festival with returning Psyduck in a swim ring, plus the Pokemon GO debuts of Cramorant, Arrokuda, and Barraskewda! The Water Festival event will take place from August 18, 2026 at 10 am to August 24, 2026 at 8 pm local time."
-water_festival,Water Festival,Psyduck,False,Normal/Psyduck.png,Event — Normal,Event,Event,,,Psyduck (Swim Ring)
-water_festival,Water Festival,Psyduck,True,Shiny/Psyduck_shiny.png,Event — Shiny,Event,Event,,,Psyduck (Swim Ring)
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Ducklett,False,Normal/Ducklett.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Rainy Lure Modules will attract Arrokuda Increased chance to encounter Shiny Ducklett and Shiny Dewpider
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Ducklett,True,Shiny/Ducklett_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Rainy Lure Modules will attract Arrokuda Increased chance to encounter Shiny Ducklett and Shiny Dewpider
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Dewpider,False,Normal/Dewpider.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Rainy Lure Modules will attract Arrokuda Increased chance to encounter Shiny Ducklett and Shiny Dewpider
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Dewpider,True,Shiny/Dewpider_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Rainy Lure Modules will attract Arrokuda Increased chance to encounter Shiny Ducklett and Shiny Dewpider
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Psyduck,False,Normal/Psyduck.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Psyduck in a swim ring makes its return!
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Psyduck,False,Normal/Psyduck.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Psyduck (Swim Ring)
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Psyduck,True,Shiny/Psyduck_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Psyduck (Swim Ring)
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Psyduck,False,Normal/Psyduck.png,Field Research — Normal,Research,Field Research,,,Psyduck
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Psyduck,True,Shiny/Psyduck_shiny.png,Field Research — Shiny,Research,Field Research,,,Psyduck
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Psyduck,False,Normal/Psyduck.png,Field Research — Normal,Research,Field Research,,,Psyduck
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Goldeen,False,Normal/Goldeen.png,Field Research — Normal,Research,Field Research,,,Goldeen
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Goldeen,True,Shiny/Goldeen_shiny.png,Field Research — Shiny,Research,Field Research,,,Goldeen
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Goldeen,False,Normal/Goldeen.png,Field Research — Normal,Research,Field Research,,,Goldeen
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Mareanie,False,Normal/Mareanie.png,Field Research — Normal,Research,Field Research,,,Mareanie
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Mareanie,True,Shiny/Mareanie_shiny.png,Field Research — Shiny,Research,Field Research,,,Mareanie
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Mareanie,False,Normal/Mareanie.png,Field Research — Normal,Research,Field Research,,,Mareanie
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Wimpod,False,Normal/Wimpod.png,Field Research — Normal,Research,Field Research,,,Wimpod
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Wimpod,True,Shiny/Wimpod_shiny.png,Field Research — Shiny,Research,Field Research,,,Wimpod
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Wimpod,False,Normal/Wimpod.png,Field Research — Normal,Research,Field Research,,,Wimpod
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Feebas,False,Normal/Feebas.png,Field Research — Normal,Research,Field Research,,,Feebas
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Feebas,True,Shiny/Feebas_shiny.png,Field Research — Shiny,Research,Field Research,,,Feebas
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Feebas,False,Normal/Feebas.png,Field Research — Normal,Research,Field Research,,,Feebas
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Clamperl,False,Normal/Clamperl.png,Field Research — Normal,Research,Field Research,,,Clamperl
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Clamperl,True,Shiny/Clamperl_shiny.png,Field Research — Shiny,Research,Field Research,,,Clamperl
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Clamperl,False,Normal/Clamperl.png,Field Research — Normal,Research,Field Research,,,Clamperl
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Wiglett,False,Normal/Wiglett.png,Field Research — Normal,Research,Field Research,,,"Additionally, Wiglett will appear more frequently in their natural biome."
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Wiglett,False,Normal/Wiglett.png,Field Research — Normal,Research,Field Research,,,Wiglett
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Wiglett,True,Shiny/Wiglett_shiny.png,Field Research — Shiny,Research,Field Research,,,Wiglett
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Tatsugiri,False,Normal/Tatsugiri.png,Raids — Normal,Raid,Raids,,,Tatsugiri will be available in their respective regions.
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Lapras,False,Costume/Lapras_scarf.png,Raids — Scarf — Normal,Raid,Raids,,,Scarf Lapras
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Lapras,True,Shiny/Lapras_shiny.png,Raids — Scarf — Shiny,Raid,Raids,,,Scarf Lapras
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Lapras,False,Costume/Lapras_scarf.png,Raids — Scarf — Normal,Raid,Raids,,,Scarf Lapras
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Samurott,False,Hisuian/Samurott_hisuian.png,Raids — Hisuian — Normal,Raid,Raids,,,Hisuian Samurott
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Samurott,True,Hisuian/Shiny/Samurott_hisuian_shiny.png,Raids — Hisuian — Shiny,Raid,Raids,,,Hisuian Samurott
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Samurott,False,Hisuian/Samurott_hisuian.png,Raids — Hisuian — Normal,Raid,Raids,,,Hisuian Samurott
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Dondozo,False,Normal/Dondozo.png,Raids — Normal,Raid,Raids,,,Dondozo
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Dondozo,True,Shiny/Dondozo_shiny.png,Raids — Shiny,Raid,Raids,,,Dondozo
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Dondozo,False,Normal/Dondozo.png,Raids — Normal,Raid,Raids,,,Dondozo
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Ducklett,False,Normal/Ducklett.png,Eggs — Normal,Egg,Eggs,,,Shiny Ducklett and Shiny Dewpider will have an increased chance to be encountered during this event.
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Ducklett,True,Shiny/Ducklett_shiny.png,Eggs — Shiny,Egg,Eggs,,,Shiny Ducklett and Shiny Dewpider will have an increased chance to be encountered during this event.
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Dewpider,False,Normal/Dewpider.png,Eggs — Normal,Egg,Eggs,,,Shiny Ducklett and Shiny Dewpider will have an increased chance to be encountered during this event.
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Dewpider,True,Shiny/Dewpider_shiny.png,Eggs — Shiny,Egg,Eggs,,,Shiny Ducklett and Shiny Dewpider will have an increased chance to be encountered during this event.
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Ducklett,False,Normal/Ducklett.png,Eggs — Normal,Egg,Eggs,,,Ducklett
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Swanna,False,Normal/Swanna.png,Eggs — Normal,Egg,Eggs,,,Swanna
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Swanna,True,Shiny/Swanna_shiny.png,Eggs — Shiny,Egg,Eggs,,,Swanna
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Swanna,False,Normal/Swanna.png,Eggs — Normal,Egg,Eggs,,,Swanna
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Dewpider,False,Normal/Dewpider.png,Eggs — Normal,Egg,Eggs,,,Dewpider
+ultra_unlock_water_festival,Ultra Unlock: Water Festival,Araquanid,False,Normal/Araquanid.png,Eggs — Normal,Egg,Eggs,,,Araquanid
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Normal/Pikachu.png,Event — Normal,Event,Event,,,"Special Anniversary Pikachu Celebration Event Starts: Monday, July 13, 2026, at 10:00 AM Local Time Ends: Monday, July 20, 2026, at 8:00 PM Local Time"
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_2023.png,Event — Costume — Normal,Event,Event,,,"Keep the festivities going with three celebrations of different costumed Pikachu! The Special Anniversary Pikachu Celebration event will take place from July 13, 2026 at 10 am to July 20, 2026 at 8 pm."
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_2023.png,Event — Costume — Normal,Event,Event,,,Keep the festivities going with three celebrations of different costumed Pikachu!
@@ -46,6 +91,173 @@ special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_2023.png,Lure Encounters — Saturday — Outfit — Normal,Lure,Lure Encounters,Saturday,,Pop Star Outfit Pikachu
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_2023.png,Lure Encounters — Saturday — Outfit — Normal,Lure,Lure Encounters,Saturday,,Rock Star Outfit Pikachu Rock Star Outfit Pikachu
 special_anniversary_pikachu_celebration,Special Anniversary Pikachu Celebration,Pikachu,False,Costume/Pikachu_2023.png,Lure Encounters — Saturday — Outfit — Normal,Lure,Lure Encounters,Saturday,,Rock Star Outfit Pikachu
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Pikachu,False,Normal/Pikachu.png,Raids — Normal,Raid,Raids,,,"Professor Willow's assistant Pikachu will also appear in 1-Star Raids through July 27, 2026 at 8 pm local time."
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Bulbasaur,False,Normal/Bulbasaur.png,Raids — Normal,Raid,Raids,,,Bulbasaur
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Bulbasaur,True,Shiny/Bulbasaur_shiny.png,Raids — Shiny,Raid,Raids,,,Bulbasaur
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Bulbasaur,False,Normal/Bulbasaur.png,Raids — Normal,Raid,Raids,,,Bulbasaur
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Charmander,False,Normal/Charmander.png,Raids — Normal,Raid,Raids,,,Charmander
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Charmander,True,Shiny/Charmander_shiny.png,Raids — Shiny,Raid,Raids,,,Charmander
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Charmander,False,Normal/Charmander.png,Raids — Normal,Raid,Raids,,,Charmander
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Squirtle,False,Normal/Squirtle.png,Raids — Normal,Raid,Raids,,,Squirtle
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Squirtle,True,Shiny/Squirtle_shiny.png,Raids — Shiny,Raid,Raids,,,Squirtle
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Squirtle,False,Normal/Squirtle.png,Raids — Normal,Raid,Raids,,,Squirtle
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Chikorita,False,Normal/Chikorita.png,Raids — Normal,Raid,Raids,,,Chikorita
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Chikorita,True,Shiny/Chikorita_shiny.png,Raids — Shiny,Raid,Raids,,,Chikorita
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Chikorita,False,Normal/Chikorita.png,Raids — Normal,Raid,Raids,,,Chikorita
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Cyndaquil,False,Normal/Cyndaquil.png,Raids — Normal,Raid,Raids,,,Cyndaquil
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Cyndaquil,True,Shiny/Cyndaquil_shiny.png,Raids — Shiny,Raid,Raids,,,Cyndaquil
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Cyndaquil,False,Normal/Cyndaquil.png,Raids — Normal,Raid,Raids,,,Cyndaquil
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Totodile,False,Normal/Totodile.png,Raids — Normal,Raid,Raids,,,Totodile
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Totodile,True,Shiny/Totodile_shiny.png,Raids — Shiny,Raid,Raids,,,Totodile
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Totodile,False,Normal/Totodile.png,Raids — Normal,Raid,Raids,,,Totodile
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Treecko,False,Normal/Treecko.png,Raids — Normal,Raid,Raids,,,Treecko
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Treecko,True,Shiny/Treecko_shiny.png,Raids — Shiny,Raid,Raids,,,Treecko
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Treecko,False,Normal/Treecko.png,Raids — Normal,Raid,Raids,,,Treecko
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Torchic,False,Normal/Torchic.png,Raids — Normal,Raid,Raids,,,Torchic
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Torchic,True,Shiny/Torchic_shiny.png,Raids — Shiny,Raid,Raids,,,Torchic
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Torchic,False,Normal/Torchic.png,Raids — Normal,Raid,Raids,,,Torchic
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Mudkip,False,Normal/Mudkip.png,Raids — Normal,Raid,Raids,,,Mudkip
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Mudkip,True,Shiny/Mudkip_shiny.png,Raids — Shiny,Raid,Raids,,,Mudkip
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Mudkip,False,Normal/Mudkip.png,Raids — Normal,Raid,Raids,,,Mudkip
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Turtwig,False,Normal/Turtwig.png,Raids — Normal,Raid,Raids,,,Turtwig
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Turtwig,True,Shiny/Turtwig_shiny.png,Raids — Shiny,Raid,Raids,,,Turtwig
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Turtwig,False,Normal/Turtwig.png,Raids — Normal,Raid,Raids,,,Turtwig
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Chimchar,False,Normal/Chimchar.png,Raids — Normal,Raid,Raids,,,Chimchar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Chimchar,True,Shiny/Chimchar_shiny.png,Raids — Shiny,Raid,Raids,,,Chimchar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Chimchar,False,Normal/Chimchar.png,Raids — Normal,Raid,Raids,,,Chimchar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Piplup,False,Normal/Piplup.png,Raids — Normal,Raid,Raids,,,Piplup
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Piplup,True,Shiny/Piplup_shiny.png,Raids — Shiny,Raid,Raids,,,Piplup
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Piplup,False,Normal/Piplup.png,Raids — Normal,Raid,Raids,,,Piplup
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Snivy,False,Normal/Snivy.png,Raids — Normal,Raid,Raids,,,Snivy
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Snivy,True,Shiny/Snivy_shiny.png,Raids — Shiny,Raid,Raids,,,Snivy
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Snivy,False,Normal/Snivy.png,Raids — Normal,Raid,Raids,,,Snivy
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Tepig,False,Normal/Tepig.png,Raids — Normal,Raid,Raids,,,Tepig
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Tepig,True,Shiny/Tepig_shiny.png,Raids — Shiny,Raid,Raids,,,Tepig
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Tepig,False,Normal/Tepig.png,Raids — Normal,Raid,Raids,,,Tepig
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Oshawott,False,Normal/Oshawott.png,Raids — Normal,Raid,Raids,,,Oshawott
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Oshawott,True,Shiny/Oshawott_shiny.png,Raids — Shiny,Raid,Raids,,,Oshawott
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Oshawott,False,Normal/Oshawott.png,Raids — Normal,Raid,Raids,,,Oshawott
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Chespin,False,Normal/Chespin.png,Raids — Normal,Raid,Raids,,,Chespin
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Chespin,True,Shiny/Chespin_shiny.png,Raids — Shiny,Raid,Raids,,,Chespin
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Chespin,False,Normal/Chespin.png,Raids — Normal,Raid,Raids,,,Chespin
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Fennekin,False,Normal/Fennekin.png,Raids — Normal,Raid,Raids,,,Fennekin
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Fennekin,True,Shiny/Fennekin_shiny.png,Raids — Shiny,Raid,Raids,,,Fennekin
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Fennekin,False,Normal/Fennekin.png,Raids — Normal,Raid,Raids,,,Fennekin
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Froakie,False,Normal/Froakie.png,Raids — Normal,Raid,Raids,,,Froakie
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Froakie,True,Shiny/Froakie_shiny.png,Raids — Shiny,Raid,Raids,,,Froakie
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Froakie,False,Normal/Froakie.png,Raids — Normal,Raid,Raids,,,Froakie
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Rowlet,False,Normal/Rowlet.png,Raids — Normal,Raid,Raids,,,Rowlet
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Rowlet,True,Shiny/Rowlet_shiny.png,Raids — Shiny,Raid,Raids,,,Rowlet
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Rowlet,False,Normal/Rowlet.png,Raids — Normal,Raid,Raids,,,Rowlet
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Litten,False,Normal/Litten.png,Raids — Normal,Raid,Raids,,,Litten
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Litten,True,Shiny/Litten_shiny.png,Raids — Shiny,Raid,Raids,,,Litten
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Litten,False,Normal/Litten.png,Raids — Normal,Raid,Raids,,,Litten
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Popplio,False,Normal/Popplio.png,Raids — Normal,Raid,Raids,,,Popplio
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Popplio,True,Shiny/Popplio_shiny.png,Raids — Shiny,Raid,Raids,,,Popplio
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Popplio,False,Normal/Popplio.png,Raids — Normal,Raid,Raids,,,Popplio
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Grookey,False,Normal/Grookey.png,Raids — Normal,Raid,Raids,,,Grookey
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Scorbunny,False,Normal/Scorbunny.png,Raids — Normal,Raid,Raids,,,Scorbunny
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Scorbunny,True,Shiny/Scorbunny_shiny.png,Raids — Shiny,Raid,Raids,,,Scorbunny
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Scorbunny,False,Normal/Scorbunny.png,Raids — Normal,Raid,Raids,,,Scorbunny
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Sobble,False,Normal/Sobble.png,Raids — Normal,Raid,Raids,,,Sobble
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Sobble,True,Shiny/Sobble_shiny.png,Raids — Shiny,Raid,Raids,,,Sobble
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Sobble,False,Normal/Sobble.png,Raids — Normal,Raid,Raids,,,Sobble
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Sprigatito,False,Normal/Sprigatito.png,Raids — Normal,Raid,Raids,,,Sprigatito
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Fuecoco,False,Normal/Fuecoco.png,Raids — Normal,Raid,Raids,,,Fuecoco
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Fuecoco,True,Shiny/Fuecoco_shiny.png,Raids — Shiny,Raid,Raids,,,Fuecoco
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Fuecoco,False,Normal/Fuecoco.png,Raids — Normal,Raid,Raids,,,Fuecoco
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Quaxly,False,Normal/Quaxly.png,Raids — Normal,Raid,Raids,,,Quaxly
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Quaxly,True,Shiny/Quaxly_shiny.png,Raids — Shiny,Raid,Raids,,,Quaxly
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Quaxly,False,Normal/Quaxly.png,Raids — Normal,Raid,Raids,,,Quaxly
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Beldum,False,Normal/Beldum.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Beldum
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Beldum,True,Shiny/Beldum_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Beldum
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Beldum,False,Normal/Beldum.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Beldum
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Gible,False,Normal/Gible.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Gible
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Gible,True,Shiny/Gible_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Gible
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Gible,False,Normal/Gible.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Gible
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Dreepy,False,Normal/Dreepy.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Dreepy
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Grimer,False,Costume/Grimer_party_hat.png,Raids — Party Hat — Normal,Raid,Raids,,,Party Hat Grimer
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Grimer,True,Shiny/Grimer_shiny.png,Raids — Party Hat — Shiny,Raid,Raids,,,Party Hat Grimer
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Grimer,False,Costume/Grimer_party_hat.png,Raids — Party Hat — Normal,Raid,Raids,,,Party Hat Grimer
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Raticate,False,Costume/Raticate_party.png,Raids — Party Hat — Normal,Raid,Raids,,,Party Hat Raticate
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Raticate,True,Shiny/Raticate_shiny.png,Raids — Party Hat — Shiny,Raid,Raids,,,Party Hat Raticate
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Raticate,False,Costume/Raticate_party.png,Raids — Party Hat — Normal,Raid,Raids,,,Party Hat Raticate
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Nidorino,False,Costume/Nidorino_party_hat.png,Raids — Party Hat — Normal,Raid,Raids,,,Party Hat Nidorino
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Nidorino,True,Shiny/Nidorino_shiny.png,Raids — Party Hat — Shiny,Raid,Raids,,,Party Hat Nidorino
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Nidorino,False,Costume/Nidorino_party_hat.png,Raids — Party Hat — Normal,Raid,Raids,,,Party Hat Nidorino
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Gengar,False,Costume/Gengar_party_hat.png,Raids — Party Hat — Normal,Raid,Raids,,,Party Hat Gengar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Gengar,True,Shiny/Gengar_shiny.png,Raids — Party Hat — Shiny,Raid,Raids,,,Party Hat Gengar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Gengar,False,Costume/Gengar_party_hat.png,Raids — Party Hat — Normal,Raid,Raids,,,Party Hat Gengar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Wobbuffet,False,Costume/Wobbuffet_party.png,Raids — Party Hat — Normal,Raid,Raids,,,Party Hat Wobbuffet
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Wobbuffet,True,Shiny/Wobbuffet_shiny.png,Raids — Party Hat — Shiny,Raid,Raids,,,Party Hat Wobbuffet
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Wobbuffet,False,Costume/Wobbuffet_party.png,Raids — Party Hat — Normal,Raid,Raids,,,Party Hat Wobbuffet
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Venusaur,False,Normal/Venusaur.png,Raids — Normal,Raid,Raids,,,Venusaur
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Venusaur,True,Shiny/Venusaur_shiny.png,Raids — Shiny,Raid,Raids,,,Venusaur
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Venusaur,False,Normal/Venusaur.png,Raids — Normal,Raid,Raids,,,Venusaur
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Meganium,False,Normal/Meganium.png,Raids — Mega — Normal,Raid,Raids,,,Meganium
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Meganium,True,Shiny/Meganium_shiny.png,Raids — Mega — Shiny,Raid,Raids,,,Meganium
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Meganium,False,Normal/Meganium.png,Raids — Mega — Normal,Raid,Raids,,,Meganium
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Sceptile,False,Normal/Sceptile.png,Raids — Normal,Raid,Raids,,,Sceptile
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Sceptile,True,Shiny/Sceptile_shiny.png,Raids — Shiny,Raid,Raids,,,Sceptile
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Sceptile,False,Normal/Sceptile.png,Raids — Normal,Raid,Raids,,,Sceptile
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Torterra,False,Normal/Torterra.png,Raids — Normal,Raid,Raids,,,Torterra
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Torterra,True,Shiny/Torterra_shiny.png,Raids — Shiny,Raid,Raids,,,Torterra
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Torterra,False,Normal/Torterra.png,Raids — Normal,Raid,Raids,,,Torterra
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Serperior,False,Normal/Serperior.png,Raids — Normal,Raid,Raids,,,Serperior
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Serperior,True,Shiny/Serperior_shiny.png,Raids — Shiny,Raid,Raids,,,Serperior
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Serperior,False,Normal/Serperior.png,Raids — Normal,Raid,Raids,,,Serperior
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Chesnaught,False,Normal/Chesnaught.png,Raids — Normal,Raid,Raids,,,Chesnaught
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Decidueye,False,Normal/Decidueye.png,Raids — Normal,Raid,Raids,,,Decidueye
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Rillaboom,False,Normal/Rillaboom.png,Raids — Normal,Raid,Raids,,,Rillaboom
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Meowscarada,False,Normal/Meowscarada.png,Raids — Normal,Raid,Raids,,,Meowscarada
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Charizard,False,Normal/Charizard.png,Raids — Normal,Raid,Raids,,,Charizard
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Charizard,True,Shiny/Charizard_shiny.png,Raids — Shiny,Raid,Raids,,,Charizard
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Charizard,False,Normal/Charizard.png,Raids — Normal,Raid,Raids,,,Charizard
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Typhlosion,False,Normal/Typhlosion.png,Raids — Normal,Raid,Raids,,,Typhlosion
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Typhlosion,True,Shiny/Typhlosion_shiny.png,Raids — Shiny,Raid,Raids,,,Typhlosion
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Typhlosion,False,Normal/Typhlosion.png,Raids — Normal,Raid,Raids,,,Typhlosion
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Blaziken,False,Normal/Blaziken.png,Raids — Normal,Raid,Raids,,,Blaziken
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Blaziken,True,Shiny/Blaziken_shiny.png,Raids — Shiny,Raid,Raids,,,Blaziken
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Blaziken,False,Normal/Blaziken.png,Raids — Normal,Raid,Raids,,,Blaziken
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Infernape,False,Normal/Infernape.png,Raids — Normal,Raid,Raids,,,Infernape
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Infernape,True,Shiny/Infernape_shiny.png,Raids — Shiny,Raid,Raids,,,Infernape
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Infernape,False,Normal/Infernape.png,Raids — Normal,Raid,Raids,,,Infernape
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Emboar,False,Normal/Emboar.png,Raids — Normal,Raid,Raids,,,Emboar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Emboar,True,Shiny/Emboar_shiny.png,Raids — Shiny,Raid,Raids,,,Emboar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Emboar,False,Normal/Emboar.png,Raids — Normal,Raid,Raids,,,Emboar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Delphox,False,Normal/Delphox.png,Raids — Normal,Raid,Raids,,,Delphox
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Delphox,True,Shiny/Delphox_shiny.png,Raids — Shiny,Raid,Raids,,,Delphox
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Delphox,False,Normal/Delphox.png,Raids — Normal,Raid,Raids,,,Delphox
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Incineroar,False,Normal/Incineroar.png,Raids — Normal,Raid,Raids,,,Incineroar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Incineroar,True,Shiny/Incineroar_shiny.png,Raids — Shiny,Raid,Raids,,,Incineroar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Incineroar,False,Normal/Incineroar.png,Raids — Normal,Raid,Raids,,,Incineroar
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Cinderace,False,Normal/Cinderace.png,Raids — Normal,Raid,Raids,,,Cinderace
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Skeledirge,False,Normal/Skeledirge.png,Raids — Normal,Raid,Raids,,,Skeledirge
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Skeledirge,True,Shiny/Skeledirge_shiny.png,Raids — Shiny,Raid,Raids,,,Skeledirge
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Skeledirge,False,Normal/Skeledirge.png,Raids — Normal,Raid,Raids,,,Skeledirge
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Blastoise,False,Normal/Blastoise.png,Raids — Normal,Raid,Raids,,,Blastoise
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Blastoise,True,Shiny/Blastoise_shiny.png,Raids — Shiny,Raid,Raids,,,Blastoise
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Blastoise,False,Normal/Blastoise.png,Raids — Normal,Raid,Raids,,,Blastoise
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Feraligatr,False,Normal/Feraligatr.png,Raids — Normal,Raid,Raids,,,Feraligatr
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Feraligatr,True,Shiny/Feraligatr_shiny.png,Raids — Shiny,Raid,Raids,,,Feraligatr
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Feraligatr,False,Normal/Feraligatr.png,Raids — Normal,Raid,Raids,,,Feraligatr
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Swampert,False,Normal/Swampert.png,Raids — Normal,Raid,Raids,,,Swampert
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Swampert,True,Shiny/Swampert_shiny.png,Raids — Shiny,Raid,Raids,,,Swampert
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Swampert,False,Normal/Swampert.png,Raids — Normal,Raid,Raids,,,Swampert
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Empoleon,False,Normal/Empoleon.png,Raids — Normal,Raid,Raids,,,Empoleon
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Empoleon,True,Shiny/Empoleon_shiny.png,Raids — Shiny,Raid,Raids,,,Empoleon
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Empoleon,False,Normal/Empoleon.png,Raids — Normal,Raid,Raids,,,Empoleon
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Samurott,False,Normal/Samurott.png,Raids — Normal,Raid,Raids,,,Samurott
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Greninja,False,Normal/Greninja.png,Raids — Normal,Raid,Raids,,,Greninja
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Greninja,True,Shiny/Greninja_shiny.png,Raids — Shiny,Raid,Raids,,,Greninja
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Greninja,False,Normal/Greninja.png,Raids — Normal,Raid,Raids,,,Greninja
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Primarina,False,Normal/Primarina.png,Raids — Normal,Raid,Raids,,,Primarina
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Primarina,True,Shiny/Primarina_shiny.png,Raids — Shiny,Raid,Raids,,,Primarina
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Primarina,False,Normal/Primarina.png,Raids — Normal,Raid,Raids,,,Primarina
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Inteleon,False,Normal/Inteleon.png,Raids — Normal,Raid,Raids,,,Inteleon
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Quaquaval,False,Normal/Quaquaval.png,Raids — Normal,Raid,Raids,,,Quaquaval
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Shaymin,False,Normal/Shaymin.png,Field Research — Normal,Research,Field Research,,,"For US$4.99 (or the equivalent pricing tier in your local currency), you'll be able to pick up a Masterwork Research story, Glimmers of Gratitude, which leads to an encounter with Shiny Shaymin!*"
+ultra_unlock_10th_anniversary_edition,Ultra Unlock: 10th Anniversary Edition,Shaymin,True,Shiny/Shaymin_shiny.png,Field Research — Shiny,Research,Field Research,,,"For US$4.99 (or the equivalent pricing tier in your local currency), you'll be able to pick up a Masterwork Research story, Glimmers of Gratitude, which leads to an encounter with Shiny Shaymin!*"
 ozone_ascent,Ozone Ascent,Rayquaza,False,Normal/Rayquaza.png,Timed Research — Sunday — Normal,Research,Timed Research,Sunday,,"Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
 ozone_ascent,Ozone Ascent,Rayquaza,False,Normal/Rayquaza.png,Timed Research — Sunday — Normal,Research,Timed Research,Sunday,,Rayquaza
 ozone_ascent,Ozone Ascent,Rayquaza,True,Shiny/Rayquaza_shiny.png,Timed Research — Sunday — Shiny,Research,Timed Research,Sunday,,Rayquaza

@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 10
-Current events: 6
+Events kept after cleanup: 11
+Current events: 7
 Upcoming events: 4
-Official news items found: 17
+Official news items found: 15
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 89
-Unmatched candidates: 3
-No-match debug rows: 3
+Matched entries: 301
+Unmatched candidates: 9
+No-match debug rows: 9
 
 Events written:
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Venom and Vines
@@ -16,10 +16,10 @@ Events written:
   Entries: 0
   File: current/choose_your_path_choose_your_path_choose_your_path_venom_and_vines.json
   URL: https://leekduck.com/events/choose-your-path-venom-and-vines-2026/
-- [current] Event: Water Festival
+- [current] Event: Ultra Unlock: Water Festival
   Date: Mon, Aug 24, at 8:00 PM
-  Entries: 2
-  File: current/water_festival.json
+  Entries: 34
+  File: current/ultra_unlock_water_festival.json
   URL: https://leekduck.com/events/water-festival-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Fairy Trail
   Date: Mon, Aug 3, at 8:00 PM
@@ -31,6 +31,11 @@ Events written:
   Entries: 26
   File: current/special_anniversary_pikachu_celebration.json
   URL: https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/
+- [current] Event: Ultra Unlock: 10th Anniversary Edition
+  Date: Mon, Jul 27, at 8:00 PM
+  Entries: 116
+  File: current/ultra_unlock_10th_anniversary_edition.json
+  URL: https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/
 - [current] Event: Ozone Ascent
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 3

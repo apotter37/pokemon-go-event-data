@@ -18,12 +18,12 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "Water Festival",
+      "title": "Ultra Unlock: Water Festival",
       "url": "https://leekduck.com/events/water-festival-2026/",
       "date_text": "Mon, Aug 24, at 8:00 PM",
-      "raw_text": "Event Event Water Festival Mon, Aug 24, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "water_festival",
-      "file": "current/water_festival.json"
+      "raw_text": "Event Event Ultra Unlock: Water Festival Mon, Aug 24, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "ultra_unlock_water_festival",
+      "file": "current/ultra_unlock_water_festival.json"
     },
     "official_matches": []
   },
@@ -60,6 +60,20 @@
         "url": "https://pokemongo.com/news/special-anniversary-pikachu-celebration"
       }
     ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
+      "title": "Ultra Unlock: 10th Anniversary Edition",
+      "url": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
+      "date_text": "Mon, Jul 27, at 8:00 PM",
+      "raw_text": "Event Event Ultra Unlock: 10th Anniversary Edition Mon, Jul 27, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "ultra_unlock_10th_anniversary_edition",
+      "file": "current/ultra_unlock_10th_anniversary_edition.json"
+    },
+    "official_matches": []
   },
   {
     "event": {
