@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15 03:29:50",
+  "generated_at": "2026-07-15 14:07:14",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -105,6 +105,15 @@
       "file": "upcoming/nickit_community_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/august-communityday2026/"
+    },
+    {
+      "id": "go_fest_2026_sunday_raid_makeup",
+      "title": "GO Fest 2026 Sunday Raid Makeup",
+      "category": "Pokémon GO Fest",
+      "date_text": "Sun, Jul 26, at 7:00 PM",
+      "file": "upcoming/go_fest_2026_sunday_raid_makeup.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/"
     }
   ]
 }

@@ -119,5 +119,16 @@
     "raw_text": "Community Day Community Day Nickit Community Day Sun, Aug 16, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "nickit_community_day",
     "file": "upcoming/nickit_community_day.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "upcoming",
+    "category": "Pokémon GO Fest",
+    "title": "GO Fest 2026 Sunday Raid Makeup",
+    "url": "https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/",
+    "date_text": "Sun, Jul 26, at 7:00 PM",
+    "raw_text": "Pokemon GO Fest Pokemon GO Fest GO Fest 2026 Sunday Raid Makeup Sun, Jul 26, at 7:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "go_fest_2026_sunday_raid_makeup",
+    "file": "upcoming/go_fest_2026_sunday_raid_makeup.json"
   }
 ]

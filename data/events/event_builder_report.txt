@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 11
+Events kept after cleanup: 12
 Current events: 7
-Upcoming events: 4
+Upcoming events: 5
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 326
+Matched entries: 493
 Unmatched candidates: 9
 No-match debug rows: 9
 
@@ -48,7 +48,7 @@ Events written:
   URL: https://leekduck.com/events/happy-birthday-professor-willow-2026/
 - [upcoming] Raid Day: Starmie Super Mega Raid Day
   Date: Sat, Aug 22, at 5:00 PM
-  Entries: 9
+  Entries: 10
   File: upcoming/starmie_super_mega_raid_day.json
   URL: https://leekduck.com/events/starmie-super-mega-raid-day-2026/
 - [upcoming] Event: Hatch Day August 2026
@@ -58,7 +58,7 @@ Events written:
   URL: https://leekduck.com/events/hatch-day-august-2026/
 - [upcoming] Raid Day: Raichu Super Mega Raid Day
   Date: Sat, Jul 18, at 5:00 PM
-  Entries: 9
+  Entries: 10
   File: upcoming/raichu_super_mega_raid_day.json
   URL: https://leekduck.com/events/raichu-super-mega-raid-day-2026/
 - [upcoming] Community Day: Nickit Community Day
@@ -66,6 +66,11 @@ Events written:
   Entries: 16
   File: upcoming/nickit_community_day.json
   URL: https://leekduck.com/events/august-communityday2026/
+- [upcoming] Pokémon GO Fest: GO Fest 2026 Sunday Raid Makeup
+  Date: Sun, Jul 26, at 7:00 PM
+  Entries: 110
+  File: upcoming/go_fest_2026_sunday_raid_makeup.json
+  URL: https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/
 
 Wrote index: data/events/events_index.json
 Wrote raw LeekDuck data: data/events/leekduck_events_raw.json

@@ -290,6 +290,7 @@ starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Starmie,True,Shiny/Starm
 starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Starmie,False,Normal/Starmie.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Starmie
 starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Scizor,False,Normal/Scizor.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Timed Research will be available to Trainers during the event. Complete the research tasks to earn a Premium Battle Pass and an encounter with Scizor.
 starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Starmie,False,Normal/Starmie.png,Timed Research — Saturday — Mega Super — Normal,Raid,Timed Research,Saturday,,Starmie Super Mega Raid Day (1/1)
+starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Scizor,False,Mega/Scizor_mega.png,Timed Research — Saturday — Mega — Normal,Research,Timed Research,Saturday,,Power up Pokemon 15 times ×200 Scizor Mega Energy ×200
 starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Starmie,False,Normal/Starmie.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Starmie
 starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Starmie,True,Shiny/Starmie_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Starmie
 starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Starmie,False,Normal/Starmie.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Starmie
@@ -302,6 +303,7 @@ raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,True,Shiny/Raichu_s
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,Mega Raichu X
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Steelix,False,Normal/Steelix.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Timed Research will be available to Trainers during the event. Complete the research tasks to earn a Premium Battle Pass and an encounter with Steelix.
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Timed Research — Saturday — Mega Super — Normal,Raid,Timed Research,Saturday,,Raichu Super Mega Raid Day (1/1)
+raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Steelix,False,Mega/Steelix_mega.png,Timed Research — Saturday — Mega — Normal,Research,Timed Research,Saturday,,Power up Pokemon 15 times ×200 Steelix Mega Energy ×200
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Raichu
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,True,Shiny/Raichu_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Raichu
 raichu_super_mega_raid_day,Raichu Super Mega Raid Day,Raichu,False,Normal/Raichu.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Raichu
@@ -325,3 +327,168 @@ nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Wild En
 nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Nickit will appear more frequently in the wild.
 nickit_community_day,Nickit Community Day,Nickit,False,Normal/Nickit.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Nickit may be attracted to Lure Modules during the event.
 nickit_community_day,Nickit Community Day,Nickit,True,Shiny/Nickit_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Nickit may be attracted to Lure Modules during the event.
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Sunday — Mega Origin Super — Normal,Raid,Raids,Sunday,,"This makeup event is only for Trainers in Asia-Pacific, Europe, the Middle East, and Africa, up to and including the UTC+0 time zone (UTC+14 through UTC+0). Raid Bosses featured during the original Sunday of GO Fest 2026: Global—including Mega Mewtwo Y Super Mega Raids—will appear!"
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Sunday — Mega Super — Normal,Raid,Raids,Sunday,,Mega Mewtwo Y will appear in Super Mega Raids during this makeup event.
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Sunday — Mega — Normal,Raid,Raids,Sunday,,Mega Mewtwo Y
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Mewtwo,True,Shiny/Mewtwo_shiny.png,Raids — Sunday — Mega — Shiny,Raid,Raids,Sunday,,Mega Mewtwo Y
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Sunday — Mega — Normal,Raid,Raids,Sunday,,Mega Mewtwo Y
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,False,Costume/Pikachu_instinct.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,"Pikachu wearing a Team Instinct, Team Mystic, or Team Valor hat will appear in 1-Star Raids throughout the event."
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,False,Costume/Pikachu_instinct.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Pikachu wearing a Team Instinct hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Pikachu wearing a Team Instinct hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,False,Costume/Pikachu_instinct.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Pikachu wearing a Team Instinct hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,False,Costume/Pikachu_mystic.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Pikachu wearing a Team Mystic hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Pikachu wearing a Team Mystic hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,False,Costume/Pikachu_mystic.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Pikachu wearing a Team Mystic hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,False,Costume/Pikachu_party_hat.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Pikachu wearing a Team Valor hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Pikachu wearing a Team Valor hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,False,Costume/Pikachu_party_hat.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Pikachu wearing a Team Valor hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Metagross,False,Mega/Metagross_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Metagross
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Metagross,True,Mega/Shiny/Metagross_mega_shiny.png,Raids — Sunday — Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Habitat Raids,Mega Metagross
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Metagross,False,Mega/Metagross_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Metagross
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Garchomp,False,Mega/Garchomp_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Garchomp
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Garchomp,True,Mega/Shiny/Garchomp_mega_shiny.png,Raids — Sunday — Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Habitat Raids,Mega Garchomp
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Garchomp,False,Mega/Garchomp_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Garchomp
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Audino,False,Mega/Audino_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Audino
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Audino,True,Mega/Shiny/Audino_mega_shiny.png,Raids — Sunday — Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Habitat Raids,Mega Audino
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Audino,False,Mega/Audino_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Audino
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regirock,False,Normal/Regirock.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Regirock
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regirock,True,Shiny/Regirock_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Regirock
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regirock,False,Normal/Regirock.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Regirock
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regice,False,Normal/Regice.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Regice
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regice,True,Shiny/Regice_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Regice
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regice,False,Normal/Regice.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Regice
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Registeel,False,Normal/Registeel.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Registeel
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Registeel,True,Shiny/Registeel_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Registeel
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Registeel,False,Normal/Registeel.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Registeel
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Dialga,False,Normal/Dialga_origin.png,Raids — Sunday — Habitat Raids — Origin — Normal,Raid,Raids,Sunday,Habitat Raids,Origin Forme Dialga
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Dialga,True,Shiny/Dialga_origin_shiny.png,Raids — Sunday — Habitat Raids — Origin — Shiny,Raid,Raids,Sunday,Habitat Raids,Origin Forme Dialga
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Dialga,False,Normal/Dialga_origin.png,Raids — Sunday — Habitat Raids — Origin — Normal,Raid,Raids,Sunday,Habitat Raids,Origin Forme Dialga
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Palkia,False,Normal/Palkia_origin.png,Raids — Sunday — Habitat Raids — Origin — Normal,Raid,Raids,Sunday,Habitat Raids,Origin Forme Palkia
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Palkia,True,Shiny/Palkia_origin_shiny.png,Raids — Sunday — Habitat Raids — Origin — Shiny,Raid,Raids,Sunday,Habitat Raids,Origin Forme Palkia
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Palkia,False,Normal/Palkia_origin.png,Raids — Sunday — Habitat Raids — Origin — Normal,Raid,Raids,Sunday,Habitat Raids,Origin Forme Palkia
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Heatran,False,Normal/Heatran.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Heatran
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Heatran,True,Shiny/Heatran_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Heatran
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Heatran,False,Normal/Heatran.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Heatran
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regigigas,False,Normal/Regigigas.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Regigigas
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regigigas,True,Shiny/Regigigas_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Regigigas
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regigigas,False,Normal/Regigigas.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Regigigas
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tornadus,False,Normal/Tornadus.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Tornadus (Incarnate)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tornadus,True,Shiny/Tornadus_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Tornadus (Incarnate)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tornadus,False,Normal/Tornadus.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Tornadus (Incarnate)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tornadus,False,Normal/Tornadus_therian.png,Raids — Sunday — Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Habitat Raids,Tornadus (Therian)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tornadus,True,Shiny/Tornadus_therian_shiny.png,Raids — Sunday — Habitat Raids — Therian — Shiny,Raid,Raids,Sunday,Habitat Raids,Tornadus (Therian)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tornadus,False,Normal/Tornadus_therian.png,Raids — Sunday — Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Habitat Raids,Tornadus (Therian)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Thundurus,False,Normal/Thundurus.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Thundurus (Incarnate)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Thundurus,True,Shiny/Thundurus_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Thundurus (Incarnate)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Thundurus,False,Normal/Thundurus.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Thundurus (Incarnate)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Thundurus,False,Normal/Thundurus_therian.png,Raids — Sunday — Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Habitat Raids,Thundurus (Therian)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Thundurus,True,Shiny/Thundurus_therian_shiny.png,Raids — Sunday — Habitat Raids — Therian — Shiny,Raid,Raids,Sunday,Habitat Raids,Thundurus (Therian)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Thundurus,False,Normal/Thundurus_therian.png,Raids — Sunday — Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Habitat Raids,Thundurus (Therian)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Landorus,False,Normal/Landorus.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Landorus (Incarnate)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Landorus,True,Shiny/Landorus_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Landorus (Incarnate)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Landorus,False,Normal/Landorus.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Landorus (Incarnate)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Landorus,False,Normal/Landorus_therian.png,Raids — Sunday — Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Habitat Raids,Landorus (Therian)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Landorus,True,Shiny/Landorus_therian_shiny.png,Raids — Sunday — Habitat Raids — Therian — Shiny,Raid,Raids,Sunday,Habitat Raids,Landorus (Therian)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Landorus,False,Normal/Landorus_therian.png,Raids — Sunday — Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Habitat Raids,Landorus (Therian)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regieleki,False,Normal/Regieleki.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Regieleki
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regieleki,True,Shiny/Regieleki_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Regieleki
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regieleki,False,Normal/Regieleki.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Regieleki
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regidrago,False,Normal/Regidrago.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Regidrago
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regidrago,True,Shiny/Regidrago_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Regidrago
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Regidrago,False,Normal/Regidrago.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Regidrago
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Enamorus,False,Normal/Enamorus.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Enamorus (Incarnate)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Enamorus,False,Normal/Enamorus_therian.png,Raids — Sunday — Habitat Raids — Therian — Normal,Raid,Raids,Sunday,Habitat Raids,Enamorus (Therian Forme)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Beedrill,False,Mega/Beedrill_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Beedrill
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Beedrill,True,Mega/Shiny/Beedrill_mega_shiny.png,Raids — Sunday — Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Habitat Raids,Mega Beedrill
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Beedrill,False,Mega/Beedrill_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Beedrill
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pinsir,False,Mega/Pinsir_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Pinsir
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pinsir,True,Mega/Shiny/Pinsir_mega_shiny.png,Raids — Sunday — Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Habitat Raids,Mega Pinsir
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pinsir,False,Mega/Pinsir_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Pinsir
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Sceptile,False,Mega/Sceptile_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Sceptile
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Sceptile,True,Mega/Shiny/Sceptile_mega_shiny.png,Raids — Sunday — Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Habitat Raids,Mega Sceptile
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Sceptile,False,Mega/Sceptile_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Sceptile
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Deoxys,False,Normal/Deoxys.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Deoxys (Attack)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Deoxys,True,Shiny/Deoxys_attack_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Deoxys (Attack)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Deoxys,False,Normal/Deoxys.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Deoxys (Attack)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Genesect,False,Normal/Genesect.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Genesect
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Genesect,True,Shiny/Genesect_burn_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Genesect
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Genesect,False,Normal/Genesect.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Genesect
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Koko,False,Normal/Tapu_Koko.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Tapu Koko
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Koko,True,Shiny/Tapu_Koko_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Tapu Koko
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Koko,False,Normal/Tapu_Koko.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Tapu Koko
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Lele,False,Normal/Tapu_Lele.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Tapu Lele
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Lele,True,Shiny/Tapu_Lele_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Tapu Lele
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Lele,False,Normal/Tapu_Lele.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Tapu Lele
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Tapu Bulu
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Bulu,True,Shiny/Tapu_Bulu_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Tapu Bulu
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Bulu,False,Normal/Tapu_Bulu.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Tapu Bulu
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Tapu Fini
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Fini,True,Shiny/Tapu_Fini_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Tapu Fini
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tapu Fini,False,Normal/Tapu_Fini.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Tapu Fini
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Nihilego,False,Normal/Nihilego.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Nihilego
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Nihilego,True,Shiny/Nihilego_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Nihilego
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Nihilego,False,Normal/Nihilego.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Nihilego
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pheromosa,False,Normal/Pheromosa.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Pheromosa
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pheromosa,True,Shiny/Pheromosa_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Pheromosa
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pheromosa,False,Normal/Pheromosa.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Pheromosa
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Xurkitree,False,Normal/Xurkitree.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Xurkitree
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Xurkitree,True,Shiny/Xurkitree_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Xurkitree
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Xurkitree,False,Normal/Xurkitree.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Xurkitree
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Celesteela,False,Normal/Celesteela.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Celesteela
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Celesteela,True,Shiny/Celesteela_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Celesteela
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Celesteela,False,Normal/Celesteela.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Celesteela
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Kartana,False,Normal/Kartana.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Kartana
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Kartana,True,Shiny/Kartana_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Kartana
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Kartana,False,Normal/Kartana.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Kartana
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Guzzlord,False,Normal/Guzzlord.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Guzzlord
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Guzzlord,True,Shiny/Guzzlord_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Guzzlord
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Guzzlord,False,Normal/Guzzlord.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Guzzlord
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Necrozma,False,Normal/Necrozma.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Necrozma
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Necrozma,True,Shiny/Necrozma_dawn_wings_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Necrozma
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Necrozma,False,Normal/Necrozma.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Necrozma
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Stakataka,False,Normal/Stakataka.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Stakataka
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Stakataka,True,Shiny/Stakataka_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Stakataka
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Stakataka,False,Normal/Stakataka.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Stakataka
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Blacephalon,False,Normal/Blacephalon.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Blacephalon
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Blacephalon,True,Shiny/Blacephalon_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Blacephalon
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Blacephalon,False,Normal/Blacephalon.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Blacephalon
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tyranitar,False,Mega/Tyranitar_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Tyranitar
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tyranitar,True,Mega/Shiny/Tyranitar_mega_shiny.png,Raids — Sunday — Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Habitat Raids,Mega Tyranitar
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Tyranitar,False,Mega/Tyranitar_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Tyranitar
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Gardevoir,False,Mega/Gardevoir_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Gardevoir
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Gardevoir,True,Mega/Shiny/Gardevoir_mega_shiny.png,Raids — Sunday — Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Habitat Raids,Mega Gardevoir
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Gardevoir,False,Mega/Gardevoir_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Gardevoir
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Lucario,False,Mega/Lucario_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Lucario
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Lucario,True,Mega/Shiny/Lucario_mega_shiny.png,Raids — Sunday — Habitat Raids — Mega — Shiny,Raid,Raids,Sunday,Habitat Raids,Mega Lucario
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Lucario,False,Mega/Lucario_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Lucario
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Latias,False,Normal/Latias.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Latias
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Latias,True,Shiny/Latias_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Latias
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Latias,False,Normal/Latias.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Latias
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Latios,False,Normal/Latios.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Latios
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Latios,True,Shiny/Latios_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Latios
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Latios,False,Normal/Latios.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Latios
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Cresselia,False,Normal/Cresselia.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Cresselia
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Cresselia,True,Shiny/Cresselia_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Cresselia
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Cresselia,False,Normal/Cresselia.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Cresselia
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Darkrai,False,Normal/Darkrai.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Darkrai
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Darkrai,True,Shiny/Darkrai_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Darkrai
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Darkrai,False,Normal/Darkrai.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Darkrai
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Cobalion,False,Normal/Cobalion.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Cobalion
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Cobalion,True,Shiny/Cobalion_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Cobalion
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Cobalion,False,Normal/Cobalion.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Cobalion
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Terrakion,False,Normal/Terrakion.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Terrakion
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Terrakion,True,Shiny/Terrakion_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Terrakion
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Terrakion,False,Normal/Terrakion.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Terrakion
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Virizion,False,Normal/Virizion.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Virizion
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Virizion,True,Shiny/Virizion_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Virizion
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Virizion,False,Normal/Virizion.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Virizion
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Zacian,False,Normal/Zacian.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Zacian (Hero of Many Battles)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Zacian,True,Shiny/Zacian_crowned_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Zacian (Hero of Many Battles)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Zacian,False,Normal/Zacian.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Zacian (Hero of Many Battles)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Zamazenta,False,Normal/Zamazenta.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Zamazenta (Hero of Many Battles)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Zamazenta,True,Shiny/Zamazenta_crowned_shiny.png,Raids — Sunday — Habitat Raids — Shiny,Raid,Raids,Sunday,Habitat Raids,Zamazenta (Hero of Many Battles)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Zamazenta,False,Normal/Zamazenta.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Zamazenta (Hero of Many Battles)
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,False,Costume/Pikachu_instinct.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Pikachu wearing a Team Instinct hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,False,Costume/Pikachu_mystic.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Pikachu wearing a Team Mystic hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Pikachu,False,Costume/Pikachu_party_hat.png,Raids — Sunday — Habitat Raids — Normal,Raid,Raids,Sunday,Habitat Raids,Pikachu wearing a Team Valor hat
+go_fest_2026_sunday_raid_makeup,GO Fest 2026 Sunday Raid Makeup,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Sunday — Habitat Raids — Mega — Normal,Raid,Raids,Sunday,Habitat Raids,Mega Mewtwo Y
