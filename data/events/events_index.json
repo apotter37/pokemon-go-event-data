@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14 14:10:28",
+  "generated_at": "2026-07-15 03:29:50",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -71,13 +71,13 @@
   ],
   "upcoming": [
     {
-      "id": "raid_day_august_2026",
-      "title": "Raid Day August 2026",
+      "id": "starmie_super_mega_raid_day",
+      "title": "Starmie Super Mega Raid Day",
       "category": "Raid Day",
       "date_text": "Sat, Aug 22, at 5:00 PM",
-      "file": "upcoming/raid_day_august_2026.json",
+      "file": "upcoming/starmie_super_mega_raid_day.json",
       "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/raid-day-august-2026/"
+      "source_url": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/"
     },
     {
       "id": "hatch_day_august_2026",
