@@ -1,16 +1,21 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 12
-Current events: 7
+Events kept after cleanup: 13
+Current events: 8
 Upcoming events: 5
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 493
-Unmatched candidates: 9
-No-match debug rows: 9
+Matched entries: 559
+Unmatched candidates: 12
+No-match debug rows: 12
 
 Events written:
+- [current] Event: Summer Marathon: Arctic Embers
+  Date: Mon, Aug 10, at 8:00 PM
+  Entries: 51
+  File: current/summer_marathon_arctic_embers.json
+  URL: https://leekduck.com/events/summer-marathon-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Venom and Vines
   Date: Mon, Aug 17, at 8:00 PM
   Entries: 0

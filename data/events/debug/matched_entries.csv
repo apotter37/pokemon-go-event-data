@@ -1,4 +1,70 @@
 ﻿event_id,event_title,pokemon,shiny,asset,label,availability,section,day,habitat,source_text
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snom,False,Normal/Snom.png,Eggs — Normal,Egg,Eggs,,,"For the first time in Pokemon GO, you'll be able to encounter Shiny Snom—if you're lucky! You may encounter Snom when you complete GO Pass tasks. You may also hatch Snom from Eggs."
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snom,True,Shiny/Snom_shiny.png,Eggs — Shiny,Egg,Eggs,,,"For the first time in Pokemon GO, you'll be able to encounter Shiny Snom—if you're lucky! You may encounter Snom when you complete GO Pass tasks. You may also hatch Snom from Eggs."
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snom,False,Normal/Snom.png,Eggs — Normal,Egg,Eggs,,,Snom
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vanillite,False,Normal/Vanillite.png,Eggs — Normal,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vanillite,True,Shiny/Vanillite_shiny.png,Eggs — Shiny,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,False,Normal/Ponyta.png,Eggs — Normal,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,True,Shiny/Ponyta_shiny.png,Eggs — Shiny,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Slugma,False,Normal/Slugma.png,Eggs — Normal,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Slugma,True,Shiny/Slugma_shiny.png,Eggs — Shiny,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snover,False,Normal/Snover.png,Eggs — Normal,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snover,True,Shiny/Snover_shiny.png,Eggs — Shiny,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vulpix,False,Alolan/Vulpix_alolan.png,Wild Encounters — Alolan — Event Costume — Normal,Wild,Wild Encounters,,,"You may encounter event-themed Pokemon in the wild, including Vulpix, Alolan Vulpix, Growlithe, Swinub, Snorunt, and more!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vulpix,False,Normal/Vulpix.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Vulpix
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vulpix,True,Shiny/Vulpix_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Vulpix
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vulpix,False,Normal/Vulpix.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Vulpix
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vulpix,False,Alolan/Vulpix_alolan.png,Wild Encounters — Alolan — Normal,Wild,Wild Encounters,,,Alolan Vulpix
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vulpix,True,Alolan/Shiny/Vulpix_alolan_shiny.png,Wild Encounters — Alolan — Shiny,Wild,Wild Encounters,,,Alolan Vulpix
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vulpix,False,Alolan/Vulpix_alolan.png,Wild Encounters — Alolan — Normal,Wild,Wild Encounters,,,Alolan Vulpix
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Growlithe,False,Normal/Growlithe.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Growlithe
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Growlithe,True,Shiny/Growlithe_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Growlithe
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Growlithe,False,Normal/Growlithe.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Growlithe
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Swinub,False,Normal/Swinub.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Swinub
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Swinub,True,Shiny/Swinub_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Swinub
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Swinub,False,Normal/Swinub.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Swinub
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snorunt,False,Normal/Snorunt.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Snorunt
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snorunt,True,Shiny/Snorunt_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Snorunt
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snorunt,False,Normal/Snorunt.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Snorunt
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,False,Normal/Ponyta.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Ponyta
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,True,Shiny/Ponyta_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Ponyta
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,False,Normal/Ponyta.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Ponyta
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snover,False,Normal/Snover.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Snover
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snover,True,Shiny/Snover_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Snover
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snover,False,Normal/Snover.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Snover
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Slugma,False,Normal/Slugma.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Slugma
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Slugma,True,Shiny/Slugma_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Slugma
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Slugma,False,Normal/Slugma.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Slugma
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vanillite,False,Normal/Vanillite.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Vanillite
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vanillite,True,Shiny/Vanillite_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Vanillite
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vanillite,False,Normal/Vanillite.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Vanillite
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Sneasel,False,Normal/Sneasel.png,Eggs — Normal,Egg,Eggs,,,Sneasel
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Sneasel,True,Shiny/Sneasel_shiny.png,Eggs — Shiny,Egg,Eggs,,,Sneasel
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Sneasel,False,Normal/Sneasel.png,Eggs — Normal,Egg,Eggs,,,Sneasel
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Darumaka,False,Normal/Darumaka.png,Eggs — Normal,Egg,Eggs,,,Darumaka
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Darumaka,True,Shiny/Darumaka_shiny.png,Eggs — Shiny,Egg,Eggs,,,Darumaka
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Darumaka,False,Normal/Darumaka.png,Eggs — Normal,Egg,Eggs,,,Darumaka
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Darumaka,False,Galarian/Darumaka_galarian.png,Eggs — Galarian — Normal,Egg,Eggs,,,Galarian Darumaka
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Darumaka,True,Galarian/Shiny/Darumaka_galarian_shiny.png,Eggs — Galarian — Shiny,Egg,Eggs,,,Galarian Darumaka
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Darumaka,False,Galarian/Darumaka_galarian.png,Eggs — Galarian — Normal,Egg,Eggs,,,Galarian Darumaka
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Sizzlipede,False,Normal/Sizzlipede.png,Eggs — Normal,Egg,Eggs,,,Sizzlipede
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Sizzlipede,True,Shiny/Sizzlipede_shiny.png,Eggs — Shiny,Egg,Eggs,,,Sizzlipede
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Sizzlipede,False,Normal/Sizzlipede.png,Eggs — Normal,Egg,Eggs,,,Sizzlipede
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vanillite,False,Normal/Vanillite.png,Field Research — Event Costume — Normal,Research,Field Research,,,"Complete Field Research tasks to earn encounters with event-themed Pokemon, including Ponyta, Slugma, Snover, Vanillite, and more!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,False,Costume/Ponyta_candela.png,Field Research — Event Costume — Normal,Research,Field Research,,,"Complete Field Research tasks to earn encounters with event-themed Pokemon, including Ponyta, Slugma, Snover, Vanillite, and more!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Slugma,False,Normal/Slugma.png,Field Research — Event Costume — Normal,Research,Field Research,,,"Complete Field Research tasks to earn encounters with event-themed Pokemon, including Ponyta, Slugma, Snover, Vanillite, and more!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snover,False,Normal/Snover.png,Field Research — Event Costume — Normal,Research,Field Research,,,"Complete Field Research tasks to earn encounters with event-themed Pokemon, including Ponyta, Slugma, Snover, Vanillite, and more!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Pikachu,False,Normal/Pikachu.png,Timed Research — Normal,Research,Timed Research,,,"There will be a free Timed Research opportunity available. Timed Research rewards include 16,800 XP and an encounter with Pikachu wearing a marathon visor."
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Pikachu,False,Costume/Pikachu_marathon_visor.png,Timed Research — Marathon Visor — Normal,Research,Timed Research,,,REWARDS Marathon Visor Pikachu
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Pikachu,False,Costume/Pikachu_marathon_visor.png,Timed Research — Marathon Visor — Normal,Research,Timed Research,,,Marathon Visor Pikachu
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,False,Normal/Ponyta.png,Timed Research — Normal,Research,Timed Research,,,Ponyta
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,True,Shiny/Ponyta_shiny.png,Timed Research — Shiny,Research,Timed Research,,,Ponyta
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Slugma,False,Normal/Slugma.png,Timed Research — Normal,Research,Timed Research,,,Slugma
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Slugma,True,Shiny/Slugma_shiny.png,Timed Research — Shiny,Research,Timed Research,,,Slugma
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snover,False,Normal/Snover.png,Timed Research — Normal,Research,Timed Research,,,Snover
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snover,True,Shiny/Snover_shiny.png,Timed Research — Shiny,Research,Timed Research,,,Snover
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vanillite,False,Normal/Vanillite.png,Timed Research — Normal,Research,Timed Research,,,Vanillite
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vanillite,True,Shiny/Vanillite_shiny.png,Timed Research — Shiny,Research,Timed Research,,,Vanillite
 ultra_unlock_water_festival,Ultra Unlock: Water Festival,Ducklett,False,Normal/Ducklett.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Rainy Lure Modules will attract Arrokuda Increased chance to encounter Shiny Ducklett and Shiny Dewpider
 ultra_unlock_water_festival,Ultra Unlock: Water Festival,Ducklett,True,Shiny/Ducklett_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Rainy Lure Modules will attract Arrokuda Increased chance to encounter Shiny Ducklett and Shiny Dewpider
 ultra_unlock_water_festival,Ultra Unlock: Water Festival,Dewpider,False,Normal/Dewpider.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Rainy Lure Modules will attract Arrokuda Increased chance to encounter Shiny Ducklett and Shiny Dewpider
