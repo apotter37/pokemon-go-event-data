@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16 14:18:30",
+  "generated_at": "2026-07-17 03:34:08",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -89,13 +89,13 @@
       "source_url": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/"
     },
     {
-      "id": "hatch_day_august_2026",
-      "title": "Hatch Day August 2026",
+      "id": "fire_and_ice_hatch_day",
+      "title": "Fire and Ice Hatch Day",
       "category": "Event",
       "date_text": "Sat, Aug 8, at 5:00 PM",
-      "file": "upcoming/hatch_day_august_2026.json",
+      "file": "upcoming/fire_and_ice_hatch_day.json",
       "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/hatch-day-august-2026/"
+      "source_url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/"
     },
     {
       "id": "raichu_super_mega_raid_day",

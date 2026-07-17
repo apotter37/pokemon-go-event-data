@@ -6,7 +6,7 @@ Upcoming events: 5
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 559
+Matched entries: 568
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -56,11 +56,11 @@ Events written:
   Entries: 10
   File: upcoming/starmie_super_mega_raid_day.json
   URL: https://leekduck.com/events/starmie-super-mega-raid-day-2026/
-- [upcoming] Event: Hatch Day August 2026
+- [upcoming] Event: Fire and Ice Hatch Day
   Date: Sat, Aug 8, at 5:00 PM
-  Entries: 0
-  File: upcoming/hatch_day_august_2026.json
-  URL: https://leekduck.com/events/hatch-day-august-2026/
+  Entries: 6
+  File: upcoming/fire_and_ice_hatch_day.json
+  URL: https://leekduck.com/events/fire-and-ice-hatch-day-2026/
 - [upcoming] Raid Day: Raichu Super Mega Raid Day
   Date: Sat, Jul 18, at 5:00 PM
   Entries: 10

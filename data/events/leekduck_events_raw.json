@@ -102,12 +102,12 @@
     "source": "LeekDuck",
     "status": "upcoming",
     "category": "Event",
-    "title": "Hatch Day August 2026",
-    "url": "https://leekduck.com/events/hatch-day-august-2026/",
+    "title": "Fire and Ice Hatch Day",
+    "url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
     "date_text": "Sat, Aug 8, at 5:00 PM",
-    "raw_text": "Event Event Hatch Day Sat, Aug 8, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "hatch_day_august_2026",
-    "file": "upcoming/hatch_day_august_2026.json"
+    "raw_text": "Event Event Fire and Ice Hatch Day Sat, Aug 8, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "fire_and_ice_hatch_day",
+    "file": "upcoming/fire_and_ice_hatch_day.json"
   },
   {
     "source": "LeekDuck",
