@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17 14:00:37",
+  "generated_at": "2026-07-18 03:27:49",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -60,6 +60,15 @@
       "source_url": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/"
     },
     {
+      "id": "raichu_super_mega_raid_day",
+      "title": "Raichu Super Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Jul 18, at 5:00 PM",
+      "file": "current/raichu_super_mega_raid_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/"
+    },
+    {
       "id": "ozone_ascent",
       "title": "Ozone Ascent",
       "category": "Event",
@@ -96,15 +105,6 @@
       "file": "upcoming/fire_and_ice_hatch_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/"
-    },
-    {
-      "id": "raichu_super_mega_raid_day",
-      "title": "Raichu Super Mega Raid Day",
-      "category": "Raid Day",
-      "date_text": "Sat, Jul 18, at 5:00 PM",
-      "file": "upcoming/raichu_super_mega_raid_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/"
     },
     {
       "id": "nickit_community_day",
