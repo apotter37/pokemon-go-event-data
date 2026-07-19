@@ -6,7 +6,7 @@ Upcoming events: 4
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 585
+Matched entries: 588
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -73,7 +73,7 @@ Events written:
   URL: https://leekduck.com/events/august-communityday2026/
 - [upcoming] Pokémon GO Fest: GO Fest 2026 Sunday Raid Makeup
   Date: Sun, Jul 26, at 7:00 PM
-  Entries: 110
+  Entries: 112
   File: upcoming/go_fest_2026_sunday_raid_makeup.json
   URL: https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/
 

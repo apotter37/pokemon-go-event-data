@@ -6,7 +6,7 @@
   "date_text": "Sun, Jul 26, at 7:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/",
-  "generated_at": "2026-07-18 13:45:24",
+  "generated_at": "2026-07-19 03:49:35",
   "entries": [
     {
       "dex": 15,
@@ -1267,6 +1267,36 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Nihilego"
+    },
+    {
+      "dex": 794,
+      "name": "Buzzwole",
+      "uri": "file:///android_asset/Pokemon/Normal/Buzzwole.png",
+      "label": "Raids — Sunday — Habitat Raids — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Habitat Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Buzzwole"
+    },
+    {
+      "dex": 794,
+      "name": "Buzzwole",
+      "uri": "file:///android_asset/Pokemon/Shiny/Buzzwole_shiny.png",
+      "label": "Raids — Sunday — Habitat Raids — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Habitat Raids",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Buzzwole"
     },
     {
       "dex": 795,
