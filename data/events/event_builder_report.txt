@@ -6,7 +6,7 @@ Upcoming events: 4
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 575
+Matched entries: 537
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -38,7 +38,7 @@ Events written:
   URL: https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/
 - [current] Event: Ultra Unlock: 10th Anniversary Edition
   Date: Mon, Jul 27, at 8:00 PM
-  Entries: 117
+  Entries: 98
   File: current/ultra_unlock_10th_anniversary_edition.json
   URL: https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/
 - [current] Event: Ozone Ascent
