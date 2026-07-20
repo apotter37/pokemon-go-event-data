@@ -105,31 +105,6 @@
     "event": {
       "source": "LeekDuck",
       "status": "current",
-      "category": "Raid Day",
-      "title": "Raichu Super Mega Raid Day",
-      "url": "https://leekduck.com/events/raichu-super-mega-raid-day-2026/",
-      "date_text": "Sat, Jul 18, at 5:00 PM",
-      "raw_text": "Raid Day Raid Day Raichu Super Mega Raid Day Sat, Jul 18, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "raichu_super_mega_raid_day",
-      "file": "current/raichu_super_mega_raid_day.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!",
-        "url": "https://pokemongo.com/news/starmie-super-mega-raid-day-2026"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Sparks fly for Raichu Super Mega Raid Day!",
-        "url": "https://pokemongo.com/news/raichu-super-mega-raid-day-2026"
-      }
-    ]
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
       "category": "Event",
       "title": "Ozone Ascent",
       "url": "https://leekduck.com/events/ozone-ascent-2026/",

@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 13
-Current events: 9
+Events kept after cleanup: 12
+Current events: 8
 Upcoming events: 4
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 588
+Matched entries: 575
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -41,11 +41,6 @@ Events written:
   Entries: 117
   File: current/ultra_unlock_10th_anniversary_edition.json
   URL: https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/
-- [current] Raid Day: Raichu Super Mega Raid Day
-  Date: Sat, Jul 18, at 5:00 PM
-  Entries: 10
-  File: current/raichu_super_mega_raid_day.json
-  URL: https://leekduck.com/events/raichu-super-mega-raid-day-2026/
 - [current] Event: Ozone Ascent
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 3
