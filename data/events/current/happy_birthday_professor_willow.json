@@ -6,7 +6,7 @@
   "date_text": "Tue, Jul 21, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
-  "generated_at": "2026-07-20 14:31:43",
+  "generated_at": "2026-07-21 14:18:38",
   "entries": [
     {
       "dex": 25,
@@ -21,7 +21,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Complete Field Research tasks to earn rewards such as PokeCoins, Lucky Eggs, additional encounters with Professor Willow's assistant Pikachu, and more!"
+      "source_text": "Complete Field Research tasks to earn rewards such as PokeCoins, Incense, Lucky Eggs, Lure Modules, and encounters with Professor Willow's assistant Pikachu!"
     },
     {
       "dex": 25,
@@ -63,6 +63,21 @@
       "day": "",
       "habitat": "",
       "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Professor Willow's assistant Pikachu"
+    },
+    {
+      "dex": 25,
+      "name": "Pikachu",
+      "uri": "file:///android_asset/Pokemon/Normal/Pikachu.png",
+      "label": "Field Research — Normal",
+      "availability": "Research",
+      "section": "Field Research",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
       "costume": false,
       "costume_hint": "",
       "form_hint": "",

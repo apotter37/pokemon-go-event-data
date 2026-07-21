@@ -6,7 +6,7 @@ Upcoming events: 4
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 537
+Matched entries: 550
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -38,7 +38,7 @@ Events written:
   URL: https://leekduck.com/events/special-anniversary-pikachu-celebration-2026/
 - [current] Event: Ultra Unlock: 10th Anniversary Edition
   Date: Mon, Jul 27, at 8:00 PM
-  Entries: 98
+  Entries: 106
   File: current/ultra_unlock_10th_anniversary_edition.json
   URL: https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/
 - [current] Event: Ozone Ascent
@@ -48,7 +48,7 @@ Events written:
   URL: https://leekduck.com/events/ozone-ascent-2026/
 - [current] Event: Happy Birthday, Professor Willow!
   Date: Tue, Jul 21, at 8:00 PM
-  Entries: 5
+  Entries: 6
   File: current/happy_birthday_professor_willow.json
   URL: https://leekduck.com/events/happy-birthday-professor-willow-2026/
 - [upcoming] Raid Day: Starmie Super Mega Raid Day
