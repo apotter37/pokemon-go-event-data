@@ -67,17 +67,6 @@
   },
   {
     "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
-    "title": "Happy Birthday, Professor Willow!",
-    "url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/",
-    "date_text": "Tue, Jul 21, at 8:00 PM",
-    "raw_text": "Event Event Happy Birthday, Professor Willow! Tue, Jul 21, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "happy_birthday_professor_willow",
-    "file": "current/happy_birthday_professor_willow.json"
-  },
-  {
-    "source": "LeekDuck",
     "status": "upcoming",
     "category": "Raid Day",
     "title": "Starmie Super Mega Raid Day",

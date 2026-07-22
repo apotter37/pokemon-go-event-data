@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 11
-Current events: 7
+Events kept after cleanup: 10
+Current events: 6
 Upcoming events: 4
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 478
+Matched entries: 471
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -41,11 +41,6 @@ Events written:
   Entries: 3
   File: current/ozone_ascent.json
   URL: https://leekduck.com/events/ozone-ascent-2026/
-- [current] Event: Happy Birthday, Professor Willow!
-  Date: Tue, Jul 21, at 8:00 PM
-  Entries: 6
-  File: current/happy_birthday_professor_willow.json
-  URL: https://leekduck.com/events/happy-birthday-professor-willow-2026/
 - [upcoming] Raid Day: Starmie Super Mega Raid Day
   Date: Sat, Aug 22, at 5:00 PM
   Entries: 10

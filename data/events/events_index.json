@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22 03:41:40",
+  "generated_at": "2026-07-22 14:19:45",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -58,15 +58,6 @@
       "file": "current/ozone_ascent.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/ozone-ascent-2026/"
-    },
-    {
-      "id": "happy_birthday_professor_willow",
-      "title": "Happy Birthday, Professor Willow!",
-      "category": "Event",
-      "date_text": "Tue, Jul 21, at 8:00 PM",
-      "file": "current/happy_birthday_professor_willow.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/happy-birthday-professor-willow-2026/"
     }
   ],
   "upcoming": [
