@@ -1,7 +1,7 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 10
-Current events: 6
+Events kept after cleanup: 11
+Current events: 7
 Upcoming events: 4
 Official news items found: 14
 Pokemon names loaded: 1026
@@ -36,6 +36,11 @@ Events written:
   Entries: 106
   File: current/ultra_unlock_10th_anniversary_edition.json
   URL: https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/
+- [current] Event: Pokemon XP & 2026 Worlds
+  Date: Sun, Aug 30, at 8:00 PM
+  Entries: 0
+  File: current/pokemon_xp_2026_worlds.json
+  URL: https://leekduck.com/events/pokemon-xp-2026-worlds/
 - [current] Event: Ozone Ascent
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 3

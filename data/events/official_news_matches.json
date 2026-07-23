@@ -86,6 +86,46 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
+      "title": "Pokemon XP & 2026 Worlds",
+      "url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
+      "date_text": "Sun, Aug 30, at 8:00 PM",
+      "raw_text": "Event Event Pokemon XP & 2026 Worlds Sun, Aug 30, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "pokemon_xp_2026_worlds",
+      "file": "current/pokemon_xp_2026_worlds.json"
+    },
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Pokemon GO Fest 2026: Global - Sunday Raid Battles update",
+        "url": "https://pokemongo.com/news/gofest2026-global-update"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "Pokemon GO Fest 2026: Global final details!",
+        "url": "https://pokemongo.com/news/go-fest-2026-global-final-details"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "The Road of Legends leads the way to Pokemon GO Fest 2026: Global!",
+        "url": "https://pokemongo.com/news/road-of-legends-2026"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "Get ready for Pokemon GO Fest 2026: Global Community Celebrations in the Asia-Pacific region!",
+        "url": "https://pokemongo.com/news/community-celebrations-go-fest-2026-details-asia-pacific"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "Get ready for Pokemon GO Fest 2026: Global Community Celebrations in North America, Europe, and Oceania!",
+        "url": "https://pokemongo.com/news/community-celebrations-go-fest-2026-details-en"
+      }
+    ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
       "title": "Ozone Ascent",
       "url": "https://leekduck.com/events/ozone-ascent-2026/",
       "date_text": "Sun, Jul 26, at 8:00 PM",
