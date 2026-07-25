@@ -1,13 +1,43 @@
 {
-  "id": "ozone_ascent",
-  "title": "Ozone Ascent",
+  "id": "ozone_ascent_rayquaza_timed_research",
+  "title": "Ozone Ascent - Rayquaza Timed Research",
   "status": "current",
   "category": "Event",
   "date_text": "Sun, Jul 26, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/ozone-ascent-2026/",
-  "generated_at": "2026-07-24 14:08:40",
+  "generated_at": "2026-07-25 03:34:29",
   "entries": [
+    {
+      "dex": 384,
+      "name": "Rayquaza",
+      "uri": "file:///android_asset/Pokemon/Normal/Rayquaza.png",
+      "label": "Raids — Sunday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Win 2 raids Rayquaza"
+    },
+    {
+      "dex": 384,
+      "name": "Rayquaza",
+      "uri": "file:///android_asset/Pokemon/Normal/Rayquaza.png",
+      "label": "Timed Research — Saturday — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Ozone Ascent - Rayquaza Timed Research Event Starts: Saturday, July 25, 2026, at 10:00 AM Local Time Ends: Sunday, July 26, 2026, at 8:00 PM Local Time"
+    },
     {
       "dex": 384,
       "name": "Rayquaza",
@@ -21,7 +51,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Complete the research tasks to earn a Meteorite, Rayquaza Mega Energy, an encounter with Rayquaza, and more!"
+      "source_text": "Catch 50 Pokemon ×400 Rayquaza Mega Energy ×400"
     },
     {
       "dex": 384,
@@ -36,7 +66,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
+      "source_text": "Complete Timed Research to encounter Rayquaza and more! The Ozone Ascent - Rayquaza Timed Research event will take place from July 25, 2026 at 10 am to July 26, 2026 at 8 pm."
     },
     {
       "dex": 384,

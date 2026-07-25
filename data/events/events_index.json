@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 14:08:49",
+  "generated_at": "2026-07-25 03:34:42",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -60,11 +60,11 @@
       "source_url": "https://leekduck.com/events/pokemon-xp-2026-worlds/"
     },
     {
-      "id": "ozone_ascent",
-      "title": "Ozone Ascent",
+      "id": "ozone_ascent_rayquaza_timed_research",
+      "title": "Ozone Ascent - Rayquaza Timed Research",
       "category": "Event",
       "date_text": "Sun, Jul 26, at 8:00 PM",
-      "file": "current/ozone_ascent.json",
+      "file": "current/ozone_ascent_rayquaza_timed_research.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/ozone-ascent-2026/"
     }

@@ -126,12 +126,12 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "Ozone Ascent",
+      "title": "Ozone Ascent - Rayquaza Timed Research",
       "url": "https://leekduck.com/events/ozone-ascent-2026/",
       "date_text": "Sun, Jul 26, at 8:00 PM",
-      "raw_text": "Event Event Ozone Ascent Sun, Jul 26, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "ozone_ascent",
-      "file": "current/ozone_ascent.json"
+      "raw_text": "Event Event Ozone Ascent - Rayquaza Timed Research Sun, Jul 26, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "ozone_ascent_rayquaza_timed_research",
+      "file": "current/ozone_ascent_rayquaza_timed_research.json"
     },
     "official_matches": []
   },
