@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 11
-Current events: 7
-Upcoming events: 4
+Current events: 8
+Upcoming events: 3
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 473
+Matched entries: 496
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -41,6 +41,11 @@ Events written:
   Entries: 0
   File: current/pokemon_xp_2026_worlds.json
   URL: https://leekduck.com/events/pokemon-xp-2026-worlds/
+- [current] Pokémon GO Fest: GO Fest 2026 Sunday Raid Makeup
+  Date: Sun, Jul 26, at 7:00 PM
+  Entries: 135
+  File: current/go_fest_2026_sunday_raid_makeup.json
+  URL: https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/
 - [current] Event: Ozone Ascent - Rayquaza Timed Research
   Date: Sun, Jul 26, at 8:00 PM
   Entries: 5
@@ -61,11 +66,6 @@ Events written:
   Entries: 16
   File: upcoming/nickit_community_day.json
   URL: https://leekduck.com/events/august-communityday2026/
-- [upcoming] Pokémon GO Fest: GO Fest 2026 Sunday Raid Makeup
-  Date: Sun, Jul 26, at 7:00 PM
-  Entries: 112
-  File: upcoming/go_fest_2026_sunday_raid_makeup.json
-  URL: https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/
 
 Wrote index: data/events/events_index.json
 Wrote raw LeekDuck data: data/events/leekduck_events_raw.json
