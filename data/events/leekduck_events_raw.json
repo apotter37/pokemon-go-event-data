@@ -67,28 +67,6 @@
   },
   {
     "source": "LeekDuck",
-    "status": "current",
-    "category": "Pokémon GO Fest",
-    "title": "GO Fest 2026 Sunday Raid Makeup",
-    "url": "https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/",
-    "date_text": "Sun, Jul 26, at 7:00 PM",
-    "raw_text": "Pokemon GO Fest Pokemon GO Fest GO Fest 2026 Sunday Raid Makeup Sun, Jul 26, at 7:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "go_fest_2026_sunday_raid_makeup",
-    "file": "current/go_fest_2026_sunday_raid_makeup.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
-    "title": "Ozone Ascent - Rayquaza Timed Research",
-    "url": "https://leekduck.com/events/ozone-ascent-2026/",
-    "date_text": "Sun, Jul 26, at 8:00 PM",
-    "raw_text": "Event Event Ozone Ascent - Rayquaza Timed Research Sun, Jul 26, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "ozone_ascent_rayquaza_timed_research",
-    "file": "current/ozone_ascent_rayquaza_timed_research.json"
-  },
-  {
-    "source": "LeekDuck",
     "status": "upcoming",
     "category": "Raid Day",
     "title": "Starmie Super Mega Raid Day",

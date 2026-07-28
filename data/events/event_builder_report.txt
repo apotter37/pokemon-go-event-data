@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 11
-Current events: 8
+Events kept after cleanup: 9
+Current events: 6
 Upcoming events: 3
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 496
+Matched entries: 306
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -28,7 +28,7 @@ Events written:
   URL: https://leekduck.com/events/water-festival-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Fairy Trail
   Date: Mon, Aug 3, at 8:00 PM
-  Entries: 0
+  Entries: 7
   File: current/choose_your_path_choose_your_path_choose_your_path_fairy_trail.json
   URL: https://leekduck.com/events/choose-your-path-fairy-trail-2026/
 - [current] Event: Ultra Unlock: 10th Anniversary Edition
@@ -41,16 +41,6 @@ Events written:
   Entries: 0
   File: current/pokemon_xp_2026_worlds.json
   URL: https://leekduck.com/events/pokemon-xp-2026-worlds/
-- [current] Pokémon GO Fest: GO Fest 2026 Sunday Raid Makeup
-  Date: Sun, Jul 26, at 7:00 PM
-  Entries: 135
-  File: current/go_fest_2026_sunday_raid_makeup.json
-  URL: https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/
-- [current] Event: Ozone Ascent - Rayquaza Timed Research
-  Date: Sun, Jul 26, at 8:00 PM
-  Entries: 5
-  File: current/ozone_ascent_rayquaza_timed_research.json
-  URL: https://leekduck.com/events/ozone-ascent-2026/
 - [upcoming] Raid Day: Starmie Super Mega Raid Day
   Date: Sat, Aug 22, at 5:00 PM
   Entries: 10

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27 15:10:52",
+  "generated_at": "2026-07-28 03:31:04",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -58,24 +58,6 @@
       "file": "current/pokemon_xp_2026_worlds.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-xp-2026-worlds/"
-    },
-    {
-      "id": "go_fest_2026_sunday_raid_makeup",
-      "title": "GO Fest 2026 Sunday Raid Makeup",
-      "category": "Pokémon GO Fest",
-      "date_text": "Sun, Jul 26, at 7:00 PM",
-      "file": "current/go_fest_2026_sunday_raid_makeup.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-makeup/"
-    },
-    {
-      "id": "ozone_ascent_rayquaza_timed_research",
-      "title": "Ozone Ascent - Rayquaza Timed Research",
-      "category": "Event",
-      "date_text": "Sun, Jul 26, at 8:00 PM",
-      "file": "current/ozone_ascent_rayquaza_timed_research.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/ozone-ascent-2026/"
     }
   ],
   "upcoming": [
