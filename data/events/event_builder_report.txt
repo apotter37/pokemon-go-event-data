@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 9
-Current events: 6
-Upcoming events: 3
+Current events: 5
+Upcoming events: 4
 Official news items found: 15
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 306
+Matched entries: 163
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -31,11 +31,6 @@ Events written:
   Entries: 7
   File: current/choose_your_path_choose_your_path_choose_your_path_fairy_trail.json
   URL: https://leekduck.com/events/choose-your-path-fairy-trail-2026/
-- [current] Event: Ultra Unlock: 10th Anniversary Edition
-  Date: Mon, Jul 27, at 8:00 PM
-  Entries: 106
-  File: current/ultra_unlock_10th_anniversary_edition.json
-  URL: https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/
 - [current] Event: Pokemon XP & 2026 Worlds
   Date: Sun, Aug 30, at 8:00 PM
   Entries: 0
@@ -56,6 +51,11 @@ Events written:
   Entries: 16
   File: upcoming/nickit_community_day.json
   URL: https://leekduck.com/events/august-communityday2026/
+- [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Mega Finale
+  Date: Sun, Sep 6, at 7:00 PM
+  Entries: 0
+  File: upcoming/pokemon_go_fest_2026_mega_finale.json
+  URL: https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
 
 Wrote index: data/events/events_index.json
 Wrote raw LeekDuck data: data/events/leekduck_events_raw.json

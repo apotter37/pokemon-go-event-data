@@ -47,17 +47,6 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
-    "title": "Ultra Unlock: 10th Anniversary Edition",
-    "url": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/",
-    "date_text": "Mon, Jul 27, at 8:00 PM",
-    "raw_text": "Event Event Ultra Unlock: 10th Anniversary Edition Mon, Jul 27, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "ultra_unlock_10th_anniversary_edition",
-    "file": "current/ultra_unlock_10th_anniversary_edition.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
     "title": "Pokemon XP & 2026 Worlds",
     "url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
     "date_text": "Sun, Aug 30, at 8:00 PM",
@@ -97,5 +86,16 @@
     "raw_text": "Community Day Community Day Nickit Community Day Sun, Aug 16, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "nickit_community_day",
     "file": "upcoming/nickit_community_day.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "upcoming",
+    "category": "Pokémon GO Fest",
+    "title": "Pokémon GO Fest 2026: Mega Finale",
+    "url": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
+    "date_text": "Sun, Sep 6, at 7:00 PM",
+    "raw_text": "Pokemon GO Fest Pokemon GO Fest Pokemon GO Fest 2026: Mega Finale Sun, Sep 6, at 7:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "pokemon_go_fest_2026_mega_finale",
+    "file": "upcoming/pokemon_go_fest_2026_mega_finale.json"
   }
 ]

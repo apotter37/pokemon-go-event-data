@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 14:32:47",
+  "generated_at": "2026-07-29 03:34:55",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -42,15 +42,6 @@
       "source_url": "https://leekduck.com/events/choose-your-path-fairy-trail-2026/"
     },
     {
-      "id": "ultra_unlock_10th_anniversary_edition",
-      "title": "Ultra Unlock: 10th Anniversary Edition",
-      "category": "Event",
-      "date_text": "Mon, Jul 27, at 8:00 PM",
-      "file": "current/ultra_unlock_10th_anniversary_edition.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/ultra-unlock-10th-anniversary-edition/"
-    },
-    {
       "id": "pokemon_xp_2026_worlds",
       "title": "Pokemon XP & 2026 Worlds",
       "category": "Event",
@@ -87,6 +78,15 @@
       "file": "upcoming/nickit_community_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/august-communityday2026/"
+    },
+    {
+      "id": "pokemon_go_fest_2026_mega_finale",
+      "title": "Pokémon GO Fest 2026: Mega Finale",
+      "category": "Pokémon GO Fest",
+      "date_text": "Sun, Sep 6, at 7:00 PM",
+      "file": "upcoming/pokemon_go_fest_2026_mega_finale.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/"
     }
   ]
 }
