@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02 13:50:39",
+  "generated_at": "2026-08-03 03:50:43",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -49,6 +49,15 @@
       "file": "current/pokemon_xp_2026_worlds.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-xp-2026-worlds/"
+    },
+    {
+      "id": "lego_stores_and_pokemon_go",
+      "title": "LEGO Stores and Pokémon GO",
+      "category": "Event",
+      "date_text": "Wed, Sep 30, at 11:59 PM",
+      "file": "current/lego_stores_and_pokemon_go.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/lego-pokemon-go-2026/"
     }
   ],
   "upcoming": [

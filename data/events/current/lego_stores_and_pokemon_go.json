@@ -1,0 +1,42 @@
+{
+  "id": "lego_stores_and_pokemon_go",
+  "title": "LEGO Stores and Pokémon GO",
+  "status": "current",
+  "category": "Event",
+  "date_text": "Wed, Sep 30, at 11:59 PM",
+  "source": "LeekDuck",
+  "source_url": "https://leekduck.com/events/lego-pokemon-go-2026/",
+  "generated_at": "2026-08-03 03:50:40",
+  "entries": [
+    {
+      "dex": 25,
+      "name": "Pikachu",
+      "uri": "file:///android_asset/Pokemon/Normal/Pikachu.png",
+      "label": "Raids — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Take part in a special LEGO-themed stamp rally during the event! Explore participating LEGO Stores and find designated PokeStops and Gyms to collect stamps, which leads to encounters with Pikachu that have a Special Background."
+    },
+    {
+      "dex": 25,
+      "name": "Pikachu",
+      "uri": "file:///android_asset/Pokemon/Shiny/Pikachu_shiny.png",
+      "label": "Raids — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Pikachu"
+    }
+  ]
+}
