@@ -6,7 +6,7 @@
   "date_text": "Mon, Aug 10, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/summer-marathon-2026/",
-  "generated_at": "2026-08-03 03:50:35",
+  "generated_at": "2026-08-03 15:12:23",
   "entries": [
     {
       "dex": 77,
@@ -279,6 +279,21 @@
       "source_text": "For the first time in Pokemon GO, you'll be able to encounter Shiny Snom—if you're lucky! You may encounter Snom when you complete GO Pass tasks. You may also hatch Snom from Eggs."
     },
     {
+      "dex": 873,
+      "name": "Frosmoth",
+      "uri": "file:///android_asset/Pokemon/Normal/Frosmoth.png",
+      "label": "Eggs — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Frosmoth"
+    },
+    {
       "dex": 77,
       "name": "Ponyta",
       "uri": "file:///android_asset/Pokemon/Costume/Ponyta_candela.png",
@@ -487,6 +502,36 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Vanillite"
+    },
+    {
+      "dex": 872,
+      "name": "Snom",
+      "uri": "file:///android_asset/Pokemon/Normal/Snom.png",
+      "label": "Timed Research — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "For the first time in Pokemon GO, you'll be able to encounter Shiny Snom—if you're lucky!"
+    },
+    {
+      "dex": 872,
+      "name": "Snom",
+      "uri": "file:///android_asset/Pokemon/Shiny/Snom_shiny.png",
+      "label": "Timed Research — Shiny",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "For the first time in Pokemon GO, you'll be able to encounter Shiny Snom—if you're lucky!"
     },
     {
       "dex": 37,

@@ -2,6 +2,7 @@
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snom,False,Normal/Snom.png,Eggs — Normal,Egg,Eggs,,,"For the first time in Pokemon GO, you'll be able to encounter Shiny Snom—if you're lucky! You may encounter Snom when you complete GO Pass tasks. You may also hatch Snom from Eggs."
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snom,True,Shiny/Snom_shiny.png,Eggs — Shiny,Egg,Eggs,,,"For the first time in Pokemon GO, you'll be able to encounter Shiny Snom—if you're lucky! You may encounter Snom when you complete GO Pass tasks. You may also hatch Snom from Eggs."
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snom,False,Normal/Snom.png,Eggs — Normal,Egg,Eggs,,,Snom
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Frosmoth,False,Normal/Frosmoth.png,Eggs — Normal,Egg,Eggs,,,Frosmoth
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vanillite,False,Normal/Vanillite.png,Eggs — Normal,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Vanillite,True,Shiny/Vanillite_shiny.png,Eggs — Shiny,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,False,Normal/Ponyta.png,Eggs — Normal,Egg,Eggs,,,"You'll also have an increased chance of encountering Shiny Ponyta, Slugma, Snover, and Vanillite!"
@@ -57,6 +58,8 @@ summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snover,False,Normal
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Pikachu,False,Normal/Pikachu.png,Timed Research — Normal,Research,Timed Research,,,"There will be a free Timed Research opportunity available. Timed Research rewards include 16,800 XP and an encounter with Pikachu wearing a marathon visor."
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Pikachu,False,Costume/Pikachu_marathon_visor.png,Timed Research — Marathon Visor — Normal,Research,Timed Research,,,REWARDS Marathon Visor Pikachu
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Pikachu,False,Costume/Pikachu_marathon_visor.png,Timed Research — Marathon Visor — Normal,Research,Timed Research,,,Marathon Visor Pikachu
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snom,False,Normal/Snom.png,Timed Research — Normal,Research,Timed Research,,,"For the first time in Pokemon GO, you'll be able to encounter Shiny Snom—if you're lucky!"
+summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Snom,True,Shiny/Snom_shiny.png,Timed Research — Shiny,Research,Timed Research,,,"For the first time in Pokemon GO, you'll be able to encounter Shiny Snom—if you're lucky!"
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,False,Normal/Ponyta.png,Timed Research — Normal,Research,Timed Research,,,Ponyta
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Ponyta,True,Shiny/Ponyta_shiny.png,Timed Research — Shiny,Research,Timed Research,,,Ponyta
 summer_marathon_arctic_embers,Summer Marathon: Arctic Embers,Slugma,False,Normal/Slugma.png,Timed Research — Normal,Research,Timed Research,,,Slugma
@@ -123,6 +126,12 @@ choose_your_path_choose_your_path_choose_your_path_fairy_trail,Choose Your Path 
 lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Pikachu,False,Normal/Pikachu.png,Raids — Normal,Raid,Raids,,,"Take part in a special LEGO-themed stamp rally during the event! Explore participating LEGO Stores and find designated PokeStops and Gyms to collect stamps, which leads to encounters with Pikachu that have a Special Background."
 lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Pikachu,False,Normal/Pikachu.png,Raids — Normal,Raid,Raids,,,Pikachu
 lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Shiny,Raid,Raids,,,Pikachu
+lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Pikachu,False,Normal/Pikachu.png,Timed Research — Normal,Research,Timed Research,,,LEGO® Pikachu Sticker ×3
+lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Eevee,False,Normal/Eevee.png,Timed Research — Normal,Research,Timed Research,,,Spin 10 PokeStops or Gyms ×3 LEGO® Eevee Sticker ×3
+lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Venusaur,False,Normal/Venusaur.png,Timed Research — Normal,Research,Timed Research,,,Catch 30 Pokemon ×3 LEGO® Venusaur Sticker ×3
+lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Charizard,False,Normal/Charizard.png,Eggs — Normal,Egg,Eggs,,,Hatch an Egg ×3 LEGO® Charizard Sticker ×3
+lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Blastoise,False,Normal/Blastoise.png,Eggs — Normal,Raid,Eggs,,,Win a raid ×3 LEGO® Blastoise Sticker ×3
+lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Blastoise,False,Normal/Blastoise.png,Eggs — Normal,Egg,Eggs,,,LEGO® Blastoise Sticker ×3
 starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Starmie,False,Normal/Starmie.png,Raid Day — Saturday — Mega Super — Normal,Raid,Raid Day,Saturday,,"Starmie Super Mega Raid Day Raid Day Starts: Saturday, August 22, 2026, at 11:00 AM Local Time Ends: Saturday, August 22, 2026, at 5:00 PM Local Time"
 starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Starmie,False,Normal/Starmie.png,Raids — Saturday — Mega Super — Normal,Raid,Raids,Saturday,,Increased chance of encountering Shiny Starmie from Super Mega Raids
 starmie_super_mega_raid_day,Starmie Super Mega Raid Day,Starmie,True,Shiny/Starmie_shiny.png,Raids — Saturday — Mega Super — Shiny,Raid,Raids,Saturday,,Increased chance of encountering Shiny Starmie from Super Mega Raids
