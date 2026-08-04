@@ -6,14 +6,14 @@ Upcoming events: 4
 Official news items found: 15
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 175
-Unmatched candidates: 12
-No-match debug rows: 12
+Matched entries: 189
+Unmatched candidates: 9
+No-match debug rows: 9
 
 Events written:
 - [current] Event: Summer Marathon: Arctic Embers
   Date: Mon, Aug 10, at 8:00 PM
-  Entries: 54
+  Entries: 64
   File: current/summer_marathon_arctic_embers.json
   URL: https://leekduck.com/events/summer-marathon-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Venom and Vines
