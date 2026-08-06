@@ -36,12 +36,12 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
-    "title": "Pokemon XP & 2026 Worlds",
+    "title": "PokemonXP & 2026 Worlds",
     "url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
     "date_text": "Sun, Aug 30, at 8:00 PM",
-    "raw_text": "Event Event Pokemon XP & 2026 Worlds Sun, Aug 30, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "pokemon_xp_2026_worlds",
-    "file": "current/pokemon_xp_2026_worlds.json"
+    "raw_text": "Event Event PokemonXP & 2026 Worlds Sun, Aug 30, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "pokemonxp_2026_worlds",
+    "file": "current/pokemonxp_2026_worlds.json"
   },
   {
     "source": "LeekDuck",

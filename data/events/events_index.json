@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05 03:29:07",
+  "generated_at": "2026-08-06 03:32:39",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -33,11 +33,11 @@
       "source_url": "https://leekduck.com/events/water-festival-2026/"
     },
     {
-      "id": "pokemon_xp_2026_worlds",
-      "title": "Pokemon XP & 2026 Worlds",
+      "id": "pokemonxp_2026_worlds",
+      "title": "PokemonXP & 2026 Worlds",
       "category": "Event",
       "date_text": "Sun, Aug 30, at 8:00 PM",
-      "file": "current/pokemon_xp_2026_worlds.json",
+      "file": "current/pokemonxp_2026_worlds.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-xp-2026-worlds/"
     },

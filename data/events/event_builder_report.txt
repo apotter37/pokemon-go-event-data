@@ -6,9 +6,9 @@ Upcoming events: 4
 Official news items found: 15
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 182
-Unmatched candidates: 9
-No-match debug rows: 9
+Matched entries: 295
+Unmatched candidates: 11
+No-match debug rows: 11
 
 Events written:
 - [current] Event: Summer Marathon: Arctic Embers
@@ -26,10 +26,10 @@ Events written:
   Entries: 34
   File: current/ultra_unlock_water_festival.json
   URL: https://leekduck.com/events/water-festival-2026/
-- [current] Event: Pokemon XP & 2026 Worlds
+- [current] Event: PokemonXP & 2026 Worlds
   Date: Sun, Aug 30, at 8:00 PM
-  Entries: 0
-  File: current/pokemon_xp_2026_worlds.json
+  Entries: 89
+  File: current/pokemonxp_2026_worlds.json
   URL: https://leekduck.com/events/pokemon-xp-2026-worlds/
 - [current] Event: LEGO Stores and Pokémon GO
   Date: Wed, Sep 30, at 11:59 PM
