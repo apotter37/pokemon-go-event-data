@@ -1,8 +1,8 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 9
-Current events: 5
-Upcoming events: 4
+Current events: 6
+Upcoming events: 3
 Official news items found: 15
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
@@ -26,6 +26,11 @@ Events written:
   Entries: 34
   File: current/ultra_unlock_water_festival.json
   URL: https://leekduck.com/events/water-festival-2026/
+- [current] Event: Fire and Ice Hatch Day
+  Date: Sat, Aug 8, at 5:00 PM
+  Entries: 6
+  File: current/fire_and_ice_hatch_day.json
+  URL: https://leekduck.com/events/fire-and-ice-hatch-day-2026/
 - [current] Event: PokemonXP & 2026 Worlds
   Date: Sun, Aug 30, at 8:00 PM
   Entries: 89
@@ -41,11 +46,6 @@ Events written:
   Entries: 10
   File: upcoming/starmie_super_mega_raid_day.json
   URL: https://leekduck.com/events/starmie-super-mega-raid-day-2026/
-- [upcoming] Event: Fire and Ice Hatch Day
-  Date: Sat, Aug 8, at 5:00 PM
-  Entries: 6
-  File: upcoming/fire_and_ice_hatch_day.json
-  URL: https://leekduck.com/events/fire-and-ice-hatch-day-2026/
 - [upcoming] Community Day: Nickit Community Day
   Date: Sun, Aug 16, at 5:00 PM
   Entries: 16

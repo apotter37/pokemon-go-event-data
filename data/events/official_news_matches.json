@@ -52,6 +52,26 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
+      "title": "Fire and Ice Hatch Day",
+      "url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
+      "date_text": "Sat, Aug 8, at 5:00 PM",
+      "raw_text": "Event Event Fire and Ice Hatch Day Sat, Aug 8, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "fire_and_ice_hatch_day",
+      "file": "current/fire_and_ice_hatch_day.json"
+    },
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Fire and Ice Hatch Day",
+        "url": "https://pokemongo.com/news/fire-and-ice-hatch-day-2026"
+      }
+    ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
       "title": "PokemonXP & 2026 Worlds",
       "url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
       "date_text": "Sun, Aug 30, at 8:00 PM",
@@ -97,26 +117,6 @@
         "source": "Official Pokémon GO",
         "title": "Sparks fly for Raichu Super Mega Raid Day!",
         "url": "https://pokemongo.com/news/raichu-super-mega-raid-day-2026"
-      }
-    ]
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "upcoming",
-      "category": "Event",
-      "title": "Fire and Ice Hatch Day",
-      "url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/",
-      "date_text": "Sat, Aug 8, at 5:00 PM",
-      "raw_text": "Event Event Fire and Ice Hatch Day Sat, Aug 8, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "fire_and_ice_hatch_day",
-      "file": "upcoming/fire_and_ice_hatch_day.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "Fire and Ice Hatch Day",
-        "url": "https://pokemongo.com/news/fire-and-ice-hatch-day-2026"
       }
     ]
   },
