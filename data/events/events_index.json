@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 02:31:20",
+  "generated_at": "2026-08-10 13:40:28",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -31,15 +31,6 @@
       "file": "current/ultra_unlock_water_festival.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/water-festival-2026/"
-    },
-    {
-      "id": "fire_and_ice_hatch_day",
-      "title": "Fire and Ice Hatch Day",
-      "category": "Event",
-      "date_text": "Sat, Aug 8, at 5:00 PM",
-      "file": "current/fire_and_ice_hatch_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/fire-and-ice-hatch-day-2026/"
     },
     {
       "id": "pokemonxp_2026_worlds",
