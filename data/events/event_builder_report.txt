@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 8
-Current events: 5
-Upcoming events: 3
-Official news items found: 15
+Events kept after cleanup: 16
+Current events: 6
+Upcoming events: 10
+Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 286
+Matched entries: 293
 Unmatched candidates: 11
 No-match debug rows: 11
 
@@ -18,7 +18,7 @@ Events written:
   URL: https://leekduck.com/events/summer-marathon-2026/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Venom and Vines
   Date: Mon, Aug 17, at 8:00 PM
-  Entries: 0
+  Entries: 7
   File: current/choose_your_path_choose_your_path_choose_your_path_venom_and_vines.json
   URL: https://leekduck.com/events/choose-your-path-venom-and-vines-2026/
 - [current] Event: Ultra Unlock: Water Festival
@@ -26,6 +26,11 @@ Events written:
   Entries: 34
   File: current/ultra_unlock_water_festival.json
   URL: https://leekduck.com/events/water-festival-2026/
+- [current] Event: Catch Mastery
+  Date: Sat, Sep 26, at 8:00 PM
+  Entries: 0
+  File: current/catch_mastery.json
+  URL: https://leekduck.com/events/catch-mastery-september-2026/
 - [current] Event: PokemonXP & 2026 Worlds
   Date: Sun, Aug 30, at 8:00 PM
   Entries: 89
@@ -41,6 +46,41 @@ Events written:
   Entries: 10
   File: upcoming/starmie_super_mega_raid_day.json
   URL: https://leekduck.com/events/starmie-super-mega-raid-day-2026/
+- [upcoming] Community Day: November Community Day
+  Date: Sat, Nov 21, at 5:00 PM
+  Entries: 0
+  File: upcoming/november_community_day.json
+  URL: https://leekduck.com/events/november-communityday2026/
+- [upcoming] Raid Day: Super Mega Raid Day
+  Date: Sat, Nov 28, at 5:00 PM
+  Entries: 0
+  File: upcoming/super_mega_raid_day_3.json
+  URL: https://leekduck.com/events/super-mega-raid-day-november-2026/
+- [upcoming] Community Day: October Community Day
+  Date: Sat, Oct 10, at 5:00 PM
+  Entries: 0
+  File: upcoming/october_community_day.json
+  URL: https://leekduck.com/events/october-communityday2026/
+- [upcoming] Event: Hatch Day October 2026
+  Date: Sat, Oct 17, at 5:00 PM
+  Entries: 0
+  File: upcoming/hatch_day_october_2026.json
+  URL: https://leekduck.com/events/hatch-day-october-2026/
+- [upcoming] Raid Day: Super Mega Raid Day
+  Date: Sat, Oct 31, at 5:00 PM
+  Entries: 0
+  File: upcoming/super_mega_raid_day_2.json
+  URL: https://leekduck.com/events/super-mega-raid-day-october-2026/
+- [upcoming] Community Day: September Community Day Classic
+  Date: Sat, Sep 12, at 5:00 PM
+  Entries: 0
+  File: upcoming/september_community_day_classic.json
+  URL: https://leekduck.com/events/september-communitydayclassic2026/
+- [upcoming] Raid Day: Super Mega Raid Day
+  Date: Sat, Sep 19, at 5:00 PM
+  Entries: 0
+  File: upcoming/super_mega_raid_day.json
+  URL: https://leekduck.com/events/super-mega-raid-day-september-2026/
 - [upcoming] Community Day: Nickit Community Day
   Date: Sun, Aug 16, at 5:00 PM
   Entries: 16

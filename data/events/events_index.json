@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 13:40:28",
+  "generated_at": "2026-08-11 02:24:40",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -33,6 +33,15 @@
       "source_url": "https://leekduck.com/events/water-festival-2026/"
     },
     {
+      "id": "catch_mastery",
+      "title": "Catch Mastery",
+      "category": "Event",
+      "date_text": "Sat, Sep 26, at 8:00 PM",
+      "file": "current/catch_mastery.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/catch-mastery-september-2026/"
+    },
+    {
       "id": "pokemonxp_2026_worlds",
       "title": "PokemonXP & 2026 Worlds",
       "category": "Event",
@@ -60,6 +69,69 @@
       "file": "upcoming/starmie_super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/"
+    },
+    {
+      "id": "november_community_day",
+      "title": "November Community Day",
+      "category": "Community Day",
+      "date_text": "Sat, Nov 21, at 5:00 PM",
+      "file": "upcoming/november_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/november-communityday2026/"
+    },
+    {
+      "id": "super_mega_raid_day_3",
+      "title": "Super Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Nov 28, at 5:00 PM",
+      "file": "upcoming/super_mega_raid_day_3.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/super-mega-raid-day-november-2026/"
+    },
+    {
+      "id": "october_community_day",
+      "title": "October Community Day",
+      "category": "Community Day",
+      "date_text": "Sat, Oct 10, at 5:00 PM",
+      "file": "upcoming/october_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/october-communityday2026/"
+    },
+    {
+      "id": "hatch_day_october_2026",
+      "title": "Hatch Day October 2026",
+      "category": "Event",
+      "date_text": "Sat, Oct 17, at 5:00 PM",
+      "file": "upcoming/hatch_day_october_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/hatch-day-october-2026/"
+    },
+    {
+      "id": "super_mega_raid_day_2",
+      "title": "Super Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Oct 31, at 5:00 PM",
+      "file": "upcoming/super_mega_raid_day_2.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/super-mega-raid-day-october-2026/"
+    },
+    {
+      "id": "september_community_day_classic",
+      "title": "September Community Day Classic",
+      "category": "Community Day",
+      "date_text": "Sat, Sep 12, at 5:00 PM",
+      "file": "upcoming/september_community_day_classic.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/september-communitydayclassic2026/"
+    },
+    {
+      "id": "super_mega_raid_day",
+      "title": "Super Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Sep 19, at 5:00 PM",
+      "file": "upcoming/super_mega_raid_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/super-mega-raid-day-september-2026/"
     },
     {
       "id": "nickit_community_day",
