@@ -6,16 +6,16 @@ Upcoming events: 10
 Official news items found: 14
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 293
+Matched entries: 690
 Unmatched candidates: 11
 No-match debug rows: 11
 
 Events written:
-- [current] Event: Summer Marathon: Arctic Embers
-  Date: Mon, Aug 10, at 8:00 PM
-  Entries: 64
-  File: current/summer_marathon_arctic_embers.json
-  URL: https://leekduck.com/events/summer-marathon-2026/
+- [current] Event: Mega Ascension
+  Date: Fri, Sep 4, at 11:59 PM
+  Entries: 77
+  File: current/mega_ascension.json
+  URL: https://leekduck.com/events/mega-ascension/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Venom and Vines
   Date: Mon, Aug 17, at 8:00 PM
   Entries: 7
@@ -87,8 +87,8 @@ Events written:
   File: upcoming/nickit_community_day.json
   URL: https://leekduck.com/events/august-communityday2026/
 - [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Mega Finale
-  Date: Sun, Sep 6, at 7:00 PM
-  Entries: 0
+  Date: Sun, Sep 6, at 6:00 PM
+  Entries: 273
   File: upcoming/pokemon_go_fest_2026_mega_finale.json
   URL: https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
 
