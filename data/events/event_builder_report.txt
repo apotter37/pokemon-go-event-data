@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 16
-Current events: 6
+Events kept after cleanup: 17
+Current events: 7
 Upcoming events: 10
-Official news items found: 12
+Official news items found: 11
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 690
+Matched entries: 694
 Unmatched candidates: 11
 No-match debug rows: 11
 
@@ -36,6 +36,11 @@ Events written:
   Entries: 89
   File: current/pokemonxp_2026_worlds.json
   URL: https://leekduck.com/events/pokemon-xp-2026-worlds/
+- [current] Event: 10th Anniversary Celebration - Perfect Mewtwo Timed Research
+  Date: Sun, Sep 6, at 11:59 PM
+  Entries: 3
+  File: current/10th_anniversary_celebration_perfect_mewtwo_timed_research.json
+  URL: https://leekduck.com/events/10th-anniversary-celebration/
 - [current] Event: LEGO Stores and Pokémon GO
   Date: Wed, Sep 30, at 11:59 PM
   Entries: 8

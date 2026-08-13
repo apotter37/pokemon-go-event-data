@@ -1,0 +1,57 @@
+{
+  "id": "10th_anniversary_celebration_perfect_mewtwo_timed_research",
+  "title": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
+  "status": "current",
+  "category": "Event",
+  "date_text": "Sun, Sep 6, at 11:59 PM",
+  "source": "LeekDuck",
+  "source_url": "https://leekduck.com/events/10th-anniversary-celebration/",
+  "generated_at": "2026-08-13 02:44:02",
+  "entries": [
+    {
+      "dex": 150,
+      "name": "Mewtwo",
+      "uri": "file:///android_asset/Pokemon/Mega/Mewtwo_x_mega.png",
+      "label": "Timed Research — Sunday — Mega — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mewtwo caught from this Timed Research will also have the third Mega Level unlocked for Mega Mewtwo Y."
+    },
+    {
+      "dex": 150,
+      "name": "Mewtwo",
+      "uri": "file:///android_asset/Pokemon/Normal/Mewtwo.png",
+      "label": "Timed Research — Sunday — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "10th Anniversary Celebration - Perfect Mewtwo Timed Research Event Starts: Wednesday, August 12, 2026, at 4:00 PM Local Time Ends: Sunday, September 6, 2026, at 11:59 PM Local Time"
+    },
+    {
+      "dex": 150,
+      "name": "Mewtwo",
+      "uri": "file:///android_asset/Pokemon/Shiny/Mewtwo_shiny.png",
+      "label": "Timed Research — Sunday — Shiny",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Mewtwo"
+    }
+  ]
+}
