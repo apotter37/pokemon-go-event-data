@@ -3,7 +3,7 @@ Pokemon GO Event Builder Report
 Events kept after cleanup: 17
 Current events: 7
 Upcoming events: 10
-Official news items found: 11
+Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
 Matched entries: 694
