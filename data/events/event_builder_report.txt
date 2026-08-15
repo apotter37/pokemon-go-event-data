@@ -6,7 +6,7 @@ Upcoming events: 10
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 694
+Matched entries: 693
 Unmatched candidates: 11
 No-match debug rows: 11
 
