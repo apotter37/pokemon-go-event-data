@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 17
-Current events: 8
+Events kept after cleanup: 16
+Current events: 7
 Upcoming events: 9
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 693
-Unmatched candidates: 11
-No-match debug rows: 11
+Matched entries: 717
+Unmatched candidates: 12
+No-match debug rows: 12
 
 Events written:
 - [current] Event: Mega Ascension
@@ -23,7 +23,7 @@ Events written:
   URL: https://leekduck.com/events/choose-your-path-venom-and-vines-2026/
 - [current] Event: Ultra Unlock: Water Festival
   Date: Mon, Aug 24, at 8:00 PM
-  Entries: 34
+  Entries: 63
   File: current/ultra_unlock_water_festival.json
   URL: https://leekduck.com/events/water-festival-2026/
 - [current] Event: Catch Mastery
@@ -31,11 +31,6 @@ Events written:
   Entries: 0
   File: current/catch_mastery.json
   URL: https://leekduck.com/events/catch-mastery-september-2026/
-- [current] Community Day: Nickit Community Day
-  Date: Sun, Aug 16, at 5:00 PM
-  Entries: 16
-  File: current/nickit_community_day.json
-  URL: https://leekduck.com/events/august-communityday2026/
 - [current] Event: PokemonXP & 2026 Worlds
   Date: Sun, Aug 30, at 8:00 PM
   Entries: 89

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 13:03:53",
+  "generated_at": "2026-08-18 01:48:52",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -40,15 +40,6 @@
       "file": "current/catch_mastery.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/catch-mastery-september-2026/"
-    },
-    {
-      "id": "nickit_community_day",
-      "title": "Nickit Community Day",
-      "category": "Community Day",
-      "date_text": "Sun, Aug 16, at 5:00 PM",
-      "file": "current/nickit_community_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/august-communityday2026/"
     },
     {
       "id": "pokemonxp_2026_worlds",
