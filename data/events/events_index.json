@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 01:48:52",
+  "generated_at": "2026-08-18 13:05:51",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -13,15 +13,6 @@
       "file": "current/mega_ascension.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/mega-ascension/"
-    },
-    {
-      "id": "choose_your_path_choose_your_path_choose_your_path_venom_and_vines",
-      "title": "Choose Your Path Choose Your Path Choose Your Path: Venom and Vines",
-      "category": "Event",
-      "date_text": "Mon, Aug 17, at 8:00 PM",
-      "file": "current/choose_your_path_choose_your_path_choose_your_path_venom_and_vines.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/choose-your-path-venom-and-vines-2026/"
     },
     {
       "id": "ultra_unlock_water_festival",

@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 16
-Current events: 7
+Events kept after cleanup: 15
+Current events: 6
 Upcoming events: 9
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 717
+Matched entries: 710
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -16,11 +16,6 @@ Events written:
   Entries: 77
   File: current/mega_ascension.json
   URL: https://leekduck.com/events/mega-ascension/
-- [current] Event: Choose Your Path Choose Your Path Choose Your Path: Venom and Vines
-  Date: Mon, Aug 17, at 8:00 PM
-  Entries: 7
-  File: current/choose_your_path_choose_your_path_choose_your_path_venom_and_vines.json
-  URL: https://leekduck.com/events/choose-your-path-venom-and-vines-2026/
 - [current] Event: Ultra Unlock: Water Festival
   Date: Mon, Aug 24, at 8:00 PM
   Entries: 63
