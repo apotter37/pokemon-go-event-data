@@ -24,6 +24,17 @@
   {
     "source": "LeekDuck",
     "status": "current",
+    "category": "Raid Day",
+    "title": "Starmie Super Mega Raid Day",
+    "url": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/",
+    "date_text": "Sat, Aug 22, at 5:00 PM",
+    "raw_text": "Raid Day Raid Day Starmie Super Mega Raid Day Sat, Aug 22, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "starmie_super_mega_raid_day",
+    "file": "current/starmie_super_mega_raid_day.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
     "category": "Event",
     "title": "Catch Mastery",
     "url": "https://leekduck.com/events/catch-mastery-september-2026/",
@@ -64,17 +75,6 @@
     "raw_text": "Event Event LEGO Stores and Pokemon GO Wed, Sep 30, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "lego_stores_and_pokemon_go",
     "file": "current/lego_stores_and_pokemon_go.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "upcoming",
-    "category": "Raid Day",
-    "title": "Starmie Super Mega Raid Day",
-    "url": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/",
-    "date_text": "Sat, Aug 22, at 5:00 PM",
-    "raw_text": "Raid Day Raid Day Starmie Super Mega Raid Day Sat, Aug 22, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "starmie_super_mega_raid_day",
-    "file": "upcoming/starmie_super_mega_raid_day.json"
   },
   {
     "source": "LeekDuck",
