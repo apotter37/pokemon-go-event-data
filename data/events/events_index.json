@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 01:58:02",
+  "generated_at": "2026-08-23 12:59:52",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -22,15 +22,6 @@
       "file": "current/ultra_unlock_water_festival.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/water-festival-2026/"
-    },
-    {
-      "id": "starmie_super_mega_raid_day",
-      "title": "Starmie Super Mega Raid Day",
-      "category": "Raid Day",
-      "date_text": "Sat, Aug 22, at 5:00 PM",
-      "file": "current/starmie_super_mega_raid_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/starmie-super-mega-raid-day-2026/"
     },
     {
       "id": "catch_mastery",

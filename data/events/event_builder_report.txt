@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 15
-Current events: 7
+Events kept after cleanup: 14
+Current events: 6
 Upcoming events: 8
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 710
+Matched entries: 697
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -21,11 +21,6 @@ Events written:
   Entries: 63
   File: current/ultra_unlock_water_festival.json
   URL: https://leekduck.com/events/water-festival-2026/
-- [current] Raid Day: Starmie Super Mega Raid Day
-  Date: Sat, Aug 22, at 5:00 PM
-  Entries: 10
-  File: current/starmie_super_mega_raid_day.json
-  URL: https://leekduck.com/events/starmie-super-mega-raid-day-2026/
 - [current] Event: Catch Mastery
   Date: Sat, Sep 26, at 8:00 PM
   Entries: 0
