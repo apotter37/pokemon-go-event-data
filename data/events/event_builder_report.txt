@@ -6,7 +6,7 @@ Upcoming events: 8
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 697
+Matched entries: 705
 Unmatched candidates: 12
 No-match debug rows: 12
 
@@ -28,7 +28,7 @@ Events written:
   URL: https://leekduck.com/events/catch-mastery-september-2026/
 - [current] Event: PokemonXP & 2026 Worlds
   Date: Sun, Aug 30, at 8:00 PM
-  Entries: 89
+  Entries: 97
   File: current/pokemonxp_2026_worlds.json
   URL: https://leekduck.com/events/pokemon-xp-2026-worlds/
 - [current] Event: 10th Anniversary Celebration - Perfect Mewtwo Timed Research

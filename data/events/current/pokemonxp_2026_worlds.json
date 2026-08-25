@@ -6,7 +6,7 @@
   "date_text": "Sun, Aug 30, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
-  "generated_at": "2026-08-24 13:10:30",
+  "generated_at": "2026-08-25 01:49:52",
   "entries": [
     {
       "dex": 25,
@@ -54,6 +54,81 @@
       "source_text": "Pikachu wearing a Cosmog-themed spacesuit"
     },
     {
+      "dex": 166,
+      "name": "Ledian",
+      "uri": "file:///android_asset/Pokemon/Normal/Ledian.png",
+      "label": "Eggs — Saturday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Ledian Ledian"
+    },
+    {
+      "dex": 280,
+      "name": "Ralts",
+      "uri": "file:///android_asset/Pokemon/Normal/Ralts.png",
+      "label": "Eggs — Saturday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Ralts Ralts"
+    },
+    {
+      "dex": 592,
+      "name": "Frillish",
+      "uri": "file:///android_asset/Pokemon/Normal/Frillish.png",
+      "label": "Eggs — Saturday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Frillish Frillish"
+    },
+    {
+      "dex": 633,
+      "name": "Deino",
+      "uri": "file:///android_asset/Pokemon/Normal/Deino.png",
+      "label": "Eggs — Saturday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Deino Deino"
+    },
+    {
+      "dex": 859,
+      "name": "Impidimp",
+      "uri": "file:///android_asset/Pokemon/Normal/Impidimp.png",
+      "label": "Eggs — Saturday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Impidimp"
+    },
+    {
       "dex": 25,
       "name": "Pikachu",
       "uri": "file:///android_asset/Pokemon/Normal/Pikachu.png",
@@ -66,7 +141,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "If you're lucky, you may encounter a Shiny Pikachu wearing a Cosmog-themed spacesuit or a Shiny World Championships 2026 Pikachu!"
+      "source_text": "Pikachu wearing a Cosmog-themed spacesuit Pikachu wearing a Cosmog-themed spacesuit"
     },
     {
       "dex": 25,
@@ -157,6 +232,21 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Lickitung"
+    },
+    {
+      "dex": 145,
+      "name": "Zapdos",
+      "uri": "file:///android_asset/Pokemon/Normal/Zapdos.png",
+      "label": "Raids — Saturday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Zapdos"
     },
     {
       "dex": 158,
@@ -522,6 +612,21 @@
       "dex": 679,
       "name": "Honedge",
       "uri": "file:///android_asset/Pokemon/Normal/Honedge.png",
+      "label": "Raids — Saturday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Honedge"
+    },
+    {
+      "dex": 679,
+      "name": "Honedge",
+      "uri": "file:///android_asset/Pokemon/Normal/Honedge.png",
       "label": "Raids — Sunday — Normal",
       "availability": "Raid",
       "section": "Raids",
@@ -639,6 +744,21 @@
       "source_text": "Incineroar"
     },
     {
+      "dex": 778,
+      "name": "Mimikyu",
+      "uri": "file:///android_asset/Pokemon/Normal/Mimikyu.png",
+      "label": "Raids — Saturday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Mimikyu (Disguised)"
+    },
+    {
       "dex": 789,
       "name": "Cosmog",
       "uri": "file:///android_asset/Pokemon/Normal/Cosmog.png",
@@ -651,7 +771,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "If you're lucky, you may encounter a Shiny Pikachu wearing a Cosmog-themed spacesuit or a Shiny World Championships 2026 Pikachu!"
+      "source_text": "Pikachu wearing a Cosmog-themed spacesuit Pikachu wearing a Cosmog-themed spacesuit"
     },
     {
       "dex": 816,
