@@ -18,26 +18,6 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "Ultra Unlock: Water Festival",
-      "url": "https://leekduck.com/events/water-festival-2026/",
-      "date_text": "Mon, Aug 24, at 8:00 PM",
-      "raw_text": "Event Event Ultra Unlock: Water Festival Mon, Aug 24, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "ultra_unlock_water_festival",
-      "file": "current/ultra_unlock_water_festival.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "Mega Starmie stars in Ultra Unlock: Starmie Super Mega Raid Day!",
-        "url": "https://pokemongo.com/news/starmie-super-mega-raid-day-2026"
-      }
-    ]
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
       "title": "Catch Mastery",
       "url": "https://leekduck.com/events/catch-mastery-september-2026/",
       "date_text": "Sat, Sep 26, at 8:00 PM",

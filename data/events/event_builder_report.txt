@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 14
-Current events: 6
+Events kept after cleanup: 13
+Current events: 5
 Upcoming events: 8
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 705
-Unmatched candidates: 12
-No-match debug rows: 12
+Matched entries: 614
+Unmatched candidates: 2
+No-match debug rows: 2
 
 Events written:
 - [current] Event: Mega Ascension
@@ -16,11 +16,6 @@ Events written:
   Entries: 77
   File: current/mega_ascension.json
   URL: https://leekduck.com/events/mega-ascension/
-- [current] Event: Ultra Unlock: Water Festival
-  Date: Mon, Aug 24, at 8:00 PM
-  Entries: 63
-  File: current/ultra_unlock_water_festival.json
-  URL: https://leekduck.com/events/water-festival-2026/
 - [current] Event: Catch Mastery
   Date: Sat, Sep 26, at 8:00 PM
   Entries: 0

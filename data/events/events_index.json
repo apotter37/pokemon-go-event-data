@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 01:50:13",
+  "generated_at": "2026-08-25 13:09:10",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -13,15 +13,6 @@
       "file": "current/mega_ascension.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/mega-ascension/"
-    },
-    {
-      "id": "ultra_unlock_water_festival",
-      "title": "Ultra Unlock: Water Festival",
-      "category": "Event",
-      "date_text": "Mon, Aug 24, at 8:00 PM",
-      "file": "current/ultra_unlock_water_festival.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/water-festival-2026/"
     },
     {
       "id": "catch_mastery",
