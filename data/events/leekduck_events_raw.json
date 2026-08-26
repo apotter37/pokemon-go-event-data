@@ -14,6 +14,28 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
+    "title": "Harvest Festival",
+    "url": "https://leekduck.com/events/harvest-festival-2026/",
+    "date_text": "Mon, Oct 5, at 8:00 PM",
+    "raw_text": "Event Event Harvest Festival Mon, Oct 5, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "harvest_festival",
+    "file": "current/harvest_festival.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
+    "title": "Mega Squads",
+    "url": "https://leekduck.com/events/mega-squads-2026/",
+    "date_text": "Mon, Sep 14, at 8:00 PM",
+    "raw_text": "Event Event Mega Squads Mon, Sep 14, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "mega_squads",
+    "file": "current/mega_squads.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
     "title": "Catch Mastery",
     "url": "https://leekduck.com/events/catch-mastery-september-2026/",
     "date_text": "Sat, Sep 26, at 8:00 PM",

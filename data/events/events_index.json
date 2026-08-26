@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 13:09:10",
+  "generated_at": "2026-08-26 01:56:32",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -13,6 +13,24 @@
       "file": "current/mega_ascension.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/mega-ascension/"
+    },
+    {
+      "id": "harvest_festival",
+      "title": "Harvest Festival",
+      "category": "Event",
+      "date_text": "Mon, Oct 5, at 8:00 PM",
+      "file": "current/harvest_festival.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/harvest-festival-2026/"
+    },
+    {
+      "id": "mega_squads",
+      "title": "Mega Squads",
+      "category": "Event",
+      "date_text": "Mon, Sep 14, at 8:00 PM",
+      "file": "current/mega_squads.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/mega-squads-2026/"
     },
     {
       "id": "catch_mastery",

@@ -1,7 +1,7 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 13
-Current events: 5
+Events kept after cleanup: 15
+Current events: 7
 Upcoming events: 8
 Official news items found: 9
 Pokemon names loaded: 1026
@@ -16,6 +16,16 @@ Events written:
   Entries: 77
   File: current/mega_ascension.json
   URL: https://leekduck.com/events/mega-ascension/
+- [current] Event: Harvest Festival
+  Date: Mon, Oct 5, at 8:00 PM
+  Entries: 0
+  File: current/harvest_festival.json
+  URL: https://leekduck.com/events/harvest-festival-2026/
+- [current] Event: Mega Squads
+  Date: Mon, Sep 14, at 8:00 PM
+  Entries: 0
+  File: current/mega_squads.json
+  URL: https://leekduck.com/events/mega-squads-2026/
 - [current] Event: Catch Mastery
   Date: Sat, Sep 26, at 8:00 PM
   Entries: 0
