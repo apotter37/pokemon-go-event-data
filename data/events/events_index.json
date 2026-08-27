@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 09:39:15",
+  "generated_at": "2026-08-27 22:14:01",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -33,13 +33,13 @@
       "source_url": "https://leekduck.com/events/mega-squads-2026/"
     },
     {
-      "id": "catch_mastery",
-      "title": "Catch Mastery",
+      "id": "phantump_catch_mastery",
+      "title": "Phantump Catch Mastery",
       "category": "Event",
       "date_text": "Sat, Sep 26, at 8:00 PM",
-      "file": "current/catch_mastery.json",
+      "file": "current/phantump_catch_mastery.json",
       "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/catch-mastery-september-2026/"
+      "source_url": "https://leekduck.com/events/catch-mastery-phantump-2026/"
     },
     {
       "id": "pokemonxp_2026_worlds",

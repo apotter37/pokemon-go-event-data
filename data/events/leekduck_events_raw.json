@@ -36,12 +36,12 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
-    "title": "Catch Mastery",
-    "url": "https://leekduck.com/events/catch-mastery-september-2026/",
+    "title": "Phantump Catch Mastery",
+    "url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
     "date_text": "Sat, Sep 26, at 8:00 PM",
-    "raw_text": "Event Event Catch Mastery Sat, Sep 26, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "catch_mastery",
-    "file": "current/catch_mastery.json"
+    "raw_text": "Event Event Phantump Catch Mastery Sat, Sep 26, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "phantump_catch_mastery",
+    "file": "current/phantump_catch_mastery.json"
   },
   {
     "source": "LeekDuck",

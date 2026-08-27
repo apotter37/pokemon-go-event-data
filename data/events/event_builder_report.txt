@@ -6,7 +6,7 @@ Upcoming events: 8
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 614
+Matched entries: 631
 Unmatched candidates: 2
 No-match debug rows: 2
 
@@ -26,11 +26,11 @@ Events written:
   Entries: 0
   File: current/mega_squads.json
   URL: https://leekduck.com/events/mega-squads-2026/
-- [current] Event: Catch Mastery
+- [current] Event: Phantump Catch Mastery
   Date: Sat, Sep 26, at 8:00 PM
-  Entries: 0
-  File: current/catch_mastery.json
-  URL: https://leekduck.com/events/catch-mastery-september-2026/
+  Entries: 13
+  File: current/phantump_catch_mastery.json
+  URL: https://leekduck.com/events/catch-mastery-phantump-2026/
 - [current] Event: PokemonXP & 2026 Worlds
   Date: Sun, Aug 30, at 8:00 PM
   Entries: 97
