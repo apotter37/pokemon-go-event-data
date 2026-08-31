@@ -6,8 +6,233 @@
   "date_text": "Sun, Sep 6, at 6:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
-  "generated_at": "2026-08-30 16:38:19",
+  "generated_at": "2026-08-31 05:28:30",
   "entries": [
+    {
+      "dex": 650,
+      "name": "Chespin",
+      "uri": "file:///android_asset/Pokemon/Normal/Chespin.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Cap — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": true,
+      "costume_hint": "Cap",
+      "form_hint": "",
+      "source_text": "RANK 1 Link Charge cap increase to 2,000 Increased chance of encountering Chespin as a Shiny Pokemon"
+    },
+    {
+      "dex": 650,
+      "name": "Chespin",
+      "uri": "file:///android_asset/Pokemon/Shiny/Chespin_shiny.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Cap — Shiny",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": true,
+      "costume": true,
+      "costume_hint": "Cap",
+      "form_hint": "",
+      "source_text": "RANK 1 Link Charge cap increase to 2,000 Increased chance of encountering Chespin as a Shiny Pokemon"
+    },
+    {
+      "dex": 650,
+      "name": "Chespin",
+      "uri": "file:///android_asset/Pokemon/Normal/Chespin.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Choose a Path Showing Chespin rewards"
+    },
+    {
+      "dex": 650,
+      "name": "Chespin",
+      "uri": "file:///android_asset/Pokemon/Shiny/Chespin_shiny.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Shiny",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Increased chance of encountering Chespin as a Shiny Pokemon"
+    },
+    {
+      "dex": 652,
+      "name": "Chesnaught",
+      "uri": "file:///android_asset/Pokemon/Normal/Chesnaught.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Chesnaught Mega Delphox Mega Greninja"
+    },
+    {
+      "dex": 653,
+      "name": "Fennekin",
+      "uri": "file:///android_asset/Pokemon/Normal/Fennekin.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Cap — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": true,
+      "costume_hint": "Cap",
+      "form_hint": "",
+      "source_text": "RANK 1 Link Charge cap increase to 2,000 Increased chance of encountering Fennekin as a Shiny Pokemon"
+    },
+    {
+      "dex": 653,
+      "name": "Fennekin",
+      "uri": "file:///android_asset/Pokemon/Shiny/Fennekin_shiny.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Cap — Shiny",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": true,
+      "costume": true,
+      "costume_hint": "Cap",
+      "form_hint": "",
+      "source_text": "RANK 1 Link Charge cap increase to 2,000 Increased chance of encountering Fennekin as a Shiny Pokemon"
+    },
+    {
+      "dex": 653,
+      "name": "Fennekin",
+      "uri": "file:///android_asset/Pokemon/Normal/Fennekin.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Increased chance of encountering Fennekin as a Shiny Pokemon"
+    },
+    {
+      "dex": 653,
+      "name": "Fennekin",
+      "uri": "file:///android_asset/Pokemon/Shiny/Fennekin_shiny.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Shiny",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Increased chance of encountering Fennekin as a Shiny Pokemon"
+    },
+    {
+      "dex": 655,
+      "name": "Delphox",
+      "uri": "file:///android_asset/Pokemon/Normal/Delphox.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Chesnaught Mega Delphox Mega Greninja"
+    },
+    {
+      "dex": 656,
+      "name": "Froakie",
+      "uri": "file:///android_asset/Pokemon/Costume/Froakie_halloween.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Cap — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": true,
+      "costume_hint": "Cap",
+      "form_hint": "",
+      "source_text": "RANK 1 Link Charge cap increase to 2,000 Increased chance of encountering Froakie as a Shiny Pokemon"
+    },
+    {
+      "dex": 656,
+      "name": "Froakie",
+      "uri": "file:///android_asset/Pokemon/Shiny/Froakie_shiny.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Cap — Shiny",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": true,
+      "costume": true,
+      "costume_hint": "Cap",
+      "form_hint": "",
+      "source_text": "RANK 1 Link Charge cap increase to 2,000 Increased chance of encountering Froakie as a Shiny Pokemon"
+    },
+    {
+      "dex": 656,
+      "name": "Froakie",
+      "uri": "file:///android_asset/Pokemon/Normal/Froakie.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Increased chance of encountering Froakie as a Shiny Pokemon"
+    },
+    {
+      "dex": 656,
+      "name": "Froakie",
+      "uri": "file:///android_asset/Pokemon/Shiny/Froakie_shiny.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Shiny",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Increased chance of encountering Froakie as a Shiny Pokemon"
+    },
+    {
+      "dex": 658,
+      "name": "Greninja",
+      "uri": "file:///android_asset/Pokemon/Normal/Greninja.png",
+      "label": "Eggs — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Chesnaught Mega Delphox Mega Greninja"
+    },
     {
       "dex": 13,
       "name": "Weedle",
@@ -97,6 +322,21 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Beedrill"
+    },
+    {
+      "dex": 15,
+      "name": "Beedrill",
+      "uri": "file:///android_asset/Pokemon/Mega/Beedrill_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Beedrill Mega Energy ×25 Beedrill Mega Energy ×100"
     },
     {
       "dex": 25,
@@ -324,6 +564,21 @@
       "source_text": "Mega Alakazam"
     },
     {
+      "dex": 65,
+      "name": "Alakazam",
+      "uri": "file:///android_asset/Pokemon/Mega/Alakazam_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Alakazam Mega Energy ×25 Alakazam Mega Energy ×100"
+    },
+    {
       "dex": 66,
       "name": "Machop",
       "uri": "file:///android_asset/Pokemon/Normal/Machop.png",
@@ -429,6 +684,21 @@
       "source_text": "Mega Victreebel"
     },
     {
+      "dex": 71,
+      "name": "Victreebel",
+      "uri": "file:///android_asset/Pokemon/Mega/Victreebel_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Victreebel Mega Energy ×25 Victreebel Mega Energy ×100"
+    },
+    {
       "dex": 79,
       "name": "Slowpoke",
       "uri": "file:///android_asset/Pokemon/Normal/Slowpoke.png",
@@ -502,6 +772,21 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Slowbro"
+    },
+    {
+      "dex": 80,
+      "name": "Slowbro",
+      "uri": "file:///android_asset/Pokemon/Mega/Slowbro_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Slowbro Mega Energy ×25 Slowbro Mega Energy ×100"
     },
     {
       "dex": 92,
@@ -592,6 +877,21 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Gengar"
+    },
+    {
+      "dex": 94,
+      "name": "Gengar",
+      "uri": "file:///android_asset/Pokemon/Mega/Gengar_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Gengar Mega Energy ×25 Gengar Mega Energy ×100"
     },
     {
       "dex": 95,
@@ -714,6 +1014,21 @@
       "source_text": "Mega Starmie"
     },
     {
+      "dex": 121,
+      "name": "Starmie",
+      "uri": "file:///android_asset/Pokemon/Normal/Starmie.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Starmie Mega Energy ×25 Starmie Mega Energy ×100"
+    },
+    {
       "dex": 123,
       "name": "Scyther",
       "uri": "file:///android_asset/Pokemon/Normal/Scyther.png",
@@ -817,6 +1132,21 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Pinsir"
+    },
+    {
+      "dex": 127,
+      "name": "Pinsir",
+      "uri": "file:///android_asset/Pokemon/Mega/Pinsir_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Pinsir Mega Energy ×25 Pinsir Mega Energy ×100"
     },
     {
       "dex": 129,
@@ -1001,6 +1331,36 @@
     {
       "dex": 150,
       "name": "Mewtwo",
+      "uri": "file:///android_asset/Pokemon/Normal/Mewtwo.png",
+      "label": "Raids — Saturday — Find and catch the Kalos first partner Pokemon in every habitat! — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Saturday",
+      "habitat": "Find and catch the Kalos first partner Pokemon in every habitat!",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Armored Mewtwo will appear in five-star raids on both Saturday and Sunday. Shiny Armored Mewtwo will not be available during this event."
+    },
+    {
+      "dex": 150,
+      "name": "Mewtwo",
+      "uri": "file:///android_asset/Pokemon/Shiny/Mewtwo_shiny.png",
+      "label": "Raids — Saturday — Find and catch the Kalos first partner Pokemon in every habitat! — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Saturday",
+      "habitat": "Find and catch the Kalos first partner Pokemon in every habitat!",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Armored Mewtwo will appear in five-star raids on both Saturday and Sunday. Shiny Armored Mewtwo will not be available during this event."
+    },
+    {
+      "dex": 150,
+      "name": "Mewtwo",
       "uri": "file:///android_asset/Pokemon/Mega/Mewtwo_x_mega.png",
       "label": "Raids — Saturday — Mega Super — Normal",
       "availability": "Raid",
@@ -1042,6 +1402,36 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Mewtwo X"
+    },
+    {
+      "dex": 150,
+      "name": "Mewtwo",
+      "uri": "file:///android_asset/Pokemon/Normal/Mewtwo.png",
+      "label": "Raids — Saturday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Armored Mewtwo will appear in five-star raids on both Saturday and Sunday. This is its first appearance in Pokemon GO since 2020."
+    },
+    {
+      "dex": 150,
+      "name": "Mewtwo",
+      "uri": "file:///android_asset/Pokemon/Shiny/Mewtwo_shiny.png",
+      "label": "Raids — Saturday — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Shiny Armored Mewtwo will not be available during this event."
     },
     {
       "dex": 150,
@@ -1102,6 +1492,21 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Mewtwo Y"
+    },
+    {
+      "dex": 150,
+      "name": "Mewtwo",
+      "uri": "file:///android_asset/Pokemon/Normal/Mewtwo.png",
+      "label": "Raids — Sunday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Armored Mewtwo returns"
     },
     {
       "dex": 150,
@@ -1207,6 +1612,21 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Ampharos"
+    },
+    {
+      "dex": 181,
+      "name": "Ampharos",
+      "uri": "file:///android_asset/Pokemon/Mega/Ampharos_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Ampharos Mega Energy ×25 Ampharos Mega Energy ×100"
     },
     {
       "dex": 208,
@@ -1387,6 +1807,21 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Houndoom"
+    },
+    {
+      "dex": 229,
+      "name": "Houndoom",
+      "uri": "file:///android_asset/Pokemon/Mega/Houndoom_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Houndoom Mega Energy ×25 Houndoom Mega Energy ×100"
     },
     {
       "dex": 280,
@@ -1674,6 +2109,21 @@
       "source_text": "Mega Medicham"
     },
     {
+      "dex": 308,
+      "name": "Medicham",
+      "uri": "file:///android_asset/Pokemon/Mega/Medicham_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Medicham Mega Energy ×25 Medicham Mega Energy ×100"
+    },
+    {
       "dex": 309,
       "name": "Electrike",
       "uri": "file:///android_asset/Pokemon/Normal/Electrike.png",
@@ -1762,6 +2212,21 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Manectric"
+    },
+    {
+      "dex": 310,
+      "name": "Manectric",
+      "uri": "file:///android_asset/Pokemon/Mega/Manectric_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Manectric Mega Energy ×25 Manectric Mega Energy ×100"
     },
     {
       "dex": 315,
@@ -2049,6 +2514,21 @@
       "source_text": "Mega Banette"
     },
     {
+      "dex": 354,
+      "name": "Banette",
+      "uri": "file:///android_asset/Pokemon/Mega/Banette_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Banette Mega Energy ×25 Banette Mega Energy ×100"
+    },
+    {
       "dex": 361,
       "name": "Snorunt",
       "uri": "file:///android_asset/Pokemon/Normal/Snorunt.png",
@@ -2317,6 +2797,21 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Abomasnow"
+    },
+    {
+      "dex": 460,
+      "name": "Abomasnow",
+      "uri": "file:///android_asset/Pokemon/Mega/Abomasnow_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Abomasnow Mega Energy ×25 Abomasnow Mega Energy ×100"
     },
     {
       "dex": 529,
@@ -2706,7 +3201,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 2 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
+      "source_text": "RANK 2 Chespin with a Special Background Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
     },
     {
       "dex": 650,
@@ -2721,7 +3216,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 2 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
+      "source_text": "RANK 2 Chespin with a Special Background Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
     },
     {
       "dex": 650,
@@ -2736,7 +3231,22 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie"
+      "source_text": "Chespin with a Special Background"
+    },
+    {
+      "dex": 650,
+      "name": "Chespin",
+      "uri": "file:///android_asset/Pokemon/Shiny/Chespin_shiny.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Increased chance of encountering Chespin as a Shiny Pokemon"
     },
     {
       "dex": 652,
@@ -2769,6 +3279,36 @@
       "source_text": "Mega Chesnaught"
     },
     {
+      "dex": 652,
+      "name": "Chesnaught",
+      "uri": "file:///android_asset/Pokemon/Normal/Chesnaught.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Chesnaught Mega Energy ×300 Chesnaught Mega Energy ×1000"
+    },
+    {
+      "dex": 652,
+      "name": "Chesnaught",
+      "uri": "file:///android_asset/Pokemon/Normal/Chesnaught.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Chespin with a Special Background Chesnaught T-Shirt"
+    },
+    {
       "dex": 653,
       "name": "Fennekin",
       "uri": "file:///android_asset/Pokemon/Normal/Fennekin.png",
@@ -2826,7 +3366,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 2 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
+      "source_text": "RANK 2 Fennekin with a Special Background Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
     },
     {
       "dex": 653,
@@ -2841,7 +3381,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 2 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
+      "source_text": "RANK 2 Fennekin with a Special Background Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
     },
     {
       "dex": 653,
@@ -2856,7 +3396,22 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie"
+      "source_text": "Fennekin with a Special Background"
+    },
+    {
+      "dex": 653,
+      "name": "Fennekin",
+      "uri": "file:///android_asset/Pokemon/Shiny/Fennekin_shiny.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Increased chance of encountering Fennekin as a Shiny Pokemon"
     },
     {
       "dex": 655,
@@ -2889,6 +3444,36 @@
       "source_text": "Mega Delphox"
     },
     {
+      "dex": 655,
+      "name": "Delphox",
+      "uri": "file:///android_asset/Pokemon/Normal/Delphox.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Delphox Mega Energy ×300 Delphox Mega Energy ×1000"
+    },
+    {
+      "dex": 655,
+      "name": "Delphox",
+      "uri": "file:///android_asset/Pokemon/Normal/Delphox.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Fennekin with a Special Background Delphox T-Shirt"
+    },
+    {
       "dex": 656,
       "name": "Froakie",
       "uri": "file:///android_asset/Pokemon/Normal/Froakie.png",
@@ -2946,7 +3531,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 2 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
+      "source_text": "RANK 2 Froakie with a Special Background Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
     },
     {
       "dex": 656,
@@ -2961,7 +3546,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 2 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
+      "source_text": "RANK 2 Froakie with a Special Background Increased chance of encountering Shiny Raid Bosses from four-star Mega Raids"
     },
     {
       "dex": 656,
@@ -2976,7 +3561,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie"
+      "source_text": "Froakie with a Special Background"
     },
     {
       "dex": 656,
@@ -2991,7 +3576,22 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "RANK 40 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Avatar shirt featuring the Evolution of your chosen Pokemon"
+      "source_text": "Froakie with a Special Background Greninja T-Shirt"
+    },
+    {
+      "dex": 656,
+      "name": "Froakie",
+      "uri": "file:///android_asset/Pokemon/Shiny/Froakie_shiny.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Increased chance of encountering Froakie as a Shiny Pokemon"
     },
     {
       "dex": 658,
@@ -3022,6 +3622,51 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Greninja"
+    },
+    {
+      "dex": 658,
+      "name": "Greninja",
+      "uri": "file:///android_asset/Pokemon/Normal/Greninja.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Greninja Mega Energy ×300 Greninja Mega Energy ×1000"
+    },
+    {
+      "dex": 658,
+      "name": "Greninja",
+      "uri": "file:///android_asset/Pokemon/Costume/Greninja_halloween.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Froakie with a Special Background Greninja T-Shirt"
+    },
+    {
+      "dex": 658,
+      "name": "Greninja",
+      "uri": "file:///android_asset/Pokemon/Normal/Greninja.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Greninja with a Special Background"
     },
     {
       "dex": 661,
@@ -3277,6 +3922,21 @@
       "costume_hint": "",
       "form_hint": "Mega",
       "source_text": "Mega Malamar"
+    },
+    {
+      "dex": 687,
+      "name": "Malamar",
+      "uri": "file:///android_asset/Pokemon/Mega/Malamar_mega.png",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Malamar Mega Energy ×25 Malamar Mega Energy ×100"
     },
     {
       "dex": 688,
@@ -3906,7 +4566,22 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega Super",
-      "source_text": "Mega Mewtwo X and Mega Mewtwo Y will appear in Super Mega Raids at certain Gyms. At all other Gyms, only Mega Raids will appear during event hours. Raid Bosses will rotate with the active habitat."
+      "source_text": "Mega Mewtwo X and Mega Mewtwo Y will appear in Super Mega Raids at certain Gyms. Mega Raid Bosses at other Gyms will rotate with the active habitat, and Armored Mewtwo will also appear in five-star raids on both event days."
+    },
+    {
+      "dex": 150,
+      "name": "Mewtwo",
+      "uri": "file:///android_asset/Pokemon/Mega/Mewtwo_x_mega.png",
+      "label": "Raids — Saturday — Find and catch the Kalos first partner Pokemon in every habitat! — Mega Super — Normal",
+      "availability": "Wild",
+      "section": "Raids",
+      "day": "Saturday",
+      "habitat": "Find and catch the Kalos first partner Pokemon in every habitat!",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega Super",
+      "source_text": "Mega Mewtwo X and Mega Mewtwo Y will appear in Super Mega Raids at certain Gyms. Mega Raid Bosses at other Gyms will rotate with the active habitat."
     },
     {
       "dex": 150,
@@ -3921,187 +4596,97 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega Super",
-      "source_text": "Rally with Trainers around the world for the mega conclusion of Pokemon GO Fest 2026! Pokemon GO Fest 2026: Mega Finale brings rotating habitats, powerful Mega Raids, and Super Mega Raids featuring Mega Mewtwo X and Mega Mewtwo Y."
+      "source_text": "Rally with Trainers around the world for the mega conclusion of Pokemon GO Fest 2026! Pokemon GO Fest 2026: Mega Finale brings Armored Mewtwo in five-star raids, rotating habitats, powerful Mega Raids, and Super Mega Raids featuring Mega Mewtwo X and Mega Mewtwo Y."
     },
     {
       "dex": 650,
       "name": "Chespin",
       "uri": "file:///android_asset/Pokemon/Normal/Chespin.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
       "availability": "Wild",
-      "section": "Wild Encounters",
+      "section": "Raids",
       "day": "Sunday",
       "habitat": "Sunday Habitat Mega Raids",
       "shiny": false,
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 70 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Pokemon in all wild encounters during GO Fest: Mega Finale event hours"
+      "source_text": "RANK 70 Chespin with a Special Background Increased chance of encountering Shiny Pokemon in the wild during GO Fest: Mega Finale event hours"
     },
     {
       "dex": 650,
       "name": "Chespin",
       "uri": "file:///android_asset/Pokemon/Shiny/Chespin_shiny.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Mega — Shiny",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Shiny",
       "availability": "Wild",
-      "section": "Wild Encounters",
+      "section": "Raids",
       "day": "Sunday",
       "habitat": "Sunday Habitat Mega Raids",
       "shiny": true,
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 70 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Pokemon in all wild encounters during GO Fest: Mega Finale event hours"
-    },
-    {
-      "dex": 652,
-      "name": "Chesnaught",
-      "uri": "file:///android_asset/Pokemon/Normal/Chesnaught.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Mega Large — Normal",
-      "availability": "Wild",
-      "section": "Wild Encounters",
-      "day": "Sunday",
-      "habitat": "Sunday Habitat Mega Raids",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega Large",
-      "source_text": "RANK 100 Encounter with the final Evolution of your chosen partner with a Special Background Chesnaught Delphox Greninja A large amount of Mega Energy for your chosen partner"
-    },
-    {
-      "dex": 652,
-      "name": "Chesnaught",
-      "uri": "file:///android_asset/Pokemon/Normal/Chesnaught.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Normal",
-      "availability": "Wild",
-      "section": "Wild Encounters",
-      "day": "Sunday",
-      "habitat": "Sunday Habitat Mega Raids",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "",
-      "source_text": "Encounter with the final Evolution of your chosen partner with a Special Background Chesnaught Delphox Greninja"
+      "source_text": "RANK 70 Chespin with a Special Background Increased chance of encountering Shiny Pokemon in the wild during GO Fest: Mega Finale event hours"
     },
     {
       "dex": 653,
       "name": "Fennekin",
       "uri": "file:///android_asset/Pokemon/Normal/Fennekin.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
       "availability": "Wild",
-      "section": "Wild Encounters",
+      "section": "Raids",
       "day": "Sunday",
       "habitat": "Sunday Habitat Mega Raids",
       "shiny": false,
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 70 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Pokemon in all wild encounters during GO Fest: Mega Finale event hours"
+      "source_text": "RANK 70 Fennekin with a Special Background Increased chance of encountering Shiny Pokemon in the wild during GO Fest: Mega Finale event hours"
     },
     {
       "dex": 653,
       "name": "Fennekin",
       "uri": "file:///android_asset/Pokemon/Shiny/Fennekin_shiny.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Mega — Shiny",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Shiny",
       "availability": "Wild",
-      "section": "Wild Encounters",
+      "section": "Raids",
       "day": "Sunday",
       "habitat": "Sunday Habitat Mega Raids",
       "shiny": true,
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 70 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Pokemon in all wild encounters during GO Fest: Mega Finale event hours"
-    },
-    {
-      "dex": 655,
-      "name": "Delphox",
-      "uri": "file:///android_asset/Pokemon/Normal/Delphox.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Mega Large — Normal",
-      "availability": "Wild",
-      "section": "Wild Encounters",
-      "day": "Sunday",
-      "habitat": "Sunday Habitat Mega Raids",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega Large",
-      "source_text": "RANK 100 Encounter with the final Evolution of your chosen partner with a Special Background Chesnaught Delphox Greninja A large amount of Mega Energy for your chosen partner"
-    },
-    {
-      "dex": 655,
-      "name": "Delphox",
-      "uri": "file:///android_asset/Pokemon/Normal/Delphox.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Normal",
-      "availability": "Wild",
-      "section": "Wild Encounters",
-      "day": "Sunday",
-      "habitat": "Sunday Habitat Mega Raids",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "",
-      "source_text": "Encounter with the final Evolution of your chosen partner with a Special Background Chesnaught Delphox Greninja"
+      "source_text": "RANK 70 Fennekin with a Special Background Increased chance of encountering Shiny Pokemon in the wild during GO Fest: Mega Finale event hours"
     },
     {
       "dex": 656,
       "name": "Froakie",
       "uri": "file:///android_asset/Pokemon/Normal/Froakie.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
       "availability": "Wild",
-      "section": "Wild Encounters",
+      "section": "Raids",
       "day": "Sunday",
       "habitat": "Sunday Habitat Mega Raids",
       "shiny": false,
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 70 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Pokemon in all wild encounters during GO Fest: Mega Finale event hours"
+      "source_text": "RANK 70 Froakie with a Special Background Increased chance of encountering Shiny Pokemon in the wild during GO Fest: Mega Finale event hours"
     },
     {
       "dex": 656,
       "name": "Froakie",
       "uri": "file:///android_asset/Pokemon/Shiny/Froakie_shiny.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Mega — Shiny",
+      "label": "Raids — Sunday — Sunday Habitat Mega Raids — Mega — Shiny",
       "availability": "Wild",
-      "section": "Wild Encounters",
+      "section": "Raids",
       "day": "Sunday",
       "habitat": "Sunday Habitat Mega Raids",
       "shiny": true,
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "RANK 70 Encounter with your chosen Pokemon with a Special Background Chespin Fennekin Froakie Increased chance of encountering Shiny Pokemon in all wild encounters during GO Fest: Mega Finale event hours"
-    },
-    {
-      "dex": 658,
-      "name": "Greninja",
-      "uri": "file:///android_asset/Pokemon/Normal/Greninja.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Mega Large — Normal",
-      "availability": "Wild",
-      "section": "Wild Encounters",
-      "day": "Sunday",
-      "habitat": "Sunday Habitat Mega Raids",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega Large",
-      "source_text": "RANK 100 Encounter with the final Evolution of your chosen partner with a Special Background Chesnaught Delphox Greninja A large amount of Mega Energy for your chosen partner"
-    },
-    {
-      "dex": 658,
-      "name": "Greninja",
-      "uri": "file:///android_asset/Pokemon/Normal/Greninja.png",
-      "label": "Wild Encounters — Sunday — Sunday Habitat Mega Raids — Normal",
-      "availability": "Wild",
-      "section": "Wild Encounters",
-      "day": "Sunday",
-      "habitat": "Sunday Habitat Mega Raids",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "",
-      "source_text": "Encounter with the final Evolution of your chosen partner with a Special Background Chesnaught Delphox Greninja"
+      "source_text": "RANK 70 Froakie with a Special Background Increased chance of encountering Shiny Pokemon in the wild during GO Fest: Mega Finale event hours"
     }
   ]
 }
