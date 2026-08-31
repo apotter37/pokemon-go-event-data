@@ -66,20 +66,6 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "PokemonXP & 2026 Worlds",
-      "url": "https://leekduck.com/events/pokemon-xp-2026-worlds/",
-      "date_text": "Sun, Aug 30, at 8:00 PM",
-      "raw_text": "Event Event PokemonXP & 2026 Worlds Sun, Aug 30, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "pokemonxp_2026_worlds",
-      "file": "current/pokemonxp_2026_worlds.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
       "title": "10th Anniversary Celebration - Perfect Mewtwo Timed Research",
       "url": "https://leekduck.com/events/10th-anniversary-celebration/",
       "date_text": "Sun, Sep 6, at 11:59 PM",
@@ -197,7 +183,13 @@
       "id": "september_community_day_classic",
       "file": "upcoming/september_community_day_classic.json"
     },
-    "official_matches": []
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "September 2026 Community Day Classic: Gible",
+        "url": "https://pokemongo.com/news/communitydayclassic-gible-september-2026"
+      }
+    ]
   },
   {
     "event": {

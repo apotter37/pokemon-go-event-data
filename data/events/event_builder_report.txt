@@ -1,19 +1,19 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 15
-Current events: 7
+Events kept after cleanup: 14
+Current events: 6
 Upcoming events: 8
 Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 743
-Unmatched candidates: 2
-No-match debug rows: 2
+Matched entries: 625
+Unmatched candidates: 0
+No-match debug rows: 0
 
 Events written:
 - [current] Event: Mega Ascension
   Date: Fri, Sep 4, at 11:59 PM
-  Entries: 125
+  Entries: 126
   File: current/mega_ascension.json
   URL: https://leekduck.com/events/mega-ascension/
 - [current] Event: Harvest Festival
@@ -31,11 +31,6 @@ Events written:
   Entries: 13
   File: current/phantump_catch_mastery.json
   URL: https://leekduck.com/events/catch-mastery-phantump-2026/
-- [current] Event: PokemonXP & 2026 Worlds
-  Date: Sun, Aug 30, at 8:00 PM
-  Entries: 97
-  File: current/pokemonxp_2026_worlds.json
-  URL: https://leekduck.com/events/pokemon-xp-2026-worlds/
 - [current] Event: 10th Anniversary Celebration - Perfect Mewtwo Timed Research
   Date: Sun, Sep 6, at 11:59 PM
   Entries: 3

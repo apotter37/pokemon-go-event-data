@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31 05:28:30",
+  "generated_at": "2026-08-31 19:07:49",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -40,15 +40,6 @@
       "file": "current/phantump_catch_mastery.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/catch-mastery-phantump-2026/"
-    },
-    {
-      "id": "pokemonxp_2026_worlds",
-      "title": "PokemonXP & 2026 Worlds",
-      "category": "Event",
-      "date_text": "Sun, Aug 30, at 8:00 PM",
-      "file": "current/pokemonxp_2026_worlds.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/pokemon-xp-2026-worlds/"
     },
     {
       "id": "10th_anniversary_celebration_perfect_mewtwo_timed_research",
