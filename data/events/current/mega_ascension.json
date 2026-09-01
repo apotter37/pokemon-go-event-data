@@ -6,7 +6,7 @@
   "date_text": "Fri, Sep 4, at 11:59 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/mega-ascension/",
-  "generated_at": "2026-08-31 19:07:13",
+  "generated_at": "2026-09-01 05:02:19",
   "entries": [
     {
       "dex": 650,
@@ -1386,7 +1386,22 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Branching Timed Research will be available during the event solely to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path. This Timed Research does not award any other rewards."
+      "source_text": "Branching Timed Research will be available during the event to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path and partner Candy rewards."
+    },
+    {
+      "dex": 650,
+      "name": "Chespin",
+      "uri": "file:///android_asset/Pokemon/Normal/Chespin.png",
+      "label": "Timed Research — Friday — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Friday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Chespin path"
     },
     {
       "dex": 652,
@@ -1416,7 +1431,22 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Branching Timed Research will be available during the event solely to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path. This Timed Research does not award any other rewards."
+      "source_text": "Branching Timed Research will be available during the event to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path and partner Candy rewards."
+    },
+    {
+      "dex": 653,
+      "name": "Fennekin",
+      "uri": "file:///android_asset/Pokemon/Normal/Fennekin.png",
+      "label": "Timed Research — Friday — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Friday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Fennekin path"
     },
     {
       "dex": 655,
@@ -1446,7 +1476,22 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Branching Timed Research will be available during the event solely to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path. This Timed Research does not award any other rewards."
+      "source_text": "Branching Timed Research will be available during the event to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path and partner Candy rewards."
+    },
+    {
+      "dex": 656,
+      "name": "Froakie",
+      "uri": "file:///android_asset/Pokemon/Normal/Froakie.png",
+      "label": "Timed Research — Friday — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Friday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Froakie path"
     },
     {
       "dex": 658,

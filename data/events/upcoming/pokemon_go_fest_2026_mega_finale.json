@@ -6,7 +6,7 @@
   "date_text": "Sun, Sep 6, at 6:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
-  "generated_at": "2026-08-31 19:07:49",
+  "generated_at": "2026-09-01 05:03:02",
   "entries": [
     {
       "dex": 650,
@@ -4329,6 +4329,36 @@
       "source_text": "Mega Falinks"
     },
     {
+      "dex": 650,
+      "name": "Chespin",
+      "uri": "file:///android_asset/Pokemon/Normal/Chespin.png",
+      "label": "Timed Research — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "GO Fest 2026: Mega Finale Mega Choice — Chespin (1/1)"
+    },
+    {
+      "dex": 650,
+      "name": "Chespin",
+      "uri": "file:///android_asset/Pokemon/Normal/Chespin.png",
+      "label": "Timed Research — Sunday — Sunday Habitat Mega Raids — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Chespin path"
+    },
+    {
       "dex": 652,
       "name": "Chesnaught",
       "uri": "file:///android_asset/Pokemon/Normal/Chesnaught.png",
@@ -4359,6 +4389,36 @@
       "source_text": "Chesnaught T-Shirt"
     },
     {
+      "dex": 653,
+      "name": "Fennekin",
+      "uri": "file:///android_asset/Pokemon/Normal/Fennekin.png",
+      "label": "Timed Research — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "GO Fest 2026: Mega Finale Mega Choice — Fennekin (1/1)"
+    },
+    {
+      "dex": 653,
+      "name": "Fennekin",
+      "uri": "file:///android_asset/Pokemon/Normal/Fennekin.png",
+      "label": "Timed Research — Sunday — Sunday Habitat Mega Raids — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Fennekin path"
+    },
+    {
       "dex": 655,
       "name": "Delphox",
       "uri": "file:///android_asset/Pokemon/Normal/Delphox.png",
@@ -4387,6 +4447,36 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Delphox T-Shirt"
+    },
+    {
+      "dex": 656,
+      "name": "Froakie",
+      "uri": "file:///android_asset/Pokemon/Normal/Froakie.png",
+      "label": "Timed Research — Sunday — Sunday Habitat Mega Raids — Mega — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "GO Fest 2026: Mega Finale Mega Choice — Froakie (1/1)"
+    },
+    {
+      "dex": 656,
+      "name": "Froakie",
+      "uri": "file:///android_asset/Pokemon/Normal/Froakie.png",
+      "label": "Timed Research — Sunday — Sunday Habitat Mega Raids — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Sunday",
+      "habitat": "Sunday Habitat Mega Raids",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Froakie path"
     },
     {
       "dex": 658,

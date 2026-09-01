@@ -33,13 +33,19 @@
       "status": "current",
       "category": "Event",
       "title": "Mega Squads",
-      "url": "https://leekduck.com/events/mega-squads-2026/",
+      "url": "https://leekduck.com/events/mega-squads/",
       "date_text": "Mon, Sep 14, at 8:00 PM",
       "raw_text": "Event Event Mega Squads Mon, Sep 14, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
       "id": "mega_squads",
       "file": "current/mega_squads.json"
     },
-    "official_matches": []
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!",
+        "url": "https://pokemongo.com/news/mega-squads-2026"
+      }
+    ]
   },
   {
     "event": {
@@ -176,12 +182,12 @@
       "source": "LeekDuck",
       "status": "upcoming",
       "category": "Community Day",
-      "title": "September Community Day Classic",
+      "title": "Gible Community Day Classic",
       "url": "https://leekduck.com/events/september-communitydayclassic2026/",
       "date_text": "Sat, Sep 12, at 5:00 PM",
-      "raw_text": "Community Day Community Day September Community Day Classic Sat, Sep 12, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "september_community_day_classic",
-      "file": "upcoming/september_community_day_classic.json"
+      "raw_text": "Community Day Community Day Gible Community Day Classic Sat, Sep 12, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "gible_community_day_classic",
+      "file": "upcoming/gible_community_day_classic.json"
     },
     "official_matches": [
       {
@@ -224,6 +230,11 @@
       "file": "upcoming/pokemon_go_fest_2026_mega_finale.json"
     },
     "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Pick up where Mega Finale leaves off, and get energized for the Mega Squads event!",
+        "url": "https://pokemongo.com/news/mega-squads-2026"
+      },
       {
         "source": "Official Pokémon GO",
         "title": "Your Final Summer Adventure Begins with Pokemon GO Fest: Mega Finale",

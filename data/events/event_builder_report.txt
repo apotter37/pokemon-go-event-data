@@ -3,17 +3,17 @@ Pokemon GO Event Builder Report
 Events kept after cleanup: 14
 Current events: 6
 Upcoming events: 8
-Official news items found: 8
+Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 625
-Unmatched candidates: 0
-No-match debug rows: 0
+Matched entries: 729
+Unmatched candidates: 4
+No-match debug rows: 4
 
 Events written:
 - [current] Event: Mega Ascension
   Date: Fri, Sep 4, at 11:59 PM
-  Entries: 126
+  Entries: 129
   File: current/mega_ascension.json
   URL: https://leekduck.com/events/mega-ascension/
 - [current] Event: Harvest Festival
@@ -23,9 +23,9 @@ Events written:
   URL: https://leekduck.com/events/harvest-festival-2026/
 - [current] Event: Mega Squads
   Date: Mon, Sep 14, at 8:00 PM
-  Entries: 0
+  Entries: 57
   File: current/mega_squads.json
-  URL: https://leekduck.com/events/mega-squads-2026/
+  URL: https://leekduck.com/events/mega-squads/
 - [current] Event: Phantump Catch Mastery
   Date: Sat, Sep 26, at 8:00 PM
   Entries: 13
@@ -66,10 +66,10 @@ Events written:
   Entries: 0
   File: upcoming/super_mega_raid_day_2.json
   URL: https://leekduck.com/events/super-mega-raid-day-october-2026/
-- [upcoming] Community Day: September Community Day Classic
+- [upcoming] Community Day: Gible Community Day Classic
   Date: Sat, Sep 12, at 5:00 PM
-  Entries: 0
-  File: upcoming/september_community_day_classic.json
+  Entries: 15
+  File: upcoming/gible_community_day_classic.json
   URL: https://leekduck.com/events/september-communitydayclassic2026/
 - [upcoming] Raid Day: Super Mega Raid Day
   Date: Sat, Sep 19, at 5:00 PM
@@ -78,7 +78,7 @@ Events written:
   URL: https://leekduck.com/events/super-mega-raid-day-september-2026/
 - [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Mega Finale
   Date: Sun, Sep 6, at 6:00 PM
-  Entries: 312
+  Entries: 318
   File: upcoming/pokemon_go_fest_2026_mega_finale.json
   URL: https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
 

@@ -56,9 +56,12 @@ mega_ascension,Mega Ascension,Latias,False,Mega/Latias_mega.png,Raids — Friday
 mega_ascension,Mega Ascension,Latias,True,Mega/Shiny/Latias_mega_shiny.png,Raids — Friday — Mega — Shiny,Raid,Raids,Friday,,Mega Latias
 mega_ascension,Mega Ascension,Latios,False,Mega/Latios_mega.png,Raids — Friday — Mega — Normal,Raid,Raids,Friday,,Mega Latios
 mega_ascension,Mega Ascension,Latios,True,Mega/Shiny/Latios_mega_shiny.png,Raids — Friday — Mega — Shiny,Raid,Raids,Friday,,Mega Latios
-mega_ascension,Mega Ascension,Fennekin,False,Normal/Fennekin.png,Timed Research — Friday — Mega — Normal,Research,Timed Research,Friday,,"Branching Timed Research will be available during the event solely to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path. This Timed Research does not award any other rewards."
-mega_ascension,Mega Ascension,Chespin,False,Normal/Chespin.png,Timed Research — Friday — Mega — Normal,Research,Timed Research,Friday,,"Branching Timed Research will be available during the event solely to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path. This Timed Research does not award any other rewards."
-mega_ascension,Mega Ascension,Froakie,False,Normal/Froakie.png,Timed Research — Friday — Mega — Normal,Research,Timed Research,Friday,,"Branching Timed Research will be available during the event solely to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path. This Timed Research does not award any other rewards."
+mega_ascension,Mega Ascension,Fennekin,False,Normal/Fennekin.png,Timed Research — Friday — Mega — Normal,Research,Timed Research,Friday,,"Branching Timed Research will be available during the event to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path and partner Candy rewards."
+mega_ascension,Mega Ascension,Chespin,False,Normal/Chespin.png,Timed Research — Friday — Mega — Normal,Research,Timed Research,Friday,,"Branching Timed Research will be available during the event to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path and partner Candy rewards."
+mega_ascension,Mega Ascension,Froakie,False,Normal/Froakie.png,Timed Research — Friday — Mega — Normal,Research,Timed Research,Friday,,"Branching Timed Research will be available during the event to select your GO Pass: Mega Finale path. Choose Chespin, Fennekin, or Froakie to receive the corresponding path and partner Candy rewards."
+mega_ascension,Mega Ascension,Chespin,False,Normal/Chespin.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Chespin path
+mega_ascension,Mega Ascension,Fennekin,False,Normal/Fennekin.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Fennekin path
+mega_ascension,Mega Ascension,Froakie,False,Normal/Froakie.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Froakie path
 mega_ascension,Mega Ascension,Chesnaught,False,Normal/Chesnaught.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Chesnaught
 mega_ascension,Mega Ascension,Delphox,False,Normal/Delphox.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Delphox
 mega_ascension,Mega Ascension,Greninja,False,Normal/Greninja.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Greninja
@@ -163,6 +166,81 @@ mega_ascension,Mega Ascension,Froakie,True,Shiny/Froakie_shiny.png,Raids — Fri
 mega_ascension,Mega Ascension,Chesnaught,False,Normal/Chesnaught.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Chesnaught T-Shirt
 mega_ascension,Mega Ascension,Delphox,False,Normal/Delphox.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Delphox T-Shirt
 mega_ascension,Mega Ascension,Greninja,False,Costume/Greninja_halloween.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Greninja T-Shirt
+mega_squads,Mega Squads,Beedrill,False,Mega/Beedrill_mega.png,Eggs — Mega Super — Normal,Egg,Eggs,,,"Starting with the Mega Squads event, Mega Beedrill and Mega Houndoom can increase their Mega Level to Super Max for the first time in Pokemon GO!"
+mega_squads,Mega Squads,Houndoom,False,Mega/Houndoom_mega.png,Eggs — Mega Super — Normal,Egg,Eggs,,,"Starting with the Mega Squads event, Mega Beedrill and Mega Houndoom can increase their Mega Level to Super Max for the first time in Pokemon GO!"
+mega_squads,Mega Squads,Beedrill,False,Mega/Beedrill_mega.png,Eggs — Mega — Normal,Egg,Eggs,,,Mega Beedrill
+mega_squads,Mega Squads,Beedrill,True,Mega/Shiny/Beedrill_mega_shiny.png,Eggs — Mega — Shiny,Egg,Eggs,,,Mega Beedrill
+mega_squads,Mega Squads,Beedrill,False,Mega/Beedrill_mega.png,Eggs — Mega — Normal,Egg,Eggs,,,Mega Beedrill
+mega_squads,Mega Squads,Houndoom,False,Mega/Houndoom_mega.png,Eggs — Mega — Normal,Egg,Eggs,,,Mega Houndoom
+mega_squads,Mega Squads,Houndoom,True,Mega/Shiny/Houndoom_mega_shiny.png,Eggs — Mega — Shiny,Egg,Eggs,,,Mega Houndoom
+mega_squads,Mega Squads,Houndoom,False,Mega/Houndoom_mega.png,Eggs — Mega — Normal,Egg,Eggs,,,Mega Houndoom
+mega_squads,Mega Squads,Houndour,False,Normal/Houndour.png,Raids — Mega Super — Normal,Raid,Raids,,,"Mega Evolving alone will not be enough to reach Super Max—you'll also need to use that Pokemon's Mega Energy to power it up. Participate in Mega Raids and catch Weedle, Pidgey, Houndour, and Carvanha during the event to earn Mega Energy."
+mega_squads,Mega Squads,Carvanha,False,Normal/Carvanha.png,Raids — Mega Super — Normal,Raid,Raids,,,"Mega Evolving alone will not be enough to reach Super Max—you'll also need to use that Pokemon's Mega Energy to power it up. Participate in Mega Raids and catch Weedle, Pidgey, Houndour, and Carvanha during the event to earn Mega Energy."
+mega_squads,Mega Squads,Weedle,False,Normal/Weedle.png,Raids — Mega Super — Normal,Raid,Raids,,,"Mega Evolving alone will not be enough to reach Super Max—you'll also need to use that Pokemon's Mega Energy to power it up. Participate in Mega Raids and catch Weedle, Pidgey, Houndour, and Carvanha during the event to earn Mega Energy."
+mega_squads,Mega Squads,Pidgey,False,Normal/Pidgey.png,Raids — Mega Super — Normal,Raid,Raids,,,"Mega Evolving alone will not be enough to reach Super Max—you'll also need to use that Pokemon's Mega Energy to power it up. Participate in Mega Raids and catch Weedle, Pidgey, Houndour, and Carvanha during the event to earn Mega Energy."
+mega_squads,Mega Squads,Weedle,False,Normal/Weedle.png,Raids — Normal,Raid,Raids,,,Weedle
+mega_squads,Mega Squads,Weedle,True,Shiny/Weedle_shiny.png,Raids — Shiny,Raid,Raids,,,Weedle
+mega_squads,Mega Squads,Weedle,False,Normal/Weedle.png,Raids — Normal,Raid,Raids,,,Weedle
+mega_squads,Mega Squads,Kakuna,False,Normal/Kakuna.png,Raids — Normal,Raid,Raids,,,Kakuna
+mega_squads,Mega Squads,Kakuna,True,Shiny/Kakuna_shiny.png,Raids — Shiny,Raid,Raids,,,Kakuna
+mega_squads,Mega Squads,Kakuna,False,Normal/Kakuna.png,Raids — Normal,Raid,Raids,,,Kakuna
+mega_squads,Mega Squads,Beedrill,False,Normal/Beedrill.png,Raids — Normal,Raid,Raids,,,Beedrill
+mega_squads,Mega Squads,Beedrill,True,Shiny/Beedrill_shiny.png,Raids — Shiny,Raid,Raids,,,Beedrill
+mega_squads,Mega Squads,Beedrill,False,Normal/Beedrill.png,Raids — Normal,Raid,Raids,,,Beedrill
+mega_squads,Mega Squads,Houndour,False,Normal/Houndour.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Houndour
+mega_squads,Mega Squads,Houndour,True,Shiny/Houndour_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Houndour
+mega_squads,Mega Squads,Houndour,False,Normal/Houndour.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Houndour
+mega_squads,Mega Squads,Houndoom,False,Normal/Houndoom.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Houndoom
+mega_squads,Mega Squads,Houndoom,True,Shiny/Houndoom_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Houndoom
+mega_squads,Mega Squads,Houndoom,False,Normal/Houndoom.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Houndoom
+mega_squads,Mega Squads,Flamigo,False,Normal/Flamigo.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Flamigo
+mega_squads,Mega Squads,Flamigo,True,Shiny/Flamigo_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Flamigo
+mega_squads,Mega Squads,Flamigo,False,Normal/Flamigo.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Flamigo
+mega_squads,Mega Squads,Pidgey,False,Normal/Pidgey.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Pidgey
+mega_squads,Mega Squads,Pidgey,True,Shiny/Pidgey_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Pidgey
+mega_squads,Mega Squads,Pidgey,False,Normal/Pidgey.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Pidgey
+mega_squads,Mega Squads,Rookidee,False,Normal/Rookidee.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Rookidee
+mega_squads,Mega Squads,Rookidee,True,Shiny/Rookidee_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Rookidee
+mega_squads,Mega Squads,Rookidee,False,Normal/Rookidee.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Rookidee
+mega_squads,Mega Squads,Carvanha,False,Normal/Carvanha.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Carvanha
+mega_squads,Mega Squads,Carvanha,True,Shiny/Carvanha_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Carvanha
+mega_squads,Mega Squads,Carvanha,False,Normal/Carvanha.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Carvanha
+mega_squads,Mega Squads,Emolga,False,Normal/Emolga.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Emolga
+mega_squads,Mega Squads,Emolga,True,Shiny/Emolga_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Emolga
+mega_squads,Mega Squads,Emolga,False,Normal/Emolga.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Emolga
+mega_squads,Mega Squads,Fletchling,False,Normal/Fletchling.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Fletchling
+mega_squads,Mega Squads,Fletchling,True,Shiny/Fletchling_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Fletchling
+mega_squads,Mega Squads,Fletchling,False,Normal/Fletchling.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Fletchling
+mega_squads,Mega Squads,Rookidee,False,Normal/Rookidee.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Rookidee
+mega_squads,Mega Squads,Rookidee,True,Shiny/Rookidee_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Rookidee
+mega_squads,Mega Squads,Rookidee,False,Normal/Rookidee.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Rookidee
+mega_squads,Mega Squads,Flamigo,False,Normal/Flamigo.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Flamigo
+mega_squads,Mega Squads,Flamigo,True,Shiny/Flamigo_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Flamigo
+mega_squads,Mega Squads,Flamigo,False,Normal/Flamigo.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Flamigo
+mega_squads,Mega Squads,Sandile,False,Normal/Sandile.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Sandile
+mega_squads,Mega Squads,Sandile,True,Shiny/Sandile_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Sandile
+mega_squads,Mega Squads,Sandile,False,Normal/Sandile.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Sandile
+mega_squads,Mega Squads,Pancham,False,Normal/Pancham.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Pancham
+mega_squads,Mega Squads,Pancham,True,Shiny/Pancham_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,Pancham
+mega_squads,Mega Squads,Pancham,False,Normal/Pancham.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Pancham
+mega_squads,Mega Squads,Houndoom,False,Mega/Houndoom_mega.png,Raids — Sunday — Mega — Normal,Raid,Raids,Sunday,,Mega Houndoom
+mega_squads,Mega Squads,Houndoom,True,Mega/Shiny/Houndoom_mega_shiny.png,Raids — Sunday — Mega — Shiny,Raid,Raids,Sunday,,Mega Houndoom
+mega_squads,Mega Squads,Pidgey,False,Normal/Pidgey.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,Pidgey
+mega_squads,Mega Squads,Pidgey,True,Shiny/Pidgey_shiny.png,Field Research — Sunday — Shiny,Research,Field Research,Sunday,,Pidgey
+mega_squads,Mega Squads,Fletchling,False,Normal/Fletchling.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,Fletchling
+mega_squads,Mega Squads,Fletchling,True,Shiny/Fletchling_shiny.png,Field Research — Sunday — Shiny,Research,Field Research,Sunday,,Fletchling
+mega_squads,Mega Squads,Fletchling,False,Normal/Fletchling.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,Fletchling
+mega_squads,Mega Squads,Flamigo,False,Normal/Flamigo.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,Flamigo
+mega_squads,Mega Squads,Flamigo,True,Shiny/Flamigo_shiny.png,Field Research — Sunday — Shiny,Research,Field Research,Sunday,,Flamigo
+mega_squads,Mega Squads,Nickit,False,Normal/Nickit.png,Field Research — Sunday — Normal,Research,Field Research,Sunday,,Nickit
+mega_squads,Mega Squads,Beedrill,False,Mega/Beedrill_mega.png,Field Research — Sunday — Mega — Normal,Research,Field Research,Sunday,,Mega Beedrill — Fell Stinger+
+mega_squads,Mega Squads,Houndoom,False,Mega/Houndoom_mega.png,Field Research — Sunday — Mega — Normal,Research,Field Research,Sunday,,Mega Houndoom — Dark Pulse+
+mega_squads,Mega Squads,Flamigo,False,Normal/Flamigo.png,Eggs — Sunday — Normal,Wild,Eggs,Sunday,,"For the first time in Pokemon GO, you'll be able to encounter Shiny Flamigo—if you're lucky! Flamigo may appear in the wild, in Eggs, or through Field Research and GO Pass encounters."
+mega_squads,Mega Squads,Flamigo,True,Shiny/Flamigo_shiny.png,Eggs — Sunday — Shiny,Wild,Eggs,Sunday,,"For the first time in Pokemon GO, you'll be able to encounter Shiny Flamigo—if you're lucky! Flamigo may appear in the wild, in Eggs, or through Field Research and GO Pass encounters."
+mega_squads,Mega Squads,Pidgey,False,Normal/Pidgey.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,You'll have an increased chance of encountering Shiny Pidgey from September 8 at 10:00 a.m. to September 11 at 10:00 a.m. local time.
+mega_squads,Mega Squads,Pidgey,True,Shiny/Pidgey_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,You'll have an increased chance of encountering Shiny Pidgey from September 8 at 10:00 a.m. to September 11 at 10:00 a.m. local time.
+mega_squads,Mega Squads,Carvanha,False,Normal/Carvanha.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,You'll have an increased chance of encountering Shiny Carvanha from September 11 at 10:00 a.m. to September 14 at 8:00 p.m. local time.
+mega_squads,Mega Squads,Carvanha,True,Shiny/Carvanha_shiny.png,Eggs — Sunday — Shiny,Egg,Eggs,Sunday,,You'll have an increased chance of encountering Shiny Carvanha from September 11 at 10:00 a.m. to September 14 at 8:00 p.m. local time.
 phantump_catch_mastery,Phantump Catch Mastery,Phantump,False,Normal/Phantump.png,Event — Saturday — Normal,Event,Event,Saturday,,"Phantump Catch Mastery Event Starts: Saturday, September 26, 2026, at 10:00 AM Local Time Ends: Saturday, September 26, 2026, at 8:00 PM Local Time"
 phantump_catch_mastery,Phantump Catch Mastery,Phantump,False,Normal/Phantump.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"Phantump, the Stump Pokemon, will appear in Field Research, free Timed Research, and paid Timed Research."
 phantump_catch_mastery,Phantump Catch Mastery,Phantump,False,Normal/Phantump.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,Phantump
@@ -193,6 +271,26 @@ lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Venusaur,False,Normal/Ven
 lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Charizard,False,Normal/Charizard.png,Eggs — Normal,Egg,Eggs,,,Hatch an Egg ×3 LEGO® Charizard Sticker ×3
 lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Blastoise,False,Normal/Blastoise.png,Eggs — Normal,Raid,Eggs,,,Win a raid ×3 LEGO® Blastoise Sticker ×3
 lego_stores_and_pokemon_go,LEGO Stores and Pokémon GO,Blastoise,False,Normal/Blastoise.png,Eggs — Normal,Egg,Eggs,,,LEGO® Blastoise Sticker ×3
+gible_community_day_classic,Gible Community Day Classic,Gible,False,Normal/Gible.png,Community Day — Saturday — Normal,Event,Community Day,Saturday,,"Gible Community Day Classic Community Day Starts: Saturday, September 12, 2026, at 2:00 PM Local Time Ends: Saturday, September 12, 2026, at 5:00 PM Local Time"
+gible_community_day_classic,Gible Community Day Classic,Gible,False,Normal/Gible.png,Wild Encounters — Saturday — Normal,Wild,Wild Encounters,Saturday,,Gible will appear more frequently in the wild.
+gible_community_day_classic,Gible Community Day Classic,Gible,False,Normal/Gible.png,Wild Encounters — Saturday — Normal,Wild,Wild Encounters,Saturday,,Gible
+gible_community_day_classic,Gible Community Day Classic,Gible,True,Shiny/Gible_shiny.png,Wild Encounters — Saturday — Shiny,Wild,Wild Encounters,Saturday,,Gible
+gible_community_day_classic,Gible Community Day Classic,Gible,False,Normal/Gible.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"September Community Day Classic—themed Field Research will be available! Catch Gible to earn rewards such as Stardust, Great Balls, additional encounters with Gible, and more!"
+gible_community_day_classic,Gible Community Day Classic,Gible,False,Normal/Gible.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,You may even find Field Research that leads to encounters with Gible that have a Special Background—if you're lucky!
+gible_community_day_classic,Gible Community Day Classic,Gible,True,Shiny/Gible_shiny.png,Field Research — Saturday — Shiny,Research,Field Research,Saturday,,You may even find Field Research that leads to encounters with Gible that have a Special Background—if you're lucky!
+gible_community_day_classic,Gible Community Day Classic,Gible,False,Normal/Gible.png,Special Research — Saturday — Normal,Research,Special Research,Saturday,,3 encounters with Gible that have a Special Background
+gible_community_day_classic,Gible Community Day Classic,Gible,False,Normal/Gible.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Gible Community Day Classic (1/3)
+gible_community_day_classic,Gible Community Day Classic,Gible,False,Normal/Gible.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,"Check in to a Community Ambassador event to get Timed Research that leads to additional encounters with Gible with a Special Background, as well as other premium item rewards!"
+gible_community_day_classic,Gible Community Day Classic,Gible,False,Normal/Gible.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Gible is already available in its shiny variant. You will have a higher chance of encountering Shiny Gible during Community Day Classic.
+gible_community_day_classic,Gible Community Day Classic,Gible,True,Shiny/Gible_shiny.png,Timed Research — Saturday — Shiny,Research,Timed Research,Saturday,,Gible is already available in its shiny variant. You will have a higher chance of encountering Shiny Gible during Community Day Classic.
+gible_community_day_classic,Gible Community Day Classic,Gabite,False,Normal/Gabite.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Gabite
+gible_community_day_classic,Gible Community Day Classic,Gabite,True,Shiny/Gabite_shiny.png,Timed Research — Saturday — Shiny,Research,Timed Research,Saturday,,Gabite
+gible_community_day_classic,Gible Community Day Classic,Gabite,False,Normal/Gabite.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Gabite
+gible_community_day_classic,Gible Community Day Classic,Garchomp,False,Normal/Garchomp.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Garchomp
+gible_community_day_classic,Gible Community Day Classic,Garchomp,True,Shiny/Garchomp_shiny.png,Timed Research — Saturday — Shiny,Research,Timed Research,Saturday,,Garchomp
+gible_community_day_classic,Gible Community Day Classic,Garchomp,False,Normal/Garchomp.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Garchomp
+gible_community_day_classic,Gible Community Day Classic,Gible,False,Normal/Gible.png,Lure Encounters — Saturday — Normal,Lure,Lure Encounters,Saturday,,Gible may be attracted to Lure Modules during the event.
+gible_community_day_classic,Gible Community Day Classic,Gible,True,Shiny/Gible_shiny.png,Lure Encounters — Saturday — Shiny,Lure,Lure Encounters,Saturday,,Gible may be attracted to Lure Modules during the event.
 pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Mewtwo,False,Mega/Mewtwo_x_mega.png,Raids — Sunday — Mega Super — Normal,Wild,Raids,Sunday,,"Rally with Trainers around the world for the mega conclusion of Pokemon GO Fest 2026! Pokemon GO Fest 2026: Mega Finale brings Armored Mewtwo in five-star raids, rotating habitats, powerful Mega Raids, and Super Mega Raids featuring Mega Mewtwo X and Mega Mewtwo Y."
 pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Chesnaught,False,Normal/Chesnaught.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,"Mega Chesnaught, Mega Delphox, and Mega Greninja"
 pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Greninja,False,Normal/Greninja.png,Raids — Saturday — Mega — Normal,Raid,Raids,Saturday,,"Mega Chesnaught, Mega Delphox, and Mega Greninja"
@@ -520,6 +618,12 @@ pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Mawile,False
 pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Audino,False,Mega/Audino_mega.png,Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Mega Raids,Mega Audino
 pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Audino,True,Mega/Shiny/Audino_mega_shiny.png,Raids — Sunday — Sunday Habitat Mega Raids — Mega — Shiny,Raid,Raids,Sunday,Sunday Habitat Mega Raids,Mega Audino
 pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Audino,False,Mega/Audino_mega.png,Raids — Sunday — Sunday Habitat Mega Raids — Mega — Normal,Raid,Raids,Sunday,Sunday Habitat Mega Raids,Mega Audino
+pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Chespin,False,Normal/Chespin.png,Timed Research — Sunday — Sunday Habitat Mega Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Mega Raids,Chespin path
+pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Chespin,False,Normal/Chespin.png,Timed Research — Sunday — Sunday Habitat Mega Raids — Mega — Normal,Research,Timed Research,Sunday,Sunday Habitat Mega Raids,GO Fest 2026: Mega Finale Mega Choice — Chespin (1/1)
+pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Fennekin,False,Normal/Fennekin.png,Timed Research — Sunday — Sunday Habitat Mega Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Mega Raids,Fennekin path
+pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Fennekin,False,Normal/Fennekin.png,Timed Research — Sunday — Sunday Habitat Mega Raids — Mega — Normal,Research,Timed Research,Sunday,Sunday Habitat Mega Raids,GO Fest 2026: Mega Finale Mega Choice — Fennekin (1/1)
+pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Froakie,False,Normal/Froakie.png,Timed Research — Sunday — Sunday Habitat Mega Raids — Normal,Research,Timed Research,Sunday,Sunday Habitat Mega Raids,Froakie path
+pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Froakie,False,Normal/Froakie.png,Timed Research — Sunday — Sunday Habitat Mega Raids — Mega — Normal,Research,Timed Research,Sunday,Sunday Habitat Mega Raids,GO Fest 2026: Mega Finale Mega Choice — Froakie (1/1)
 pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Chesnaught,False,Normal/Chesnaught.png,Timed Research — Sunday — Sunday Habitat Mega Raids — Mega — Normal,Research,Timed Research,Sunday,Sunday Habitat Mega Raids,Mega Chesnaught
 pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Delphox,False,Normal/Delphox.png,Timed Research — Sunday — Sunday Habitat Mega Raids — Mega — Normal,Research,Timed Research,Sunday,Sunday Habitat Mega Raids,Mega Delphox
 pokemon_go_fest_2026_mega_finale,Pokémon GO Fest 2026: Mega Finale,Greninja,False,Normal/Greninja.png,Timed Research — Sunday — Sunday Habitat Mega Raids — Mega — Normal,Research,Timed Research,Sunday,Sunday Habitat Mega Raids,Mega Greninja
