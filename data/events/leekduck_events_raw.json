@@ -84,8 +84,8 @@
     "url": "https://leekduck.com/events/super-mega-raid-day-november-2026/",
     "date_text": "Sat, Nov 28, at 5:00 PM",
     "raw_text": "Raid Day Raid Day Super Mega Raid Day Sat, Nov 28, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "super_mega_raid_day_3",
-    "file": "upcoming/super_mega_raid_day_3.json"
+    "id": "super_mega_raid_day_2",
+    "file": "upcoming/super_mega_raid_day_2.json"
   },
   {
     "source": "LeekDuck",
@@ -117,8 +117,8 @@
     "url": "https://leekduck.com/events/super-mega-raid-day-october-2026/",
     "date_text": "Sat, Oct 31, at 5:00 PM",
     "raw_text": "Raid Day Raid Day Super Mega Raid Day Sat, Oct 31, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "super_mega_raid_day_2",
-    "file": "upcoming/super_mega_raid_day_2.json"
+    "id": "super_mega_raid_day",
+    "file": "upcoming/super_mega_raid_day.json"
   },
   {
     "source": "LeekDuck",
@@ -135,12 +135,12 @@
     "source": "LeekDuck",
     "status": "upcoming",
     "category": "Raid Day",
-    "title": "Super Mega Raid Day",
-    "url": "https://leekduck.com/events/super-mega-raid-day-september-2026/",
+    "title": "Staraptor Super Mega Raid Day",
+    "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
     "date_text": "Sat, Sep 19, at 5:00 PM",
-    "raw_text": "Raid Day Raid Day Super Mega Raid Day Sat, Sep 19, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "super_mega_raid_day",
-    "file": "upcoming/super_mega_raid_day.json"
+    "raw_text": "Raid Day Raid Day Staraptor Super Mega Raid Day Sat, Sep 19, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "staraptor_super_mega_raid_day",
+    "file": "upcoming/staraptor_super_mega_raid_day.json"
   },
   {
     "source": "LeekDuck",

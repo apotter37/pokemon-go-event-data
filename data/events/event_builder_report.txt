@@ -3,10 +3,10 @@ Pokemon GO Event Builder Report
 Events kept after cleanup: 14
 Current events: 6
 Upcoming events: 8
-Official news items found: 9
+Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 729
+Matched entries: 737
 Unmatched candidates: 4
 No-match debug rows: 4
 
@@ -49,7 +49,7 @@ Events written:
 - [upcoming] Raid Day: Super Mega Raid Day
   Date: Sat, Nov 28, at 5:00 PM
   Entries: 0
-  File: upcoming/super_mega_raid_day_3.json
+  File: upcoming/super_mega_raid_day_2.json
   URL: https://leekduck.com/events/super-mega-raid-day-november-2026/
 - [upcoming] Community Day: October Community Day
   Date: Sat, Oct 10, at 5:00 PM
@@ -64,18 +64,18 @@ Events written:
 - [upcoming] Raid Day: Super Mega Raid Day
   Date: Sat, Oct 31, at 5:00 PM
   Entries: 0
-  File: upcoming/super_mega_raid_day_2.json
+  File: upcoming/super_mega_raid_day.json
   URL: https://leekduck.com/events/super-mega-raid-day-october-2026/
 - [upcoming] Community Day: Gible Community Day Classic
   Date: Sat, Sep 12, at 5:00 PM
   Entries: 15
   File: upcoming/gible_community_day_classic.json
   URL: https://leekduck.com/events/september-communitydayclassic2026/
-- [upcoming] Raid Day: Super Mega Raid Day
+- [upcoming] Raid Day: Staraptor Super Mega Raid Day
   Date: Sat, Sep 19, at 5:00 PM
-  Entries: 0
-  File: upcoming/super_mega_raid_day.json
-  URL: https://leekduck.com/events/super-mega-raid-day-september-2026/
+  Entries: 6
+  File: upcoming/staraptor_super_mega_raid_day.json
+  URL: https://leekduck.com/events/staraptor-super-mega-raid-day-2026/
 - [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Mega Finale
   Date: Sun, Sep 6, at 6:00 PM
   Entries: 318
