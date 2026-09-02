@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02 04:27:17",
+  "generated_at": "2026-09-02 16:32:21",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -49,6 +49,15 @@
       "file": "current/10th_anniversary_celebration_perfect_mewtwo_timed_research.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/10th-anniversary-celebration/"
+    },
+    {
+      "id": "pokemon_horizons_the_series_celebration_event",
+      "title": "Pokemon Horizons: The Series Celebration Event",
+      "category": "Event",
+      "date_text": "Tue, Sep 22, at 8:00 PM",
+      "file": "current/pokemon_horizons_the_series_celebration_event.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/"
     },
     {
       "id": "lego_stores_and_pokemon_go",
