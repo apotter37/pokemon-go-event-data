@@ -83,7 +83,7 @@ Events written:
   URL: https://leekduck.com/events/staraptor-super-mega-raid-day-2026/
 - [upcoming] Pokémon GO Fest: Pokémon GO Fest 2026: Mega Finale
   Date: Sun, Sep 6, at 6:00 PM
-  Entries: 316
+  Entries: 314
   File: upcoming/pokemon_go_fest_2026_mega_finale.json
   URL: https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
 
