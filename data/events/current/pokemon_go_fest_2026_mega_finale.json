@@ -1,12 +1,12 @@
 {
   "id": "pokemon_go_fest_2026_mega_finale",
   "title": "Pokémon GO Fest 2026: Mega Finale",
-  "status": "upcoming",
+  "status": "current",
   "category": "Pokémon GO Fest",
   "date_text": "Sun, Sep 6, at 6:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/",
-  "generated_at": "2026-09-05 15:10:31",
+  "generated_at": "2026-09-06 04:32:52",
   "entries": [
     {
       "dex": 650,
@@ -747,21 +747,6 @@
       "dex": 150,
       "name": "Mewtwo",
       "uri": "file:///android_asset/Pokemon/Mega/Mewtwo_x_mega.png",
-      "label": "Raids — Saturday — Mega Super — Normal",
-      "availability": "Raid",
-      "section": "Raids",
-      "day": "Saturday",
-      "habitat": "",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega Super",
-      "source_text": "Mega Mewtwo X and Mega Mewtwo Y will headline Pokemon GO Fest 2026: Mega Finale Super Mega Raids."
-    },
-    {
-      "dex": 150,
-      "name": "Mewtwo",
-      "uri": "file:///android_asset/Pokemon/Mega/Mewtwo_x_mega.png",
       "label": "Raids — Saturday — Mega — Normal",
       "availability": "Raid",
       "section": "Raids",
@@ -771,7 +756,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Mega Mewtwo returns"
+      "source_text": "Mega Mewtwo X will appear on Saturday, September 5, 2026"
     },
     {
       "dex": 150,
@@ -846,7 +831,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega Super",
-      "source_text": "Challenge Mega Mewtwo X and Mega Mewtwo Y in Super Mega Raids to collect Mewtwo with a Special Background!"
+      "source_text": "Mega Mewtwo X and Mega Mewtwo Y will headline Pokemon GO Fest 2026: Mega Finale Super Mega Raids."
     },
     {
       "dex": 150,
@@ -861,7 +846,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Mega Mewtwo Y will appear on Sunday, September 6, 2026"
+      "source_text": "Mega Mewtwo returns"
     },
     {
       "dex": 150,
@@ -1797,36 +1782,6 @@
       "dex": 652,
       "name": "Chesnaught",
       "uri": "file:///android_asset/Pokemon/Normal/Chesnaught.png",
-      "label": "Raids — Saturday — Mega — Normal",
-      "availability": "Raid",
-      "section": "Raids",
-      "day": "Saturday",
-      "habitat": "",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega",
-      "source_text": "Mega Chesnaught, Mega Delphox, and Mega Greninja"
-    },
-    {
-      "dex": 652,
-      "name": "Chesnaught",
-      "uri": "file:///android_asset/Pokemon/Shiny/Chesnaught_shiny.png",
-      "label": "Raids — Saturday — Mega — Shiny",
-      "availability": "Raid",
-      "section": "Raids",
-      "day": "Saturday",
-      "habitat": "",
-      "shiny": true,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega",
-      "source_text": "Mega Chesnaught"
-    },
-    {
-      "dex": 652,
-      "name": "Chesnaught",
-      "uri": "file:///android_asset/Pokemon/Normal/Chesnaught.png",
       "label": "Raids — Saturday — Sunday Habitat Mega Raids — Mega — Normal",
       "availability": "Raid",
       "section": "Raids",
@@ -1852,6 +1807,36 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Chespin with a Special Background Chesnaught T-Shirt"
+    },
+    {
+      "dex": 652,
+      "name": "Chesnaught",
+      "uri": "file:///android_asset/Pokemon/Normal/Chesnaught.png",
+      "label": "Raids — Sunday — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Chesnaught, Mega Delphox, and Mega Greninja"
+    },
+    {
+      "dex": 652,
+      "name": "Chesnaught",
+      "uri": "file:///android_asset/Pokemon/Shiny/Chesnaught_shiny.png",
+      "label": "Raids — Sunday — Mega — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Chesnaught"
     },
     {
       "dex": 653,
@@ -1947,36 +1932,6 @@
       "dex": 655,
       "name": "Delphox",
       "uri": "file:///android_asset/Pokemon/Normal/Delphox.png",
-      "label": "Raids — Saturday — Mega — Normal",
-      "availability": "Raid",
-      "section": "Raids",
-      "day": "Saturday",
-      "habitat": "",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega",
-      "source_text": "Mega Chesnaught, Mega Delphox, and Mega Greninja"
-    },
-    {
-      "dex": 655,
-      "name": "Delphox",
-      "uri": "file:///android_asset/Pokemon/Shiny/Delphox_shiny.png",
-      "label": "Raids — Saturday — Mega — Shiny",
-      "availability": "Raid",
-      "section": "Raids",
-      "day": "Saturday",
-      "habitat": "",
-      "shiny": true,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega",
-      "source_text": "Mega Delphox"
-    },
-    {
-      "dex": 655,
-      "name": "Delphox",
-      "uri": "file:///android_asset/Pokemon/Normal/Delphox.png",
       "label": "Raids — Saturday — Sunday Habitat Mega Raids — Mega — Normal",
       "availability": "Raid",
       "section": "Raids",
@@ -2002,6 +1957,36 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Fennekin with a Special Background Delphox T-Shirt"
+    },
+    {
+      "dex": 655,
+      "name": "Delphox",
+      "uri": "file:///android_asset/Pokemon/Normal/Delphox.png",
+      "label": "Raids — Sunday — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Chesnaught, Mega Delphox, and Mega Greninja"
+    },
+    {
+      "dex": 655,
+      "name": "Delphox",
+      "uri": "file:///android_asset/Pokemon/Shiny/Delphox_shiny.png",
+      "label": "Raids — Sunday — Mega — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Delphox"
     },
     {
       "dex": 656,
@@ -2107,36 +2092,6 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Increased chance of encountering Froakie as a Shiny Pokemon"
-    },
-    {
-      "dex": 658,
-      "name": "Greninja",
-      "uri": "file:///android_asset/Pokemon/Normal/Greninja.png",
-      "label": "Raids — Saturday — Mega — Normal",
-      "availability": "Raid",
-      "section": "Raids",
-      "day": "Saturday",
-      "habitat": "",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega",
-      "source_text": "Mega Chesnaught, Mega Delphox, and Mega Greninja"
-    },
-    {
-      "dex": 658,
-      "name": "Greninja",
-      "uri": "file:///android_asset/Pokemon/Shiny/Greninja_shiny.png",
-      "label": "Raids — Saturday — Mega — Shiny",
-      "availability": "Raid",
-      "section": "Raids",
-      "day": "Saturday",
-      "habitat": "",
-      "shiny": true,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega",
-      "source_text": "Mega Greninja"
     },
     {
       "dex": 658,
@@ -2182,6 +2137,36 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Greninja with a Special Background"
+    },
+    {
+      "dex": 658,
+      "name": "Greninja",
+      "uri": "file:///android_asset/Pokemon/Normal/Greninja.png",
+      "label": "Raids — Sunday — Mega — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Chesnaught, Mega Delphox, and Mega Greninja"
+    },
+    {
+      "dex": 658,
+      "name": "Greninja",
+      "uri": "file:///android_asset/Pokemon/Shiny/Greninja_shiny.png",
+      "label": "Raids — Sunday — Mega — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Greninja"
     },
     {
       "dex": 687,
@@ -2316,7 +2301,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Mega Chesnaught"
+      "source_text": "Mega Chesnaught: Seed Bomb+"
     },
     {
       "dex": 652,
@@ -2376,7 +2361,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Mega Delphox"
+      "source_text": "Mega Delphox: Mystical Fire+"
     },
     {
       "dex": 655,
@@ -2436,7 +2421,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "Mega",
-      "source_text": "Mega Greninja"
+      "source_text": "Mega Greninja: Surf+"
     },
     {
       "dex": 658,

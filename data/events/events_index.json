@@ -1,19 +1,10 @@
 {
-  "generated_at": "2026-09-05 15:10:31",
+  "generated_at": "2026-09-06 04:32:59",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
   ],
   "current": [
-    {
-      "id": "mega_ascension",
-      "title": "Mega Ascension",
-      "category": "Event",
-      "date_text": "Fri, Sep 4, at 11:59 PM",
-      "file": "current/mega_ascension.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/mega-ascension/"
-    },
     {
       "id": "harvest_festival",
       "title": "Harvest Festival",
@@ -49,6 +40,15 @@
       "file": "current/10th_anniversary_celebration_perfect_mewtwo_timed_research.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/10th-anniversary-celebration/"
+    },
+    {
+      "id": "pokemon_go_fest_2026_mega_finale",
+      "title": "Pokémon GO Fest 2026: Mega Finale",
+      "category": "Pokémon GO Fest",
+      "date_text": "Sun, Sep 6, at 6:00 PM",
+      "file": "current/pokemon_go_fest_2026_mega_finale.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/"
     },
     {
       "id": "pokemon_horizons_the_series_celebration_event",
@@ -132,15 +132,6 @@
       "file": "upcoming/staraptor_super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/"
-    },
-    {
-      "id": "pokemon_go_fest_2026_mega_finale",
-      "title": "Pokémon GO Fest 2026: Mega Finale",
-      "category": "Pokémon GO Fest",
-      "date_text": "Sun, Sep 6, at 6:00 PM",
-      "file": "upcoming/pokemon_go_fest_2026_mega_finale.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/"
     }
   ]
 }
