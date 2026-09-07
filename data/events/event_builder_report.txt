@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 14
-Current events: 7
+Events kept after cleanup: 12
+Current events: 5
 Upcoming events: 7
-Official news items found: 11
+Official news items found: 12
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 623
+Matched entries: 167
 Unmatched candidates: 4
 No-match debug rows: 4
 
@@ -18,7 +18,7 @@ Events written:
   URL: https://leekduck.com/events/harvest-festival-2026/
 - [current] Event: Mega Squads
   Date: Mon, Sep 14, at 8:00 PM
-  Entries: 57
+  Entries: 50
   File: current/mega_squads.json
   URL: https://leekduck.com/events/mega-squads/
 - [current] Event: Phantump Catch Mastery
@@ -26,16 +26,6 @@ Events written:
   Entries: 13
   File: current/phantump_catch_mastery.json
   URL: https://leekduck.com/events/catch-mastery-phantump-2026/
-- [current] Event: 10th Anniversary Celebration - Perfect Mewtwo Timed Research
-  Date: Sun, Sep 6, at 11:59 PM
-  Entries: 3
-  File: current/10th_anniversary_celebration_perfect_mewtwo_timed_research.json
-  URL: https://leekduck.com/events/10th-anniversary-celebration/
-- [current] Pokémon GO Fest: Pokémon GO Fest 2026: Mega Finale
-  Date: Sun, Sep 6, at 6:00 PM
-  Entries: 313
-  File: current/pokemon_go_fest_2026_mega_finale.json
-  URL: https://leekduck.com/events/pokemon-go-fest-2026-mega-finale/
 - [current] Event: Pokemon Horizons: The Series Celebration Event
   Date: Tue, Sep 22, at 8:00 PM
   Entries: 34
