@@ -1,24 +1,29 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 12
-Current events: 5
+Events kept after cleanup: 13
+Current events: 6
 Upcoming events: 7
-Official news items found: 12
+Official news items found: 11
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 167
-Unmatched candidates: 4
-No-match debug rows: 4
+Matched entries: 254
+Unmatched candidates: 3
+No-match debug rows: 3
 
 Events written:
-- [current] Event: Harvest Festival
+- [current] Event: Harvest Festival 2026: Applin Picking
   Date: Mon, Oct 5, at 8:00 PM
-  Entries: 0
-  File: current/harvest_festival.json
+  Entries: 22
+  File: current/harvest_festival_2026_applin_picking.json
   URL: https://leekduck.com/events/harvest-festival-2026/
+- [current] Event: Harvest Festival: Taken Over
+  Date: Mon, Oct 5, at 8:00 PM
+  Entries: 31
+  File: current/harvest_festival_taken_over.json
+  URL: https://leekduck.com/events/harvest-festival-taken-over-2026/
 - [current] Event: Mega Squads
   Date: Mon, Sep 14, at 8:00 PM
-  Entries: 50
+  Entries: 63
   File: current/mega_squads.json
   URL: https://leekduck.com/events/mega-squads/
 - [current] Event: Phantump Catch Mastery

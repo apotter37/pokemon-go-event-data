@@ -1,4 +1,73 @@
 ﻿event_id,event_title,pokemon,shiny,asset,label,availability,section,day,habitat,source_text
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Event — Normal,Event,Event,,,"Harvest Festival 2026: Applin Picking Event Starts: Tuesday, September 29, 2026, at 10:00 AM Local Time Ends: Monday, October 5, 2026, at 8:00 PM Local Time"
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Timed Research — Normal,Research,Timed Research,,,"The Harvest Festival 2026: Applin Picking event will take place from September 29, 2026 at 10 am to October 5, 2026 at 8 pm local time."
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,False,Normal/Smoliv.png,Bonuses — Normal,Bonus,Bonuses,,,Increased chance to encounter Shiny Smoliv
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,True,Shiny/Smoliv_shiny.png,Bonuses — Shiny,Bonus,Bonuses,,,Increased chance to encounter Shiny Smoliv
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Bonuses — Normal,Bonus,Bonuses,,,"Applin will have an increased chance of holding Tart Apples, Sweet Apples, or Syrupy Apples when caught"
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Cottonee,False,Normal/Cottonee.png,Lure Encounters — Normal,Lure,Lure Encounters,,,"During the event, Mossy Lure Modules will only attract apples . Tap these apples to receive Tart Apples, Sweet Apples, Syrupy Apples, or encounters with event-themed Pokemon, including Cottonee wearing a flower crown and Applin!"
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Lure Encounters — Normal,Lure,Lure Encounters,,,"During the event, Mossy Lure Modules will only attract apples . Tap these apples to receive Tart Apples, Sweet Apples, Syrupy Apples, or encounters with event-themed Pokemon, including Cottonee wearing a flower crown and Applin!"
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Cottonee,False,Costume/Cottonee_flower.png,Lure Encounters — Flower Crown — Normal,Lure,Lure Encounters,,,Flower Crown Cottonee
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Cottonee,True,Shiny/Cottonee_shiny.png,Lure Encounters — Flower Crown — Shiny,Lure,Lure Encounters,,,Flower Crown Cottonee
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Cottonee,False,Costume/Cottonee_flower.png,Lure Encounters — Flower Crown — Normal,Lure,Lure Encounters,,,Flower Crown Cottonee
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Applin
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,True,Shiny/Applin_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Applin
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Applin
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skwovet,False,Normal/Skwovet.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Skwovet
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skwovet,True,Shiny/Skwovet_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Skwovet
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skwovet,False,Normal/Skwovet.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Skwovet
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Lechonk,False,Normal/Lechonk.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Lechonk
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Lechonk,True,Shiny/Lechonk_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Lechonk
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Lechonk,False,Normal/Lechonk.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Lechonk
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,False,Normal/Smoliv.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Smoliv
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,True,Shiny/Smoliv_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Smoliv
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,False,Normal/Smoliv.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Smoliv
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Flapple,False,Normal/Flapple.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Flapple
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Appletun,False,Normal/Appletun.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Appletun
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Dipplin,False,Normal/Dipplin.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Dipplin
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Hydrapple,False,Normal/Hydrapple.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Hydrapple
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Dolliv,False,Normal/Dolliv.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Dolliv
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Arboliva,False,Normal/Arboliva.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Arboliva
+harvest_festival_taken_over,Harvest Festival: Taken Over,Zekrom,False,Normal/Zekrom.png,Event — Friday — Shadow — Normal,Event,Event,Friday,,"Rescue Shadow Zekrom as Team GO Rocket takes over the Harvest Festival! The Harvest Festival: Taken Over event will take place from October 2, 2026 at 12 am to October 5, 2026 at 8 pm local time."
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Raids — Friday — Shadow — Normal,Raid,Raids,Friday,,"Increased chance to encounter Shiny Slugma More Team GO Rocket appearances at PokeStops and in balloons Use a Charged TM to remove Frustration from Shadow Pokemon Wider Attack, Defense, and HP variance for Pokemon caught in one-star and three-star Shadow Raids during the event"
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,True,Shiny/Slugma_shiny.png,Raids — Friday — Shadow — Shiny,Raid,Raids,Friday,,"Increased chance to encounter Shiny Slugma More Team GO Rocket appearances at PokeStops and in balloons Use a Charged TM to remove Frustration from Shadow Pokemon Wider Attack, Defense, and HP variance for Pokemon caught in one-star and three-star Shadow Raids during the event"
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Raids — Friday — Normal,Raid,Raids,Friday,,Increased chance to encounter Shiny Slugma
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,True,Shiny/Slugma_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Increased chance to encounter Shiny Slugma
+harvest_festival_taken_over,Harvest Festival: Taken Over,Zekrom,False,Normal/Zekrom.png,Raids — Friday — Shadow — Normal,Raid,Raids,Friday,,Save Shadow Zekrom!
+harvest_festival_taken_over,Harvest Festival: Taken Over,Zekrom,False,Normal/Zekrom.png,Raids — Friday — Shadow Super — Normal,Raid,Raids,Friday,,Earn a Super Rocket Radar through GO Pass: Harvest Festival to track down Giovanni and rescue Shadow Zekrom. Giovanni will only appear at PokeStops.
+harvest_festival_taken_over,Harvest Festival: Taken Over,Zekrom,False,Normal/Zekrom.png,Raids — Friday — Normal,Raid,Raids,Friday,,Zekrom
+harvest_festival_taken_over,Harvest Festival: Taken Over,Zekrom,True,Shiny/Zekrom_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Zekrom
+harvest_festival_taken_over,Harvest Festival: Taken Over,Zekrom,False,Normal/Zekrom.png,Raids — Friday — Normal,Raid,Raids,Friday,,Zekrom
+harvest_festival_taken_over,Harvest Festival: Taken Over,Wimpod,False,Normal/Wimpod.png,Raids — Friday — Normal,Raid,Raids,Friday,,Wimpod
+harvest_festival_taken_over,Harvest Festival: Taken Over,Wimpod,True,Shiny/Wimpod_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Wimpod
+harvest_festival_taken_over,Harvest Festival: Taken Over,Wimpod,False,Normal/Wimpod.png,Raids — Friday — Normal,Raid,Raids,Friday,,Wimpod
+harvest_festival_taken_over,Harvest Festival: Taken Over,Fomantis,False,Normal/Fomantis.png,Raids — Friday — Normal,Raid,Raids,Friday,,Fomantis
+harvest_festival_taken_over,Harvest Festival: Taken Over,Fomantis,True,Shiny/Fomantis_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Fomantis
+harvest_festival_taken_over,Harvest Festival: Taken Over,Fomantis,False,Normal/Fomantis.png,Raids — Friday — Normal,Raid,Raids,Friday,,Fomantis
+harvest_festival_taken_over,Harvest Festival: Taken Over,Sandygast,False,Normal/Sandygast.png,Raids — Friday — Normal,Raid,Raids,Friday,,Sandygast
+harvest_festival_taken_over,Harvest Festival: Taken Over,Sandygast,True,Shiny/Sandygast_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Sandygast
+harvest_festival_taken_over,Harvest Festival: Taken Over,Sandygast,False,Normal/Sandygast.png,Raids — Friday — Normal,Raid,Raids,Friday,,Sandygast
+harvest_festival_taken_over,Harvest Festival: Taken Over,Koffing,False,Normal/Koffing.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Koffing
+harvest_festival_taken_over,Harvest Festival: Taken Over,Koffing,True,Shiny/Koffing_shiny.png,Wild Encounters — Friday — Shiny,Wild,Wild Encounters,Friday,,Koffing
+harvest_festival_taken_over,Harvest Festival: Taken Over,Koffing,False,Normal/Koffing.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Koffing
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Slugma
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,True,Shiny/Slugma_shiny.png,Wild Encounters — Friday — Shiny,Wild,Wild Encounters,Friday,,Slugma
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Slugma
+harvest_festival_taken_over,Harvest Festival: Taken Over,Numel,False,Normal/Numel.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Numel
+harvest_festival_taken_over,Harvest Festival: Taken Over,Numel,True,Shiny/Numel_shiny.png,Wild Encounters — Friday — Shiny,Wild,Wild Encounters,Friday,,Numel
+harvest_festival_taken_over,Harvest Festival: Taken Over,Numel,False,Normal/Numel.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Numel
+harvest_festival_taken_over,Harvest Festival: Taken Over,Magmar,False,Normal/Magmar.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Lucky Trainers may also encounter Magmar!
+harvest_festival_taken_over,Harvest Festival: Taken Over,Magmar,False,Normal/Magmar.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Magmar
+harvest_festival_taken_over,Harvest Festival: Taken Over,Magmar,True,Shiny/Magmar_shiny.png,Wild Encounters — Friday — Shiny,Wild,Wild Encounters,Friday,,Magmar
+harvest_festival_taken_over,Harvest Festival: Taken Over,Shroodle,False,Normal/Shroodle.png,Field Research — Friday — Normal,Research,Field Research,Friday,,Shiny Shroodle Debut
+harvest_festival_taken_over,Harvest Festival: Taken Over,Shroodle,True,Shiny/Shroodle_shiny.png,Field Research — Friday — Shiny,Research,Field Research,Friday,,Shiny Shroodle Debut
+harvest_festival_taken_over,Harvest Festival: Taken Over,Shroodle,False,Normal/Shroodle.png,Eggs — Friday — Normal,Egg,Eggs,Friday,,Shiny Shroodle will be available to hatch for the first time in Pokemon GO! Evolve Shiny Shroodle to obtain Shiny Grafaiai.
+harvest_festival_taken_over,Harvest Festival: Taken Over,Shroodle,True,Shiny/Shroodle_shiny.png,Eggs — Friday — Shiny,Egg,Eggs,Friday,,Shiny Shroodle will be available to hatch for the first time in Pokemon GO! Evolve Shiny Shroodle to obtain Shiny Grafaiai.
+harvest_festival_taken_over,Harvest Festival: Taken Over,Grafaiai,False,Normal/Grafaiai.png,Eggs — Friday — Normal,Egg,Eggs,Friday,,Shiny Shroodle will be available to hatch for the first time in Pokemon GO! Evolve Shiny Shroodle to obtain Shiny Grafaiai.
+harvest_festival_taken_over,Harvest Festival: Taken Over,Grafaiai,True,Shiny/Grafaiai_shiny.png,Eggs — Friday — Shiny,Egg,Eggs,Friday,,Shiny Shroodle will be available to hatch for the first time in Pokemon GO! Evolve Shiny Shroodle to obtain Shiny Grafaiai.
+harvest_festival_taken_over,Harvest Festival: Taken Over,Shroodle,False,Normal/Shroodle.png,Eggs — Friday — Normal,Egg,Eggs,Friday,,Shroodle
+harvest_festival_taken_over,Harvest Festival: Taken Over,Grafaiai,False,Normal/Grafaiai.png,Eggs — Friday — Normal,Egg,Eggs,Friday,,Grafaiai
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Eggs — Friday — Normal,Egg,Eggs,Friday,,Slugma encounters will have an increased chance of being Shiny during the event.
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,True,Shiny/Slugma_shiny.png,Eggs — Friday — Shiny,Egg,Eggs,Friday,,Slugma encounters will have an increased chance of being Shiny during the event.
 mega_squads,Mega Squads,Beedrill,False,Mega/Beedrill_mega.png,Eggs — Mega Super — Normal,Egg,Eggs,,,"Starting with the Mega Squads event, Mega Beedrill and Mega Houndoom can increase their Mega Level to Super Max for the first time in Pokemon GO!"
 mega_squads,Mega Squads,Houndoom,False,Mega/Houndoom_mega.png,Eggs — Mega Super — Normal,Egg,Eggs,,,"Starting with the Mega Squads event, Mega Beedrill and Mega Houndoom can increase their Mega Level to Super Max for the first time in Pokemon GO!"
 mega_squads,Mega Squads,Beedrill,False,Mega/Beedrill_mega.png,Eggs — Mega — Normal,Egg,Eggs,,,Mega Beedrill
@@ -32,6 +101,15 @@ mega_squads,Mega Squads,Flamigo,False,Normal/Flamigo.png,Raids — Sunday — No
 mega_squads,Mega Squads,Pidgey,False,Normal/Pidgey.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Pidgey
 mega_squads,Mega Squads,Pidgey,True,Shiny/Pidgey_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Pidgey
 mega_squads,Mega Squads,Pidgey,False,Normal/Pidgey.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Pidgey
+mega_squads,Mega Squads,Emolga,False,Normal/Emolga.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Emolga
+mega_squads,Mega Squads,Emolga,True,Shiny/Emolga_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Emolga
+mega_squads,Mega Squads,Emolga,False,Normal/Emolga.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Emolga
+mega_squads,Mega Squads,Fletchling,False,Normal/Fletchling.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Fletchling
+mega_squads,Mega Squads,Fletchling,True,Shiny/Fletchling_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Fletchling
+mega_squads,Mega Squads,Fletchling,False,Normal/Fletchling.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Fletchling
+mega_squads,Mega Squads,Noibat,False,Normal/Noibat.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Noibat
+mega_squads,Mega Squads,Noibat,True,Shiny/Noibat_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Noibat
+mega_squads,Mega Squads,Noibat,False,Normal/Noibat.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Noibat
 mega_squads,Mega Squads,Rookidee,False,Normal/Rookidee.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Rookidee
 mega_squads,Mega Squads,Rookidee,True,Shiny/Rookidee_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Rookidee
 mega_squads,Mega Squads,Rookidee,False,Normal/Rookidee.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Rookidee
@@ -58,8 +136,17 @@ mega_squads,Mega Squads,Pancham,True,Shiny/Pancham_shiny.png,Eggs — Sunday —
 mega_squads,Mega Squads,Pancham,False,Normal/Pancham.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Pancham
 mega_squads,Mega Squads,Houndoom,False,Mega/Houndoom_mega.png,Raids — Sunday — Mega — Normal,Raid,Raids,Sunday,,Mega Houndoom
 mega_squads,Mega Squads,Houndoom,True,Mega/Shiny/Houndoom_mega_shiny.png,Raids — Sunday — Mega — Shiny,Raid,Raids,Sunday,,Mega Houndoom
-mega_squads,Mega Squads,Beedrill,False,Mega/Beedrill_mega.png,Field Research — Sunday — Mega — Normal,Research,Field Research,Sunday,,Mega Beedrill — Fell Stinger+
-mega_squads,Mega Squads,Houndoom,False,Mega/Houndoom_mega.png,Field Research — Sunday — Mega — Normal,Research,Field Research,Sunday,,Mega Houndoom — Dark Pulse+
+mega_squads,Mega Squads,Beedrill,False,Mega/Beedrill_mega.png,Eggs — Sunday — Mega — Normal,Egg,Eggs,Sunday,,Mega Beedrill — Fell Stinger+
+mega_squads,Mega Squads,Houndoom,False,Mega/Houndoom_mega.png,Eggs — Sunday — Mega — Normal,Egg,Eggs,Sunday,,Mega Houndoom — Dark Pulse+
+mega_squads,Mega Squads,Weedle,False,Normal/Weedle.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Catch 5 Weedle — 50 GO Points total
+mega_squads,Mega Squads,Fletchinder,False,Normal/Fletchinder.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Fletchling Fletchinder
+mega_squads,Mega Squads,Corvisquire,False,Normal/Corvisquire.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Rookidee Corvisquire
+mega_squads,Mega Squads,Beedrill,False,Normal/Beedrill.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Weedle Beedrill
+mega_squads,Mega Squads,Pidgeotto,False,Normal/Pidgeotto.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Pidgey Pidgeotto
+mega_squads,Mega Squads,Pidgey,False,Normal/Pidgey.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Pidgey Pidgeotto
+mega_squads,Mega Squads,Carvanha,False,Normal/Carvanha.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Carvanha Carvanha
+mega_squads,Mega Squads,Houndour,False,Normal/Houndour.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Houndour Houndoom
+mega_squads,Mega Squads,Houndoom,False,Normal/Houndoom.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,Houndour Houndoom
 mega_squads,Mega Squads,Flamigo,False,Normal/Flamigo.png,Eggs — Sunday — Normal,Wild,Eggs,Sunday,,"For the first time in Pokemon GO, you'll be able to encounter Shiny Flamigo—if you're lucky! Flamigo may appear in the wild, in Eggs, or through Field Research and GO Pass encounters."
 mega_squads,Mega Squads,Flamigo,True,Shiny/Flamigo_shiny.png,Eggs — Sunday — Shiny,Wild,Eggs,Sunday,,"For the first time in Pokemon GO, you'll be able to encounter Shiny Flamigo—if you're lucky! Flamigo may appear in the wild, in Eggs, or through Field Research and GO Pass encounters."
 mega_squads,Mega Squads,Pidgey,False,Normal/Pidgey.png,Eggs — Sunday — Normal,Egg,Eggs,Sunday,,You'll have an increased chance of encountering Shiny Pidgey from September 8 at 10:00 a.m. to September 11 at 10:00 a.m. local time.

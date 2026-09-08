@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-09-07 17:44:03",
+  "generated_at": "2026-09-08 04:29:35",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
   ],
   "current": [
     {
-      "id": "harvest_festival",
-      "title": "Harvest Festival",
+      "id": "harvest_festival_2026_applin_picking",
+      "title": "Harvest Festival 2026: Applin Picking",
       "category": "Event",
       "date_text": "Mon, Oct 5, at 8:00 PM",
-      "file": "current/harvest_festival.json",
+      "file": "current/harvest_festival_2026_applin_picking.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/harvest-festival-2026/"
+    },
+    {
+      "id": "harvest_festival_taken_over",
+      "title": "Harvest Festival: Taken Over",
+      "category": "Event",
+      "date_text": "Mon, Oct 5, at 8:00 PM",
+      "file": "current/harvest_festival_taken_over.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/harvest-festival-taken-over-2026/"
     },
     {
       "id": "mega_squads",

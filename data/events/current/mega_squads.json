@@ -6,8 +6,23 @@
   "date_text": "Mon, Sep 14, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/mega-squads/",
-  "generated_at": "2026-09-07 17:43:57",
+  "generated_at": "2026-09-08 04:29:27",
   "entries": [
+    {
+      "dex": 13,
+      "name": "Weedle",
+      "uri": "file:///android_asset/Pokemon/Normal/Weedle.png",
+      "label": "Eggs — Sunday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Catch 5 Weedle — 50 GO Points total"
+    },
     {
       "dex": 15,
       "name": "Beedrill",
@@ -54,6 +69,36 @@
       "source_text": "Mega Beedrill"
     },
     {
+      "dex": 15,
+      "name": "Beedrill",
+      "uri": "file:///android_asset/Pokemon/Mega/Beedrill_mega.png",
+      "label": "Eggs — Sunday — Mega — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Beedrill — Fell Stinger+"
+    },
+    {
+      "dex": 15,
+      "name": "Beedrill",
+      "uri": "file:///android_asset/Pokemon/Normal/Beedrill.png",
+      "label": "Eggs — Sunday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Weedle Beedrill"
+    },
+    {
       "dex": 16,
       "name": "Pidgey",
       "uri": "file:///android_asset/Pokemon/Normal/Pidgey.png",
@@ -66,7 +111,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "You'll have an increased chance of encountering Shiny Pidgey from September 8 at 10:00 a.m. to September 11 at 10:00 a.m. local time."
+      "source_text": "Pidgey Pidgeotto"
     },
     {
       "dex": 16,
@@ -82,6 +127,36 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "You'll have an increased chance of encountering Shiny Pidgey from September 8 at 10:00 a.m. to September 11 at 10:00 a.m. local time."
+    },
+    {
+      "dex": 17,
+      "name": "Pidgeotto",
+      "uri": "file:///android_asset/Pokemon/Normal/Pidgeotto.png",
+      "label": "Eggs — Sunday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Pidgey Pidgeotto"
+    },
+    {
+      "dex": 228,
+      "name": "Houndour",
+      "uri": "file:///android_asset/Pokemon/Normal/Houndour.png",
+      "label": "Eggs — Sunday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Houndour Houndoom"
     },
     {
       "dex": 229,
@@ -129,6 +204,36 @@
       "source_text": "Mega Houndoom"
     },
     {
+      "dex": 229,
+      "name": "Houndoom",
+      "uri": "file:///android_asset/Pokemon/Mega/Houndoom_mega.png",
+      "label": "Eggs — Sunday — Mega — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "Mega Houndoom — Dark Pulse+"
+    },
+    {
+      "dex": 229,
+      "name": "Houndoom",
+      "uri": "file:///android_asset/Pokemon/Normal/Houndoom.png",
+      "label": "Eggs — Sunday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Houndour Houndoom"
+    },
+    {
       "dex": 318,
       "name": "Carvanha",
       "uri": "file:///android_asset/Pokemon/Normal/Carvanha.png",
@@ -141,7 +246,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "You'll have an increased chance of encountering Shiny Carvanha from September 11 at 10:00 a.m. to September 14 at 8:00 p.m. local time."
+      "source_text": "Carvanha Carvanha"
     },
     {
       "dex": 318,
@@ -249,6 +354,21 @@
       "source_text": "Fletchling"
     },
     {
+      "dex": 662,
+      "name": "Fletchinder",
+      "uri": "file:///android_asset/Pokemon/Normal/Fletchinder.png",
+      "label": "Eggs — Sunday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Fletchling Fletchinder"
+    },
+    {
       "dex": 674,
       "name": "Pancham",
       "uri": "file:///android_asset/Pokemon/Normal/Pancham.png",
@@ -307,6 +427,21 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Rookidee"
+    },
+    {
+      "dex": 822,
+      "name": "Corvisquire",
+      "uri": "file:///android_asset/Pokemon/Normal/Corvisquire.png",
+      "label": "Eggs — Sunday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Rookidee Corvisquire"
     },
     {
       "dex": 973,
@@ -639,6 +774,96 @@
       "source_text": "Carvanha"
     },
     {
+      "dex": 587,
+      "name": "Emolga",
+      "uri": "file:///android_asset/Pokemon/Normal/Emolga.png",
+      "label": "Raids — Sunday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Emolga"
+    },
+    {
+      "dex": 587,
+      "name": "Emolga",
+      "uri": "file:///android_asset/Pokemon/Shiny/Emolga_shiny.png",
+      "label": "Raids — Sunday — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Emolga"
+    },
+    {
+      "dex": 661,
+      "name": "Fletchling",
+      "uri": "file:///android_asset/Pokemon/Normal/Fletchling.png",
+      "label": "Raids — Sunday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Fletchling"
+    },
+    {
+      "dex": 661,
+      "name": "Fletchling",
+      "uri": "file:///android_asset/Pokemon/Shiny/Fletchling_shiny.png",
+      "label": "Raids — Sunday — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Fletchling"
+    },
+    {
+      "dex": 714,
+      "name": "Noibat",
+      "uri": "file:///android_asset/Pokemon/Normal/Noibat.png",
+      "label": "Raids — Sunday — Normal",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Noibat"
+    },
+    {
+      "dex": 714,
+      "name": "Noibat",
+      "uri": "file:///android_asset/Pokemon/Shiny/Noibat_shiny.png",
+      "label": "Raids — Sunday — Shiny",
+      "availability": "Raid",
+      "section": "Raids",
+      "day": "Sunday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Noibat"
+    },
+    {
       "dex": 821,
       "name": "Rookidee",
       "uri": "file:///android_asset/Pokemon/Normal/Rookidee.png",
@@ -697,36 +922,6 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Flamigo"
-    },
-    {
-      "dex": 15,
-      "name": "Beedrill",
-      "uri": "file:///android_asset/Pokemon/Mega/Beedrill_mega.png",
-      "label": "Field Research — Sunday — Mega — Normal",
-      "availability": "Research",
-      "section": "Field Research",
-      "day": "Sunday",
-      "habitat": "",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega",
-      "source_text": "Mega Beedrill — Fell Stinger+"
-    },
-    {
-      "dex": 229,
-      "name": "Houndoom",
-      "uri": "file:///android_asset/Pokemon/Mega/Houndoom_mega.png",
-      "label": "Field Research — Sunday — Mega — Normal",
-      "availability": "Research",
-      "section": "Field Research",
-      "day": "Sunday",
-      "habitat": "",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega",
-      "source_text": "Mega Houndoom — Dark Pulse+"
     },
     {
       "dex": 973,
