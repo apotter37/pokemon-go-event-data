@@ -84,6 +84,20 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
+      "title": "Wild Area Wild Area Pokémon GO Wild Area 2026: Global",
+      "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
+      "date_text": "Sun, Nov 15, at 6:00 PM",
+      "raw_text": "Wild Area Wild Area Pokemon GO Wild Area 2026: Global Sun, Nov 15, at 6:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "wild_area_wild_area_pokemon_go_wild_area_2026_global",
+      "file": "current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
       "title": "Pokemon Horizons: The Series Celebration Event",
       "url": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/",
       "date_text": "Tue, Sep 22, at 8:00 PM",

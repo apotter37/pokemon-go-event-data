@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09 16:35:10",
+  "generated_at": "2026-09-10 04:36:34",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -40,6 +40,15 @@
       "file": "current/phantump_catch_mastery.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/catch-mastery-phantump-2026/"
+    },
+    {
+      "id": "wild_area_wild_area_pokemon_go_wild_area_2026_global",
+      "title": "Wild Area Wild Area Pokémon GO Wild Area 2026: Global",
+      "category": "Event",
+      "date_text": "Sun, Nov 15, at 6:00 PM",
+      "file": "current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
     },
     {
       "id": "pokemon_horizons_the_series_celebration_event",

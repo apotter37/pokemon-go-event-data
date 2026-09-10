@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 13
-Current events: 6
+Events kept after cleanup: 14
+Current events: 7
 Upcoming events: 7
-Official news items found: 11
+Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 257
-Unmatched candidates: 3
-No-match debug rows: 3
+Matched entries: 513
+Unmatched candidates: 6
+No-match debug rows: 6
 
 Events written:
 - [current] Event: Harvest Festival 2026: Applin Picking
@@ -31,6 +31,11 @@ Events written:
   Entries: 13
   File: current/phantump_catch_mastery.json
   URL: https://leekduck.com/events/catch-mastery-phantump-2026/
+- [current] Event: Wild Area Wild Area Pokémon GO Wild Area 2026: Global
+  Date: Sun, Nov 15, at 6:00 PM
+  Entries: 184
+  File: current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json
+  URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 - [current] Event: Pokemon Horizons: The Series Celebration Event
   Date: Tue, Sep 22, at 8:00 PM
   Entries: 34
