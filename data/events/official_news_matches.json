@@ -4,6 +4,20 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
+      "title": "Patterns of the Wild",
+      "url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
+      "date_text": "Fri, Oct 2, at 8:00 PM",
+      "raw_text": "Event Event Patterns of the Wild Fri, Oct 2, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "patterns_of_the_wild",
+      "file": "current/patterns_of_the_wild.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
       "title": "Harvest Festival 2026: Applin Picking",
       "url": "https://leekduck.com/events/harvest-festival-2026/",
       "date_text": "Mon, Oct 5, at 8:00 PM",

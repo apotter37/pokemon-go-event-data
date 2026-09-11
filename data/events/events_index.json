@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-09-11 04:33:45",
+  "generated_at": "2026-09-11 16:25:25",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
   ],
   "current": [
+    {
+      "id": "patterns_of_the_wild",
+      "title": "Patterns of the Wild",
+      "category": "Event",
+      "date_text": "Fri, Oct 2, at 8:00 PM",
+      "file": "current/patterns_of_the_wild.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/patterns-of-the-wild-2026/"
+    },
     {
       "id": "harvest_festival_2026_applin_picking",
       "title": "Harvest Festival 2026: Applin Picking",
