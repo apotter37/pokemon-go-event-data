@@ -6,7 +6,7 @@ Upcoming events: 7
 Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 513
+Matched entries: 519
 Unmatched candidates: 6
 No-match debug rows: 6
 
@@ -23,7 +23,7 @@ Events written:
   URL: https://leekduck.com/events/harvest-festival-taken-over-2026/
 - [current] Event: Mega Squads
   Date: Mon, Sep 14, at 8:00 PM
-  Entries: 63
+  Entries: 67
   File: current/mega_squads.json
   URL: https://leekduck.com/events/mega-squads/
 - [current] Event: Phantump Catch Mastery
