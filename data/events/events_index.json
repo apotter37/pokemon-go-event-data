@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11 16:25:25",
+  "generated_at": "2026-09-12 04:29:34",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -40,6 +40,15 @@
       "file": "current/mega_squads.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/mega-squads/"
+    },
+    {
+      "id": "gible_community_day_classic",
+      "title": "Gible Community Day Classic",
+      "category": "Community Day",
+      "date_text": "Sat, Sep 12, at 5:00 PM",
+      "file": "current/gible_community_day_classic.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/september-communitydayclassic2026/"
     },
     {
       "id": "phantump_catch_mastery",
@@ -123,15 +132,6 @@
       "file": "upcoming/super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/super-mega-raid-day-october-2026/"
-    },
-    {
-      "id": "gible_community_day_classic",
-      "title": "Gible Community Day Classic",
-      "category": "Community Day",
-      "date_text": "Sat, Sep 12, at 5:00 PM",
-      "file": "upcoming/gible_community_day_classic.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/september-communitydayclassic2026/"
     },
     {
       "id": "staraptor_super_mega_raid_day",

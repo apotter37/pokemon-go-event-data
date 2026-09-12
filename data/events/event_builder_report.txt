@@ -1,8 +1,8 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 15
-Current events: 8
-Upcoming events: 7
+Current events: 9
+Upcoming events: 6
 Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
@@ -31,6 +31,11 @@ Events written:
   Entries: 67
   File: current/mega_squads.json
   URL: https://leekduck.com/events/mega-squads/
+- [current] Community Day: Gible Community Day Classic
+  Date: Sat, Sep 12, at 5:00 PM
+  Entries: 18
+  File: current/gible_community_day_classic.json
+  URL: https://leekduck.com/events/september-communitydayclassic2026/
 - [current] Event: Phantump Catch Mastery
   Date: Sat, Sep 26, at 8:00 PM
   Entries: 13
@@ -76,11 +81,6 @@ Events written:
   Entries: 0
   File: upcoming/super_mega_raid_day.json
   URL: https://leekduck.com/events/super-mega-raid-day-october-2026/
-- [upcoming] Community Day: Gible Community Day Classic
-  Date: Sat, Sep 12, at 5:00 PM
-  Entries: 18
-  File: upcoming/gible_community_day_classic.json
-  URL: https://leekduck.com/events/september-communitydayclassic2026/
 - [upcoming] Raid Day: Staraptor Super Mega Raid Day
   Date: Sat, Sep 19, at 5:00 PM
   Entries: 6
