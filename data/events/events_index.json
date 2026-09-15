@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14 18:04:10",
+  "generated_at": "2026-09-15 04:49:42",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -40,6 +40,15 @@
       "file": "current/mega_squads.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/mega-squads/"
+    },
+    {
+      "id": "choose_your_path_choose_your_path_choose_your_path_twilight_trails",
+      "title": "Choose Your Path Choose Your Path Choose Your Path: Twilight Trails",
+      "category": "Event",
+      "date_text": "Mon, Sep 28, at 8:00 PM",
+      "file": "current/choose_your_path_choose_your_path_choose_your_path_twilight_trails.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/"
     },
     {
       "id": "phantump_catch_mastery",
@@ -98,11 +107,11 @@
       "source_url": "https://leekduck.com/events/super-mega-raid-day-november-2026/"
     },
     {
-      "id": "october_community_day",
-      "title": "October Community Day",
+      "id": "zorua_community_day",
+      "title": "Zorua Community Day",
       "category": "Community Day",
       "date_text": "Sat, Oct 10, at 5:00 PM",
-      "file": "upcoming/october_community_day.json",
+      "file": "upcoming/zorua_community_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/october-communityday2026/"
     },

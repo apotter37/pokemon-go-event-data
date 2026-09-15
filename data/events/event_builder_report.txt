@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 14
-Current events: 8
+Events kept after cleanup: 15
+Current events: 9
 Upcoming events: 6
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 557
+Matched entries: 575
 Unmatched candidates: 6
 No-match debug rows: 6
 
@@ -31,6 +31,11 @@ Events written:
   Entries: 67
   File: current/mega_squads.json
   URL: https://leekduck.com/events/mega-squads/
+- [current] Event: Choose Your Path Choose Your Path Choose Your Path: Twilight Trails
+  Date: Mon, Sep 28, at 8:00 PM
+  Entries: 0
+  File: current/choose_your_path_choose_your_path_choose_your_path_twilight_trails.json
+  URL: https://leekduck.com/events/choose-your-path-twilight-trails-2026/
 - [current] Event: Phantump Catch Mastery
   Date: Sat, Sep 26, at 8:00 PM
   Entries: 13
@@ -61,10 +66,10 @@ Events written:
   Entries: 0
   File: upcoming/super_mega_raid_day_2.json
   URL: https://leekduck.com/events/super-mega-raid-day-november-2026/
-- [upcoming] Community Day: October Community Day
+- [upcoming] Community Day: Zorua Community Day
   Date: Sat, Oct 10, at 5:00 PM
-  Entries: 0
-  File: upcoming/october_community_day.json
+  Entries: 13
+  File: upcoming/zorua_community_day.json
   URL: https://leekduck.com/events/october-communityday2026/
 - [upcoming] Event: Hatch Day October 2026
   Date: Sat, Oct 17, at 5:00 PM
