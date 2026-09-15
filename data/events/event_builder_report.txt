@@ -46,10 +46,10 @@ Events written:
   Entries: 185
   File: current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
-- [current] Event: Pokemon Horizons: The Series Celebration Event
+- [current] Event: Pokemon Horizons: The Series Celebration Event 2026
   Date: Tue, Sep 22, at 8:00 PM
   Entries: 32
-  File: current/pokemon_horizons_the_series_celebration_event.json
+  File: current/pokemon_horizons_the_series_celebration_event_2026.json
   URL: https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/
 - [current] Event: LEGO Stores and Pokémon GO
   Date: Wed, Sep 30, at 11:59 PM
