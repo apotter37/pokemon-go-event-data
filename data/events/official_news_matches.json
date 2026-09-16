@@ -211,7 +211,13 @@
       "id": "zorua_community_day",
       "file": "upcoming/zorua_community_day.json"
     },
-    "official_matches": []
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "October 2026 Community Day: Zorua",
+        "url": "https://pokemongo.com/news/communityday-october-2026-zorua"
+      }
+    ]
   },
   {
     "event": {
@@ -225,7 +231,13 @@
       "id": "hatch_day_october_2026",
       "file": "upcoming/hatch_day_october_2026.json"
     },
-    "official_matches": []
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "October 2026 Community Day: Zorua",
+        "url": "https://pokemongo.com/news/communityday-october-2026-zorua"
+      }
+    ]
   },
   {
     "event": {

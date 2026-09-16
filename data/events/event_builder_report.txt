@@ -6,7 +6,7 @@ Upcoming events: 6
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 575
+Matched entries: 598
 Unmatched candidates: 6
 No-match debug rows: 6
 
@@ -48,7 +48,7 @@ Events written:
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 - [current] Event: Pokemon Horizons: The Series Celebration Event 2026
   Date: Tue, Sep 22, at 8:00 PM
-  Entries: 32
+  Entries: 50
   File: current/pokemon_horizons_the_series_celebration_event_2026.json
   URL: https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/
 - [current] Event: LEGO Stores and Pokémon GO
@@ -68,7 +68,7 @@ Events written:
   URL: https://leekduck.com/events/super-mega-raid-day-november-2026/
 - [upcoming] Community Day: Zorua Community Day
   Date: Sat, Oct 10, at 5:00 PM
-  Entries: 13
+  Entries: 14
   File: upcoming/zorua_community_day.json
   URL: https://leekduck.com/events/october-communityday2026/
 - [upcoming] Event: Hatch Day October 2026
