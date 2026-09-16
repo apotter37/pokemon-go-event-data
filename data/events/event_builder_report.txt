@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 15
-Current events: 9
+Events kept after cleanup: 14
+Current events: 8
 Upcoming events: 6
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 598
-Unmatched candidates: 6
-No-match debug rows: 6
+Matched entries: 514
+Unmatched candidates: 3
+No-match debug rows: 3
 
 Events written:
 - [current] Event: Patterns of the Wild
@@ -26,11 +26,6 @@ Events written:
   Entries: 31
   File: current/harvest_festival_taken_over.json
   URL: https://leekduck.com/events/harvest-festival-taken-over-2026/
-- [current] Event: Mega Squads
-  Date: Mon, Sep 14, at 8:00 PM
-  Entries: 67
-  File: current/mega_squads.json
-  URL: https://leekduck.com/events/mega-squads/
 - [current] Event: Choose Your Path Choose Your Path Choose Your Path: Twilight Trails
   Date: Mon, Sep 28, at 8:00 PM
   Entries: 0
@@ -48,7 +43,7 @@ Events written:
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 - [current] Event: Pokemon Horizons: The Series Celebration Event 2026
   Date: Tue, Sep 22, at 8:00 PM
-  Entries: 50
+  Entries: 55
   File: current/pokemon_horizons_the_series_celebration_event_2026.json
   URL: https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/
 - [current] Event: LEGO Stores and Pokémon GO
