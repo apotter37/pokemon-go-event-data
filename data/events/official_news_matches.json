@@ -148,6 +148,62 @@
   {
     "event": {
       "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
+      "title": "??? Unknown End Time",
+      "url": "https://leekduck.com/events/unannounced-event-october-2026/",
+      "date_text": "",
+      "raw_text": "Event Event ??? Unknown End Time Ends: true",
+      "id": "unknown_end_time",
+      "file": "current/unknown_end_time.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
+      "title": "Fall Marathon: Buddy Trek Unknown End Time",
+      "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
+      "date_text": "",
+      "raw_text": "Event Event Fall Marathon: Buddy Trek Unknown End Time Ends: true",
+      "id": "fall_marathon_buddy_trek_unknown_end_time",
+      "file": "current/fall_marathon_buddy_trek_unknown_end_time.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
+      "title": "Halloween 2026 Part I Unknown End Time",
+      "url": "https://leekduck.com/events/halloween-2026-part-1/",
+      "date_text": "",
+      "raw_text": "Event Event Halloween 2026 Part I Unknown End Time Ends: true",
+      "id": "halloween_2026_part_i_unknown_end_time",
+      "file": "current/halloween_2026_part_i_unknown_end_time.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
+      "title": "Halloween 2026 Part II Unknown End Time",
+      "url": "https://leekduck.com/events/halloween-2026-part-2/",
+      "date_text": "",
+      "raw_text": "Event Event Halloween 2026 Part II Unknown End Time Ends: true",
+      "id": "halloween_2026_part_ii_unknown_end_time",
+      "file": "current/halloween_2026_part_ii_unknown_end_time.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
       "status": "upcoming",
       "category": "Community Day",
       "title": "November Community Day",

@@ -1,7 +1,7 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 14
-Current events: 8
+Events kept after cleanup: 18
+Current events: 12
 Upcoming events: 6
 Official news items found: 9
 Pokemon names loaded: 1026
@@ -51,6 +51,22 @@ Events written:
   Entries: 8
   File: current/lego_stores_and_pokemon_go.json
   URL: https://leekduck.com/events/lego-pokemon-go-2026/
+- [current] Event: ??? Unknown End Time
+  Entries: 0
+  File: current/unknown_end_time.json
+  URL: https://leekduck.com/events/unannounced-event-october-2026/
+- [current] Event: Fall Marathon: Buddy Trek Unknown End Time
+  Entries: 0
+  File: current/fall_marathon_buddy_trek_unknown_end_time.json
+  URL: https://leekduck.com/events/fall-marathon-buddy-trek-2026/
+- [current] Event: Halloween 2026 Part I Unknown End Time
+  Entries: 0
+  File: current/halloween_2026_part_i_unknown_end_time.json
+  URL: https://leekduck.com/events/halloween-2026-part-1/
+- [current] Event: Halloween 2026 Part II Unknown End Time
+  Entries: 0
+  File: current/halloween_2026_part_ii_unknown_end_time.json
+  URL: https://leekduck.com/events/halloween-2026-part-2/
 - [upcoming] Community Day: November Community Day
   Date: Sat, Nov 21, at 5:00 PM
   Entries: 0
