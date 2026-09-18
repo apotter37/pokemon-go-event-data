@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18 04:38:14",
+  "generated_at": "2026-09-18 16:21:25",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -67,6 +67,15 @@
       "file": "current/pokemon_horizons_the_series_celebration_event_2026.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/"
+    },
+    {
+      "id": "research_pokemon_horizons_bonus_timed_research",
+      "title": "Research Pokemon Horizons Bonus Timed Research",
+      "category": "Event",
+      "date_text": "Tue, Sep 22, at 8:00 PM",
+      "file": "current/research_pokemon_horizons_bonus_timed_research.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/"
     },
     {
       "id": "lego_stores_and_pokemon_go",

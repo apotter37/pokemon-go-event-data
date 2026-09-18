@@ -80,6 +80,17 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
+    "title": "Research Pokemon Horizons Bonus Timed Research",
+    "url": "https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/",
+    "date_text": "Tue, Sep 22, at 8:00 PM",
+    "raw_text": "Research Research Pokemon Horizons Bonus Timed Research Tue, Sep 22, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "research_pokemon_horizons_bonus_timed_research",
+    "file": "current/research_pokemon_horizons_bonus_timed_research.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
     "title": "LEGO Stores and Pokémon GO",
     "url": "https://leekduck.com/events/lego-pokemon-go-2026/",
     "date_text": "Wed, Sep 30, at 11:59 PM",
@@ -94,7 +105,7 @@
     "title": "??? Unknown End Time",
     "url": "https://leekduck.com/events/unannounced-event-october-2026/",
     "date_text": "",
-    "raw_text": "Event Event ??? Unknown End Time Ends: true",
+    "raw_text": "Event Event ??? Unknown End Time Ends: Unknown",
     "id": "unknown_end_time",
     "file": "current/unknown_end_time.json"
   },
@@ -105,7 +116,7 @@
     "title": "Fall Marathon: Buddy Trek Unknown End Time",
     "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
     "date_text": "",
-    "raw_text": "Event Event Fall Marathon: Buddy Trek Unknown End Time Ends: true",
+    "raw_text": "Event Event Fall Marathon: Buddy Trek Unknown End Time Ends: Unknown",
     "id": "fall_marathon_buddy_trek_unknown_end_time",
     "file": "current/fall_marathon_buddy_trek_unknown_end_time.json"
   },
@@ -116,7 +127,7 @@
     "title": "Halloween 2026 Part I Unknown End Time",
     "url": "https://leekduck.com/events/halloween-2026-part-1/",
     "date_text": "",
-    "raw_text": "Event Event Halloween 2026 Part I Unknown End Time Ends: true",
+    "raw_text": "Event Event Halloween 2026 Part I Unknown End Time Ends: Unknown",
     "id": "halloween_2026_part_i_unknown_end_time",
     "file": "current/halloween_2026_part_i_unknown_end_time.json"
   },
@@ -127,7 +138,7 @@
     "title": "Halloween 2026 Part II Unknown End Time",
     "url": "https://leekduck.com/events/halloween-2026-part-2/",
     "date_text": "",
-    "raw_text": "Event Event Halloween 2026 Part II Unknown End Time Ends: true",
+    "raw_text": "Event Event Halloween 2026 Part II Unknown End Time Ends: Unknown",
     "id": "halloween_2026_part_ii_unknown_end_time",
     "file": "current/halloween_2026_part_ii_unknown_end_time.json"
   },

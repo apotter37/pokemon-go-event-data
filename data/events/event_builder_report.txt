@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 18
-Current events: 12
+Events kept after cleanup: 19
+Current events: 13
 Upcoming events: 6
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 527
+Matched entries: 528
 Unmatched candidates: 3
 No-match debug rows: 3
 
@@ -46,6 +46,11 @@ Events written:
   Entries: 63
   File: current/pokemon_horizons_the_series_celebration_event_2026.json
   URL: https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/
+- [current] Event: Research Pokemon Horizons Bonus Timed Research
+  Date: Tue, Sep 22, at 8:00 PM
+  Entries: 1
+  File: current/research_pokemon_horizons_bonus_timed_research.json
+  URL: https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/
 - [current] Event: LEGO Stores and Pokémon GO
   Date: Wed, Sep 30, at 11:59 PM
   Entries: 8
