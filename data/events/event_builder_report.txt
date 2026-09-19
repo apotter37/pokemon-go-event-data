@@ -1,8 +1,8 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 19
-Current events: 13
-Upcoming events: 6
+Current events: 14
+Upcoming events: 5
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
@@ -16,6 +16,11 @@ Events written:
   Entries: 34
   File: current/patterns_of_the_wild.json
   URL: https://leekduck.com/events/patterns-of-the-wild-2026/
+- [current] Event: Fall Marathon: Buddy Trek
+  Date: Mon, Oct 19, at 8:00 PM
+  Entries: 0
+  File: current/fall_marathon_buddy_trek.json
+  URL: https://leekduck.com/events/fall-marathon-buddy-trek-2026/
 - [current] Event: Harvest Festival 2026: Applin Picking
   Date: Mon, Oct 5, at 8:00 PM
   Entries: 22
@@ -31,6 +36,21 @@ Events written:
   Entries: 0
   File: current/choose_your_path_choose_your_path_choose_your_path_twilight_trails.json
   URL: https://leekduck.com/events/choose-your-path-twilight-trails-2026/
+- [current] Event: ???
+  Date: Sat, Oct 10, at 8:00 PM
+  Entries: 0
+  File: current/pokemon_go_event.json
+  URL: https://leekduck.com/events/unannounced-event-october-2026/
+- [current] Event: Halloween 2026 Part I
+  Date: Sat, Oct 31, at 8:00 PM
+  Entries: 0
+  File: current/halloween_2026_part_i.json
+  URL: https://leekduck.com/events/halloween-2026-part-1/
+- [current] Raid Day: Staraptor Super Mega Raid Day
+  Date: Sat, Sep 19, at 5:00 PM
+  Entries: 10
+  File: current/staraptor_super_mega_raid_day.json
+  URL: https://leekduck.com/events/staraptor-super-mega-raid-day-2026/
 - [current] Event: Phantump Catch Mastery
   Date: Sat, Sep 26, at 8:00 PM
   Entries: 13
@@ -41,6 +61,11 @@ Events written:
   Entries: 185
   File: current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
+- [current] Event: Halloween 2026 Part II
+  Date: Thu, Nov 5, at 8:00 PM
+  Entries: 0
+  File: current/halloween_2026_part_ii.json
+  URL: https://leekduck.com/events/halloween-2026-part-2/
 - [current] Event: Pokemon Horizons: The Series Celebration Event 2026
   Date: Tue, Sep 22, at 8:00 PM
   Entries: 63
@@ -56,22 +81,6 @@ Events written:
   Entries: 8
   File: current/lego_stores_and_pokemon_go.json
   URL: https://leekduck.com/events/lego-pokemon-go-2026/
-- [current] Event: ??? Unknown End Time
-  Entries: 0
-  File: current/unknown_end_time.json
-  URL: https://leekduck.com/events/unannounced-event-october-2026/
-- [current] Event: Fall Marathon: Buddy Trek Unknown End Time
-  Entries: 0
-  File: current/fall_marathon_buddy_trek_unknown_end_time.json
-  URL: https://leekduck.com/events/fall-marathon-buddy-trek-2026/
-- [current] Event: Halloween 2026 Part I Unknown End Time
-  Entries: 0
-  File: current/halloween_2026_part_i_unknown_end_time.json
-  URL: https://leekduck.com/events/halloween-2026-part-1/
-- [current] Event: Halloween 2026 Part II Unknown End Time
-  Entries: 0
-  File: current/halloween_2026_part_ii_unknown_end_time.json
-  URL: https://leekduck.com/events/halloween-2026-part-2/
 - [upcoming] Community Day: November Community Day
   Date: Sat, Nov 21, at 5:00 PM
   Entries: 0
@@ -97,11 +106,6 @@ Events written:
   Entries: 0
   File: upcoming/super_mega_raid_day.json
   URL: https://leekduck.com/events/super-mega-raid-day-october-2026/
-- [upcoming] Raid Day: Staraptor Super Mega Raid Day
-  Date: Sat, Sep 19, at 5:00 PM
-  Entries: 10
-  File: upcoming/staraptor_super_mega_raid_day.json
-  URL: https://leekduck.com/events/staraptor-super-mega-raid-day-2026/
 
 Wrote index: data/events/events_index.json
 Wrote raw LeekDuck data: data/events/leekduck_events_raw.json

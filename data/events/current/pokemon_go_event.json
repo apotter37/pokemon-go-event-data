@@ -1,11 +1,11 @@
 {
-  "id": "unknown_end_time",
-  "title": "??? Unknown End Time",
+  "id": "pokemon_go_event",
+  "title": "???",
   "status": "current",
   "category": "Event",
-  "date_text": "",
+  "date_text": "Sat, Oct 10, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/unannounced-event-october-2026/",
-  "generated_at": "2026-09-18 16:21:20",
+  "generated_at": "2026-09-19 04:32:55",
   "entries": []
 }

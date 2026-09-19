@@ -18,6 +18,20 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
+      "title": "Fall Marathon: Buddy Trek",
+      "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
+      "date_text": "Mon, Oct 19, at 8:00 PM",
+      "raw_text": "Event Event Fall Marathon: Buddy Trek Mon, Oct 19, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "fall_marathon_buddy_trek",
+      "file": "current/fall_marathon_buddy_trek.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
       "title": "Harvest Festival 2026: Applin Picking",
       "url": "https://leekduck.com/events/harvest-festival-2026/",
       "date_text": "Mon, Oct 5, at 8:00 PM",
@@ -72,6 +86,70 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
+      "title": "???",
+      "url": "https://leekduck.com/events/unannounced-event-october-2026/",
+      "date_text": "Sat, Oct 10, at 8:00 PM",
+      "raw_text": "Event Event ??? Sat, Oct 10, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "pokemon_go_event",
+      "file": "current/pokemon_go_event.json"
+    },
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Enjoy a bountiful Harvest Festival event with Shiny Applin's Pokemon GO debut!",
+        "url": "https://pokemongo.com/news/harvest-festival-2026"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "The “Pokemon Horizons: The Series” Celebration Event returns!",
+        "url": "https://pokemongo.com/news/pokemon-horizons-celebration-event-2026"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "Get ready for a Catch Mastery event featuring Phantump, the Stump Pokemon!",
+        "url": "https://pokemongo.com/news/catch-mastery-phantump-2026"
+      }
+    ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
+      "title": "Halloween 2026 Part I",
+      "url": "https://leekduck.com/events/halloween-2026-part-1/",
+      "date_text": "Sat, Oct 31, at 8:00 PM",
+      "raw_text": "Event Event Halloween 2026 Part I Sat, Oct 31, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "halloween_2026_part_i",
+      "file": "current/halloween_2026_part_i.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Raid Day",
+      "title": "Staraptor Super Mega Raid Day",
+      "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
+      "date_text": "Sat, Sep 19, at 5:00 PM",
+      "raw_text": "Raid Day Raid Day Staraptor Super Mega Raid Day Sat, Sep 19, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "staraptor_super_mega_raid_day",
+      "file": "current/staraptor_super_mega_raid_day.json"
+    },
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Ready yourself to courageously challenge Staraptor Super Mega Raid Day!",
+        "url": "https://pokemongo.com/news/staraptor-super-mega-raid-day-2026"
+      }
+    ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
       "title": "Phantump Catch Mastery",
       "url": "https://leekduck.com/events/catch-mastery-phantump-2026/",
       "date_text": "Sat, Sep 26, at 8:00 PM",
@@ -98,6 +176,20 @@
       "raw_text": "Wild Area Wild Area Pokemon GO Wild Area 2026: Global Sun, Nov 15, at 6:00 PM Local Time Ends: 0 days 0 hours 0 min",
       "id": "wild_area_wild_area_pokemon_go_wild_area_2026_global",
       "file": "current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
+      "title": "Halloween 2026 Part II",
+      "url": "https://leekduck.com/events/halloween-2026-part-2/",
+      "date_text": "Thu, Nov 5, at 8:00 PM",
+      "raw_text": "Event Event Halloween 2026 Part II Thu, Nov 5, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "halloween_2026_part_ii",
+      "file": "current/halloween_2026_part_ii.json"
     },
     "official_matches": []
   },
@@ -162,62 +254,6 @@
       "raw_text": "Event Event LEGO Stores and Pokemon GO Wed, Sep 30, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
       "id": "lego_stores_and_pokemon_go",
       "file": "current/lego_stores_and_pokemon_go.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
-      "title": "??? Unknown End Time",
-      "url": "https://leekduck.com/events/unannounced-event-october-2026/",
-      "date_text": "",
-      "raw_text": "Event Event ??? Unknown End Time Ends: Unknown",
-      "id": "unknown_end_time",
-      "file": "current/unknown_end_time.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
-      "title": "Fall Marathon: Buddy Trek Unknown End Time",
-      "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
-      "date_text": "",
-      "raw_text": "Event Event Fall Marathon: Buddy Trek Unknown End Time Ends: Unknown",
-      "id": "fall_marathon_buddy_trek_unknown_end_time",
-      "file": "current/fall_marathon_buddy_trek_unknown_end_time.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
-      "title": "Halloween 2026 Part I Unknown End Time",
-      "url": "https://leekduck.com/events/halloween-2026-part-1/",
-      "date_text": "",
-      "raw_text": "Event Event Halloween 2026 Part I Unknown End Time Ends: Unknown",
-      "id": "halloween_2026_part_i_unknown_end_time",
-      "file": "current/halloween_2026_part_i_unknown_end_time.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
-      "title": "Halloween 2026 Part II Unknown End Time",
-      "url": "https://leekduck.com/events/halloween-2026-part-2/",
-      "date_text": "",
-      "raw_text": "Event Event Halloween 2026 Part II Unknown End Time Ends: Unknown",
-      "id": "halloween_2026_part_ii_unknown_end_time",
-      "file": "current/halloween_2026_part_ii_unknown_end_time.json"
     },
     "official_matches": []
   },
@@ -306,26 +342,6 @@
       "raw_text": "Raid Day Raid Day Super Mega Raid Day Sat, Oct 31, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
       "id": "super_mega_raid_day",
       "file": "upcoming/super_mega_raid_day.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "Ready yourself to courageously challenge Staraptor Super Mega Raid Day!",
-        "url": "https://pokemongo.com/news/staraptor-super-mega-raid-day-2026"
-      }
-    ]
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "upcoming",
-      "category": "Raid Day",
-      "title": "Staraptor Super Mega Raid Day",
-      "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
-      "date_text": "Sat, Sep 19, at 5:00 PM",
-      "raw_text": "Raid Day Raid Day Staraptor Super Mega Raid Day Sat, Sep 19, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "staraptor_super_mega_raid_day",
-      "file": "upcoming/staraptor_super_mega_raid_day.json"
     },
     "official_matches": [
       {

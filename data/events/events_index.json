@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18 16:21:25",
+  "generated_at": "2026-09-19 04:33:18",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -13,6 +13,15 @@
       "file": "current/patterns_of_the_wild.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/patterns-of-the-wild-2026/"
+    },
+    {
+      "id": "fall_marathon_buddy_trek",
+      "title": "Fall Marathon: Buddy Trek",
+      "category": "Event",
+      "date_text": "Mon, Oct 19, at 8:00 PM",
+      "file": "current/fall_marathon_buddy_trek.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/"
     },
     {
       "id": "harvest_festival_2026_applin_picking",
@@ -42,6 +51,33 @@
       "source_url": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/"
     },
     {
+      "id": "pokemon_go_event",
+      "title": "???",
+      "category": "Event",
+      "date_text": "Sat, Oct 10, at 8:00 PM",
+      "file": "current/pokemon_go_event.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/unannounced-event-october-2026/"
+    },
+    {
+      "id": "halloween_2026_part_i",
+      "title": "Halloween 2026 Part I",
+      "category": "Event",
+      "date_text": "Sat, Oct 31, at 8:00 PM",
+      "file": "current/halloween_2026_part_i.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/halloween-2026-part-1/"
+    },
+    {
+      "id": "staraptor_super_mega_raid_day",
+      "title": "Staraptor Super Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Sep 19, at 5:00 PM",
+      "file": "current/staraptor_super_mega_raid_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/"
+    },
+    {
       "id": "phantump_catch_mastery",
       "title": "Phantump Catch Mastery",
       "category": "Event",
@@ -58,6 +94,15 @@
       "file": "current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    },
+    {
+      "id": "halloween_2026_part_ii",
+      "title": "Halloween 2026 Part II",
+      "category": "Event",
+      "date_text": "Thu, Nov 5, at 8:00 PM",
+      "file": "current/halloween_2026_part_ii.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/halloween-2026-part-2/"
     },
     {
       "id": "pokemon_horizons_the_series_celebration_event_2026",
@@ -85,42 +130,6 @@
       "file": "current/lego_stores_and_pokemon_go.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/lego-pokemon-go-2026/"
-    },
-    {
-      "id": "unknown_end_time",
-      "title": "??? Unknown End Time",
-      "category": "Event",
-      "date_text": "",
-      "file": "current/unknown_end_time.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/unannounced-event-october-2026/"
-    },
-    {
-      "id": "fall_marathon_buddy_trek_unknown_end_time",
-      "title": "Fall Marathon: Buddy Trek Unknown End Time",
-      "category": "Event",
-      "date_text": "",
-      "file": "current/fall_marathon_buddy_trek_unknown_end_time.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/"
-    },
-    {
-      "id": "halloween_2026_part_i_unknown_end_time",
-      "title": "Halloween 2026 Part I Unknown End Time",
-      "category": "Event",
-      "date_text": "",
-      "file": "current/halloween_2026_part_i_unknown_end_time.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/halloween-2026-part-1/"
-    },
-    {
-      "id": "halloween_2026_part_ii_unknown_end_time",
-      "title": "Halloween 2026 Part II Unknown End Time",
-      "category": "Event",
-      "date_text": "",
-      "file": "current/halloween_2026_part_ii_unknown_end_time.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/halloween-2026-part-2/"
     }
   ],
   "upcoming": [
@@ -168,15 +177,6 @@
       "file": "upcoming/super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/super-mega-raid-day-october-2026/"
-    },
-    {
-      "id": "staraptor_super_mega_raid_day",
-      "title": "Staraptor Super Mega Raid Day",
-      "category": "Raid Day",
-      "date_text": "Sat, Sep 19, at 5:00 PM",
-      "file": "upcoming/staraptor_super_mega_raid_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/"
     }
   ]
 }
