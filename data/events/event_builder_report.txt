@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 19
-Current events: 14
+Events kept after cleanup: 18
+Current events: 13
 Upcoming events: 5
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 528
+Matched entries: 522
 Unmatched candidates: 3
 No-match debug rows: 3
 
@@ -36,21 +36,16 @@ Events written:
   Entries: 0
   File: current/choose_your_path_choose_your_path_choose_your_path_twilight_trails.json
   URL: https://leekduck.com/events/choose-your-path-twilight-trails-2026/
-- [current] Event: ???
-  Date: Sat, Oct 10, at 8:00 PM
-  Entries: 0
-  File: current/pokemon_go_event.json
-  URL: https://leekduck.com/events/unannounced-event-october-2026/
+- [current] Event: World Space Week 2026
+  Date: Sat, Oct 10, at 11:59 PM
+  Entries: 6
+  File: current/world_space_week_2026.json
+  URL: https://leekduck.com/events/world-space-week-2026/
 - [current] Event: Halloween 2026 Part I
   Date: Sat, Oct 31, at 8:00 PM
   Entries: 0
   File: current/halloween_2026_part_i.json
   URL: https://leekduck.com/events/halloween-2026-part-1/
-- [current] Raid Day: Staraptor Super Mega Raid Day
-  Date: Sat, Sep 19, at 5:00 PM
-  Entries: 10
-  File: current/staraptor_super_mega_raid_day.json
-  URL: https://leekduck.com/events/staraptor-super-mega-raid-day-2026/
 - [current] Event: Phantump Catch Mastery
   Date: Sat, Sep 26, at 8:00 PM
   Entries: 13

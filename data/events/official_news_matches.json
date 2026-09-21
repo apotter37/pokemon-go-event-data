@@ -86,30 +86,14 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "???",
-      "url": "https://leekduck.com/events/unannounced-event-october-2026/",
-      "date_text": "Sat, Oct 10, at 8:00 PM",
-      "raw_text": "Event Event ??? Sat, Oct 10, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "pokemon_go_event",
-      "file": "current/pokemon_go_event.json"
+      "title": "World Space Week 2026",
+      "url": "https://leekduck.com/events/world-space-week-2026/",
+      "date_text": "Sat, Oct 10, at 11:59 PM",
+      "raw_text": "Event Event World Space Week 2026 Sat, Oct 10, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "world_space_week_2026",
+      "file": "current/world_space_week_2026.json"
     },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "Enjoy a bountiful Harvest Festival event with Shiny Applin's Pokemon GO debut!",
-        "url": "https://pokemongo.com/news/harvest-festival-2026"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "The “Pokemon Horizons: The Series” Celebration Event returns!",
-        "url": "https://pokemongo.com/news/pokemon-horizons-celebration-event-2026"
-      },
-      {
-        "source": "Official Pokémon GO",
-        "title": "Get ready for a Catch Mastery event featuring Phantump, the Stump Pokemon!",
-        "url": "https://pokemongo.com/news/catch-mastery-phantump-2026"
-      }
-    ]
+    "official_matches": []
   },
   {
     "event": {
@@ -124,26 +108,6 @@
       "file": "current/halloween_2026_part_i.json"
     },
     "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Raid Day",
-      "title": "Staraptor Super Mega Raid Day",
-      "url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/",
-      "date_text": "Sat, Sep 19, at 5:00 PM",
-      "raw_text": "Raid Day Raid Day Staraptor Super Mega Raid Day Sat, Sep 19, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "staraptor_super_mega_raid_day",
-      "file": "current/staraptor_super_mega_raid_day.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "Ready yourself to courageously challenge Staraptor Super Mega Raid Day!",
-        "url": "https://pokemongo.com/news/staraptor-super-mega-raid-day-2026"
-      }
-    ]
   },
   {
     "event": {

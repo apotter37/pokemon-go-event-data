@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 04:50:35",
+  "generated_at": "2026-09-21 18:12:16",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -51,13 +51,13 @@
       "source_url": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/"
     },
     {
-      "id": "pokemon_go_event",
-      "title": "???",
+      "id": "world_space_week_2026",
+      "title": "World Space Week 2026",
       "category": "Event",
-      "date_text": "Sat, Oct 10, at 8:00 PM",
-      "file": "current/pokemon_go_event.json",
+      "date_text": "Sat, Oct 10, at 11:59 PM",
+      "file": "current/world_space_week_2026.json",
       "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/unannounced-event-october-2026/"
+      "source_url": "https://leekduck.com/events/world-space-week-2026/"
     },
     {
       "id": "halloween_2026_part_i",
@@ -67,15 +67,6 @@
       "file": "current/halloween_2026_part_i.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/halloween-2026-part-1/"
-    },
-    {
-      "id": "staraptor_super_mega_raid_day",
-      "title": "Staraptor Super Mega Raid Day",
-      "category": "Raid Day",
-      "date_text": "Sat, Sep 19, at 5:00 PM",
-      "file": "current/staraptor_super_mega_raid_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/staraptor-super-mega-raid-day-2026/"
     },
     {
       "id": "phantump_catch_mastery",
