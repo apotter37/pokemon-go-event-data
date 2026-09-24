@@ -1,16 +1,21 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 21
-Current events: 16
+Events kept after cleanup: 20
+Current events: 15
 Upcoming events: 5
-Official news items found: 9
+Official news items found: 11
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 575
+Matched entries: 494
 Unmatched candidates: 8
 No-match debug rows: 8
 
 Events written:
+- [current] Event: Research adidas × Pokemon Timed Research
+  Date: Fri, Jan 15, at 8:00 PM
+  Entries: 2
+  File: current/research_adidas_pokemon_timed_research.json
+  URL: https://leekduck.com/events/pokemon-x-adidas-2026/
 - [current] Event: Patterns of the Wild
   Date: Fri, Oct 2, at 8:00 PM
   Entries: 34
@@ -61,16 +66,6 @@ Events written:
   Entries: 0
   File: current/halloween_2026_part_ii.json
   URL: https://leekduck.com/events/halloween-2026-part-2/
-- [current] Event: Pokemon Horizons: The Series Celebration Event 2026
-  Date: Tue, Sep 22, at 8:00 PM
-  Entries: 63
-  File: current/pokemon_horizons_the_series_celebration_event_2026.json
-  URL: https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/
-- [current] Event: Research Pokemon Horizons Bonus Timed Research
-  Date: Tue, Sep 22, at 8:00 PM
-  Entries: 1
-  File: current/research_pokemon_horizons_bonus_timed_research.json
-  URL: https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/
 - [current] Event: LEGO Stores and Pokémon GO
   Date: Wed, Sep 30, at 11:59 PM
   Entries: 8

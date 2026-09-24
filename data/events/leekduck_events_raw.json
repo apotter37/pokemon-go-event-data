@@ -3,6 +3,17 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
+    "title": "Research adidas × Pokemon Timed Research",
+    "url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
+    "date_text": "Fri, Jan 15, at 8:00 PM",
+    "raw_text": "Research Research adidas × Pokemon Timed Research Fri, Jan 15, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "research_adidas_pokemon_timed_research",
+    "file": "current/research_adidas_pokemon_timed_research.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
     "title": "Patterns of the Wild",
     "url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
     "date_text": "Fri, Oct 2, at 8:00 PM",
@@ -108,28 +119,6 @@
     "raw_text": "Event Event Halloween 2026 Part II Thu, Nov 5, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "halloween_2026_part_ii",
     "file": "current/halloween_2026_part_ii.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
-    "title": "Pokemon Horizons: The Series Celebration Event 2026",
-    "url": "https://leekduck.com/events/pokemon-horizons-the-series-celebration-event-2026/",
-    "date_text": "Tue, Sep 22, at 8:00 PM",
-    "raw_text": "Event Event Pokemon Horizons: The Series Celebration Event 2026 Tue, Sep 22, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "pokemon_horizons_the_series_celebration_event_2026",
-    "file": "current/pokemon_horizons_the_series_celebration_event_2026.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
-    "title": "Research Pokemon Horizons Bonus Timed Research",
-    "url": "https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/",
-    "date_text": "Tue, Sep 22, at 8:00 PM",
-    "raw_text": "Research Research Pokemon Horizons Bonus Timed Research Tue, Sep 22, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "research_pokemon_horizons_bonus_timed_research",
-    "file": "current/research_pokemon_horizons_bonus_timed_research.json"
   },
   {
     "source": "LeekDuck",
