@@ -59,6 +59,59 @@ patterns_of_the_wild,Patterns of the Wild,Ledyba,True,Shiny/Ledyba_shiny.png,Tim
 patterns_of_the_wild,Patterns of the Wild,Hoppip,False,Normal/Hoppip.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Hoppip
 patterns_of_the_wild,Patterns of the Wild,Hoppip,True,Shiny/Hoppip_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Hoppip
 patterns_of_the_wild,Patterns of the Wild,Pikachu,False,Costume/Pikachu_2023.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Batik Shirt Pikachu
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Growlithe,False,Hisuian/Growlithe_hisuian.png,Event — Hisuian — Normal,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Growlithe,True,Hisuian/Shiny/Growlithe_hisuian_shiny.png,Event — Hisuian — Shiny,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Event — Hisuian — Normal,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,True,Shiny/Electrike_shiny.png,Event — Hisuian — Shiny,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Pikachu,False,Costume/Pikachu_fall.png,Event — Hisuian — Normal,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Pikachu,True,Shiny/Pikachu_shiny.png,Event — Hisuian — Shiny,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Manectric,False,Mega/Manectric_mega.png,Field Research — Mega — Normal,Research,Field Research,,,Mega Manectric
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Manectric,False,Mega/Manectric_mega.png,Field Research — Mega — Normal,Research,Field Research,,,Mega Manectric
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Manectric,True,Mega/Shiny/Manectric_mega_shiny.png,Field Research — Mega — Shiny,Research,Field Research,,,Mega Manectric
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Manectric,False,Mega/Manectric_mega.png,Field Research — Mega Super — Normal,Research,Field Research,,,"To reach Super Max Level, first raise Manectric to Mega Level 3 (Max). Mega Evolving alone is not enough to progress to Super Max; you must also use Manectric Mega Energy to power it up."
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Ponyta,False,Normal/Ponyta.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Ponyta
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Ponyta,True,Shiny/Ponyta_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Ponyta
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Ponyta,False,Normal/Ponyta.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Ponyta
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Doduo,False,Normal/Doduo.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Doduo
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Doduo,True,Shiny/Doduo_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Doduo
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Doduo,False,Normal/Doduo.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Doduo
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Electrike
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,True,Shiny/Electrike_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Electrike
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Electrike
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Blitzle,False,Normal/Blitzle.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Blitzle
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Blitzle,True,Shiny/Blitzle_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Blitzle
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Blitzle,False,Normal/Blitzle.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Blitzle
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Skarmory,False,Normal/Skarmory.png,Wild Encounters — Normal,Wild,Wild Encounters,,,You might also encounter Skarmory!
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Skarmory,False,Normal/Skarmory.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Skarmory
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Skarmory,True,Shiny/Skarmory_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Skarmory
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Ponyta,False,Galarian/Ponyta_galarian.png,Incense — Galarian — Normal,Incense,Incense,,,Galarian Ponyta
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Ponyta,True,Galarian/Shiny/Ponyta_galarian_shiny.png,Incense — Galarian — Shiny,Incense,Incense,,,Galarian Ponyta
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Ponyta,False,Galarian/Ponyta_galarian.png,Incense — Galarian — Normal,Incense,Incense,,,Galarian Ponyta
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Hoppip,False,Normal/Hoppip.png,Incense — Normal,Incense,Incense,,,Hoppip
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Hoppip,True,Shiny/Hoppip_shiny.png,Incense — Shiny,Incense,Incense,,,Hoppip
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Hoppip,False,Normal/Hoppip.png,Incense — Normal,Incense,Incense,,,Hoppip
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Dwebble,False,Normal/Dwebble.png,Incense — Normal,Incense,Incense,,,Dwebble
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Dwebble,True,Shiny/Dwebble_shiny.png,Incense — Shiny,Incense,Incense,,,Dwebble
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Dwebble,False,Normal/Dwebble.png,Incense — Normal,Incense,Incense,,,Dwebble
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Growlithe,False,Hisuian/Growlithe_hisuian.png,Incense — Hisuian — Normal,Incense,Incense,,,Hisuian Growlithe
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Growlithe,True,Hisuian/Shiny/Growlithe_hisuian_shiny.png,Incense — Hisuian — Shiny,Incense,Incense,,,Hisuian Growlithe
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Growlithe,False,Hisuian/Growlithe_hisuian.png,Incense — Hisuian — Normal,Incense,Incense,,,Hisuian Growlithe
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Nincada,False,Normal/Nincada.png,Incense — Normal,Incense,Incense,,,Nincada
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Nincada,True,Shiny/Nincada_shiny.png,Incense — Shiny,Incense,Incense,,,Nincada
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Nincada,False,Normal/Nincada.png,Incense — Normal,Incense,Incense,,,Nincada
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Helioptile,False,Normal/Helioptile.png,Incense — Normal,Incense,Incense,,,Helioptile
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Helioptile,True,Shiny/Helioptile_shiny.png,Incense — Shiny,Incense,Incense,,,Helioptile
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Helioptile,False,Normal/Helioptile.png,Incense — Normal,Incense,Incense,,,Helioptile
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Doduo,False,Normal/Doduo.png,Field Research — Normal,Research,Field Research,,,Doduo
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Doduo,True,Shiny/Doduo_shiny.png,Field Research — Shiny,Research,Field Research,,,Doduo
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Field Research — Normal,Research,Field Research,,,Electrike
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,True,Shiny/Electrike_shiny.png,Field Research — Shiny,Research,Field Research,,,Electrike
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Pikachu,False,Costume/Pikachu_marathon_visor.png,Timed Research — Marathon Visor — Normal,Research,Timed Research,,,"Free Timed Research will reward 16,800 XP and an encounter with Marathon Visor Pikachu . Explore up to 42 km to complete the research."
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Pikachu,False,Costume/Pikachu_marathon_visor.png,Timed Research — Marathon Visor — Normal,Research,Timed Research,,,REWARDS Marathon Visor Pikachu
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Pikachu,False,Costume/Pikachu_marathon_visor.png,Timed Research — Marathon Visor — Normal,Research,Timed Research,,,Marathon Visor Pikachu
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Manectric,False,Mega/Manectric_mega.png,Incense — Mega — Normal,Incense,Incense,,,Manectric Mega Energy
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Incense — Normal,Incense,Incense,,,You will have an increased chance of encountering Shiny Electrike throughout the event.
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,True,Shiny/Electrike_shiny.png,Incense — Shiny,Incense,Incense,,,You will have an increased chance of encountering Shiny Electrike throughout the event.
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Event — Normal,Event,Event,,,"Harvest Festival 2026: Applin Picking Event Starts Tuesday, September 29, 2026, 10:00 AM Local Time Ends Monday, October 5, 2026, 8:00 PM Local Time Add to calendar ▾ Share Share this event Copy"
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Timed Research — Normal,Research,Timed Research,,,"The Harvest Festival 2026: Applin Picking event will take place from September 29, 2026 at 10 am to October 5, 2026 at 8 pm local time."
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,False,Normal/Smoliv.png,Bonuses — Normal,Bonus,Bonuses,,,Increased chance to encounter Shiny Smoliv
