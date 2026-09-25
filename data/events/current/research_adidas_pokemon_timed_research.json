@@ -6,23 +6,8 @@
   "date_text": "Fri, Jan 15, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
-  "generated_at": "2026-09-24 17:06:12",
+  "generated_at": "2026-09-25 04:51:48",
   "entries": [
-    {
-      "dex": 448,
-      "name": "Lucario",
-      "uri": "file:///android_asset/Pokemon/Mega/Lucario_mega.png",
-      "label": "Timed Research — Friday — Mega — Normal",
-      "availability": "Research",
-      "section": "Timed Research",
-      "day": "Friday",
-      "habitat": "",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "Mega",
-      "source_text": "??? ×? Lucario Mega Energy ×?"
-    },
     {
       "dex": 448,
       "name": "Lucario",

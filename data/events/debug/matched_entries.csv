@@ -1,6 +1,5 @@
 ﻿event_id,event_title,pokemon,shiny,asset,label,availability,section,day,habitat,source_text
 research_adidas_pokemon_timed_research,Research adidas × Pokemon Timed Research,Lucario,False,Normal/Lucario.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,??? Lucario
-research_adidas_pokemon_timed_research,Research adidas × Pokemon Timed Research,Lucario,False,Mega/Lucario_mega.png,Timed Research — Friday — Mega — Normal,Research,Timed Research,Friday,,??? ×? Lucario Mega Energy ×?
 patterns_of_the_wild,Patterns of the Wild,Pikachu,False,Costume/Pikachu_2023.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,"Patterns of the Wild brings a Special Background for Pikachu wearing a batik shirt, along with boosted wild encounters, Incense bonuses, and research rewards!"
 patterns_of_the_wild,Patterns of the Wild,Pikachu,False,Costume/Pikachu_2023.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Incense will last for two hours Increased chance to encounter Pikachu wearing a batik shirt and other event-themed Pokemon while using Incense Increased chance to encounter Shiny featured wild Pokemon
 patterns_of_the_wild,Patterns of the Wild,Pikachu,True,Shiny/Pikachu_shiny.png,Wild Encounters — Friday — Shiny,Wild,Wild Encounters,Friday,,Incense will last for two hours Increased chance to encounter Pikachu wearing a batik shirt and other event-themed Pokemon while using Incense Increased chance to encounter Shiny featured wild Pokemon
@@ -493,3 +492,12 @@ zorua_community_day,Zorua Community Day,Zorua,True,Shiny/Zorua_shiny.png,Timed R
 zorua_community_day,Zorua Community Day,Zoroark,False,Normal/Zoroark.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Zoroark
 zorua_community_day,Zorua Community Day,Zorua,False,Normal/Zorua.png,Wild Encounters — Saturday — Normal,Wild,Wild Encounters,Saturday,,Zorua will appear more frequently in the wild.
 zorua_community_day,Zorua Community Day,Zorua,True,Shiny/Zorua_shiny.png,Wild Encounters — Saturday — Shiny,Wild,Wild Encounters,Saturday,,Zorua will appear more frequently in the wild.
+sandile_hatch_day,Sandile Hatch Day,Sandile,False,Normal/Sandile.png,Eggs — Saturday — Normal,Egg,Eggs,Saturday,,"Sandile Hatch Day Event Event Time Saturday, October 17, 2026, 11:00 AM — 5:00 PM Local Time Add to calendar ▾ Share Share this event Copy"
+sandile_hatch_day,Sandile Hatch Day,Sandile,False,Normal/Sandile.png,Eggs — Saturday — Normal,Egg,Eggs,Saturday,,"Sandile Hatch Day features more Sandile hatching from 2 km Eggs and an increased chance of hatching Shiny Sandile! The Sandile Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm local time."
+sandile_hatch_day,Sandile Hatch Day,Sandile,True,Shiny/Sandile_shiny.png,Eggs — Saturday — Shiny,Egg,Eggs,Saturday,,"Sandile Hatch Day features more Sandile hatching from 2 km Eggs and an increased chance of hatching Shiny Sandile! The Sandile Hatch Day event will take place on October 17, 2026 from 11 am to 5 pm local time."
+sandile_hatch_day,Sandile Hatch Day,Krokorok,False,Normal/Krokorok.png,Eggs — Saturday — Normal,Egg,Eggs,Saturday,,Krokorok
+sandile_hatch_day,Sandile Hatch Day,Krokorok,True,Shiny/Krokorok_shiny.png,Eggs — Saturday — Shiny,Egg,Eggs,Saturday,,Krokorok
+sandile_hatch_day,Sandile Hatch Day,Krokorok,False,Normal/Krokorok.png,Eggs — Saturday — Normal,Egg,Eggs,Saturday,,Krokorok
+sandile_hatch_day,Sandile Hatch Day,Krookodile,False,Normal/Krookodile.png,Eggs — Saturday — Normal,Egg,Eggs,Saturday,,Krookodile
+sandile_hatch_day,Sandile Hatch Day,Krookodile,True,Shiny/Krookodile_shiny.png,Eggs — Saturday — Shiny,Egg,Eggs,Saturday,,Krookodile
+sandile_hatch_day,Sandile Hatch Day,Krookodile,False,Normal/Krookodile.png,Eggs — Saturday — Normal,Egg,Eggs,Saturday,,Krookodile

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24 17:06:41",
+  "generated_at": "2026-09-25 04:52:10",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -170,13 +170,13 @@
       "source_url": "https://leekduck.com/events/october-communityday2026/"
     },
     {
-      "id": "hatch_day_october_2026",
-      "title": "Hatch Day October 2026",
+      "id": "sandile_hatch_day",
+      "title": "Sandile Hatch Day",
       "category": "Event",
       "date_text": "Sat, Oct 17, at 5:00 PM",
-      "file": "upcoming/hatch_day_october_2026.json",
+      "file": "upcoming/sandile_hatch_day.json",
       "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/hatch-day-october-2026/"
+      "source_url": "https://leekduck.com/events/sandile-hatch-day-2026/"
     },
     {
       "id": "super_mega_raid_day",
