@@ -6,8 +6,38 @@
   "date_text": "Fri, Jan 15, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-x-adidas-2026/",
-  "generated_at": "2026-09-26 04:51:52",
+  "generated_at": "2026-09-26 16:19:21",
   "entries": [
+    {
+      "dex": 448,
+      "name": "Lucario",
+      "uri": "file:///android_asset/Pokemon/Mega/Lucario_mega.png",
+      "label": "Timed Research — Friday — Mega — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Friday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "This Timed Research has three pages. Complete the tasks to earn adidas avatar items, Lucario Candy, Lucario Mega Energy, XP, Stardust, and an encounter with Lucario. If you're lucky, you may encounter a Shiny Lucario!"
+    },
+    {
+      "dex": 448,
+      "name": "Lucario",
+      "uri": "file:///android_asset/Pokemon/Mega/Shiny/Lucario_mega_shiny.png",
+      "label": "Timed Research — Friday — Mega — Shiny",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Friday",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "Mega",
+      "source_text": "This Timed Research has three pages. Complete the tasks to earn adidas avatar items, Lucario Candy, Lucario Mega Energy, XP, Stardust, and an encounter with Lucario. If you're lucky, you may encounter a Shiny Lucario!"
+    },
     {
       "dex": 448,
       "name": "Lucario",
@@ -21,7 +51,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "??? Lucario"
+      "source_text": "Lucario"
     }
   ]
 }

@@ -6,14 +6,14 @@ Upcoming events: 5
 Official news items found: 11
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 504
+Matched entries: 507
 Unmatched candidates: 8
 No-match debug rows: 8
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
   Date: Fri, Jan 15, at 8:00 PM
-  Entries: 1
+  Entries: 3
   File: current/research_adidas_pokemon_timed_research.json
   URL: https://leekduck.com/events/pokemon-x-adidas-2026/
 - [current] Event: Patterns of the Wild
@@ -71,17 +71,17 @@ Events written:
   Entries: 8
   File: current/lego_stores_and_pokemon_go.json
   URL: https://leekduck.com/events/lego-pokemon-go-2026/
-- [current] Event: Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027 Unknown End Time
+- [current] Event: Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027 Time TBD
   Entries: 0
-  File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027_unknown_end_time.json
+  File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027_time_tbd.json
   URL: https://leekduck.com/events/pokemon-go-tour-alola-global-2027/
-- [current] Event: Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Kaohsiung 2027 Unknown End Time
+- [current] Event: Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Kaohsiung 2027 Time TBD
   Entries: 0
-  File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_kaohsiung_2027_unknown_end_time.json
+  File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_kaohsiung_2027_time_tbd.json
   URL: https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/
-- [current] Event: Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Los Angeles 2027 Unknown End Time
+- [current] Event: Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Los Angeles 2027 Time TBD
   Entries: 0
-  File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_unknown_end_time.json
+  File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_time_tbd.json
   URL: https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/
 - [upcoming] Community Day: November Community Day
   Date: Sat, Nov 21, at 5:00 PM

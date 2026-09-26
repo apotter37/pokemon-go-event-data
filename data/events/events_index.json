@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26 04:52:22",
+  "generated_at": "2026-09-26 16:19:45",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -114,29 +114,29 @@
       "source_url": "https://leekduck.com/events/lego-pokemon-go-2026/"
     },
     {
-      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027_unknown_end_time",
-      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027 Unknown End Time",
+      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027_time_tbd",
+      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027 Time TBD",
       "category": "Event",
       "date_text": "",
-      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027_unknown_end_time.json",
+      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027_time_tbd.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/"
     },
     {
-      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_kaohsiung_2027_unknown_end_time",
-      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Kaohsiung 2027 Unknown End Time",
+      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_kaohsiung_2027_time_tbd",
+      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Kaohsiung 2027 Time TBD",
       "category": "Event",
       "date_text": "",
-      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_kaohsiung_2027_unknown_end_time.json",
+      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_kaohsiung_2027_time_tbd.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/"
     },
     {
-      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_unknown_end_time",
-      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Los Angeles 2027 Unknown End Time",
+      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_time_tbd",
+      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Los Angeles 2027 Time TBD",
       "category": "Event",
       "date_text": "",
-      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_unknown_end_time.json",
+      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_time_tbd.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/"
     }
