@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 20
-Current events: 15
+Events kept after cleanup: 21
+Current events: 16
 Upcoming events: 5
 Official news items found: 11
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 507
+Matched entries: 516
 Unmatched candidates: 8
 No-match debug rows: 8
 
@@ -66,6 +66,11 @@ Events written:
   Entries: 0
   File: current/halloween_2026_part_ii.json
   URL: https://leekduck.com/events/halloween-2026-part-2/
+- [current] Event: Pokemon TCG: 30th Celebration
+  Date: Tue, Oct 20, at 10:00 PM
+  Entries: 7
+  File: current/pokemon_tcg_30th_celebration.json
+  URL: https://leekduck.com/events/pokemon-tcg-30th-celebration/
 - [current] Event: LEGO Stores and Pokémon GO
   Date: Wed, Sep 30, at 11:59 PM
   Entries: 8

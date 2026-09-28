@@ -124,6 +124,17 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
+    "title": "Pokemon TCG: 30th Celebration",
+    "url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
+    "date_text": "Tue, Oct 20, at 10:00 PM",
+    "raw_text": "Event Event Pokemon TCG: 30th Celebration Tue, Oct 20, at 10:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "pokemon_tcg_30th_celebration",
+    "file": "current/pokemon_tcg_30th_celebration.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
     "title": "LEGO Stores and Pokémon GO",
     "url": "https://leekduck.com/events/lego-pokemon-go-2026/",
     "date_text": "Wed, Sep 30, at 11:59 PM",
