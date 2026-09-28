@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28 05:17:45",
+  "generated_at": "2026-09-28 19:39:21",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -76,15 +76,6 @@
       "file": "current/halloween_2026_part_i.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/halloween-2026-part-1/"
-    },
-    {
-      "id": "phantump_catch_mastery",
-      "title": "Phantump Catch Mastery",
-      "category": "Event",
-      "date_text": "Sat, Sep 26, at 8:00 PM",
-      "file": "current/phantump_catch_mastery.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/catch-mastery-phantump-2026/"
     },
     {
       "id": "wild_area_wild_area_pokemon_go_wild_area_2026_global",

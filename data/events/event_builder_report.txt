@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 21
-Current events: 16
+Events kept after cleanup: 20
+Current events: 15
 Upcoming events: 5
 Official news items found: 11
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 516
+Matched entries: 497
 Unmatched candidates: 8
 No-match debug rows: 8
 
@@ -51,11 +51,6 @@ Events written:
   Entries: 0
   File: current/halloween_2026_part_i.json
   URL: https://leekduck.com/events/halloween-2026-part-1/
-- [current] Event: Phantump Catch Mastery
-  Date: Sat, Sep 26, at 8:00 PM
-  Entries: 13
-  File: current/phantump_catch_mastery.json
-  URL: https://leekduck.com/events/catch-mastery-phantump-2026/
 - [current] Event: Wild Area Wild Area Pokémon GO Wild Area 2026: Global
   Date: Sun, Nov 15, at 6:00 PM
   Entries: 185
