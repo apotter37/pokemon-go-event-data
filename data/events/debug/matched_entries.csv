@@ -121,14 +121,21 @@ harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Appli
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,False,Normal/Smoliv.png,Bonuses — Normal,Bonus,Bonuses,,,Increased chance to encounter Shiny Smoliv
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,True,Shiny/Smoliv_shiny.png,Bonuses — Shiny,Bonus,Bonuses,,,Increased chance to encounter Shiny Smoliv
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Bonuses — Normal,Bonus,Bonuses,,,"Applin will have an increased chance of holding Tart Apples, Sweet Apples, or Syrupy Apples when caught"
-harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Cottonee,False,Normal/Cottonee.png,Lure Encounters — Normal,Lure,Lure Encounters,,,"During the event, Mossy Lure Modules will only attract apples . Tap these apples to receive Tart Apples, Sweet Apples, Syrupy Apples, or encounters with event-themed Pokemon, including Cottonee wearing a flower crown and Applin!"
-harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Lure Encounters — Normal,Lure,Lure Encounters,,,"During the event, Mossy Lure Modules will only attract apples . Tap these apples to receive Tart Apples, Sweet Apples, Syrupy Apples, or encounters with event-themed Pokemon, including Cottonee wearing a flower crown and Applin!"
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Cottonee,False,Costume/Cottonee_flower.png,Lure Encounters — Flower Crown — Normal,Lure,Lure Encounters,,,Flower Crown Cottonee
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Cottonee,True,Shiny/Cottonee_shiny.png,Lure Encounters — Flower Crown — Shiny,Lure,Lure Encounters,,,Flower Crown Cottonee
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Cottonee,False,Costume/Cottonee_flower.png,Lure Encounters — Flower Crown — Normal,Lure,Lure Encounters,,,Flower Crown Cottonee
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skiddo,False,Normal/Skiddo.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Skiddo
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skiddo,True,Shiny/Skiddo_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Skiddo
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skiddo,False,Normal/Skiddo.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Skiddo
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Applin
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,True,Shiny/Applin_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Applin
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Applin,False,Normal/Applin.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Applin
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Lechonk,False,Normal/Lechonk.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Lechonk
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Lechonk,True,Shiny/Lechonk_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Lechonk
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Lechonk,False,Normal/Lechonk.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Lechonk
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,False,Normal/Smoliv.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Smoliv
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,True,Shiny/Smoliv_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Smoliv
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,False,Normal/Smoliv.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Smoliv
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Shroomish,False,Normal/Shroomish.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Shroomish
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Shroomish,True,Shiny/Shroomish_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Shroomish
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Shroomish,False,Normal/Shroomish.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Shroomish
@@ -138,12 +145,6 @@ harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Foong
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skwovet,False,Normal/Skwovet.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Skwovet
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skwovet,True,Shiny/Skwovet_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Skwovet
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skwovet,False,Normal/Skwovet.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Skwovet
-harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Lechonk,False,Normal/Lechonk.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Lechonk
-harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Lechonk,True,Shiny/Lechonk_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Lechonk
-harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Lechonk,False,Normal/Lechonk.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Lechonk
-harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,False,Normal/Smoliv.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Smoliv
-harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,True,Shiny/Smoliv_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Smoliv
-harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Smoliv,False,Normal/Smoliv.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Smoliv
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Snorlax,False,Normal/Snorlax.png,Lure Encounters — Normal,Lure,Lure Encounters,,,"If you're lucky, you might also encounter Applin or Snorlax!"
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Snorlax,True,Shiny/Snorlax_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,"If you're lucky, you might also encounter Applin or Snorlax!"
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Snorlax,False,Normal/Snorlax.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Snorlax
@@ -153,7 +154,6 @@ harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Dippl
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Foongus,False,Normal/Foongus.png,Eggs — Normal,Egg,Eggs,,,Lechonk Foongus
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Lechonk,False,Normal/Lechonk.png,Eggs — Normal,Egg,Eggs,,,Lechonk Foongus
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Cottonee,False,Costume/Cottonee_flower.png,Lure Encounters — Flower Crown — Normal,Lure,Lure Encounters,,,Flower Crown Cottonee Flower Crown Cottonee
-harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skiddo,False,Normal/Skiddo.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Shroomish Skiddo
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Flapple,False,Normal/Flapple.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Flapple
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Appletun,False,Normal/Appletun.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Appletun
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Dipplin,False,Normal/Dipplin.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Dipplin

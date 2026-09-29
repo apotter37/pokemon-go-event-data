@@ -6,7 +6,7 @@
   "date_text": "Mon, Oct 5, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/harvest-festival-2026/",
-  "generated_at": "2026-09-29 05:38:56",
+  "generated_at": "2026-09-29 18:03:54",
   "entries": [
     {
       "dex": 840,
@@ -189,21 +189,6 @@
       "source_text": "Flower Crown Cottonee"
     },
     {
-      "dex": 546,
-      "name": "Cottonee",
-      "uri": "file:///android_asset/Pokemon/Normal/Cottonee.png",
-      "label": "Lure Encounters — Normal",
-      "availability": "Lure",
-      "section": "Lure Encounters",
-      "day": "",
-      "habitat": "",
-      "shiny": false,
-      "costume": false,
-      "costume_hint": "",
-      "form_hint": "",
-      "source_text": "During the event, Mossy Lure Modules will only attract apples . Tap these apples to receive Tart Apples, Sweet Apples, Syrupy Apples, or encounters with event-themed Pokemon, including Cottonee wearing a flower crown and Applin!"
-    },
-    {
       "dex": 590,
       "name": "Foongus",
       "uri": "file:///android_asset/Pokemon/Normal/Foongus.png",
@@ -246,7 +231,22 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Shroomish Skiddo"
+      "source_text": "Skiddo"
+    },
+    {
+      "dex": 672,
+      "name": "Skiddo",
+      "uri": "file:///android_asset/Pokemon/Shiny/Skiddo_shiny.png",
+      "label": "Lure Encounters — Shiny",
+      "availability": "Lure",
+      "section": "Lure Encounters",
+      "day": "",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Skiddo"
     },
     {
       "dex": 819,
@@ -291,7 +291,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "During the event, Mossy Lure Modules will only attract apples . Tap these apples to receive Tart Apples, Sweet Apples, Syrupy Apples, or encounters with event-themed Pokemon, including Cottonee wearing a flower crown and Applin!"
+      "source_text": "Applin"
     },
     {
       "dex": 840,
