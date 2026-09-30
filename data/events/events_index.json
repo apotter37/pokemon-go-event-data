@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30 05:27:31",
+  "generated_at": "2026-09-30 17:59:22",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -49,15 +49,6 @@
       "file": "current/harvest_festival_taken_over.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/harvest-festival-taken-over-2026/"
-    },
-    {
-      "id": "choose_your_path_choose_your_path_choose_your_path_twilight_trails",
-      "title": "Choose Your Path Choose Your Path Choose Your Path: Twilight Trails",
-      "category": "Event",
-      "date_text": "Mon, Sep 28, at 8:00 PM",
-      "file": "current/choose_your_path_choose_your_path_choose_your_path_twilight_trails.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/choose-your-path-twilight-trails-2026/"
     },
     {
       "id": "world_space_week_2026",

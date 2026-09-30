@@ -1,7 +1,7 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 20
-Current events: 15
+Events kept after cleanup: 19
+Current events: 14
 Upcoming events: 5
 Official news items found: 11
 Pokemon names loaded: 1026
@@ -36,11 +36,6 @@ Events written:
   Entries: 31
   File: current/harvest_festival_taken_over.json
   URL: https://leekduck.com/events/harvest-festival-taken-over-2026/
-- [current] Event: Choose Your Path Choose Your Path Choose Your Path: Twilight Trails
-  Date: Mon, Sep 28, at 8:00 PM
-  Entries: 0
-  File: current/choose_your_path_choose_your_path_choose_your_path_twilight_trails.json
-  URL: https://leekduck.com/events/choose-your-path-twilight-trails-2026/
 - [current] Event: World Space Week 2026
   Date: Sat, Oct 10, at 11:59 PM
   Entries: 6
