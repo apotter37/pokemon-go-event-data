@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 19
-Current events: 14
+Events kept after cleanup: 25
+Current events: 20
 Upcoming events: 5
 Official news items found: 11
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 513
-Unmatched candidates: 8
-No-match debug rows: 8
+Matched entries: 563
+Unmatched candidates: 32
+No-match debug rows: 32
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
@@ -18,9 +18,14 @@ Events written:
   URL: https://leekduck.com/events/pokemon-x-adidas-2026/
 - [current] Event: Patterns of the Wild
   Date: Fri, Oct 2, at 8:00 PM
-  Entries: 34
+  Entries: 35
   File: current/patterns_of_the_wild.json
   URL: https://leekduck.com/events/patterns-of-the-wild-2026/
+- [current] Event: Minior Showers: Southern Delta Aquariids 2027
+  Date: Mon, Aug 2, at 11:59 PM
+  Entries: 0
+  File: current/minior_showers_southern_delta_aquariids_2027.json
+  URL: https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/
 - [current] Event: Fall Marathon: Buddy Trek
   Date: Mon, Oct 19, at 8:00 PM
   Entries: 39
@@ -28,29 +33,49 @@ Events written:
   URL: https://leekduck.com/events/fall-marathon-buddy-trek-2026/
 - [current] Event: Harvest Festival 2026: Applin Picking
   Date: Mon, Oct 5, at 8:00 PM
-  Entries: 34
+  Entries: 44
   File: current/harvest_festival_2026_applin_picking.json
   URL: https://leekduck.com/events/harvest-festival-2026/
 - [current] Event: Harvest Festival: Taken Over
   Date: Mon, Oct 5, at 8:00 PM
-  Entries: 31
+  Entries: 52
   File: current/harvest_festival_taken_over.json
   URL: https://leekduck.com/events/harvest-festival-taken-over-2026/
+- [current] Event: Minior Showers: Eta Aquariids 2027
+  Date: Sat, May 8, at 11:59 PM
+  Entries: 0
+  File: current/minior_showers_eta_aquariids_2027.json
+  URL: https://leekduck.com/events/minior-showers-eta-aquariids-2027/
 - [current] Event: World Space Week 2026
   Date: Sat, Oct 10, at 11:59 PM
   Entries: 6
   File: current/world_space_week_2026.json
   URL: https://leekduck.com/events/world-space-week-2026/
+- [current] Event: Minior Showers: Orionids 2026
+  Date: Sat, Oct 24, at 11:59 PM
+  Entries: 0
+  File: current/minior_showers_orionids_2026.json
+  URL: https://leekduck.com/events/minior-showers-orionids-2026/
 - [current] Event: Halloween 2026 Part I
   Date: Sat, Oct 31, at 8:00 PM
   Entries: 0
   File: current/halloween_2026_part_i.json
   URL: https://leekduck.com/events/halloween-2026-part-1/
+- [current] Event: Minior Showers: Perseids 2027
+  Date: Sun, Aug 15, at 11:59 PM
+  Entries: 0
+  File: current/minior_showers_perseids_2027.json
+  URL: https://leekduck.com/events/minior-showers-perseids-2027/
 - [current] Event: Wild Area Wild Area Pokémon GO Wild Area 2026: Global
   Date: Sun, Nov 15, at 6:00 PM
   Entries: 185
   File: current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
+- [current] Event: Minior Showers: Leonids 2026
+  Date: Thu, Nov 19, at 11:59 PM
+  Entries: 0
+  File: current/minior_showers_leonids_2026.json
+  URL: https://leekduck.com/events/minior-showers-leonids-2026/
 - [current] Event: Halloween 2026 Part II
   Date: Thu, Nov 5, at 8:00 PM
   Entries: 0
@@ -61,6 +86,11 @@ Events written:
   Entries: 7
   File: current/pokemon_tcg_30th_celebration.json
   URL: https://leekduck.com/events/pokemon-tcg-30th-celebration/
+- [current] Event: Minior Showers: Geminids 2026
+  Date: Wed, Dec 16, at 11:59 PM
+  Entries: 0
+  File: current/minior_showers_geminids_2026.json
+  URL: https://leekduck.com/events/minior-showers-geminids-2026/
 - [current] Event: LEGO Stores and Pokémon GO
   Date: Wed, Sep 30, at 11:59 PM
   Entries: 8

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01 05:46:00",
+  "generated_at": "2026-10-01 18:24:29",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -22,6 +22,15 @@
       "file": "current/patterns_of_the_wild.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/patterns-of-the-wild-2026/"
+    },
+    {
+      "id": "minior_showers_southern_delta_aquariids_2027",
+      "title": "Minior Showers: Southern Delta Aquariids 2027",
+      "category": "Event",
+      "date_text": "Mon, Aug 2, at 11:59 PM",
+      "file": "current/minior_showers_southern_delta_aquariids_2027.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/"
     },
     {
       "id": "fall_marathon_buddy_trek",
@@ -51,6 +60,15 @@
       "source_url": "https://leekduck.com/events/harvest-festival-taken-over-2026/"
     },
     {
+      "id": "minior_showers_eta_aquariids_2027",
+      "title": "Minior Showers: Eta Aquariids 2027",
+      "category": "Event",
+      "date_text": "Sat, May 8, at 11:59 PM",
+      "file": "current/minior_showers_eta_aquariids_2027.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
+    },
+    {
       "id": "world_space_week_2026",
       "title": "World Space Week 2026",
       "category": "Event",
@@ -58,6 +76,15 @@
       "file": "current/world_space_week_2026.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/world-space-week-2026/"
+    },
+    {
+      "id": "minior_showers_orionids_2026",
+      "title": "Minior Showers: Orionids 2026",
+      "category": "Event",
+      "date_text": "Sat, Oct 24, at 11:59 PM",
+      "file": "current/minior_showers_orionids_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/minior-showers-orionids-2026/"
     },
     {
       "id": "halloween_2026_part_i",
@@ -69,6 +96,15 @@
       "source_url": "https://leekduck.com/events/halloween-2026-part-1/"
     },
     {
+      "id": "minior_showers_perseids_2027",
+      "title": "Minior Showers: Perseids 2027",
+      "category": "Event",
+      "date_text": "Sun, Aug 15, at 11:59 PM",
+      "file": "current/minior_showers_perseids_2027.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/minior-showers-perseids-2027/"
+    },
+    {
       "id": "wild_area_wild_area_pokemon_go_wild_area_2026_global",
       "title": "Wild Area Wild Area Pokémon GO Wild Area 2026: Global",
       "category": "Event",
@@ -76,6 +112,15 @@
       "file": "current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    },
+    {
+      "id": "minior_showers_leonids_2026",
+      "title": "Minior Showers: Leonids 2026",
+      "category": "Event",
+      "date_text": "Thu, Nov 19, at 11:59 PM",
+      "file": "current/minior_showers_leonids_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/minior-showers-leonids-2026/"
     },
     {
       "id": "halloween_2026_part_ii",
@@ -94,6 +139,15 @@
       "file": "current/pokemon_tcg_30th_celebration.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/"
+    },
+    {
+      "id": "minior_showers_geminids_2026",
+      "title": "Minior Showers: Geminids 2026",
+      "category": "Event",
+      "date_text": "Wed, Dec 16, at 11:59 PM",
+      "file": "current/minior_showers_geminids_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/minior-showers-geminids-2026/"
     },
     {
       "id": "lego_stores_and_pokemon_go",

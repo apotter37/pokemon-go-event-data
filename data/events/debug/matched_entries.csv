@@ -48,20 +48,23 @@ patterns_of_the_wild,Patterns of the Wild,Sunkern,False,Normal/Sunkern.png,Wild 
 patterns_of_the_wild,Patterns of the Wild,Wurmple,False,Normal/Wurmple.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Wurmple
 patterns_of_the_wild,Patterns of the Wild,Wurmple,True,Shiny/Wurmple_shiny.png,Wild Encounters — Friday — Shiny,Wild,Wild Encounters,Friday,,Wurmple
 patterns_of_the_wild,Patterns of the Wild,Wurmple,False,Normal/Wurmple.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Wurmple
-patterns_of_the_wild,Patterns of the Wild,Pikachu,False,Costume/Pikachu_2023.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,"Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
-patterns_of_the_wild,Patterns of the Wild,Pikachu,True,Shiny/Pikachu_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,"Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
-patterns_of_the_wild,Patterns of the Wild,Oddish,False,Normal/Oddish.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,"Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
-patterns_of_the_wild,Patterns of the Wild,Oddish,True,Shiny/Oddish_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,"Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
-patterns_of_the_wild,Patterns of the Wild,Ledyba,False,Normal/Ledyba.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,"Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
-patterns_of_the_wild,Patterns of the Wild,Ledyba,True,Shiny/Ledyba_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,"Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
-patterns_of_the_wild,Patterns of the Wild,Hoppip,False,Normal/Hoppip.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,"Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
-patterns_of_the_wild,Patterns of the Wild,Hoppip,True,Shiny/Hoppip_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,"Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
+patterns_of_the_wild,Patterns of the Wild,Pikachu,False,Costume/Pikachu_2023.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,"Rewards include encounters with Pikachu wearing a batik shirt, Oddish, Hoppip, and Ledyba, along with XP, Stardust, items, and stickers."
+patterns_of_the_wild,Patterns of the Wild,Oddish,False,Normal/Oddish.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,"Rewards include encounters with Pikachu wearing a batik shirt, Oddish, Hoppip, and Ledyba, along with XP, Stardust, items, and stickers."
+patterns_of_the_wild,Patterns of the Wild,Ledyba,False,Normal/Ledyba.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,"Rewards include encounters with Pikachu wearing a batik shirt, Oddish, Hoppip, and Ledyba, along with XP, Stardust, items, and stickers."
+patterns_of_the_wild,Patterns of the Wild,Hoppip,False,Normal/Hoppip.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,"Rewards include encounters with Pikachu wearing a batik shirt, Oddish, Hoppip, and Ledyba, along with XP, Stardust, items, and stickers."
 patterns_of_the_wild,Patterns of the Wild,Oddish,False,Normal/Oddish.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Oddish
 patterns_of_the_wild,Patterns of the Wild,Oddish,True,Shiny/Oddish_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Oddish
 patterns_of_the_wild,Patterns of the Wild,Ledyba,False,Normal/Ledyba.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Ledyba
 patterns_of_the_wild,Patterns of the Wild,Ledyba,True,Shiny/Ledyba_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Ledyba
 patterns_of_the_wild,Patterns of the Wild,Hoppip,False,Normal/Hoppip.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Hoppip
 patterns_of_the_wild,Patterns of the Wild,Hoppip,True,Shiny/Hoppip_shiny.png,Timed Research — Friday — Shiny,Research,Timed Research,Friday,,Hoppip
+patterns_of_the_wild,Patterns of the Wild,Oddish,False,Normal/Oddish.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Catch 5 different species of Pokemon Oddish
+patterns_of_the_wild,Patterns of the Wild,Pikachu,False,Costume/Pikachu_2023.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,REWARDS Batik Shirt Pikachu ×1 ×5
+patterns_of_the_wild,Patterns of the Wild,Pikachu,False,Costume/Pikachu_2023.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Batik Shirt Pikachu ×1 ×5
+patterns_of_the_wild,Patterns of the Wild,Hoppip,False,Normal/Hoppip.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Catch 10 different species of Pokemon Hoppip
+patterns_of_the_wild,Patterns of the Wild,Pikachu,False,Costume/Pikachu_2023.png,Eggs — Friday — Normal,Egg,Eggs,Friday,,REWARDS Batik Shirt Pikachu ×3 ×5
+patterns_of_the_wild,Patterns of the Wild,Pikachu,False,Costume/Pikachu_2023.png,Eggs — Friday — Normal,Egg,Eggs,Friday,,Batik Shirt Pikachu ×3 ×5
+patterns_of_the_wild,Patterns of the Wild,Ledyba,False,Normal/Ledyba.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Catch 15 different species of Pokemon Ledyba
 patterns_of_the_wild,Patterns of the Wild,Pikachu,False,Costume/Pikachu_2023.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Batik Shirt Pikachu
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Growlithe,False,Hisuian/Growlithe_hisuian.png,Event — Hisuian — Normal,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Growlithe,True,Hisuian/Shiny/Growlithe_hisuian_shiny.png,Event — Hisuian — Shiny,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."
@@ -148,6 +151,21 @@ harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Skwov
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Snorlax,False,Normal/Snorlax.png,Lure Encounters — Normal,Lure,Lure Encounters,,,"If you're lucky, you might also encounter Applin or Snorlax!"
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Snorlax,True,Shiny/Snorlax_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,"If you're lucky, you might also encounter Applin or Snorlax!"
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Snorlax,False,Normal/Snorlax.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Snorlax
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Ekans,False,Normal/Ekans.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Ekans
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Ekans,True,Shiny/Ekans_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Ekans
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Ekans,False,Normal/Ekans.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Ekans
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Koffing,False,Normal/Koffing.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Koffing
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Koffing,True,Shiny/Koffing_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Koffing
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Koffing,False,Normal/Koffing.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Koffing
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Magmar,False,Normal/Magmar.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Magmar
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Magmar,True,Shiny/Magmar_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Magmar
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Magmar,False,Normal/Magmar.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Magmar
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Slugma,False,Normal/Slugma.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Slugma
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Slugma,True,Shiny/Slugma_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Slugma
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Slugma,False,Normal/Slugma.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Slugma
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Numel,False,Normal/Numel.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Numel
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Numel,True,Shiny/Numel_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,Numel
+harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Numel,False,Normal/Numel.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Numel
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Flapple,False,Normal/Flapple.png,Timed Research — Normal,Research,Timed Research,,,Flapple: Tart Apples
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Appletun,False,Normal/Appletun.png,Timed Research — Normal,Research,Timed Research,,,Appletun: Sweet Apples
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Dipplin,False,Normal/Dipplin.png,Timed Research — Normal,Research,Timed Research,,,Dipplin: Syrupy Apples
@@ -161,8 +179,8 @@ harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Hydra
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Dolliv,False,Normal/Dolliv.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Dolliv
 harvest_festival_2026_applin_picking,Harvest Festival 2026: Applin Picking,Arboliva,False,Normal/Arboliva.png,Lure Encounters — Normal,Lure,Lure Encounters,,,Arboliva
 harvest_festival_taken_over,Harvest Festival: Taken Over,Zekrom,False,Normal/Zekrom.png,Event — Friday — Shadow — Normal,Event,Event,Friday,,"Rescue Shadow Zekrom as Team GO Rocket takes over the Harvest Festival! The Harvest Festival: Taken Over event will take place from October 2, 2026 at 12 am to October 5, 2026 at 8 pm local time."
-harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Raids — Friday — Shadow — Normal,Raid,Raids,Friday,,"Increased chance to encounter Shiny Slugma More Team GO Rocket appearances at PokeStops and in balloons Use a Charged TM to remove Frustration from Shadow Pokemon Wider Attack, Defense, and HP variance for Pokemon caught in one-star and three-star Shadow Raids during the event"
-harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,True,Shiny/Slugma_shiny.png,Raids — Friday — Shadow — Shiny,Raid,Raids,Friday,,"Increased chance to encounter Shiny Slugma More Team GO Rocket appearances at PokeStops and in balloons Use a Charged TM to remove Frustration from Shadow Pokemon Wider Attack, Defense, and HP variance for Pokemon caught in one-star and three-star Shadow Raids during the event"
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Raids — Friday — Shadow — Normal,Raid,Raids,Friday,,"Increased chance to encounter Shiny Slugma More Team GO Rocket appearances at PokeStops and balloons appearing every 2 hours Use a Charged TM to remove Frustration from Shadow Pokemon Wider Attack, Defense, and HP variance for Pokemon caught in one-star and three-star Shadow Raids during the event"
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,True,Shiny/Slugma_shiny.png,Raids — Friday — Shadow — Shiny,Raid,Raids,Friday,,"Increased chance to encounter Shiny Slugma More Team GO Rocket appearances at PokeStops and balloons appearing every 2 hours Use a Charged TM to remove Frustration from Shadow Pokemon Wider Attack, Defense, and HP variance for Pokemon caught in one-star and three-star Shadow Raids during the event"
 harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Raids — Friday — Normal,Raid,Raids,Friday,,Increased chance to encounter Shiny Slugma
 harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,True,Shiny/Slugma_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Increased chance to encounter Shiny Slugma
 harvest_festival_taken_over,Harvest Festival: Taken Over,Zekrom,False,Normal/Zekrom.png,Raids — Friday — Shadow — Normal,Raid,Raids,Friday,,Save Shadow Zekrom!
@@ -179,18 +197,50 @@ harvest_festival_taken_over,Harvest Festival: Taken Over,Fomantis,False,Normal/F
 harvest_festival_taken_over,Harvest Festival: Taken Over,Sandygast,False,Normal/Sandygast.png,Raids — Friday — Normal,Raid,Raids,Friday,,Sandygast
 harvest_festival_taken_over,Harvest Festival: Taken Over,Sandygast,True,Shiny/Sandygast_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Sandygast
 harvest_festival_taken_over,Harvest Festival: Taken Over,Sandygast,False,Normal/Sandygast.png,Raids — Friday — Normal,Raid,Raids,Friday,,Sandygast
-harvest_festival_taken_over,Harvest Festival: Taken Over,Koffing,False,Normal/Koffing.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Koffing
-harvest_festival_taken_over,Harvest Festival: Taken Over,Koffing,True,Shiny/Koffing_shiny.png,Wild Encounters — Friday — Shiny,Wild,Wild Encounters,Friday,,Koffing
-harvest_festival_taken_over,Harvest Festival: Taken Over,Koffing,False,Normal/Koffing.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Koffing
-harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Slugma
-harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,True,Shiny/Slugma_shiny.png,Wild Encounters — Friday — Shiny,Wild,Wild Encounters,Friday,,Slugma
-harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Slugma
-harvest_festival_taken_over,Harvest Festival: Taken Over,Numel,False,Normal/Numel.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Numel
-harvest_festival_taken_over,Harvest Festival: Taken Over,Numel,True,Shiny/Numel_shiny.png,Wild Encounters — Friday — Shiny,Wild,Wild Encounters,Friday,,Numel
-harvest_festival_taken_over,Harvest Festival: Taken Over,Numel,False,Normal/Numel.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Numel
-harvest_festival_taken_over,Harvest Festival: Taken Over,Magmar,False,Normal/Magmar.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Lucky Trainers may also encounter Magmar!
-harvest_festival_taken_over,Harvest Festival: Taken Over,Magmar,False,Normal/Magmar.png,Wild Encounters — Friday — Normal,Wild,Wild Encounters,Friday,,Magmar
-harvest_festival_taken_over,Harvest Festival: Taken Over,Magmar,True,Shiny/Magmar_shiny.png,Wild Encounters — Friday — Shiny,Wild,Wild Encounters,Friday,,Magmar
+harvest_festival_taken_over,Harvest Festival: Taken Over,Cubone,False,Normal/Cubone.png,Raids — Friday — Normal,Raid,Raids,Friday,,Cliff - Cubone
+harvest_festival_taken_over,Harvest Festival: Taken Over,Pancham,False,Normal/Pancham.png,Raids — Friday — Normal,Raid,Raids,Friday,,Sierra - Pancham
+harvest_festival_taken_over,Harvest Festival: Taken Over,Grimer,False,Alolan/Grimer_alolan.png,Raids — Friday — Alolan — Normal,Raid,Raids,Friday,,Arlo - Alolan Grimer
+harvest_festival_taken_over,Harvest Festival: Taken Over,Cubone,False,Normal/Cubone.png,Raids — Friday — Normal,Raid,Raids,Friday,,Cubone
+harvest_festival_taken_over,Harvest Festival: Taken Over,Cubone,True,Shiny/Cubone_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Cubone
+harvest_festival_taken_over,Harvest Festival: Taken Over,Pancham,False,Normal/Pancham.png,Raids — Friday — Normal,Raid,Raids,Friday,,Pancham
+harvest_festival_taken_over,Harvest Festival: Taken Over,Pancham,True,Shiny/Pancham_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Pancham
+harvest_festival_taken_over,Harvest Festival: Taken Over,Grimer,False,Alolan/Grimer_alolan.png,Raids — Friday — Alolan — Normal,Raid,Raids,Friday,,Alolan Grimer
+harvest_festival_taken_over,Harvest Festival: Taken Over,Grimer,True,Alolan/Shiny/Grimer_alolan_shiny.png,Raids — Friday — Alolan — Shiny,Raid,Raids,Friday,,Alolan Grimer
+harvest_festival_taken_over,Harvest Festival: Taken Over,Ekans,False,Normal/Ekans.png,Raids — Friday — Normal,Raid,Raids,Friday,,Ekans
+harvest_festival_taken_over,Harvest Festival: Taken Over,Ekans,True,Shiny/Ekans_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Ekans
+harvest_festival_taken_over,Harvest Festival: Taken Over,Ekans,False,Normal/Ekans.png,Raids — Friday — Normal,Raid,Raids,Friday,,Ekans
+harvest_festival_taken_over,Harvest Festival: Taken Over,Koffing,False,Normal/Koffing.png,Raids — Friday — Normal,Raid,Raids,Friday,,Koffing
+harvest_festival_taken_over,Harvest Festival: Taken Over,Koffing,True,Shiny/Koffing_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Koffing
+harvest_festival_taken_over,Harvest Festival: Taken Over,Koffing,False,Normal/Koffing.png,Raids — Friday — Normal,Raid,Raids,Friday,,Koffing
+harvest_festival_taken_over,Harvest Festival: Taken Over,Magmar,False,Normal/Magmar.png,Raids — Friday — Normal,Raid,Raids,Friday,,Magmar
+harvest_festival_taken_over,Harvest Festival: Taken Over,Magmar,True,Shiny/Magmar_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Magmar
+harvest_festival_taken_over,Harvest Festival: Taken Over,Magmar,False,Normal/Magmar.png,Raids — Friday — Normal,Raid,Raids,Friday,,Magmar
+harvest_festival_taken_over,Harvest Festival: Taken Over,Slugma,False,Normal/Slugma.png,Raids — Friday — Normal,Raid,Raids,Friday,,Slugma
+harvest_festival_taken_over,Harvest Festival: Taken Over,Numel,False,Normal/Numel.png,Raids — Friday — Normal,Raid,Raids,Friday,,Numel
+harvest_festival_taken_over,Harvest Festival: Taken Over,Numel,True,Shiny/Numel_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Numel
+harvest_festival_taken_over,Harvest Festival: Taken Over,Numel,False,Normal/Numel.png,Raids — Friday — Normal,Raid,Raids,Friday,,Numel
+harvest_festival_taken_over,Harvest Festival: Taken Over,Applin,False,Normal/Applin.png,Raids — Friday — Normal,Wild,Raids,Friday,,"As a reminder, Pokemon from Harvest Festival: Applin Picking will continue to appear in the wild during the event."
+harvest_festival_taken_over,Harvest Festival: Taken Over,Snorlax,False,Normal/Snorlax.png,Raids — Friday — Normal,Raid,Raids,Friday,,Snorlax
+harvest_festival_taken_over,Harvest Festival: Taken Over,Snorlax,True,Shiny/Snorlax_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Snorlax
+harvest_festival_taken_over,Harvest Festival: Taken Over,Snorlax,False,Normal/Snorlax.png,Raids — Friday — Normal,Raid,Raids,Friday,,Snorlax
+harvest_festival_taken_over,Harvest Festival: Taken Over,Shroomish,False,Normal/Shroomish.png,Raids — Friday — Normal,Raid,Raids,Friday,,Shroomish
+harvest_festival_taken_over,Harvest Festival: Taken Over,Shroomish,True,Shiny/Shroomish_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Shroomish
+harvest_festival_taken_over,Harvest Festival: Taken Over,Shroomish,False,Normal/Shroomish.png,Raids — Friday — Normal,Raid,Raids,Friday,,Shroomish
+harvest_festival_taken_over,Harvest Festival: Taken Over,Foongus,False,Normal/Foongus.png,Raids — Friday — Normal,Raid,Raids,Friday,,Foongus
+harvest_festival_taken_over,Harvest Festival: Taken Over,Foongus,True,Shiny/Foongus_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Foongus
+harvest_festival_taken_over,Harvest Festival: Taken Over,Foongus,False,Normal/Foongus.png,Raids — Friday — Normal,Raid,Raids,Friday,,Foongus
+harvest_festival_taken_over,Harvest Festival: Taken Over,Skwovet,False,Normal/Skwovet.png,Raids — Friday — Normal,Raid,Raids,Friday,,Skwovet
+harvest_festival_taken_over,Harvest Festival: Taken Over,Skwovet,True,Shiny/Skwovet_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Skwovet
+harvest_festival_taken_over,Harvest Festival: Taken Over,Skwovet,False,Normal/Skwovet.png,Raids — Friday — Normal,Raid,Raids,Friday,,Skwovet
+harvest_festival_taken_over,Harvest Festival: Taken Over,Applin,False,Normal/Applin.png,Raids — Friday — Normal,Raid,Raids,Friday,,Applin
+harvest_festival_taken_over,Harvest Festival: Taken Over,Applin,True,Shiny/Applin_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Applin
+harvest_festival_taken_over,Harvest Festival: Taken Over,Applin,False,Normal/Applin.png,Raids — Friday — Normal,Raid,Raids,Friday,,Applin
+harvest_festival_taken_over,Harvest Festival: Taken Over,Lechonk,False,Normal/Lechonk.png,Raids — Friday — Normal,Raid,Raids,Friday,,Lechonk
+harvest_festival_taken_over,Harvest Festival: Taken Over,Lechonk,True,Shiny/Lechonk_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Lechonk
+harvest_festival_taken_over,Harvest Festival: Taken Over,Lechonk,False,Normal/Lechonk.png,Raids — Friday — Normal,Raid,Raids,Friday,,Lechonk
+harvest_festival_taken_over,Harvest Festival: Taken Over,Smoliv,False,Normal/Smoliv.png,Raids — Friday — Normal,Raid,Raids,Friday,,Smoliv
+harvest_festival_taken_over,Harvest Festival: Taken Over,Smoliv,True,Shiny/Smoliv_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Smoliv
+harvest_festival_taken_over,Harvest Festival: Taken Over,Smoliv,False,Normal/Smoliv.png,Raids — Friday — Normal,Raid,Raids,Friday,,Smoliv
 harvest_festival_taken_over,Harvest Festival: Taken Over,Shroodle,False,Normal/Shroodle.png,Field Research — Friday — Normal,Research,Field Research,Friday,,Shiny Shroodle Debut
 harvest_festival_taken_over,Harvest Festival: Taken Over,Shroodle,True,Shiny/Shroodle_shiny.png,Field Research — Friday — Shiny,Research,Field Research,Friday,,Shiny Shroodle Debut
 harvest_festival_taken_over,Harvest Festival: Taken Over,Shroodle,False,Normal/Shroodle.png,Eggs — Friday — Normal,Egg,Eggs,Friday,,Shiny Shroodle will be available to hatch for the first time in Pokemon GO! Evolve Shiny Shroodle to obtain Shiny Grafaiai.

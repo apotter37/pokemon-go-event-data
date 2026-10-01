@@ -6,8 +6,23 @@
   "date_text": "Fri, Oct 2, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/patterns-of-the-wild-2026/",
-  "generated_at": "2026-10-01 05:45:31",
+  "generated_at": "2026-10-01 18:23:56",
   "entries": [
+    {
+      "dex": 25,
+      "name": "Pikachu",
+      "uri": "file:///android_asset/Pokemon/Costume/Pikachu_2023.png",
+      "label": "Eggs — Friday — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "Friday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "REWARDS Batik Shirt Pikachu ×3 ×5"
+    },
     {
       "dex": 25,
       "name": "Pikachu",
@@ -66,7 +81,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
+      "source_text": "Rewards include encounters with Pikachu wearing a batik shirt, Oddish, Hoppip, and Ledyba, along with XP, Stardust, items, and stickers."
     },
     {
       "dex": 43,
@@ -81,7 +96,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
+      "source_text": "Oddish"
     },
     {
       "dex": 165,
@@ -96,7 +111,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
+      "source_text": "Rewards include encounters with Pikachu wearing a batik shirt, Oddish, Hoppip, and Ledyba, along with XP, Stardust, items, and stickers."
     },
     {
       "dex": 165,
@@ -111,7 +126,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
+      "source_text": "Ledyba"
     },
     {
       "dex": 187,
@@ -126,7 +141,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
+      "source_text": "Rewards include encounters with Pikachu wearing a batik shirt, Oddish, Hoppip, and Ledyba, along with XP, Stardust, items, and stickers."
     },
     {
       "dex": 187,
@@ -141,7 +156,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Rewards include an encounter with Pikachu wearing a batik shirt with a Special Background, encounters with Oddish, Ledyba, and Hoppip, 1,000 XP, 1,000 Stardust, and more. Each of these Pokemon can be Shiny."
+      "source_text": "Hoppip"
     },
     {
       "dex": 25,
