@@ -3,10 +3,10 @@ Pokemon GO Event Builder Report
 Events kept after cleanup: 25
 Current events: 20
 Upcoming events: 5
-Official news items found: 11
+Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 563
+Matched entries: 575
 Unmatched candidates: 32
 No-match debug rows: 32
 
@@ -18,7 +18,7 @@ Events written:
   URL: https://leekduck.com/events/pokemon-x-adidas-2026/
 - [current] Event: Patterns of the Wild
   Date: Fri, Oct 2, at 8:00 PM
-  Entries: 35
+  Entries: 57
   File: current/patterns_of_the_wild.json
   URL: https://leekduck.com/events/patterns-of-the-wild-2026/
 - [current] Event: Minior Showers: Southern Delta Aquariids 2027
@@ -91,11 +91,6 @@ Events written:
   Entries: 0
   File: current/minior_showers_geminids_2026.json
   URL: https://leekduck.com/events/minior-showers-geminids-2026/
-- [current] Event: LEGO Stores and Pokémon GO
-  Date: Wed, Sep 30, at 11:59 PM
-  Entries: 8
-  File: current/lego_stores_and_pokemon_go.json
-  URL: https://leekduck.com/events/lego-pokemon-go-2026/
 - [current] Event: Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027 Time TBD
   Entries: 0
   File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027_time_tbd.json
@@ -108,6 +103,10 @@ Events written:
   Entries: 0
   File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_time_tbd.json
   URL: https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/
+- [current] Event: Twitch Drops Twitch Drops Twitch Drops for Pokemon Night Out 2026 Time TBD
+  Entries: 0
+  File: current/twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026_time_tbd.json
+  URL: https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/
 - [upcoming] Community Day: November Community Day
   Date: Sat, Nov 21, at 5:00 PM
   Entries: 0

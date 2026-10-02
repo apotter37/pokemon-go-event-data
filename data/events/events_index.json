@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02 05:30:21",
+  "generated_at": "2026-10-02 17:51:04",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -150,15 +150,6 @@
       "source_url": "https://leekduck.com/events/minior-showers-geminids-2026/"
     },
     {
-      "id": "lego_stores_and_pokemon_go",
-      "title": "LEGO Stores and Pokémon GO",
-      "category": "Event",
-      "date_text": "Wed, Sep 30, at 11:59 PM",
-      "file": "current/lego_stores_and_pokemon_go.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/lego-pokemon-go-2026/"
-    },
-    {
       "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027_time_tbd",
       "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027 Time TBD",
       "category": "Event",
@@ -184,6 +175,15 @@
       "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_time_tbd.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/"
+    },
+    {
+      "id": "twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026_time_tbd",
+      "title": "Twitch Drops Twitch Drops Twitch Drops for Pokemon Night Out 2026 Time TBD",
+      "category": "Event",
+      "date_text": "",
+      "file": "current/twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026_time_tbd.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/"
     }
   ],
   "upcoming": [

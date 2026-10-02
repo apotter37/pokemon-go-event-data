@@ -251,20 +251,6 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "LEGO Stores and Pokémon GO",
-      "url": "https://leekduck.com/events/lego-pokemon-go-2026/",
-      "date_text": "Wed, Sep 30, at 11:59 PM",
-      "raw_text": "Event Event LEGO Stores and Pokemon GO Wed, Sep 30, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "lego_stores_and_pokemon_go",
-      "file": "current/lego_stores_and_pokemon_go.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
       "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027 Time TBD",
       "url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/",
       "date_text": "",
@@ -299,6 +285,20 @@
       "raw_text": "Pokemon GO Tour Pokemon GO Tour Pokemon GO Tour: Alola - Los Angeles 2027 Time TBD Ends: February 21, 2027",
       "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_time_tbd",
       "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_time_tbd.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
+      "title": "Twitch Drops Twitch Drops Twitch Drops for Pokemon Night Out 2026 Time TBD",
+      "url": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/",
+      "date_text": "",
+      "raw_text": "Twitch Drops Twitch Drops Twitch Drops for Pokemon Night Out 2026 Time TBD Ends: To be announced",
+      "id": "twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026_time_tbd",
+      "file": "current/twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026_time_tbd.json"
     },
     "official_matches": []
   },
