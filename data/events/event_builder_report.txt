@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 25
-Current events: 20
+Events kept after cleanup: 24
+Current events: 19
 Upcoming events: 5
 Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 575
+Matched entries: 491
 Unmatched candidates: 32
 No-match debug rows: 32
 
@@ -16,11 +16,6 @@ Events written:
   Entries: 3
   File: current/research_adidas_pokemon_timed_research.json
   URL: https://leekduck.com/events/pokemon-x-adidas-2026/
-- [current] Event: Patterns of the Wild
-  Date: Fri, Oct 2, at 8:00 PM
-  Entries: 57
-  File: current/patterns_of_the_wild.json
-  URL: https://leekduck.com/events/patterns-of-the-wild-2026/
 - [current] Event: Minior Showers: Southern Delta Aquariids 2027
   Date: Mon, Aug 2, at 11:59 PM
   Entries: 0

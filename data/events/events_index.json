@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04 05:47:38",
+  "generated_at": "2026-10-04 16:50:41",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -13,15 +13,6 @@
       "file": "current/research_adidas_pokemon_timed_research.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-x-adidas-2026/"
-    },
-    {
-      "id": "patterns_of_the_wild",
-      "title": "Patterns of the Wild",
-      "category": "Event",
-      "date_text": "Fri, Oct 2, at 8:00 PM",
-      "file": "current/patterns_of_the_wild.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/patterns-of-the-wild-2026/"
     },
     {
       "id": "minior_showers_southern_delta_aquariids_2027",
