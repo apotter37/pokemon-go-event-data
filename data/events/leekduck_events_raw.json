@@ -91,23 +91,23 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
-    "title": "Halloween 2026 Part I",
-    "url": "https://leekduck.com/events/halloween-2026-part-1/",
-    "date_text": "Sat, Oct 31, at 8:00 PM",
-    "raw_text": "Event Event Halloween 2026 Part I Sat, Oct 31, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "halloween_2026_part_i",
-    "file": "current/halloween_2026_part_i.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
     "title": "Minior Showers: Perseids 2027",
     "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
     "date_text": "Sun, Aug 15, at 11:59 PM",
     "raw_text": "Event Event Minior Showers: Perseids 2027 Sun, Aug 15, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "minior_showers_perseids_2027",
     "file": "current/minior_showers_perseids_2027.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
+    "title": "Pokémon GO Halloween 2026 Part I",
+    "url": "https://leekduck.com/events/halloween-2026-part-1/",
+    "date_text": "Sun, Nov 1, at 10:00 AM",
+    "raw_text": "Event Event Pokemon GO Halloween 2026 Part I Sun, Nov 1, at 10:00 AM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "pokemon_go_halloween_2026_part_i",
+    "file": "current/pokemon_go_halloween_2026_part_i.json"
   },
   {
     "source": "LeekDuck",

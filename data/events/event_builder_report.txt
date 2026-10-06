@@ -6,7 +6,7 @@ Upcoming events: 5
 Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 491
+Matched entries: 520
 Unmatched candidates: 32
 No-match debug rows: 32
 
@@ -51,16 +51,16 @@ Events written:
   Entries: 0
   File: current/minior_showers_orionids_2026.json
   URL: https://leekduck.com/events/minior-showers-orionids-2026/
-- [current] Event: Halloween 2026 Part I
-  Date: Sat, Oct 31, at 8:00 PM
-  Entries: 0
-  File: current/halloween_2026_part_i.json
-  URL: https://leekduck.com/events/halloween-2026-part-1/
 - [current] Event: Minior Showers: Perseids 2027
   Date: Sun, Aug 15, at 11:59 PM
   Entries: 0
   File: current/minior_showers_perseids_2027.json
   URL: https://leekduck.com/events/minior-showers-perseids-2027/
+- [current] Event: Pokémon GO Halloween 2026 Part I
+  Date: Sun, Nov 1, at 10:00 AM
+  Entries: 24
+  File: current/pokemon_go_halloween_2026_part_i.json
+  URL: https://leekduck.com/events/halloween-2026-part-1/
 - [current] Event: Wild Area Wild Area Pokémon GO Wild Area 2026: Global
   Date: Sun, Nov 15, at 6:00 PM
   Entries: 185

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05 05:32:10",
+  "generated_at": "2026-10-06 06:15:04",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -78,15 +78,6 @@
       "source_url": "https://leekduck.com/events/minior-showers-orionids-2026/"
     },
     {
-      "id": "halloween_2026_part_i",
-      "title": "Halloween 2026 Part I",
-      "category": "Event",
-      "date_text": "Sat, Oct 31, at 8:00 PM",
-      "file": "current/halloween_2026_part_i.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/halloween-2026-part-1/"
-    },
-    {
       "id": "minior_showers_perseids_2027",
       "title": "Minior Showers: Perseids 2027",
       "category": "Event",
@@ -94,6 +85,15 @@
       "file": "current/minior_showers_perseids_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-perseids-2027/"
+    },
+    {
+      "id": "pokemon_go_halloween_2026_part_i",
+      "title": "Pokémon GO Halloween 2026 Part I",
+      "category": "Event",
+      "date_text": "Sun, Nov 1, at 10:00 AM",
+      "file": "current/pokemon_go_halloween_2026_part_i.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/halloween-2026-part-1/"
     },
     {
       "id": "wild_area_wild_area_pokemon_go_wild_area_2026_global",
