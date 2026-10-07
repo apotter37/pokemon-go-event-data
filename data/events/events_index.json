@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07 05:52:12",
+  "generated_at": "2026-10-07 18:54:59",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -31,24 +31,6 @@
       "file": "current/fall_marathon_buddy_trek.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/"
-    },
-    {
-      "id": "harvest_festival_2026_applin_picking",
-      "title": "Harvest Festival 2026: Applin Picking",
-      "category": "Event",
-      "date_text": "Mon, Oct 5, at 8:00 PM",
-      "file": "current/harvest_festival_2026_applin_picking.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/harvest-festival-2026/"
-    },
-    {
-      "id": "harvest_festival_taken_over",
-      "title": "Harvest Festival: Taken Over",
-      "category": "Event",
-      "date_text": "Mon, Oct 5, at 8:00 PM",
-      "file": "current/harvest_festival_taken_over.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/harvest-festival-taken-over-2026/"
     },
     {
       "id": "minior_showers_eta_aquariids_2027",

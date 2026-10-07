@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 24
-Current events: 19
+Events kept after cleanup: 22
+Current events: 17
 Upcoming events: 5
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 520
+Matched entries: 396
 Unmatched candidates: 32
 No-match debug rows: 32
 
@@ -26,16 +26,6 @@ Events written:
   Entries: 39
   File: current/fall_marathon_buddy_trek.json
   URL: https://leekduck.com/events/fall-marathon-buddy-trek-2026/
-- [current] Event: Harvest Festival 2026: Applin Picking
-  Date: Mon, Oct 5, at 8:00 PM
-  Entries: 44
-  File: current/harvest_festival_2026_applin_picking.json
-  URL: https://leekduck.com/events/harvest-festival-2026/
-- [current] Event: Harvest Festival: Taken Over
-  Date: Mon, Oct 5, at 8:00 PM
-  Entries: 52
-  File: current/harvest_festival_taken_over.json
-  URL: https://leekduck.com/events/harvest-festival-taken-over-2026/
 - [current] Event: Minior Showers: Eta Aquariids 2027
   Date: Sat, May 8, at 11:59 PM
   Entries: 0
@@ -63,7 +53,7 @@ Events written:
   URL: https://leekduck.com/events/halloween-2026-part-1/
 - [current] Event: Wild Area Wild Area Pokémon GO Wild Area 2026: Global
   Date: Sun, Nov 15, at 6:00 PM
-  Entries: 185
+  Entries: 192
   File: current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 - [current] Event: Minior Showers: Leonids 2026
