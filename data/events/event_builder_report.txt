@@ -3,10 +3,10 @@ Pokemon GO Event Builder Report
 Events kept after cleanup: 22
 Current events: 17
 Upcoming events: 5
-Official news items found: 9
+Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 415
+Matched entries: 451
 Unmatched candidates: 32
 No-match debug rows: 32
 
@@ -61,10 +61,10 @@ Events written:
   Entries: 0
   File: current/minior_showers_leonids_2026.json
   URL: https://leekduck.com/events/minior-showers-leonids-2026/
-- [current] Event: Halloween 2026 Part II
+- [current] Event: Pokémon GO Halloween 2026 Part II
   Date: Thu, Nov 5, at 8:00 PM
-  Entries: 0
-  File: current/halloween_2026_part_ii.json
+  Entries: 26
+  File: current/pokemon_go_halloween_2026_part_ii.json
   URL: https://leekduck.com/events/halloween-2026-part-2/
 - [current] Event: Pokemon TCG: 30th Celebration
   Date: Tue, Oct 20, at 10:00 PM
