@@ -6,7 +6,7 @@ Upcoming events: 5
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 396
+Matched entries: 415
 Unmatched candidates: 32
 No-match debug rows: 32
 
@@ -53,7 +53,7 @@ Events written:
   URL: https://leekduck.com/events/halloween-2026-part-1/
 - [current] Event: Wild Area Wild Area Pokémon GO Wild Area 2026: Global
   Date: Sun, Nov 15, at 6:00 PM
-  Entries: 192
+  Entries: 207
   File: current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 - [current] Event: Minior Showers: Leonids 2026
