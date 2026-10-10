@@ -1,8 +1,8 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 22
-Current events: 17
-Upcoming events: 5
+Current events: 18
+Upcoming events: 4
 Official news items found: 7
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
@@ -36,6 +36,11 @@ Events written:
   Entries: 6
   File: current/world_space_week_2026.json
   URL: https://leekduck.com/events/world-space-week-2026/
+- [current] Community Day: Zorua Community Day
+  Date: Sat, Oct 10, at 5:00 PM
+  Entries: 14
+  File: current/zorua_community_day.json
+  URL: https://leekduck.com/events/october-communityday2026/
 - [current] Event: Minior Showers: Orionids 2026
   Date: Sat, Oct 24, at 11:59 PM
   Entries: 0
@@ -102,11 +107,6 @@ Events written:
   Entries: 0
   File: upcoming/super_mega_raid_day_2.json
   URL: https://leekduck.com/events/super-mega-raid-day-november-2026/
-- [upcoming] Community Day: Zorua Community Day
-  Date: Sat, Oct 10, at 5:00 PM
-  Entries: 14
-  File: upcoming/zorua_community_day.json
-  URL: https://leekduck.com/events/october-communityday2026/
 - [upcoming] Event: Sandile Hatch Day
   Date: Sat, Oct 17, at 5:00 PM
   Entries: 6

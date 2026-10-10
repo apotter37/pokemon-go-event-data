@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 18:19:52",
+  "generated_at": "2026-10-10 05:45:23",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -49,6 +49,15 @@
       "file": "current/world_space_week_2026.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/world-space-week-2026/"
+    },
+    {
+      "id": "zorua_community_day",
+      "title": "Zorua Community Day",
+      "category": "Community Day",
+      "date_text": "Sat, Oct 10, at 5:00 PM",
+      "file": "current/zorua_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/october-communityday2026/"
     },
     {
       "id": "minior_showers_orionids_2026",
@@ -177,15 +186,6 @@
       "file": "upcoming/super_mega_raid_day_2.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/super-mega-raid-day-november-2026/"
-    },
-    {
-      "id": "zorua_community_day",
-      "title": "Zorua Community Day",
-      "category": "Community Day",
-      "date_text": "Sat, Oct 10, at 5:00 PM",
-      "file": "upcoming/zorua_community_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/october-communityday2026/"
     },
     {
       "id": "sandile_hatch_day",
