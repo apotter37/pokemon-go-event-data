@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 22
-Current events: 18
+Events kept after cleanup: 20
+Current events: 16
 Upcoming events: 4
 Official news items found: 7
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 450
+Matched entries: 426
 Unmatched candidates: 32
 No-match debug rows: 32
 
@@ -31,16 +31,6 @@ Events written:
   Entries: 0
   File: current/minior_showers_eta_aquariids_2027.json
   URL: https://leekduck.com/events/minior-showers-eta-aquariids-2027/
-- [current] Event: World Space Week 2026
-  Date: Sat, Oct 10, at 11:59 PM
-  Entries: 6
-  File: current/world_space_week_2026.json
-  URL: https://leekduck.com/events/world-space-week-2026/
-- [current] Community Day: Zorua Community Day
-  Date: Sat, Oct 10, at 5:00 PM
-  Entries: 14
-  File: current/zorua_community_day.json
-  URL: https://leekduck.com/events/october-communityday2026/
 - [current] Event: Minior Showers: Orionids 2026
   Date: Sat, Oct 24, at 11:59 PM
   Entries: 0

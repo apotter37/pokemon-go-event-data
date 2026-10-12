@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12 05:50:28",
+  "generated_at": "2026-10-12 21:15:01",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -40,24 +40,6 @@
       "file": "current/minior_showers_eta_aquariids_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
-    },
-    {
-      "id": "world_space_week_2026",
-      "title": "World Space Week 2026",
-      "category": "Event",
-      "date_text": "Sat, Oct 10, at 11:59 PM",
-      "file": "current/world_space_week_2026.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/world-space-week-2026/"
-    },
-    {
-      "id": "zorua_community_day",
-      "title": "Zorua Community Day",
-      "category": "Community Day",
-      "date_text": "Sat, Oct 10, at 5:00 PM",
-      "file": "current/zorua_community_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/october-communityday2026/"
     },
     {
       "id": "minior_showers_orionids_2026",

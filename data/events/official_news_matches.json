@@ -60,40 +60,6 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "World Space Week 2026",
-      "url": "https://leekduck.com/events/world-space-week-2026/",
-      "date_text": "Sat, Oct 10, at 11:59 PM",
-      "raw_text": "Event Event World Space Week 2026 Ends: Sat, Oct 10, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "world_space_week_2026",
-      "file": "current/world_space_week_2026.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Community Day",
-      "title": "Zorua Community Day",
-      "url": "https://leekduck.com/events/october-communityday2026/",
-      "date_text": "Sat, Oct 10, at 5:00 PM",
-      "raw_text": "Community Day Community Day Zorua Community Day Ends: Sat, Oct 10, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "zorua_community_day",
-      "file": "current/zorua_community_day.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "October 2026 Community Day: Zorua",
-        "url": "https://pokemongo.com/news/communityday-october-2026-zorua"
-      }
-    ]
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
       "title": "Minior Showers: Orionids 2026",
       "url": "https://leekduck.com/events/minior-showers-orionids-2026/",
       "date_text": "Sat, Oct 24, at 11:59 PM",
