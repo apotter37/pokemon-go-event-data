@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 17:40:24",
+  "generated_at": "2026-10-12 05:50:28",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -132,38 +132,38 @@
       "source_url": "https://leekduck.com/events/minior-showers-geminids-2026/"
     },
     {
-      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027_time_tbd",
-      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027 Time TBD",
+      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027",
+      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027",
       "category": "Event",
       "date_text": "",
-      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027_time_tbd.json",
+      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-tour-alola-global-2027/"
     },
     {
-      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_kaohsiung_2027_time_tbd",
-      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Kaohsiung 2027 Time TBD",
+      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_kaohsiung_2027",
+      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Kaohsiung 2027",
       "category": "Event",
       "date_text": "",
-      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_kaohsiung_2027_time_tbd.json",
+      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_kaohsiung_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/"
     },
     {
-      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_time_tbd",
-      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Los Angeles 2027 Time TBD",
+      "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027",
+      "title": "Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Los Angeles 2027",
       "category": "Event",
       "date_text": "",
-      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027_time_tbd.json",
+      "file": "current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/"
     },
     {
-      "id": "twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026_time_tbd",
-      "title": "Twitch Drops Twitch Drops Twitch Drops for Pokemon Night Out 2026 Time TBD",
+      "id": "twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026",
+      "title": "Twitch Drops Twitch Drops Twitch Drops for Pokemon Night Out 2026",
       "category": "Event",
       "date_text": "",
-      "file": "current/twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026_time_tbd.json",
+      "file": "current/twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/"
     }
