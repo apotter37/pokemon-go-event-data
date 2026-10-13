@@ -6,9 +6,9 @@ Upcoming events: 4
 Official news items found: 7
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 426
-Unmatched candidates: 32
-No-match debug rows: 32
+Matched entries: 432
+Unmatched candidates: 33
+No-match debug rows: 33
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
@@ -23,7 +23,7 @@ Events written:
   URL: https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/
 - [current] Event: Fall Marathon: Buddy Trek
   Date: Mon, Oct 19, at 8:00 PM
-  Entries: 39
+  Entries: 43
   File: current/fall_marathon_buddy_trek.json
   URL: https://leekduck.com/events/fall-marathon-buddy-trek-2026/
 - [current] Event: Minior Showers: Eta Aquariids 2027

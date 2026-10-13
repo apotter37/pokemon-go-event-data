@@ -6,7 +6,7 @@
   "date_text": "Mon, Oct 19, at 8:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
-  "generated_at": "2026-10-12 21:14:45",
+  "generated_at": "2026-10-13 06:43:33",
   "entries": [
     {
       "dex": 25,
@@ -261,7 +261,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Electrike Electrike"
+      "source_text": "Electrike"
     },
     {
       "dex": 309,
@@ -276,7 +276,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "You will have an increased chance of encountering Shiny Electrike throughout the event."
+      "source_text": "Electrike"
     },
     {
       "dex": 310,
@@ -534,6 +534,36 @@
       "source_text": "Skarmory"
     },
     {
+      "dex": 234,
+      "name": "Stantler",
+      "uri": "file:///android_asset/Pokemon/Normal/Stantler.png",
+      "label": "Wild Encounters — Normal",
+      "availability": "Wild",
+      "section": "Wild Encounters",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Stantler"
+    },
+    {
+      "dex": 234,
+      "name": "Stantler",
+      "uri": "file:///android_asset/Pokemon/Shiny/Stantler_shiny.png",
+      "label": "Wild Encounters — Shiny",
+      "availability": "Wild",
+      "section": "Wild Encounters",
+      "day": "",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Stantler"
+    },
+    {
       "dex": 309,
       "name": "Electrike",
       "uri": "file:///android_asset/Pokemon/Normal/Electrike.png",
@@ -562,6 +592,36 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Electrike"
+    },
+    {
+      "dex": 331,
+      "name": "Cacnea",
+      "uri": "file:///android_asset/Pokemon/Normal/Cacnea.png",
+      "label": "Wild Encounters — Normal",
+      "availability": "Wild",
+      "section": "Wild Encounters",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Cacnea"
+    },
+    {
+      "dex": 331,
+      "name": "Cacnea",
+      "uri": "file:///android_asset/Pokemon/Shiny/Cacnea_shiny.png",
+      "label": "Wild Encounters — Shiny",
+      "availability": "Wild",
+      "section": "Wild Encounters",
+      "day": "",
+      "habitat": "",
+      "shiny": true,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Cacnea"
     },
     {
       "dex": 522,

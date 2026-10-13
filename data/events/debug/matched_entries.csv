@@ -19,9 +19,15 @@ fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Ponyta,False,Normal/Ponyta.pn
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Doduo,False,Normal/Doduo.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Doduo
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Doduo,True,Shiny/Doduo_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Doduo
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Doduo,False,Normal/Doduo.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Doduo
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Stantler,False,Normal/Stantler.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Stantler
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Stantler,True,Shiny/Stantler_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Stantler
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Stantler,False,Normal/Stantler.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Stantler
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Electrike
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,True,Shiny/Electrike_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Electrike
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Electrike
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Cacnea,False,Normal/Cacnea.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Cacnea
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Cacnea,True,Shiny/Cacnea_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Cacnea
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Cacnea,False,Normal/Cacnea.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Cacnea
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Blitzle,False,Normal/Blitzle.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Blitzle
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Blitzle,True,Shiny/Blitzle_shiny.png,Wild Encounters — Shiny,Wild,Wild Encounters,,,Blitzle
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Blitzle,False,Normal/Blitzle.png,Wild Encounters — Normal,Wild,Wild Encounters,,,Blitzle
@@ -34,6 +40,8 @@ fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Ponyta,False,Galarian/Ponyta_
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Hoppip,False,Normal/Hoppip.png,Incense — Normal,Incense,Incense,,,Hoppip
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Hoppip,True,Shiny/Hoppip_shiny.png,Incense — Shiny,Incense,Incense,,,Hoppip
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Hoppip,False,Normal/Hoppip.png,Incense — Normal,Incense,Incense,,,Hoppip
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Incense — Normal,Incense,Incense,,,Electrike
+fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,True,Shiny/Electrike_shiny.png,Incense — Shiny,Incense,Incense,,,Electrike
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Dwebble,False,Normal/Dwebble.png,Incense — Normal,Incense,Incense,,,Dwebble
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Dwebble,True,Shiny/Dwebble_shiny.png,Incense — Shiny,Incense,Incense,,,Dwebble
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Dwebble,False,Normal/Dwebble.png,Incense — Normal,Incense,Incense,,,Dwebble
@@ -55,8 +63,6 @@ fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Ponyta,False,Normal/Ponyta.pn
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Incense — Normal,Incense,Incense,,,Electrike Electrike
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Blitzle,False,Normal/Blitzle.png,Incense — Normal,Incense,Incense,,,Blitzle Dwebble
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Skarmory,False,Normal/Skarmory.png,Incense — Normal,Incense,Incense,,,Skarmory Skarmory
-fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Incense — Normal,Incense,Incense,,,You will have an increased chance of encountering Shiny Electrike throughout the event.
-fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,True,Shiny/Electrike_shiny.png,Incense — Shiny,Incense,Incense,,,You will have an increased chance of encountering Shiny Electrike throughout the event.
 pokemon_go_halloween_2026_part_i,Pokémon GO Halloween 2026 Part I,Pikachu,False,Costume/Pikachu_party_hat.png,Bonuses — Sunday — Cap — Normal,Bonus,Bonuses,Sunday,,Pikachu wearing a hat and capelet
 pokemon_go_halloween_2026_part_i,Pokémon GO Halloween 2026 Part I,Pikachu,True,Shiny/Pikachu_shiny.png,Bonuses — Sunday — Cap — Shiny,Bonus,Bonuses,Sunday,,Pikachu wearing a hat and capelet
 pokemon_go_halloween_2026_part_i,Pokémon GO Halloween 2026 Part I,Pikachu,False,Costume/Pikachu_party_hat.png,Bonuses — Sunday — Cap — Normal,Bonus,Bonuses,Sunday,,Pikachu wearing a hat and capelet
