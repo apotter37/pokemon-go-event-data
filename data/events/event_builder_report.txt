@@ -6,7 +6,7 @@ Upcoming events: 4
 Official news items found: 7
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 432
+Matched entries: 451
 Unmatched candidates: 33
 No-match debug rows: 33
 
@@ -95,18 +95,18 @@ Events written:
 - [upcoming] Raid Day: Super Mega Raid Day
   Date: Sat, Nov 28, at 5:00 PM
   Entries: 0
-  File: upcoming/super_mega_raid_day_2.json
+  File: upcoming/super_mega_raid_day.json
   URL: https://leekduck.com/events/super-mega-raid-day-november-2026/
 - [upcoming] Event: Sandile Hatch Day
   Date: Sat, Oct 17, at 5:00 PM
   Entries: 6
   File: upcoming/sandile_hatch_day.json
   URL: https://leekduck.com/events/sandile-hatch-day-2026/
-- [upcoming] Raid Day: Super Mega Raid Day
+- [upcoming] Raid Day: Chandelure Super Mega Raid Day
   Date: Sat, Oct 31, at 5:00 PM
-  Entries: 0
-  File: upcoming/super_mega_raid_day.json
-  URL: https://leekduck.com/events/super-mega-raid-day-october-2026/
+  Entries: 15
+  File: upcoming/chandelure_super_mega_raid_day.json
+  URL: https://leekduck.com/events/chandelure-super-mega-raid-day-2026/
 
 Wrote index: data/events/events_index.json
 Wrote raw LeekDuck data: data/events/leekduck_events_raw.json

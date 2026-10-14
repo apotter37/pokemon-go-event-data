@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13 19:13:33",
+  "generated_at": "2026-10-14 04:47:47",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -161,11 +161,11 @@
       "source_url": "https://leekduck.com/events/november-communityday2026/"
     },
     {
-      "id": "super_mega_raid_day_2",
+      "id": "super_mega_raid_day",
       "title": "Super Mega Raid Day",
       "category": "Raid Day",
       "date_text": "Sat, Nov 28, at 5:00 PM",
-      "file": "upcoming/super_mega_raid_day_2.json",
+      "file": "upcoming/super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/super-mega-raid-day-november-2026/"
     },
@@ -179,13 +179,13 @@
       "source_url": "https://leekduck.com/events/sandile-hatch-day-2026/"
     },
     {
-      "id": "super_mega_raid_day",
-      "title": "Super Mega Raid Day",
+      "id": "chandelure_super_mega_raid_day",
+      "title": "Chandelure Super Mega Raid Day",
       "category": "Raid Day",
       "date_text": "Sat, Oct 31, at 5:00 PM",
-      "file": "upcoming/super_mega_raid_day.json",
+      "file": "upcoming/chandelure_super_mega_raid_day.json",
       "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/super-mega-raid-day-october-2026/"
+      "source_url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/"
     }
   ]
 }
