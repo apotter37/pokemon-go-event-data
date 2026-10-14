@@ -116,6 +116,26 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
+      "title": "City Safari City Safari Pokémon GO City Safari: Boston (Rescheduled)",
+      "url": "https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/",
+      "date_text": "Sun, Oct 25, at 6:00 PM",
+      "raw_text": "City Safari City Safari Pokemon GO City Safari: Boston (Rescheduled) Ends: Sun, Oct 25, at 6:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "city_safari_city_safari_pokemon_go_city_safari_boston_rescheduled",
+      "file": "current/city_safari_city_safari_pokemon_go_city_safari_boston_rescheduled.json"
+    },
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Event Update: City Safari Boston",
+        "url": "https://pokemongo.com/news/city-safari-boston-update"
+      }
+    ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
       "title": "Minior Showers: Leonids 2026",
       "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
       "date_text": "Thu, Nov 19, at 11:59 PM",

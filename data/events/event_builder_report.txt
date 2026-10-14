@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 20
-Current events: 16
+Events kept after cleanup: 21
+Current events: 17
 Upcoming events: 4
 Official news items found: 7
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 451
-Unmatched candidates: 33
-No-match debug rows: 33
+Matched entries: 538
+Unmatched candidates: 36
+No-match debug rows: 36
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
@@ -51,6 +51,11 @@ Events written:
   Entries: 207
   File: current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
+- [current] Event: City Safari City Safari Pokémon GO City Safari: Boston (Rescheduled)
+  Date: Sun, Oct 25, at 6:00 PM
+  Entries: 62
+  File: current/city_safari_city_safari_pokemon_go_city_safari_boston_rescheduled.json
+  URL: https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/
 - [current] Event: Minior Showers: Leonids 2026
   Date: Thu, Nov 19, at 11:59 PM
   Entries: 0

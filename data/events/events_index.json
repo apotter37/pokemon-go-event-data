@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14 04:47:47",
+  "generated_at": "2026-10-14 17:06:34",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -76,6 +76,15 @@
       "file": "current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    },
+    {
+      "id": "city_safari_city_safari_pokemon_go_city_safari_boston_rescheduled",
+      "title": "City Safari City Safari Pokémon GO City Safari: Boston (Rescheduled)",
+      "category": "Event",
+      "date_text": "Sun, Oct 25, at 6:00 PM",
+      "file": "current/city_safari_city_safari_pokemon_go_city_safari_boston_rescheduled.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/"
     },
     {
       "id": "minior_showers_leonids_2026",
