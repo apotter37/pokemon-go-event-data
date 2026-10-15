@@ -3,6 +3,68 @@ research_adidas_pokemon_timed_research,Research adidas × Pokemon Timed Research
 research_adidas_pokemon_timed_research,Research adidas × Pokemon Timed Research,Lucario,True,Mega/Shiny/Lucario_mega_shiny.png,Timed Research — Friday — Mega — Shiny,Research,Timed Research,Friday,,"This Timed Research has three pages. Complete the tasks to earn adidas avatar items, Lucario Candy, Lucario Mega Energy, XP, Stardust, and an encounter with Lucario. If you're lucky, you may encounter a Shiny Lucario!"
 research_adidas_pokemon_timed_research,Research adidas × Pokemon Timed Research,Lucario,False,Mega/Lucario_mega.png,Timed Research — Friday — Mega — Normal,Research,Timed Research,Friday,,Make 20 Great Throws ×40 Lucario Mega Energy ×40
 research_adidas_pokemon_timed_research,Research adidas × Pokemon Timed Research,Lucario,False,Normal/Lucario.png,Timed Research — Friday — Normal,Research,Timed Research,Friday,,Lucario
+into_the_wild,Into the Wild,Gimmighoul,False,Normal/Gimmighoul_roaming.png,Bonuses — Saturday — Normal,Bonus,Bonuses,Saturday,,Chance to encounter Shiny Gimmighoul when using a Coin Bag*
+into_the_wild,Into the Wild,Gimmighoul,True,Shiny/Gimmighoul_roaming_shiny.png,Bonuses — Saturday — Shiny,Bonus,Bonuses,Saturday,,Chance to encounter Shiny Gimmighoul when using a Coin Bag*
+into_the_wild,Into the Wild,Meltan,False,Normal/Meltan.png,Bonuses — Saturday — Normal,Bonus,Bonuses,Saturday,,Chance to encounter Shiny Meltan when opening the Mystery Box*
+into_the_wild,Into the Wild,Meltan,True,Shiny/Meltan_shiny.png,Bonuses — Saturday — Shiny,Bonus,Bonuses,Saturday,,Chance to encounter Shiny Meltan when opening the Mystery Box*
+into_the_wild,Into the Wild,Regidrago,False,Normal/Regidrago.png,Bonuses — Sunday — Normal,Wild,Bonuses,Sunday,,"Regidrago will make its Pokemon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you're lucky, you may encounter a Shiny one!"
+into_the_wild,Into the Wild,Regidrago,True,Shiny/Regidrago_shiny.png,Bonuses — Sunday — Shiny,Wild,Bonuses,Sunday,,"Regidrago will make its Pokemon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you're lucky, you may encounter a Shiny one!"
+into_the_wild,Into the Wild,Meltan,False,Normal/Meltan.png,Bonuses — Sunday — Normal,Wild,Bonuses,Sunday,,"Regidrago will make its Pokemon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you're lucky, you may encounter a Shiny one!"
+into_the_wild,Into the Wild,Meltan,True,Shiny/Meltan_shiny.png,Bonuses — Sunday — Shiny,Wild,Bonuses,Sunday,,"Regidrago will make its Pokemon GO Dynamax debut in five-star Max Battles, and Meltan will make its Dynamax debut in GO Pass: Into the Wild. If you're lucky, you may encounter a Shiny one!"
+into_the_wild,Into the Wild,Regidrago,False,Normal/Regidrago.png,Bonuses — Sunday — Normal,Bonus,Bonuses,Sunday,,Regidrago
+into_the_wild,Into the Wild,Regidrago,True,Shiny/Regidrago_shiny.png,Bonuses — Sunday — Shiny,Bonus,Bonuses,Sunday,,Regidrago
+into_the_wild,Into the Wild,Regidrago,False,Normal/Regidrago.png,Bonuses — Sunday — Normal,Bonus,Bonuses,Sunday,,Regidrago
+into_the_wild,Into the Wild,Meltan,False,Normal/Meltan.png,Bonuses — Sunday — Normal,Bonus,Bonuses,Sunday,,Meltan
+into_the_wild,Into the Wild,Meltan,True,Shiny/Meltan_shiny.png,Bonuses — Sunday — Shiny,Bonus,Bonuses,Sunday,,Meltan
+into_the_wild,Into the Wild,Meltan,False,Normal/Meltan.png,Bonuses — Sunday — Normal,Bonus,Bonuses,Sunday,,Meltan
+into_the_wild,Into the Wild,Pikachu,False,Normal/Pikachu.png,Bonuses — Sunday — Normal,Bonus,Bonuses,Sunday,,"The Mystery Box is the key to catching Meltan. You can get one by sending a Pokemon from Pokemon GO to Pokemon HOME, or to Pokemon: Let's Go, Pikachu! or Pokemon: Let's Go, Eevee! on Nintendo Switch."
+into_the_wild,Into the Wild,Eevee,False,Normal/Eevee.png,Bonuses — Sunday — Normal,Bonus,Bonuses,Sunday,,"The Mystery Box is the key to catching Meltan. You can get one by sending a Pokemon from Pokemon GO to Pokemon HOME, or to Pokemon: Let's Go, Pikachu! or Pokemon: Let's Go, Eevee! on Nintendo Switch."
+into_the_wild,Into the Wild,Magnemite,False,Normal/Magnemite.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Magnemite
+into_the_wild,Into the Wild,Magnemite,True,Shiny/Magnemite_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Magnemite
+into_the_wild,Into the Wild,Magnemite,False,Normal/Magnemite.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Magnemite
+into_the_wild,Into the Wild,Noibat,False,Normal/Noibat.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Noibat
+into_the_wild,Into the Wild,Noibat,True,Shiny/Noibat_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Noibat
+into_the_wild,Into the Wild,Noibat,False,Normal/Noibat.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Noibat
+into_the_wild,Into the Wild,Togedemaru,False,Normal/Togedemaru.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Togedemaru
+into_the_wild,Into the Wild,Togedemaru,True,Shiny/Togedemaru_shiny.png,Wild Encounters — Sunday — Shiny,Wild,Wild Encounters,Sunday,,Togedemaru
+into_the_wild,Into the Wild,Togedemaru,False,Normal/Togedemaru.png,Wild Encounters — Sunday — Normal,Wild,Wild Encounters,Sunday,,Togedemaru
+into_the_wild,Into the Wild,Zamazenta,False,Normal/Zamazenta_crowned.png,Raids — Sunday — Crown — Normal,Raid,Raids,Sunday,,"The following Pokemon will appear in raids. Crowned Sword Zacian and Crowned Shield Zamazenta will also be featured in Raid Hours from 6:00 p.m. to 7:00 p.m. local time on Monday, November 9, and Tuesday, November 10, respectively."
+into_the_wild,Into the Wild,Zacian,False,Normal/Zacian_crowned.png,Raids — Sunday — Crown — Normal,Raid,Raids,Sunday,,"The following Pokemon will appear in raids. Crowned Sword Zacian and Crowned Shield Zamazenta will also be featured in Raid Hours from 6:00 p.m. to 7:00 p.m. local time on Monday, November 9, and Tuesday, November 10, respectively."
+into_the_wild,Into the Wild,Zamazenta,False,Normal/Zamazenta_crowned.png,Raids — Sunday — Crown — Normal,Raid,Raids,Sunday,,"Defeating Crowned Sword Zacian or Crowned Shield Zamazenta in raids will earn you Crowned Sword Energy or Crowned Shield Energy, respectively."
+into_the_wild,Into the Wild,Zacian,False,Normal/Zacian_crowned.png,Raids — Sunday — Crown — Normal,Raid,Raids,Sunday,,"Defeating Crowned Sword Zacian or Crowned Shield Zamazenta in raids will earn you Crowned Sword Energy or Crowned Shield Energy, respectively."
+into_the_wild,Into the Wild,Druddigon,False,Normal/Druddigon.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Druddigon
+into_the_wild,Into the Wild,Druddigon,True,Shiny/Druddigon_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Druddigon
+into_the_wild,Into the Wild,Druddigon,False,Normal/Druddigon.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Druddigon
+into_the_wild,Into the Wild,Orthworm,False,Normal/Orthworm.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Orthworm
+into_the_wild,Into the Wild,Orthworm,True,Shiny/Orthworm_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Orthworm
+into_the_wild,Into the Wild,Orthworm,False,Normal/Orthworm.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Orthworm
+into_the_wild,Into the Wild,Zacian,False,Normal/Zacian_crowned.png,Raids — Sunday — Crown — Normal,Raid,Raids,Sunday,,Zacian (Crowned Sword)
+into_the_wild,Into the Wild,Zacian,True,Shiny/Zacian_crowned_shiny.png,Raids — Sunday — Crown — Shiny,Raid,Raids,Sunday,,Zacian (Crowned Sword)
+into_the_wild,Into the Wild,Zacian,False,Normal/Zacian_crowned.png,Raids — Sunday — Crown — Normal,Raid,Raids,Sunday,,Zacian (Crowned Sword)
+into_the_wild,Into the Wild,Zamazenta,False,Normal/Zamazenta_crowned.png,Raids — Sunday — Crown — Normal,Raid,Raids,Sunday,,Zamazenta (Crowned Shield)
+into_the_wild,Into the Wild,Zamazenta,True,Shiny/Zamazenta_crowned_shiny.png,Raids — Sunday — Crown — Shiny,Raid,Raids,Sunday,,Zamazenta (Crowned Shield)
+into_the_wild,Into the Wild,Zamazenta,False,Normal/Zamazenta_crowned.png,Raids — Sunday — Crown — Normal,Raid,Raids,Sunday,,Zamazenta (Crowned Shield)
+into_the_wild,Into the Wild,Ralts,False,Normal/Ralts.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Ralts
+into_the_wild,Into the Wild,Ralts,True,Shiny/Ralts_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Ralts
+into_the_wild,Into the Wild,Ralts,False,Normal/Ralts.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Ralts
+into_the_wild,Into the Wild,Machop,False,Normal/Machop.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Machop
+into_the_wild,Into the Wild,Machop,True,Shiny/Machop_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Machop
+into_the_wild,Into the Wild,Machop,False,Normal/Machop.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Machop
+into_the_wild,Into the Wild,Registeel,False,Normal/Registeel.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Registeel
+into_the_wild,Into the Wild,Registeel,True,Shiny/Registeel_shiny.png,Raids — Sunday — Shiny,Raid,Raids,Sunday,,Registeel
+into_the_wild,Into the Wild,Registeel,False,Normal/Registeel.png,Raids — Sunday — Normal,Raid,Raids,Sunday,,Registeel
+into_the_wild,Into the Wild,Latias,False,Normal/Latias.png,Raids — Friday — Normal,Raid,Raids,Friday,,Latias
+into_the_wild,Into the Wild,Latias,True,Shiny/Latias_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Latias
+into_the_wild,Into the Wild,Latias,False,Normal/Latias.png,Raids — Friday — Normal,Raid,Raids,Friday,,Latias
+into_the_wild,Into the Wild,Latios,False,Normal/Latios.png,Raids — Friday — Normal,Raid,Raids,Friday,,Latios
+into_the_wild,Into the Wild,Latios,True,Shiny/Latios_shiny.png,Raids — Friday — Shiny,Raid,Raids,Friday,,Latios
+into_the_wild,Into the Wild,Latios,False,Normal/Latios.png,Raids — Friday — Normal,Raid,Raids,Friday,,Latios
+into_the_wild,Into the Wild,Registeel,False,Normal/Registeel.png,Raids — Friday — Normal,Raid,Raids,Friday,,Registeel
+into_the_wild,Into the Wild,Regidrago,False,Normal/Regidrago.png,Raids — Friday — Normal,Raid,Raids,Friday,,Regidrago
+into_the_wild,Into the Wild,Meltan,False,Normal/Meltan.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,Encounter with Dynamax Meltan
+into_the_wild,Into the Wild,Duraludon,False,Normal/Duraludon.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,Duraludon Pants
+into_the_wild,Into the Wild,Meltan,False,Normal/Meltan.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,Meltan
+into_the_wild,Into the Wild,Meltan,True,Shiny/Meltan_shiny.png,Incense — Saturday — Shiny,Incense,Incense,Saturday,,Meltan
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Growlithe,False,Hisuian/Growlithe_hisuian.png,Event — Hisuian — Normal,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Growlithe,True,Hisuian/Shiny/Growlithe_hisuian_shiny.png,Event — Hisuian — Shiny,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."
 fall_marathon_buddy_trek,Fall Marathon: Buddy Trek,Electrike,False,Normal/Electrike.png,Event — Hisuian — Normal,Event,Event,,,"Bramblin makes its Pokemon GO debut during Fall Marathon: Buddy Trek! Explore up to 42 km to earn Marathon Visor Pikachu, enjoy increased chances of encountering Shiny Electrike and Shiny Hisuian Growlithe, and unlock new GO Pass rewards. The event runs from Tuesday, October 13, at 10:00 a.m. to Monday, October 19, 2026, at 8:00 p.m. local time ."

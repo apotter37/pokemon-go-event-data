@@ -18,6 +18,20 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
+      "title": "Into the Wild",
+      "url": "https://leekduck.com/events/into-the-wild-2026/",
+      "date_text": "Fri, Nov 13, at 8:00 PM",
+      "raw_text": "Event Event Into the Wild Ends: Fri, Nov 13, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "into_the_wild",
+      "file": "current/into_the_wild.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
+      "category": "Event",
       "title": "Minior Showers: Southern Delta Aquariids 2027",
       "url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/",
       "date_text": "Mon, Aug 2, at 11:59 PM",
