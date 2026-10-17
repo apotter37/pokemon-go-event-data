@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16 16:34:35",
+  "generated_at": "2026-10-17 04:19:31",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -49,6 +49,15 @@
       "file": "current/minior_showers_eta_aquariids_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
+    },
+    {
+      "id": "sandile_hatch_day",
+      "title": "Sandile Hatch Day",
+      "category": "Event",
+      "date_text": "Sat, Oct 17, at 5:00 PM",
+      "file": "current/sandile_hatch_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/sandile-hatch-day-2026/"
     },
     {
       "id": "minior_showers_orionids_2026",
@@ -186,15 +195,6 @@
       "file": "upcoming/super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/super-mega-raid-day-november-2026/"
-    },
-    {
-      "id": "sandile_hatch_day",
-      "title": "Sandile Hatch Day",
-      "category": "Event",
-      "date_text": "Sat, Oct 17, at 5:00 PM",
-      "file": "upcoming/sandile_hatch_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/sandile-hatch-day-2026/"
     },
     {
       "id": "chandelure_super_mega_raid_day",

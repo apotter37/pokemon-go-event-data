@@ -58,6 +58,17 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
+    "title": "Sandile Hatch Day",
+    "url": "https://leekduck.com/events/sandile-hatch-day-2026/",
+    "date_text": "Sat, Oct 17, at 5:00 PM",
+    "raw_text": "Event Event Sandile Hatch Day Ends: Sat, Oct 17, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "sandile_hatch_day",
+    "file": "current/sandile_hatch_day.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
     "title": "Minior Showers: Orionids 2026",
     "url": "https://leekduck.com/events/minior-showers-orionids-2026/",
     "date_text": "Sat, Oct 24, at 11:59 PM",
@@ -218,17 +229,6 @@
     "raw_text": "Raid Day Raid Day Super Mega Raid Day Ends: Sat, Nov 28, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "super_mega_raid_day",
     "file": "upcoming/super_mega_raid_day.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "upcoming",
-    "category": "Event",
-    "title": "Sandile Hatch Day",
-    "url": "https://leekduck.com/events/sandile-hatch-day-2026/",
-    "date_text": "Sat, Oct 17, at 5:00 PM",
-    "raw_text": "Event Event Sandile Hatch Day Ends: Sat, Oct 17, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "sandile_hatch_day",
-    "file": "upcoming/sandile_hatch_day.json"
   },
   {
     "source": "LeekDuck",
