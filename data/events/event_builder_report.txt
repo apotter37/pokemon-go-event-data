@@ -7,8 +7,8 @@ Official news items found: 7
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
 Matched entries: 600
-Unmatched candidates: 36
-No-match debug rows: 36
+Unmatched candidates: 37
+No-match debug rows: 37
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
