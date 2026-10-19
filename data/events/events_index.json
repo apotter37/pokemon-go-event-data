@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19 04:33:45",
+  "generated_at": "2026-10-19 18:42:05",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -49,15 +49,6 @@
       "file": "current/minior_showers_eta_aquariids_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
-    },
-    {
-      "id": "sandile_hatch_day",
-      "title": "Sandile Hatch Day",
-      "category": "Event",
-      "date_text": "Sat, Oct 17, at 5:00 PM",
-      "file": "current/sandile_hatch_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/sandile-hatch-day-2026/"
     },
     {
       "id": "minior_showers_orionids_2026",
@@ -139,6 +130,15 @@
       "file": "current/minior_showers_geminids_2026.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-geminids-2026/"
+    },
+    {
+      "id": "pokemon_night_out_2026_los_angeles",
+      "title": "Pokemon Night Out 2026 - Los Angeles",
+      "category": "Event",
+      "date_text": "",
+      "file": "current/pokemon_night_out_2026_los_angeles.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/pokemon-night-out-los-angeles-2026/"
     },
     {
       "id": "pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027",

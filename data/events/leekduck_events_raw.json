@@ -58,17 +58,6 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
-    "title": "Sandile Hatch Day",
-    "url": "https://leekduck.com/events/sandile-hatch-day-2026/",
-    "date_text": "Sat, Oct 17, at 5:00 PM",
-    "raw_text": "Event Event Sandile Hatch Day Ends: Sat, Oct 17, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "sandile_hatch_day",
-    "file": "current/sandile_hatch_day.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "current",
-    "category": "Event",
     "title": "Minior Showers: Orionids 2026",
     "url": "https://leekduck.com/events/minior-showers-orionids-2026/",
     "date_text": "Sat, Oct 24, at 11:59 PM",
@@ -163,6 +152,17 @@
     "raw_text": "Event Event Minior Showers: Geminids 2026 Ends: Wed, Dec 16, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "minior_showers_geminids_2026",
     "file": "current/minior_showers_geminids_2026.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
+    "title": "Pokemon Night Out 2026 - Los Angeles",
+    "url": "https://leekduck.com/events/pokemon-night-out-los-angeles-2026/",
+    "date_text": "",
+    "raw_text": "Event Event Pokemon Night Out 2026 - Los Angeles Ends: Time TBD Ends: To be announced",
+    "id": "pokemon_night_out_2026_los_angeles",
+    "file": "current/pokemon_night_out_2026_los_angeles.json"
   },
   {
     "source": "LeekDuck",

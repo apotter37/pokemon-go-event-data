@@ -3,12 +3,12 @@ Pokemon GO Event Builder Report
 Events kept after cleanup: 22
 Current events: 19
 Upcoming events: 3
-Official news items found: 7
+Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 600
-Unmatched candidates: 37
-No-match debug rows: 37
+Matched entries: 641
+Unmatched candidates: 40
+No-match debug rows: 40
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
@@ -36,11 +36,6 @@ Events written:
   Entries: 0
   File: current/minior_showers_eta_aquariids_2027.json
   URL: https://leekduck.com/events/minior-showers-eta-aquariids-2027/
-- [current] Event: Sandile Hatch Day
-  Date: Sat, Oct 17, at 5:00 PM
-  Entries: 6
-  File: current/sandile_hatch_day.json
-  URL: https://leekduck.com/events/sandile-hatch-day-2026/
 - [current] Event: Minior Showers: Orionids 2026
   Date: Sat, Oct 24, at 11:59 PM
   Entries: 0
@@ -86,6 +81,10 @@ Events written:
   Entries: 0
   File: current/minior_showers_geminids_2026.json
   URL: https://leekduck.com/events/minior-showers-geminids-2026/
+- [current] Event: Pokemon Night Out 2026 - Los Angeles
+  Entries: 33
+  File: current/pokemon_night_out_2026_los_angeles.json
+  URL: https://leekduck.com/events/pokemon-night-out-los-angeles-2026/
 - [current] Event: Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027
   Entries: 0
   File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027.json
