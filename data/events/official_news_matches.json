@@ -315,7 +315,13 @@
       "id": "november_community_day",
       "file": "upcoming/november_community_day.json"
     },
-    "official_matches": []
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "November 2026 Community Day: Pawniard",
+        "url": "https://pokemongo.com/news/communityday-november-2026-pawniard"
+      }
+    ]
   },
   {
     "event": {
