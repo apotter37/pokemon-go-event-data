@@ -60,20 +60,6 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "Fall Marathon: Buddy Trek",
-      "url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/",
-      "date_text": "Mon, Oct 19, at 8:00 PM",
-      "raw_text": "Event Event Fall Marathon: Buddy Trek Ends: Mon, Oct 19, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "fall_marathon_buddy_trek",
-      "file": "current/fall_marathon_buddy_trek.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
       "title": "Minior Showers: Eta Aquariids 2027",
       "url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/",
       "date_text": "Sat, May 8, at 11:59 PM",
@@ -308,12 +294,12 @@
       "source": "LeekDuck",
       "status": "upcoming",
       "category": "Community Day",
-      "title": "November Community Day",
+      "title": "Pawniard Community Day",
       "url": "https://leekduck.com/events/november-communityday2026/",
       "date_text": "Sat, Nov 21, at 5:00 PM",
-      "raw_text": "Community Day Community Day November Community Day Ends: Sat, Nov 21, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "november_community_day",
-      "file": "upcoming/november_community_day.json"
+      "raw_text": "Community Day Community Day Pawniard Community Day Ends: Sat, Nov 21, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "pawniard_community_day",
+      "file": "upcoming/pawniard_community_day.json"
     },
     "official_matches": [
       {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21 17:07:17",
+  "generated_at": "2026-10-22 04:36:56",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -40,15 +40,6 @@
       "file": "current/twilight_wishes.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/twilight-wishes-2026/"
-    },
-    {
-      "id": "fall_marathon_buddy_trek",
-      "title": "Fall Marathon: Buddy Trek",
-      "category": "Event",
-      "date_text": "Mon, Oct 19, at 8:00 PM",
-      "file": "current/fall_marathon_buddy_trek.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/fall-marathon-buddy-trek-2026/"
     },
     {
       "id": "minior_showers_eta_aquariids_2027",
@@ -188,11 +179,11 @@
   ],
   "upcoming": [
     {
-      "id": "november_community_day",
-      "title": "November Community Day",
+      "id": "pawniard_community_day",
+      "title": "Pawniard Community Day",
       "category": "Community Day",
       "date_text": "Sat, Nov 21, at 5:00 PM",
-      "file": "upcoming/november_community_day.json",
+      "file": "upcoming/pawniard_community_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/november-communityday2026/"
     },

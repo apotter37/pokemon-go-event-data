@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 23
-Current events: 20
+Events kept after cleanup: 22
+Current events: 19
 Upcoming events: 3
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 641
-Unmatched candidates: 40
-No-match debug rows: 40
+Matched entries: 604
+Unmatched candidates: 34
+No-match debug rows: 34
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
@@ -31,11 +31,6 @@ Events written:
   Entries: 0
   File: current/twilight_wishes.json
   URL: https://leekduck.com/events/twilight-wishes-2026/
-- [current] Event: Fall Marathon: Buddy Trek
-  Date: Mon, Oct 19, at 8:00 PM
-  Entries: 43
-  File: current/fall_marathon_buddy_trek.json
-  URL: https://leekduck.com/events/fall-marathon-buddy-trek-2026/
 - [current] Event: Minior Showers: Eta Aquariids 2027
   Date: Sat, May 8, at 11:59 PM
   Entries: 0
@@ -106,10 +101,10 @@ Events written:
   Entries: 0
   File: current/twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026.json
   URL: https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/
-- [upcoming] Community Day: November Community Day
+- [upcoming] Community Day: Pawniard Community Day
   Date: Sat, Nov 21, at 5:00 PM
-  Entries: 0
-  File: upcoming/november_community_day.json
+  Entries: 17
+  File: upcoming/pawniard_community_day.json
   URL: https://leekduck.com/events/november-communityday2026/
 - [upcoming] Raid Day: Super Mega Raid Day
   Date: Sat, Nov 28, at 5:00 PM
