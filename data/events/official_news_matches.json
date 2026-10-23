@@ -123,7 +123,13 @@
       "id": "wild_area_wild_area_pokemon_go_wild_area_2026_global",
       "file": "current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json"
     },
-    "official_matches": []
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "GO Wild Area Event Stamp Rallies Clarification",
+        "url": "https://pokemongo.com/news/go-wild-area-stamp-rally-details-2026"
+      }
+    ]
   },
   {
     "event": {
@@ -172,26 +178,6 @@
       "file": "current/pokemon_go_halloween_2026_part_ii.json"
     },
     "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
-      "title": "Pokemon TCG: 30th Celebration",
-      "url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/",
-      "date_text": "Tue, Oct 20, at 10:00 PM",
-      "raw_text": "Event Event Pokemon TCG: 30th Celebration Ends: Tue, Oct 20, at 10:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "pokemon_tcg_30th_celebration",
-      "file": "current/pokemon_tcg_30th_celebration.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "Pokemon TCG 30th Celebration Event",
-        "url": "https://pokemongo.com/news/tcg-30th-celebration-event"
-      }
-    ]
   },
   {
     "event": {

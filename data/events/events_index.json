@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 17:06:38",
+  "generated_at": "2026-10-23 04:42:22",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -112,15 +112,6 @@
       "file": "current/pokemon_go_halloween_2026_part_ii.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/halloween-2026-part-2/"
-    },
-    {
-      "id": "pokemon_tcg_30th_celebration",
-      "title": "Pokemon TCG: 30th Celebration",
-      "category": "Event",
-      "date_text": "Tue, Oct 20, at 10:00 PM",
-      "file": "current/pokemon_tcg_30th_celebration.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/pokemon-tcg-30th-celebration/"
     },
     {
       "id": "minior_showers_geminids_2026",
