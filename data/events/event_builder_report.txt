@@ -6,7 +6,7 @@ Upcoming events: 3
 Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 595
+Matched entries: 589
 Unmatched candidates: 34
 No-match debug rows: 34
 
@@ -48,7 +48,7 @@ Events written:
   URL: https://leekduck.com/events/minior-showers-perseids-2027/
 - [current] Event: Pokémon GO Halloween 2026 Part I
   Date: Sun, Nov 1, at 10:00 AM
-  Entries: 24
+  Entries: 26
   File: current/pokemon_go_halloween_2026_part_i.json
   URL: https://leekduck.com/events/halloween-2026-part-1/
 - [current] Event: Wild Area Wild Area Pokémon GO Wild Area 2026: Global
@@ -58,7 +58,7 @@ Events written:
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 - [current] Event: City Safari City Safari Pokémon GO City Safari: Boston (Rescheduled)
   Date: Sun, Oct 25, at 6:00 PM
-  Entries: 62
+  Entries: 54
   File: current/city_safari_city_safari_pokemon_go_city_safari_boston_rescheduled.json
   URL: https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/
 - [current] Event: Minior Showers: Leonids 2026
