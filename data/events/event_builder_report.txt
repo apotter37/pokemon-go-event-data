@@ -6,7 +6,7 @@ Upcoming events: 3
 Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 589
+Matched entries: 593
 Unmatched candidates: 34
 No-match debug rows: 34
 
@@ -58,7 +58,7 @@ Events written:
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 - [current] Event: City Safari City Safari Pokémon GO City Safari: Boston (Rescheduled)
   Date: Sun, Oct 25, at 6:00 PM
-  Entries: 54
+  Entries: 55
   File: current/city_safari_city_safari_pokemon_go_city_safari_boston_rescheduled.json
   URL: https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/
 - [current] Event: Minior Showers: Leonids 2026
@@ -77,7 +77,7 @@ Events written:
   File: current/minior_showers_geminids_2026.json
   URL: https://leekduck.com/events/minior-showers-geminids-2026/
 - [current] Event: Pokemon Night Out 2026 - Los Angeles
-  Entries: 33
+  Entries: 35
   File: current/pokemon_night_out_2026_los_angeles.json
   URL: https://leekduck.com/events/pokemon-night-out-los-angeles-2026/
 - [current] Event: Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027
@@ -93,7 +93,7 @@ Events written:
   File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027.json
   URL: https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/
 - [current] Event: Twitch Drops Twitch Drops Twitch Drops for Pokemon Night Out 2026
-  Entries: 0
+  Entries: 1
   File: current/twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026.json
   URL: https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/
 - [upcoming] Community Day: Pawniard Community Day

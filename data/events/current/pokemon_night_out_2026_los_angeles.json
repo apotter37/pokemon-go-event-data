@@ -6,8 +6,23 @@
   "date_text": "",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-night-out-los-angeles-2026/",
-  "generated_at": "2026-10-24 15:52:37",
+  "generated_at": "2026-10-25 04:34:59",
   "entries": [
+    {
+      "dex": 849,
+      "name": "Toxtricity",
+      "uri": "file:///android_asset/Pokemon/Normal/Toxtricity.png",
+      "label": "Incense — Saturday — Normal",
+      "availability": "Incense",
+      "section": "Incense",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Toxtricity (Low Key Form)"
+    },
     {
       "dex": 92,
       "name": "Gastly",
@@ -487,6 +502,21 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Gengar"
+    },
+    {
+      "dex": 197,
+      "name": "Umbreon",
+      "uri": "file:///android_asset/Pokemon/Normal/Umbreon.png",
+      "label": "Timed Research — Saturday — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Complete this two-step Timed Research to earn the Pokemon Night Out Baseball Jersey avatar item, XP, Stardust, and an encounter with Umbreon ."
     },
     {
       "dex": 849,

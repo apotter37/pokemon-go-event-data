@@ -6,7 +6,7 @@
   "date_text": "Sun, Oct 25, at 6:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-go-city-safari-boston-2026-rescheduled/",
-  "generated_at": "2026-10-24 15:52:31",
+  "generated_at": "2026-10-25 04:34:53",
   "entries": [
     {
       "dex": 669,
@@ -112,6 +112,21 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Komala"
+    },
+    {
+      "dex": 133,
+      "name": "Eevee",
+      "uri": "file:///android_asset/Pokemon/Costume/Eevee_explorer.png",
+      "label": "Special Research — Day 1 — Normal",
+      "availability": "Research",
+      "section": "Special Research",
+      "day": "Day 1",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Spin different PokeStops or Gyms in Boston to encounter Eevee wearing an explorer hat with a Boston Location Background. Day 2 has the same tasks and rewards as Day 1."
     },
     {
       "dex": 133,

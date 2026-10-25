@@ -6,6 +6,22 @@
   "date_text": "",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/",
-  "generated_at": "2026-10-24 15:52:38",
-  "entries": []
+  "generated_at": "2026-10-25 04:35:01",
+  "entries": [
+    {
+      "dex": 197,
+      "name": "Umbreon",
+      "uri": "file:///android_asset/Pokemon/Normal/Umbreon.png",
+      "label": "Timed Research — Saturday — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "Saturday",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Watch the broadcast for 30 minutes to unlock this two-step Timed Research. Complete it to earn the Pokemon Night Out Baseball Jersey avatar item, XP, Stardust, and an encounter with Umbreon ."
+    }
+  ]
 }
