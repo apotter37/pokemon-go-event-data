@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 21
-Current events: 18
+Events kept after cleanup: 19
+Current events: 16
 Upcoming events: 3
 Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 593
-Unmatched candidates: 34
-No-match debug rows: 34
+Matched entries: 549
+Unmatched candidates: 31
+No-match debug rows: 31
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
@@ -48,7 +48,7 @@ Events written:
   URL: https://leekduck.com/events/minior-showers-perseids-2027/
 - [current] Event: Pokémon GO Halloween 2026 Part I
   Date: Sun, Nov 1, at 10:00 AM
-  Entries: 26
+  Entries: 27
   File: current/pokemon_go_halloween_2026_part_i.json
   URL: https://leekduck.com/events/halloween-2026-part-1/
 - [current] Event: Wild Area Wild Area Pokémon GO Wild Area 2026: Global
@@ -68,7 +68,7 @@ Events written:
   URL: https://leekduck.com/events/minior-showers-leonids-2026/
 - [current] Event: Pokémon GO Halloween 2026 Part II
   Date: Thu, Nov 5, at 8:00 PM
-  Entries: 26
+  Entries: 31
   File: current/pokemon_go_halloween_2026_part_ii.json
   URL: https://leekduck.com/events/halloween-2026-part-2/
 - [current] Event: Minior Showers: Geminids 2026
@@ -76,10 +76,6 @@ Events written:
   Entries: 0
   File: current/minior_showers_geminids_2026.json
   URL: https://leekduck.com/events/minior-showers-geminids-2026/
-- [current] Event: Pokemon Night Out 2026 - Los Angeles
-  Entries: 35
-  File: current/pokemon_night_out_2026_los_angeles.json
-  URL: https://leekduck.com/events/pokemon-night-out-los-angeles-2026/
 - [current] Event: Pokémon GO Tour Pokémon GO Tour Pokémon GO Tour: Alola - Global 2027
   Entries: 0
   File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_global_2027.json
@@ -92,10 +88,6 @@ Events written:
   Entries: 0
   File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027.json
   URL: https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/
-- [current] Event: Twitch Drops Twitch Drops Twitch Drops for Pokemon Night Out 2026
-  Entries: 1
-  File: current/twitch_drops_twitch_drops_twitch_drops_for_pokemon_night_out_2026.json
-  URL: https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/
 - [upcoming] Community Day: Pawniard Community Day
   Date: Sat, Nov 21, at 5:00 PM
   Entries: 17
