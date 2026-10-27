@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26 18:39:37",
+  "generated_at": "2026-10-27 04:57:31",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -49,15 +49,6 @@
       "file": "current/minior_showers_eta_aquariids_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
-    },
-    {
-      "id": "minior_showers_orionids_2026",
-      "title": "Minior Showers: Orionids 2026",
-      "category": "Event",
-      "date_text": "Sat, Oct 24, at 11:59 PM",
-      "file": "current/minior_showers_orionids_2026.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/minior-showers-orionids-2026/"
     },
     {
       "id": "minior_showers_perseids_2027",
