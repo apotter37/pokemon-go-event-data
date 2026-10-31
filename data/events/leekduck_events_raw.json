@@ -57,6 +57,17 @@
   {
     "source": "LeekDuck",
     "status": "current",
+    "category": "Raid Day",
+    "title": "Chandelure Super Mega Raid Day",
+    "url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/",
+    "date_text": "Sat, Oct 31, at 5:00 PM",
+    "raw_text": "Raid Day Raid Day Chandelure Super Mega Raid Day Ends: Sat, Oct 31, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "chandelure_super_mega_raid_day",
+    "file": "current/chandelure_super_mega_raid_day.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
     "category": "Event",
     "title": "Minior Showers: Perseids 2027",
     "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
@@ -174,16 +185,5 @@
     "raw_text": "Raid Day Raid Day Super Mega Raid Day Ends: Sat, Nov 28, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "super_mega_raid_day",
     "file": "upcoming/super_mega_raid_day.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "upcoming",
-    "category": "Raid Day",
-    "title": "Chandelure Super Mega Raid Day",
-    "url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/",
-    "date_text": "Sat, Oct 31, at 5:00 PM",
-    "raw_text": "Raid Day Raid Day Chandelure Super Mega Raid Day Ends: Sat, Oct 31, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "chandelure_super_mega_raid_day",
-    "file": "upcoming/chandelure_super_mega_raid_day.json"
   }
 ]

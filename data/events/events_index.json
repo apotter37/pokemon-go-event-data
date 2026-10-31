@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30 17:59:17",
+  "generated_at": "2026-10-31 05:31:47",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -49,6 +49,15 @@
       "file": "current/minior_showers_eta_aquariids_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
+    },
+    {
+      "id": "chandelure_super_mega_raid_day",
+      "title": "Chandelure Super Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Oct 31, at 5:00 PM",
+      "file": "current/chandelure_super_mega_raid_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/"
     },
     {
       "id": "minior_showers_perseids_2027",
@@ -150,15 +159,6 @@
       "file": "upcoming/super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/super-mega-raid-day-november-2026/"
-    },
-    {
-      "id": "chandelure_super_mega_raid_day",
-      "title": "Chandelure Super Mega Raid Day",
-      "category": "Raid Day",
-      "date_text": "Sat, Oct 31, at 5:00 PM",
-      "file": "upcoming/chandelure_super_mega_raid_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/"
     }
   ]
 }

@@ -1,8 +1,8 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 17
-Current events: 14
-Upcoming events: 3
+Current events: 15
+Upcoming events: 2
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
@@ -36,6 +36,11 @@ Events written:
   Entries: 0
   File: current/minior_showers_eta_aquariids_2027.json
   URL: https://leekduck.com/events/minior-showers-eta-aquariids-2027/
+- [current] Raid Day: Chandelure Super Mega Raid Day
+  Date: Sat, Oct 31, at 5:00 PM
+  Entries: 15
+  File: current/chandelure_super_mega_raid_day.json
+  URL: https://leekduck.com/events/chandelure-super-mega-raid-day-2026/
 - [current] Event: Minior Showers: Perseids 2027
   Date: Sun, Aug 15, at 11:59 PM
   Entries: 0
@@ -88,11 +93,6 @@ Events written:
   Entries: 0
   File: upcoming/super_mega_raid_day.json
   URL: https://leekduck.com/events/super-mega-raid-day-november-2026/
-- [upcoming] Raid Day: Chandelure Super Mega Raid Day
-  Date: Sat, Oct 31, at 5:00 PM
-  Entries: 15
-  File: upcoming/chandelure_super_mega_raid_day.json
-  URL: https://leekduck.com/events/chandelure-super-mega-raid-day-2026/
 
 Wrote index: data/events/events_index.json
 Wrote raw LeekDuck data: data/events/leekduck_events_raw.json
