@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 17
-Current events: 15
+Events kept after cleanup: 16
+Current events: 14
 Upcoming events: 2
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 549
-Unmatched candidates: 23
-No-match debug rows: 23
+Matched entries: 597
+Unmatched candidates: 25
+No-match debug rows: 25
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
@@ -28,7 +28,7 @@ Events written:
   URL: https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/
 - [current] Event: Twilight Wishes
   Date: Mon, Nov 30, at 8:00 PM
-  Entries: 0
+  Entries: 47
   File: current/twilight_wishes.json
   URL: https://leekduck.com/events/twilight-wishes-2026/
 - [current] Event: Minior Showers: Eta Aquariids 2027
@@ -36,11 +36,6 @@ Events written:
   Entries: 0
   File: current/minior_showers_eta_aquariids_2027.json
   URL: https://leekduck.com/events/minior-showers-eta-aquariids-2027/
-- [current] Raid Day: Chandelure Super Mega Raid Day
-  Date: Sat, Oct 31, at 5:00 PM
-  Entries: 15
-  File: current/chandelure_super_mega_raid_day.json
-  URL: https://leekduck.com/events/chandelure-super-mega-raid-day-2026/
 - [current] Event: Minior Showers: Perseids 2027
   Date: Sun, Aug 15, at 11:59 PM
   Entries: 0
