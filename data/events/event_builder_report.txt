@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 16
-Current events: 14
+Events kept after cleanup: 15
+Current events: 13
 Upcoming events: 2
 Official news items found: 9
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 597
+Matched entries: 519
 Unmatched candidates: 25
 No-match debug rows: 25
 
@@ -41,14 +41,9 @@ Events written:
   Entries: 0
   File: current/minior_showers_perseids_2027.json
   URL: https://leekduck.com/events/minior-showers-perseids-2027/
-- [current] Event: Pokémon GO Halloween 2026 Part I
-  Date: Sun, Nov 1, at 10:00 AM
-  Entries: 58
-  File: current/pokemon_go_halloween_2026_part_i.json
-  URL: https://leekduck.com/events/halloween-2026-part-1/
 - [current] Event: Wild Area Wild Area Pokémon GO Wild Area 2026: Global
   Date: Sun, Nov 15, at 6:00 PM
-  Entries: 207
+  Entries: 208
   File: current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 - [current] Event: Minior Showers: Leonids 2026

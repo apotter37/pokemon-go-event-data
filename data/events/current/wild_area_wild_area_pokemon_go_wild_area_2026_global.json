@@ -6,7 +6,7 @@
   "date_text": "Sun, Nov 15, at 6:00 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/",
-  "generated_at": "2026-11-02 21:41:13",
+  "generated_at": "2026-11-03 06:41:19",
   "entries": [
     {
       "dex": 884,
@@ -1147,6 +1147,21 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Gigantamax Duraludon"
+    },
+    {
+      "dex": 884,
+      "name": "Duraludon",
+      "uri": "file:///android_asset/Pokemon/Normal/Duraludon.png",
+      "label": "Special Research — Sunday — Rotating Habitat Hours — Normal",
+      "availability": "Research",
+      "section": "Special Research",
+      "day": "Sunday",
+      "habitat": "Rotating Habitat Hours",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Duraludon Helmet"
     },
     {
       "dex": 884,
