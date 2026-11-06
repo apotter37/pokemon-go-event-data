@@ -6,7 +6,7 @@ Upcoming events: 2
 Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 535
+Matched entries: 537
 Unmatched candidates: 25
 No-match debug rows: 25
 
@@ -18,7 +18,7 @@ Events written:
   URL: https://leekduck.com/events/pokemon-x-adidas-2026/
 - [current] Event: Into the Wild
   Date: Fri, Nov 13, at 8:00 PM
-  Entries: 44
+  Entries: 46
   File: current/into_the_wild.json
   URL: https://leekduck.com/events/into-the-wild-2026/
 - [current] Event: Minior Showers: Southern Delta Aquariids 2027
