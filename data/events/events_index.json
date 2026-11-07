@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 05:52:42",
+  "generated_at": "2026-11-07 17:43:57",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -76,15 +76,6 @@
       "file": "current/minior_showers_leonids_2026.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-leonids-2026/"
-    },
-    {
-      "id": "pokemon_go_halloween_2026_part_ii",
-      "title": "Pokémon GO Halloween 2026 Part II",
-      "category": "Event",
-      "date_text": "Thu, Nov 5, at 8:00 PM",
-      "file": "current/pokemon_go_halloween_2026_part_ii.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/halloween-2026-part-2/"
     },
     {
       "id": "minior_showers_geminids_2026",

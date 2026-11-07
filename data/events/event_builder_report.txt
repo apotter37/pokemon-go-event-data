@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 15
-Current events: 13
+Events kept after cleanup: 14
+Current events: 12
 Upcoming events: 2
 Official news items found: 10
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 537
+Matched entries: 460
 Unmatched candidates: 25
 No-match debug rows: 25
 
@@ -51,11 +51,6 @@ Events written:
   Entries: 0
   File: current/minior_showers_leonids_2026.json
   URL: https://leekduck.com/events/minior-showers-leonids-2026/
-- [current] Event: Pokémon GO Halloween 2026 Part II
-  Date: Thu, Nov 5, at 8:00 PM
-  Entries: 57
-  File: current/pokemon_go_halloween_2026_part_ii.json
-  URL: https://leekduck.com/events/halloween-2026-part-2/
 - [current] Event: Minior Showers: Geminids 2026
   Date: Wed, Dec 16, at 11:59 PM
   Entries: 0
