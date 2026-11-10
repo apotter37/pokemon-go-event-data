@@ -177,6 +177,140 @@
     "event": {
       "source": "LeekDuck",
       "status": "upcoming",
+      "category": "Raid Day",
+      "title": "Raid Day December 2026",
+      "url": "https://leekduck.com/events/raid-day-december-2026/",
+      "date_text": "Sat, Dec 19, at 5:00 PM",
+      "raw_text": "Raid Day Raid Day Raid Day Ends: Sat, Dec 19, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "raid_day_december_2026",
+      "file": "upcoming/raid_day_december_2026.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "upcoming",
+      "category": "Event",
+      "title": "Hatch Day December 2026",
+      "url": "https://leekduck.com/events/hatch-day-december-2026/",
+      "date_text": "Sat, Dec 26, at 5:00 PM",
+      "raw_text": "Event Event Hatch Day Ends: Sat, Dec 26, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "hatch_day_december_2026",
+      "file": "upcoming/hatch_day_december_2026.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "upcoming",
+      "category": "Raid Day",
+      "title": "Raid Day February 2027",
+      "url": "https://leekduck.com/events/raid-day-february-2027/",
+      "date_text": "Sat, Feb 13, at 5:00 PM",
+      "raw_text": "Raid Day Raid Day Raid Day Ends: Sat, Feb 13, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "raid_day_february_2027",
+      "file": "upcoming/raid_day_february_2027.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "upcoming",
+      "category": "Community Day",
+      "title": "February Community Day",
+      "url": "https://leekduck.com/events/february-communityday2027/",
+      "date_text": "Sat, Feb 6, at 5:00 PM",
+      "raw_text": "Community Day Community Day February Community Day Ends: Sat, Feb 6, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "february_community_day",
+      "file": "upcoming/february_community_day.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "upcoming",
+      "category": "Community Day",
+      "title": "January Community Day",
+      "url": "https://leekduck.com/events/january-communityday2027/",
+      "date_text": "Sat, Jan 16, at 5:00 PM",
+      "raw_text": "Community Day Community Day January Community Day Ends: Sat, Jan 16, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "january_community_day",
+      "file": "upcoming/january_community_day.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "upcoming",
+      "category": "Community Day",
+      "title": "January Community Day Classic",
+      "url": "https://leekduck.com/events/january-communitydayclassic2027/",
+      "date_text": "Sat, Jan 2, at 5:00 PM",
+      "raw_text": "Community Day Community Day January Community Day Classic Ends: Sat, Jan 2, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "january_community_day_classic",
+      "file": "upcoming/january_community_day_classic.json"
+    },
+    "official_matches": []
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "upcoming",
+      "category": "Raid Day",
+      "title": "Super Mega Raid Day",
+      "url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/",
+      "date_text": "Sat, Jan 30, at 5:00 PM",
+      "raw_text": "Raid Day Raid Day Super Mega Raid Day Ends: Sat, Jan 30, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "super_mega_raid_day_2",
+      "file": "upcoming/super_mega_raid_day_2.json"
+    },
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Dance under the moonlight during Clefable Super Mega Raid Day!",
+        "url": "https://pokemongo.com/news/clefable-super-mega-raid-day-2026"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "A haunting glow awaits with the Chandelure Super Mega Raid Day!",
+        "url": "https://pokemongo.com/news/chandelure-super-mega-raid-day-2026"
+      }
+    ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "upcoming",
+      "category": "Raid Day",
+      "title": "Super Mega Raid Day",
+      "url": "https://leekduck.com/events/super-mega-raid-day-january-2027/",
+      "date_text": "Sat, Jan 9, at 5:00 PM",
+      "raw_text": "Raid Day Raid Day Super Mega Raid Day Ends: Sat, Jan 9, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "super_mega_raid_day",
+      "file": "upcoming/super_mega_raid_day.json"
+    },
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Dance under the moonlight during Clefable Super Mega Raid Day!",
+        "url": "https://pokemongo.com/news/clefable-super-mega-raid-day-2026"
+      },
+      {
+        "source": "Official Pokémon GO",
+        "title": "A haunting glow awaits with the Chandelure Super Mega Raid Day!",
+        "url": "https://pokemongo.com/news/chandelure-super-mega-raid-day-2026"
+      }
+    ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "upcoming",
       "category": "Community Day",
       "title": "Pawniard Community Day",
       "url": "https://leekduck.com/events/november-communityday2026/",
@@ -217,5 +351,19 @@
         "url": "https://pokemongo.com/news/chandelure-super-mega-raid-day-2026"
       }
     ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "upcoming",
+      "category": "Community Day",
+      "title": "December Community Day",
+      "url": "https://leekduck.com/events/december-communityday2026/",
+      "date_text": "Sun, Dec 13, at 5:00 PM",
+      "raw_text": "Community Day Community Day December Community Day Ends: Sun, Dec 13, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "december_community_day",
+      "file": "upcoming/december_community_day.json"
+    },
+    "official_matches": []
   }
 ]

@@ -1,8 +1,8 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 14
+Events kept after cleanup: 23
 Current events: 12
-Upcoming events: 2
+Upcoming events: 11
 Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
@@ -68,6 +68,46 @@ Events written:
   Entries: 0
   File: current/pokemon_go_tour_pokemon_go_tour_pokemon_go_tour_alola_los_angeles_2027.json
   URL: https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/
+- [upcoming] Raid Day: Raid Day December 2026
+  Date: Sat, Dec 19, at 5:00 PM
+  Entries: 0
+  File: upcoming/raid_day_december_2026.json
+  URL: https://leekduck.com/events/raid-day-december-2026/
+- [upcoming] Event: Hatch Day December 2026
+  Date: Sat, Dec 26, at 5:00 PM
+  Entries: 0
+  File: upcoming/hatch_day_december_2026.json
+  URL: https://leekduck.com/events/hatch-day-december-2026/
+- [upcoming] Raid Day: Raid Day February 2027
+  Date: Sat, Feb 13, at 5:00 PM
+  Entries: 0
+  File: upcoming/raid_day_february_2027.json
+  URL: https://leekduck.com/events/raid-day-february-2027/
+- [upcoming] Community Day: February Community Day
+  Date: Sat, Feb 6, at 5:00 PM
+  Entries: 0
+  File: upcoming/february_community_day.json
+  URL: https://leekduck.com/events/february-communityday2027/
+- [upcoming] Community Day: January Community Day
+  Date: Sat, Jan 16, at 5:00 PM
+  Entries: 0
+  File: upcoming/january_community_day.json
+  URL: https://leekduck.com/events/january-communityday2027/
+- [upcoming] Community Day: January Community Day Classic
+  Date: Sat, Jan 2, at 5:00 PM
+  Entries: 0
+  File: upcoming/january_community_day_classic.json
+  URL: https://leekduck.com/events/january-communitydayclassic2027/
+- [upcoming] Raid Day: Super Mega Raid Day
+  Date: Sat, Jan 30, at 5:00 PM
+  Entries: 0
+  File: upcoming/super_mega_raid_day_2.json
+  URL: https://leekduck.com/events/super-mega-raid-day-january-30-2027/
+- [upcoming] Raid Day: Super Mega Raid Day
+  Date: Sat, Jan 9, at 5:00 PM
+  Entries: 0
+  File: upcoming/super_mega_raid_day.json
+  URL: https://leekduck.com/events/super-mega-raid-day-january-2027/
 - [upcoming] Community Day: Pawniard Community Day
   Date: Sat, Nov 21, at 5:00 PM
   Entries: 17
@@ -78,6 +118,11 @@ Events written:
   Entries: 13
   File: upcoming/clefable_super_mega_raid_day.json
   URL: https://leekduck.com/events/clefable-super-mega-raid-day-2026/
+- [upcoming] Community Day: December Community Day
+  Date: Sun, Dec 13, at 5:00 PM
+  Entries: 0
+  File: upcoming/december_community_day.json
+  URL: https://leekduck.com/events/december-communityday2026/
 
 Wrote index: data/events/events_index.json
 Wrote raw LeekDuck data: data/events/leekduck_events_raw.json

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09 22:16:30",
+  "generated_at": "2026-11-10 07:10:26",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -116,6 +116,78 @@
   ],
   "upcoming": [
     {
+      "id": "raid_day_december_2026",
+      "title": "Raid Day December 2026",
+      "category": "Raid Day",
+      "date_text": "Sat, Dec 19, at 5:00 PM",
+      "file": "upcoming/raid_day_december_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/raid-day-december-2026/"
+    },
+    {
+      "id": "hatch_day_december_2026",
+      "title": "Hatch Day December 2026",
+      "category": "Event",
+      "date_text": "Sat, Dec 26, at 5:00 PM",
+      "file": "upcoming/hatch_day_december_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/hatch-day-december-2026/"
+    },
+    {
+      "id": "raid_day_february_2027",
+      "title": "Raid Day February 2027",
+      "category": "Raid Day",
+      "date_text": "Sat, Feb 13, at 5:00 PM",
+      "file": "upcoming/raid_day_february_2027.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/raid-day-february-2027/"
+    },
+    {
+      "id": "february_community_day",
+      "title": "February Community Day",
+      "category": "Community Day",
+      "date_text": "Sat, Feb 6, at 5:00 PM",
+      "file": "upcoming/february_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/february-communityday2027/"
+    },
+    {
+      "id": "january_community_day",
+      "title": "January Community Day",
+      "category": "Community Day",
+      "date_text": "Sat, Jan 16, at 5:00 PM",
+      "file": "upcoming/january_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/january-communityday2027/"
+    },
+    {
+      "id": "january_community_day_classic",
+      "title": "January Community Day Classic",
+      "category": "Community Day",
+      "date_text": "Sat, Jan 2, at 5:00 PM",
+      "file": "upcoming/january_community_day_classic.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/january-communitydayclassic2027/"
+    },
+    {
+      "id": "super_mega_raid_day_2",
+      "title": "Super Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Jan 30, at 5:00 PM",
+      "file": "upcoming/super_mega_raid_day_2.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/super-mega-raid-day-january-30-2027/"
+    },
+    {
+      "id": "super_mega_raid_day",
+      "title": "Super Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Jan 9, at 5:00 PM",
+      "file": "upcoming/super_mega_raid_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/super-mega-raid-day-january-2027/"
+    },
+    {
       "id": "pawniard_community_day",
       "title": "Pawniard Community Day",
       "category": "Community Day",
@@ -132,6 +204,15 @@
       "file": "upcoming/clefable_super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
+    },
+    {
+      "id": "december_community_day",
+      "title": "December Community Day",
+      "category": "Community Day",
+      "date_text": "Sun, Dec 13, at 5:00 PM",
+      "file": "upcoming/december_community_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/december-communityday2026/"
     }
   ]
 }
