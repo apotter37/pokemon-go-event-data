@@ -6,9 +6,9 @@ Upcoming events: 11
 Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 530
-Unmatched candidates: 25
-No-match debug rows: 25
+Matched entries: 561
+Unmatched candidates: 42
+No-match debug rows: 42
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
@@ -43,7 +43,7 @@ Events written:
   URL: https://leekduck.com/events/minior-showers-perseids-2027/
 - [current] Event: Wild Area Wild Area Pokémon GO Wild Area 2026: Global
   Date: Sun, Nov 15, at 6:00 PM
-  Entries: 208
+  Entries: 235
   File: current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 - [current] Event: Minior Showers: Leonids 2026
