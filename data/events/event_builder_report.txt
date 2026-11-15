@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 23
-Current events: 12
+Events kept after cleanup: 22
+Current events: 11
 Upcoming events: 11
 Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 580
+Matched entries: 446
 Unmatched candidates: 57
 No-match debug rows: 57
 
@@ -16,11 +16,6 @@ Events written:
   Entries: 3
   File: current/research_adidas_pokemon_timed_research.json
   URL: https://leekduck.com/events/pokemon-x-adidas-2026/
-- [current] Event: Into the Wild 2026
-  Date: Fri, Nov 13, at 8:00 PM
-  Entries: 106
-  File: current/into_the_wild_2026.json
-  URL: https://leekduck.com/events/into-the-wild-2026/
 - [current] Event: Minior Showers: Southern Delta Aquariids 2027
   Date: Mon, Aug 2, at 11:59 PM
   Entries: 0
