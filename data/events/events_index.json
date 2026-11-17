@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16 21:57:16",
+  "generated_at": "2026-11-17 07:49:03",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -58,6 +58,15 @@
       "file": "current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+    },
+    {
+      "id": "pokemon_go_and_duolingo_timed_research",
+      "title": "Pokémon GO and Duolingo Timed Research",
+      "category": "Event",
+      "date_text": "Thu, Dec 31, at 11:59 PM",
+      "file": "current/pokemon_go_and_duolingo_timed_research.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/duolingo-timed-research-2026/"
     },
     {
       "id": "minior_showers_leonids_2026",

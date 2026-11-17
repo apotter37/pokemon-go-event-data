@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 22
-Current events: 11
+Events kept after cleanup: 23
+Current events: 12
 Upcoming events: 11
 Official news items found: 7
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 446
+Matched entries: 458
 Unmatched candidates: 57
 No-match debug rows: 57
 
@@ -41,6 +41,11 @@ Events written:
   Entries: 252
   File: current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json
   URL: https://leekduck.com/events/pokemon-go-wild-area-2026-global/
+- [current] Event: Pokémon GO and Duolingo Timed Research
+  Date: Thu, Dec 31, at 11:59 PM
+  Entries: 8
+  File: current/pokemon_go_and_duolingo_timed_research.json
+  URL: https://leekduck.com/events/duolingo-timed-research-2026/
 - [current] Event: Minior Showers: Leonids 2026
   Date: Thu, Nov 19, at 11:59 PM
   Entries: 0
