@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17 07:49:03",
+  "generated_at": "2026-11-17 20:50:02",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -49,15 +49,6 @@
       "file": "current/minior_showers_perseids_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-perseids-2027/"
-    },
-    {
-      "id": "wild_area_wild_area_pokemon_go_wild_area_2026_global",
-      "title": "Wild Area Wild Area Pokémon GO Wild Area 2026: Global",
-      "category": "Event",
-      "date_text": "Sun, Nov 15, at 6:00 PM",
-      "file": "current/wild_area_wild_area_pokemon_go_wild_area_2026_global.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
     },
     {
       "id": "pokemon_go_and_duolingo_timed_research",
