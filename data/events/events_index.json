@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20 07:05:16",
+  "generated_at": "2026-11-20 20:05:46",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -197,11 +197,11 @@
       "source_url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
     },
     {
-      "id": "december_community_day",
-      "title": "December Community Day",
+      "id": "december_community_day_2026",
+      "title": "December Community Day 2026",
       "category": "Community Day",
       "date_text": "Sun, Dec 13, at 5:00 PM",
-      "file": "upcoming/december_community_day.json",
+      "file": "upcoming/december_community_day_2026.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/december-communityday2026/"
     }

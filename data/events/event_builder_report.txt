@@ -3,10 +3,10 @@ Pokemon GO Event Builder Report
 Events kept after cleanup: 22
 Current events: 11
 Upcoming events: 11
-Official news items found: 7
+Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 122
+Matched entries: 261
 Unmatched candidates: 23
 No-match debug rows: 23
 
@@ -113,10 +113,10 @@ Events written:
   Entries: 13
   File: upcoming/clefable_super_mega_raid_day.json
   URL: https://leekduck.com/events/clefable-super-mega-raid-day-2026/
-- [upcoming] Community Day: December Community Day
+- [upcoming] Community Day: December Community Day 2026
   Date: Sun, Dec 13, at 5:00 PM
-  Entries: 0
-  File: upcoming/december_community_day.json
+  Entries: 117
+  File: upcoming/december_community_day_2026.json
   URL: https://leekduck.com/events/december-communityday2026/
 
 Wrote index: data/events/events_index.json
