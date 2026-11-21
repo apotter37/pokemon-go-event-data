@@ -46,6 +46,17 @@
   {
     "source": "LeekDuck",
     "status": "current",
+    "category": "Community Day",
+    "title": "Pawniard Community Day",
+    "url": "https://leekduck.com/events/november-communityday2026/",
+    "date_text": "Sat, Nov 21, at 5:00 PM",
+    "raw_text": "Community Day Community Day Pawniard Community Day Ends: Sat, Nov 21, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "pawniard_community_day",
+    "file": "current/pawniard_community_day.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
     "category": "Event",
     "title": "Minior Showers: Perseids 2027",
     "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
@@ -207,17 +218,6 @@
     "raw_text": "Raid Day Raid Day Super Mega Raid Day Ends: Sat, Jan 9, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "super_mega_raid_day",
     "file": "upcoming/super_mega_raid_day.json"
-  },
-  {
-    "source": "LeekDuck",
-    "status": "upcoming",
-    "category": "Community Day",
-    "title": "Pawniard Community Day",
-    "url": "https://leekduck.com/events/november-communityday2026/",
-    "date_text": "Sat, Nov 21, at 5:00 PM",
-    "raw_text": "Community Day Community Day Pawniard Community Day Ends: Sat, Nov 21, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-    "id": "pawniard_community_day",
-    "file": "upcoming/pawniard_community_day.json"
   },
   {
     "source": "LeekDuck",

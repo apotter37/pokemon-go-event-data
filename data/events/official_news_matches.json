@@ -59,6 +59,26 @@
     "event": {
       "source": "LeekDuck",
       "status": "current",
+      "category": "Community Day",
+      "title": "Pawniard Community Day",
+      "url": "https://leekduck.com/events/november-communityday2026/",
+      "date_text": "Sat, Nov 21, at 5:00 PM",
+      "raw_text": "Community Day Community Day Pawniard Community Day Ends: Sat, Nov 21, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
+      "id": "pawniard_community_day",
+      "file": "current/pawniard_community_day.json"
+    },
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "November 2026 Community Day: Pawniard",
+        "url": "https://pokemongo.com/news/communityday-november-2026-pawniard"
+      }
+    ]
+  },
+  {
+    "event": {
+      "source": "LeekDuck",
+      "status": "current",
       "category": "Event",
       "title": "Minior Showers: Perseids 2027",
       "url": "https://leekduck.com/events/minior-showers-perseids-2027/",
@@ -284,26 +304,6 @@
         "source": "Official Pokémon GO",
         "title": "A haunting glow awaits with the Chandelure Super Mega Raid Day!",
         "url": "https://pokemongo.com/news/chandelure-super-mega-raid-day-2026"
-      }
-    ]
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "upcoming",
-      "category": "Community Day",
-      "title": "Pawniard Community Day",
-      "url": "https://leekduck.com/events/november-communityday2026/",
-      "date_text": "Sat, Nov 21, at 5:00 PM",
-      "raw_text": "Community Day Community Day Pawniard Community Day Ends: Sat, Nov 21, at 5:00 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "pawniard_community_day",
-      "file": "upcoming/pawniard_community_day.json"
-    },
-    "official_matches": [
-      {
-        "source": "Official Pokémon GO",
-        "title": "November 2026 Community Day: Pawniard",
-        "url": "https://pokemongo.com/news/communityday-november-2026-pawniard"
       }
     ]
   },
