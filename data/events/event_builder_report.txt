@@ -6,7 +6,7 @@ Upcoming events: 10
 Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 262
+Matched entries: 270
 Unmatched candidates: 18
 No-match debug rows: 18
 
@@ -43,7 +43,7 @@ Events written:
   URL: https://leekduck.com/events/minior-showers-perseids-2027/
 - [current] Event: Pokémon GO and Duolingo Timed Research
   Date: Thu, Dec 31, at 11:59 PM
-  Entries: 10
+  Entries: 18
   File: current/pokemon_go_and_duolingo_timed_research.json
   URL: https://leekduck.com/events/duolingo-timed-research-2026/
 - [current] Event: Minior Showers: Geminids 2026

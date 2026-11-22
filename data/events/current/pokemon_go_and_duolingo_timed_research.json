@@ -6,8 +6,38 @@
   "date_text": "Thu, Dec 31, at 11:59 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/duolingo-timed-research-2026/",
-  "generated_at": "2026-11-22 06:38:39",
+  "generated_at": "2026-11-22 19:30:51",
   "entries": [
+    {
+      "dex": 25,
+      "name": "Pikachu",
+      "uri": "file:///android_asset/Pokemon/Normal/Pikachu.png",
+      "label": "Eggs — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Pikachu"
+    },
+    {
+      "dex": 810,
+      "name": "Grookey",
+      "uri": "file:///android_asset/Pokemon/Normal/Grookey.png",
+      "label": "Eggs — Normal",
+      "availability": "Egg",
+      "section": "Eggs",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Hatch an Egg Grookey"
+    },
     {
       "dex": 25,
       "name": "Pikachu",
@@ -141,7 +171,7 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Catch 1 Pokemon Chespin"
+      "source_text": "Catch a Pokemon Chespin"
     },
     {
       "dex": 656,
@@ -156,7 +186,97 @@
       "costume": false,
       "costume_hint": "",
       "form_hint": "",
-      "source_text": "Make 3 Great Throws Froakie"
+      "source_text": "Make 3 Nice Throws Froakie"
+    },
+    {
+      "dex": 722,
+      "name": "Rowlet",
+      "uri": "file:///android_asset/Pokemon/Normal/Rowlet.png",
+      "label": "Timed Research — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Spin 4 PokeStops or Gyms Rowlet"
+    },
+    {
+      "dex": 725,
+      "name": "Litten",
+      "uri": "file:///android_asset/Pokemon/Normal/Litten.png",
+      "label": "Timed Research — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Spin a PokeStop or Gym Litten"
+    },
+    {
+      "dex": 813,
+      "name": "Scorbunny",
+      "uri": "file:///android_asset/Pokemon/Normal/Scorbunny.png",
+      "label": "Timed Research — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Power up Pokemon 6 times Scorbunny"
+    },
+    {
+      "dex": 906,
+      "name": "Sprigatito",
+      "uri": "file:///android_asset/Pokemon/Normal/Sprigatito.png",
+      "label": "Timed Research — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Power up Pokemon 6 times Sprigatito"
+    },
+    {
+      "dex": 909,
+      "name": "Fuecoco",
+      "uri": "file:///android_asset/Pokemon/Normal/Fuecoco.png",
+      "label": "Timed Research — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Make 3 Nice Throws Fuecoco"
+    },
+    {
+      "dex": 912,
+      "name": "Quaxly",
+      "uri": "file:///android_asset/Pokemon/Normal/Quaxly.png",
+      "label": "Timed Research — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Spin 4 PokeStops or Gyms Quaxly"
     }
   ]
 }
