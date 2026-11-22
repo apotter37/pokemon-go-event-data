@@ -1,14 +1,14 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 22
-Current events: 12
+Events kept after cleanup: 21
+Current events: 11
 Upcoming events: 10
 Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 260
-Unmatched candidates: 23
-No-match debug rows: 23
+Matched entries: 262
+Unmatched candidates: 18
+No-match debug rows: 18
 
 Events written:
 - [current] Event: Research adidas × Pokemon Timed Research
@@ -43,14 +43,9 @@ Events written:
   URL: https://leekduck.com/events/minior-showers-perseids-2027/
 - [current] Event: Pokémon GO and Duolingo Timed Research
   Date: Thu, Dec 31, at 11:59 PM
-  Entries: 8
+  Entries: 10
   File: current/pokemon_go_and_duolingo_timed_research.json
   URL: https://leekduck.com/events/duolingo-timed-research-2026/
-- [current] Event: Minior Showers: Leonids 2026
-  Date: Thu, Nov 19, at 11:59 PM
-  Entries: 0
-  File: current/minior_showers_leonids_2026.json
-  URL: https://leekduck.com/events/minior-showers-leonids-2026/
 - [current] Event: Minior Showers: Geminids 2026
   Date: Wed, Dec 16, at 11:59 PM
   Entries: 0

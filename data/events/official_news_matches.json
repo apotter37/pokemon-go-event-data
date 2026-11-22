@@ -108,20 +108,6 @@
       "source": "LeekDuck",
       "status": "current",
       "category": "Event",
-      "title": "Minior Showers: Leonids 2026",
-      "url": "https://leekduck.com/events/minior-showers-leonids-2026/",
-      "date_text": "Thu, Nov 19, at 11:59 PM",
-      "raw_text": "Event Event Minior Showers: Leonids 2026 Ends: Thu, Nov 19, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
-      "id": "minior_showers_leonids_2026",
-      "file": "current/minior_showers_leonids_2026.json"
-    },
-    "official_matches": []
-  },
-  {
-    "event": {
-      "source": "LeekDuck",
-      "status": "current",
-      "category": "Event",
       "title": "Minior Showers: Geminids 2026",
       "url": "https://leekduck.com/events/minior-showers-geminids-2026/",
       "date_text": "Wed, Dec 16, at 11:59 PM",

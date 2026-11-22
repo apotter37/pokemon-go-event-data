@@ -6,7 +6,7 @@
   "date_text": "Thu, Dec 31, at 11:59 PM",
   "source": "LeekDuck",
   "source_url": "https://leekduck.com/events/duolingo-timed-research-2026/",
-  "generated_at": "2026-11-21 19:08:36",
+  "generated_at": "2026-11-22 06:38:39",
   "entries": [
     {
       "dex": 25,
@@ -127,6 +127,36 @@
       "costume_hint": "",
       "form_hint": "",
       "source_text": "Lucario"
+    },
+    {
+      "dex": 650,
+      "name": "Chespin",
+      "uri": "file:///android_asset/Pokemon/Normal/Chespin.png",
+      "label": "Timed Research — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Catch 1 Pokemon Chespin"
+    },
+    {
+      "dex": 656,
+      "name": "Froakie",
+      "uri": "file:///android_asset/Pokemon/Normal/Froakie.png",
+      "label": "Timed Research — Normal",
+      "availability": "Research",
+      "section": "Timed Research",
+      "day": "",
+      "habitat": "",
+      "shiny": false,
+      "costume": false,
+      "costume_hint": "",
+      "form_hint": "",
+      "source_text": "Make 3 Great Throws Froakie"
     }
   ]
 }
