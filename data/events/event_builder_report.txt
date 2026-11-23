@@ -1,12 +1,12 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 21
-Current events: 11
+Events kept after cleanup: 20
+Current events: 10
 Upcoming events: 10
 Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 270
+Matched entries: 301
 Unmatched candidates: 18
 No-match debug rows: 18
 
@@ -23,7 +23,7 @@ Events written:
   URL: https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/
 - [current] Event: Twilight Wishes
   Date: Mon, Nov 30, at 8:00 PM
-  Entries: 47
+  Entries: 80
   File: current/twilight_wishes.json
   URL: https://leekduck.com/events/twilight-wishes-2026/
 - [current] Event: Minior Showers: Eta Aquariids 2027
@@ -31,11 +31,6 @@ Events written:
   Entries: 0
   File: current/minior_showers_eta_aquariids_2027.json
   URL: https://leekduck.com/events/minior-showers-eta-aquariids-2027/
-- [current] Community Day: Pawniard Community Day
-  Date: Sat, Nov 21, at 5:00 PM
-  Entries: 17
-  File: current/pawniard_community_day.json
-  URL: https://leekduck.com/events/november-communityday2026/
 - [current] Event: Minior Showers: Perseids 2027
   Date: Sun, Aug 15, at 11:59 PM
   Entries: 0

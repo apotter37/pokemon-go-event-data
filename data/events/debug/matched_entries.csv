@@ -17,81 +17,112 @@ twilight_wishes,Twilight Wishes,Staryu,False,Normal/Staryu.png,Bonuses — Norma
 twilight_wishes,Twilight Wishes,Staryu,True,Shiny/Staryu_shiny.png,Bonuses — Shiny,Bonus,Bonuses,,,Increased chance to encounter Shiny Staryu and Shiny Elgyem
 twilight_wishes,Twilight Wishes,Elgyem,False,Normal/Elgyem.png,Bonuses — Normal,Bonus,Bonuses,,,Increased chance to encounter Shiny Staryu and Shiny Elgyem
 twilight_wishes,Twilight Wishes,Elgyem,True,Shiny/Elgyem_shiny.png,Bonuses — Shiny,Bonus,Bonuses,,,Increased chance to encounter Shiny Staryu and Shiny Elgyem
-twilight_wishes,Twilight Wishes,Rockruff,False,Normal/Rockruff.png,Bonuses — Scarf — Normal,Bonus,Bonuses,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
-twilight_wishes,Twilight Wishes,Rockruff,True,Shiny/Rockruff_shiny.png,Bonuses — Scarf — Shiny,Bonus,Bonuses,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
-twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Pikachu_umbreon.png,Bonuses — Scarf — Normal,Bonus,Bonuses,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
-twilight_wishes,Twilight Wishes,Umbreon,True,Shiny/Umbreon_shiny.png,Bonuses — Scarf — Shiny,Bonus,Bonuses,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
-twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Bonuses — Scarf — Normal,Bonus,Bonuses,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
-twilight_wishes,Twilight Wishes,Espeon,True,Shiny/Espeon_shiny.png,Bonuses — Scarf — Shiny,Bonus,Bonuses,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
-twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Bonuses — Scarf — Normal,Bonus,Bonuses,,,Espeon wearing a sun scarf
-twilight_wishes,Twilight Wishes,Espeon,True,Shiny/Espeon_shiny.png,Bonuses — Scarf — Shiny,Bonus,Bonuses,,,Espeon wearing a sun scarf
-twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Bonuses — Scarf — Normal,Bonus,Bonuses,,,Espeon wearing a sun scarf
-twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Pikachu_umbreon.png,Bonuses — Scarf — Normal,Bonus,Bonuses,,,Umbreon wearing a moon scarf
-twilight_wishes,Twilight Wishes,Umbreon,True,Shiny/Umbreon_shiny.png,Bonuses — Scarf — Shiny,Bonus,Bonuses,,,Umbreon wearing a moon scarf
-twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Pikachu_umbreon.png,Bonuses — Scarf — Normal,Bonus,Bonuses,,,Umbreon wearing a moon scarf
-twilight_wishes,Twilight Wishes,Rockruff,False,Normal/Rockruff.png,Bonuses — Normal,Bonus,Bonuses,,,Rockruff
-twilight_wishes,Twilight Wishes,Rockruff,True,Shiny/Rockruff_shiny.png,Bonuses — Shiny,Bonus,Bonuses,,,Rockruff
-twilight_wishes,Twilight Wishes,Rockruff,False,Normal/Rockruff.png,Bonuses — Normal,Bonus,Bonuses,,,Rockruff
-twilight_wishes,Twilight Wishes,Clefairy,False,Normal/Clefairy.png,Bonuses — Normal,Bonus,Bonuses,,,Clefairy
-twilight_wishes,Twilight Wishes,Clefairy,True,Shiny/Clefairy_shiny.png,Bonuses — Shiny,Bonus,Bonuses,,,Clefairy
-twilight_wishes,Twilight Wishes,Clefairy,False,Normal/Clefairy.png,Bonuses — Normal,Bonus,Bonuses,,,Clefairy
-twilight_wishes,Twilight Wishes,Staryu,False,Normal/Staryu.png,Bonuses — Normal,Bonus,Bonuses,,,Staryu
-twilight_wishes,Twilight Wishes,Elgyem,False,Normal/Elgyem.png,Bonuses — Normal,Bonus,Bonuses,,,Elgyem
-twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_sun.png,Raids — Crown — Normal,Raid,Raids,,,Pikachu wearing a sun crown
-twilight_wishes,Twilight Wishes,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Crown — Shiny,Raid,Raids,,,Pikachu wearing a sun crown
-twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_sun.png,Raids — Crown — Normal,Raid,Raids,,,Pikachu wearing a sun crown
-twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_moon.png,Raids — Crown — Normal,Raid,Raids,,,Pikachu wearing a moon crown
-twilight_wishes,Twilight Wishes,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Crown — Shiny,Raid,Raids,,,Pikachu wearing a moon crown
-twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_moon.png,Raids — Crown — Normal,Raid,Raids,,,Pikachu wearing a moon crown
+twilight_wishes,Twilight Wishes,Rockruff,False,Normal/Rockruff.png,Raids — Scarf — Normal,Raid,Raids,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
+twilight_wishes,Twilight Wishes,Rockruff,True,Shiny/Rockruff_shiny.png,Raids — Scarf — Shiny,Raid,Raids,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
+twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Pikachu_umbreon.png,Raids — Scarf — Normal,Raid,Raids,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
+twilight_wishes,Twilight Wishes,Umbreon,True,Shiny/Umbreon_shiny.png,Raids — Scarf — Shiny,Raid,Raids,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
+twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Raids — Scarf — Normal,Raid,Raids,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
+twilight_wishes,Twilight Wishes,Espeon,True,Shiny/Espeon_shiny.png,Raids — Scarf — Shiny,Raid,Raids,,,"Espeon wearing a sun scarf, Umbreon wearing a moon scarf, and Rockruff are featured during Twilight Wishes. All three can be Shiny if you're lucky!"
+twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Raids — Scarf — Normal,Raid,Raids,,,Espeon wearing a sun scarf
+twilight_wishes,Twilight Wishes,Espeon,True,Shiny/Espeon_shiny.png,Raids — Scarf — Shiny,Raid,Raids,,,Espeon wearing a sun scarf
+twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Raids — Scarf — Normal,Raid,Raids,,,Espeon wearing a sun scarf
+twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Pikachu_umbreon.png,Raids — Scarf — Normal,Raid,Raids,,,Umbreon wearing a moon scarf
+twilight_wishes,Twilight Wishes,Umbreon,True,Shiny/Umbreon_shiny.png,Raids — Scarf — Shiny,Raid,Raids,,,Umbreon wearing a moon scarf
+twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Pikachu_umbreon.png,Raids — Scarf — Normal,Raid,Raids,,,Umbreon wearing a moon scarf
+twilight_wishes,Twilight Wishes,Rockruff,False,Normal/Rockruff.png,Raids — Normal,Raid,Raids,,,Rockruff
+twilight_wishes,Twilight Wishes,Rockruff,True,Shiny/Rockruff_shiny.png,Raids — Shiny,Raid,Raids,,,Rockruff
+twilight_wishes,Twilight Wishes,Rockruff,False,Normal/Rockruff.png,Raids — Normal,Raid,Raids,,,Rockruff
+twilight_wishes,Twilight Wishes,Staryu,False,Normal/Staryu.png,Raids — Normal,Raid,Raids,,,Staryu and Elgyem have an increased chance of being Shiny during the event.
+twilight_wishes,Twilight Wishes,Staryu,True,Shiny/Staryu_shiny.png,Raids — Shiny,Raid,Raids,,,Staryu and Elgyem have an increased chance of being Shiny during the event.
+twilight_wishes,Twilight Wishes,Elgyem,False,Normal/Elgyem.png,Raids — Normal,Raid,Raids,,,Staryu and Elgyem have an increased chance of being Shiny during the event.
+twilight_wishes,Twilight Wishes,Elgyem,True,Shiny/Elgyem_shiny.png,Raids — Shiny,Raid,Raids,,,Staryu and Elgyem have an increased chance of being Shiny during the event.
+twilight_wishes,Twilight Wishes,Clefairy,False,Normal/Clefairy.png,Raids — Normal,Raid,Raids,,,Clefairy
+twilight_wishes,Twilight Wishes,Clefairy,True,Shiny/Clefairy_shiny.png,Raids — Shiny,Raid,Raids,,,Clefairy
+twilight_wishes,Twilight Wishes,Clefairy,False,Normal/Clefairy.png,Raids — Normal,Raid,Raids,,,Clefairy
+twilight_wishes,Twilight Wishes,Jigglypuff,False,Normal/Jigglypuff.png,Raids — Normal,Raid,Raids,,,Jigglypuff
+twilight_wishes,Twilight Wishes,Jigglypuff,True,Shiny/Jigglypuff_shiny.png,Raids — Shiny,Raid,Raids,,,Jigglypuff
+twilight_wishes,Twilight Wishes,Jigglypuff,False,Normal/Jigglypuff.png,Raids — Normal,Raid,Raids,,,Jigglypuff
+twilight_wishes,Twilight Wishes,Staryu,False,Normal/Staryu.png,Raids — Normal,Raid,Raids,,,Staryu
+twilight_wishes,Twilight Wishes,Chimecho,False,Normal/Chimecho.png,Raids — Normal,Raid,Raids,,,Chimecho
+twilight_wishes,Twilight Wishes,Chimecho,True,Shiny/Chimecho_shiny.png,Raids — Shiny,Raid,Raids,,,Chimecho
+twilight_wishes,Twilight Wishes,Chimecho,False,Normal/Chimecho.png,Raids — Normal,Raid,Raids,,,Chimecho
+twilight_wishes,Twilight Wishes,Munna,False,Normal/Munna.png,Raids — Normal,Raid,Raids,,,Munna
+twilight_wishes,Twilight Wishes,Munna,True,Shiny/Munna_shiny.png,Raids — Shiny,Raid,Raids,,,Munna
+twilight_wishes,Twilight Wishes,Munna,False,Normal/Munna.png,Raids — Normal,Raid,Raids,,,Munna
+twilight_wishes,Twilight Wishes,Elgyem,False,Normal/Elgyem.png,Raids — Normal,Raid,Raids,,,Elgyem
+twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_sun.png,Raids — Crown — Normal,Raid,Raids,,,Sun Crown Pikachu 100% IV CP Level 20 536 Level 25 670 Weather boosted in
+twilight_wishes,Twilight Wishes,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Crown — Shiny,Raid,Raids,,,Sun Crown Pikachu 100% IV CP Level 20 536 Level 25 670 Weather boosted in
+twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_sun.png,Raids — Crown — Normal,Raid,Raids,,,Sun Crown Pikachu
+twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_moon.png,Raids — Crown — Normal,Raid,Raids,,,Moon Crown Pikachu 100% IV CP Level 20 536 Level 25 670 Weather boosted in
+twilight_wishes,Twilight Wishes,Pikachu,True,Shiny/Pikachu_shiny.png,Raids — Crown — Shiny,Raid,Raids,,,Moon Crown Pikachu 100% IV CP Level 20 536 Level 25 670 Weather boosted in
+twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_moon.png,Raids — Crown — Normal,Raid,Raids,,,Moon Crown Pikachu
+twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Raids — Scarf — Normal,Raid,Raids,,,Day Scarf Espeon 100% IV CP Level 20 1811 Level 25 2264 Weather boosted in
+twilight_wishes,Twilight Wishes,Espeon,True,Shiny/Espeon_shiny.png,Raids — Scarf — Shiny,Raid,Raids,,,Day Scarf Espeon 100% IV CP Level 20 1811 Level 25 2264 Weather boosted in
+twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Raids — Scarf — Normal,Raid,Raids,,,Day Scarf Espeon
+twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Umbreon_night.png,Raids — Scarf — Normal,Raid,Raids,,,Night Scarf Umbreon 100% IV CP Level 20 1221 Level 25 1526 Weather boosted in
+twilight_wishes,Twilight Wishes,Umbreon,True,Shiny/Umbreon_shiny.png,Raids — Scarf — Shiny,Raid,Raids,,,Night Scarf Umbreon 100% IV CP Level 20 1221 Level 25 1526 Weather boosted in
+twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Umbreon_night.png,Raids — Scarf — Normal,Raid,Raids,,,Night Scarf Umbreon
+twilight_wishes,Twilight Wishes,Cresselia,False,Normal/Cresselia.png,Raids — Normal,Raid,Raids,,,Cresselia 100% IV CP Level 20 1633 Level 25 2041 Weather boosted in
+twilight_wishes,Twilight Wishes,Cresselia,True,Shiny/Cresselia_shiny.png,Raids — Shiny,Raid,Raids,,,Cresselia 100% IV CP Level 20 1633 Level 25 2041 Weather boosted in
+twilight_wishes,Twilight Wishes,Cresselia,False,Normal/Cresselia.png,Raids — Normal,Raid,Raids,,,Cresselia
+twilight_wishes,Twilight Wishes,Darkrai,False,Normal/Darkrai.png,Raids — Normal,Raid,Raids,,,Darkrai 100% IV CP Level 20 2136 Level 25 2671 Weather boosted in
+twilight_wishes,Twilight Wishes,Darkrai,True,Shiny/Darkrai_shiny.png,Raids — Shiny,Raid,Raids,,,Darkrai 100% IV CP Level 20 2136 Level 25 2671 Weather boosted in
+twilight_wishes,Twilight Wishes,Darkrai,False,Normal/Darkrai.png,Raids — Normal,Raid,Raids,,,Darkrai
+twilight_wishes,Twilight Wishes,Deoxys,False,Normal/Deoxys.png,Raids — Normal,Raid,Raids,,,Deoxys (Normal) 100% IV CP Level 20 1806 Level 25 2257 Weather boosted in
+twilight_wishes,Twilight Wishes,Deoxys,True,Shiny/Deoxys_attack_shiny.png,Raids — Shiny,Raid,Raids,,,Deoxys (Normal) 100% IV CP Level 20 1806 Level 25 2257 Weather boosted in
+twilight_wishes,Twilight Wishes,Deoxys,False,Normal/Deoxys.png,Raids — Normal,Raid,Raids,,,Deoxys (Normal)
+twilight_wishes,Twilight Wishes,Beedrill,False,Mega/Beedrill_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Beedrill 100% IV CP Level 20 1054 Level 25 1318 Weather boosted in
+twilight_wishes,Twilight Wishes,Beedrill,True,Mega/Shiny/Beedrill_mega_shiny.png,Raids — Mega — Shiny,Raid,Raids,,,Mega Beedrill 100% IV CP Level 20 1054 Level 25 1318 Weather boosted in
 twilight_wishes,Twilight Wishes,Beedrill,False,Mega/Beedrill_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Beedrill
-twilight_wishes,Twilight Wishes,Beedrill,True,Mega/Shiny/Beedrill_mega_shiny.png,Raids — Mega — Shiny,Raid,Raids,,,Mega Beedrill
-twilight_wishes,Twilight Wishes,Beedrill,False,Mega/Beedrill_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Beedrill
+twilight_wishes,Twilight Wishes,Houndoom,False,Mega/Houndoom_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Houndoom 100% IV CP Level 20 1505 Level 25 1882 Weather boosted in
+twilight_wishes,Twilight Wishes,Houndoom,True,Mega/Shiny/Houndoom_mega_shiny.png,Raids — Mega — Shiny,Raid,Raids,,,Mega Houndoom 100% IV CP Level 20 1505 Level 25 1882 Weather boosted in
 twilight_wishes,Twilight Wishes,Houndoom,False,Mega/Houndoom_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Houndoom
-twilight_wishes,Twilight Wishes,Houndoom,True,Mega/Shiny/Houndoom_mega_shiny.png,Raids — Mega — Shiny,Raid,Raids,,,Mega Houndoom
-twilight_wishes,Twilight Wishes,Houndoom,False,Mega/Houndoom_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Houndoom
+twilight_wishes,Twilight Wishes,Sableye,False,Mega/Sableye_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Sableye 100% IV CP Level 20 843 Level 25 1054 Weather boosted in
+twilight_wishes,Twilight Wishes,Sableye,True,Mega/Shiny/Sableye_mega_shiny.png,Raids — Mega — Shiny,Raid,Raids,,,Mega Sableye 100% IV CP Level 20 843 Level 25 1054 Weather boosted in
 twilight_wishes,Twilight Wishes,Sableye,False,Mega/Sableye_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Sableye
-twilight_wishes,Twilight Wishes,Sableye,True,Mega/Shiny/Sableye_mega_shiny.png,Raids — Mega — Shiny,Raid,Raids,,,Mega Sableye
-twilight_wishes,Twilight Wishes,Sableye,False,Mega/Sableye_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Sableye
-twilight_wishes,Twilight Wishes,Manectric,False,Mega/Manectric_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Manectric
-twilight_wishes,Twilight Wishes,Manectric,True,Mega/Shiny/Manectric_mega_shiny.png,Raids — Mega — Shiny,Raid,Raids,,,Mega Manectric
+twilight_wishes,Twilight Wishes,Manectric,False,Mega/Manectric_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Manectric 100% IV CP Level 20 1337 Level 25 1672 Weather boosted in
+twilight_wishes,Twilight Wishes,Manectric,True,Mega/Shiny/Manectric_mega_shiny.png,Raids — Mega — Shiny,Raid,Raids,,,Mega Manectric 100% IV CP Level 20 1337 Level 25 1672 Weather boosted in
 twilight_wishes,Twilight Wishes,Manectric,False,Mega/Manectric_mega.png,Raids — Mega — Normal,Raid,Raids,,,Mega Manectric
 twilight_wishes,Twilight Wishes,Staryu,False,Normal/Staryu.png,Field Research — Mega — Normal,Research,Field Research,,,"Complete event-themed Field Research tasks to earn Mega Energy and encounters with event-themed Pokemon, including Staryu, Elgyem, and more!"
 twilight_wishes,Twilight Wishes,Elgyem,False,Normal/Elgyem.png,Field Research — Mega — Normal,Research,Field Research,,,"Complete event-themed Field Research tasks to earn Mega Energy and encounters with event-themed Pokemon, including Staryu, Elgyem, and more!"
-twilight_wishes,Twilight Wishes,Applin,False,Normal/Applin.png,Field Research — Normal,Research,Field Research,,,Applin
-twilight_wishes,Twilight Wishes,Applin,True,Shiny/Applin_shiny.png,Field Research — Shiny,Research,Field Research,,,Applin
-twilight_wishes,Twilight Wishes,Applin,False,Normal/Applin.png,Field Research — Normal,Research,Field Research,,,Applin
-twilight_wishes,Twilight Wishes,Gengar,False,Costume/Gengar_halloween.png,Field Research — Costume — Normal,Research,Field Research,,,Gengar wearing a Spooky Festival costume
-twilight_wishes,Twilight Wishes,Gengar,True,Costume/Shiny/Gengar_halloween_2022_shiny.png,Field Research — Costume — Shiny,Research,Field Research,,,Gengar wearing a Spooky Festival costume
-twilight_wishes,Twilight Wishes,Gengar,False,Costume/Gengar_halloween.png,Field Research — Costume — Normal,Research,Field Research,,,Gengar wearing a Spooky Festival costume
-twilight_wishes,Twilight Wishes,Drifblim,False,Costume/Drifblim_halloween.png,Field Research — Costume — Normal,Research,Field Research,,,Drifblim wearing a Halloween Mischief costume
-twilight_wishes,Twilight Wishes,Drifblim,True,Costume/Shiny/Drifblim_halloween_shiny.png,Field Research — Costume — Shiny,Research,Field Research,,,Drifblim wearing a Halloween Mischief costume
-twilight_wishes,Twilight Wishes,Drifblim,False,Costume/Drifblim_halloween.png,Field Research — Costume — Normal,Research,Field Research,,,Drifblim wearing a Halloween Mischief costume
-twilight_wishes,Twilight Wishes,Manectric,False,Mega/Manectric_mega.png,Field Research — Mega — Normal,Research,Field Research,,,"Mega Energy for Beedrill, Houndoom, Sableye, and Manectric"
-twilight_wishes,Twilight Wishes,Beedrill,False,Mega/Beedrill_mega.png,Field Research — Mega — Normal,Research,Field Research,,,"Mega Energy for Beedrill, Houndoom, Sableye, and Manectric"
-twilight_wishes,Twilight Wishes,Houndoom,False,Mega/Houndoom_mega.png,Field Research — Mega — Normal,Research,Field Research,,,"Mega Energy for Beedrill, Houndoom, Sableye, and Manectric"
-twilight_wishes,Twilight Wishes,Sableye,False,Mega/Sableye_mega.png,Field Research — Mega — Normal,Research,Field Research,,,"Mega Energy for Beedrill, Houndoom, Sableye, and Manectric"
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Community Day — Saturday — Normal,Event,Community Day,Saturday,,"Pawniard Community Day Community Day Event Time Saturday, November 21, 2026, 2:00 PM — 5:00 PM Local Time Add to calendar ▾ Share Share this event Copy"
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,"Take a few snapshots during Community Day for a surprise! During the event, you can snap an AR Photo and get photobombed by Pawniard."
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Raids — Saturday — Normal,Raid,Raids,Saturday,,Pawniard
-pawniard_community_day,Pawniard Community Day,Pawniard,True,Shiny/Pawniard_shiny.png,Raids — Saturday — Shiny,Raid,Raids,Saturday,,Pawniard
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Lure Encounters — Saturday — Normal,Lure,Lure Encounters,Saturday,,"From 2:00 p.m. to 9:00 p.m. local time , Pawniard will have a very high chance of appearing at PokeStops with active regular Lure Modules."
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Lure Encounters — Saturday — Normal,Lure,Lure Encounters,Saturday,,Pawniard attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
-pawniard_community_day,Pawniard Community Day,Pawniard,True,Shiny/Pawniard_shiny.png,Lure Encounters — Saturday — Shiny,Lure,Lure Encounters,Saturday,,Pawniard attracted to regular Lure Modules will still have an increased chance to be Shiny and may have a Special Background. That's more chances to encounter the featured Pokemon even after the event hours!
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Wild Encounters — Saturday — Normal,Wild,Wild Encounters,Saturday,,"Pawniard will appear more frequently in the wild. If you're lucky, you might encounter a Shiny one or one that has a Special Background!"
-pawniard_community_day,Pawniard Community Day,Pawniard,True,Shiny/Pawniard_shiny.png,Wild Encounters — Saturday — Shiny,Wild,Wild Encounters,Saturday,,"Pawniard will appear more frequently in the wild. If you're lucky, you might encounter a Shiny one or one that has a Special Background!"
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Field Research — Saturday — Normal,Research,Field Research,Saturday,,"November Community Day—themed Field Research will be available! Catch Pawniard to earn rewards such as Stardust, Ultra Balls, additional encounters with Pawniard, and more! You may even find Field Research that leads to encounters with Pawniard that have a Special Background—if you're lucky!"
-pawniard_community_day,Pawniard Community Day,Pawniard,True,Shiny/Pawniard_shiny.png,Field Research — Saturday — Shiny,Research,Field Research,Saturday,,"November Community Day—themed Field Research will be available! Catch Pawniard to earn rewards such as Stardust, Ultra Balls, additional encounters with Pawniard, and more! You may even find Field Research that leads to encounters with Pawniard that have a Special Background—if you're lucky!"
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Special Research — Saturday — Normal,Research,Special Research,Saturday,,3 encounters with Pawniard that have a Special Background
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Incense — Saturday — Normal,Incense,Incense,Saturday,,REWARDS Pawniard ×50 ×5
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Check in at a Community Ambassador event to receive Timed Research with Pawniard encounters featuring a Special Background and other premium item rewards. Find a nearby meetup on the Pokemon GO event map .
-pawniard_community_day,Pawniard Community Day,Kingambit,False,Normal/Kingambit.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Trainers will have an increased chance of encountering Shiny Pawniard during Community Day. Shiny Pawniard can be evolved into Shiny Bisharp and Shiny Kingambit.
-pawniard_community_day,Pawniard Community Day,Kingambit,True,Shiny/Kingambit_shiny.png,Timed Research — Saturday — Shiny,Research,Timed Research,Saturday,,Trainers will have an increased chance of encountering Shiny Pawniard during Community Day. Shiny Pawniard can be evolved into Shiny Bisharp and Shiny Kingambit.
-pawniard_community_day,Pawniard Community Day,Pawniard,False,Normal/Pawniard.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Trainers will have an increased chance of encountering Shiny Pawniard during Community Day. Shiny Pawniard can be evolved into Shiny Bisharp and Shiny Kingambit.
-pawniard_community_day,Pawniard Community Day,Pawniard,True,Shiny/Pawniard_shiny.png,Timed Research — Saturday — Shiny,Research,Timed Research,Saturday,,Trainers will have an increased chance of encountering Shiny Pawniard during Community Day. Shiny Pawniard can be evolved into Shiny Bisharp and Shiny Kingambit.
-pawniard_community_day,Pawniard Community Day,Bisharp,False,Normal/Bisharp.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Trainers will have an increased chance of encountering Shiny Pawniard during Community Day. Shiny Pawniard can be evolved into Shiny Bisharp and Shiny Kingambit.
-pawniard_community_day,Pawniard Community Day,Bisharp,True,Shiny/Bisharp_shiny.png,Timed Research — Saturday — Shiny,Research,Timed Research,Saturday,,Trainers will have an increased chance of encountering Shiny Pawniard during Community Day. Shiny Pawniard can be evolved into Shiny Bisharp and Shiny Kingambit.
-pawniard_community_day,Pawniard Community Day,Bisharp,False,Normal/Bisharp.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Bisharp
-pawniard_community_day,Pawniard Community Day,Kingambit,False,Normal/Kingambit.png,Timed Research — Saturday — Normal,Research,Timed Research,Saturday,,Kingambit
+twilight_wishes,Twilight Wishes,Beedrill,False,Mega/Beedrill_mega.png,Lure Encounters — Mega — Normal,Lure,Lure Encounters,,,×25 Beedrill Mega Energy ×25
+twilight_wishes,Twilight Wishes,Houndoom,False,Mega/Houndoom_mega.png,Lure Encounters — Mega — Normal,Lure,Lure Encounters,,,×25 Houndoom Mega Energy ×25
+twilight_wishes,Twilight Wishes,Manectric,False,Mega/Manectric_mega.png,Lure Encounters — Mega — Normal,Lure,Lure Encounters,,,×25 Manectric Mega Energy ×25
+twilight_wishes,Twilight Wishes,Sableye,False,Mega/Sableye_mega.png,Lure Encounters — Mega — Normal,Lure,Lure Encounters,,,×25 Sableye Mega Energy ×25
+twilight_wishes,Twilight Wishes,Drifblim,False,Normal/Drifblim.png,Lure Encounters — Normal,Lure,Lure Encounters,,,??? REWARD Halloween Drifblim
+twilight_wishes,Twilight Wishes,Drifblim,True,Shiny/Drifblim_shiny.png,Lure Encounters — Shiny,Lure,Lure Encounters,,,??? REWARD Halloween Drifblim
+twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Pikachu_umbreon.png,Eggs — Mega — Costume — Normal,Raid,Eggs,,,GO Pass: Twilight Wishes Rank up to encounter costumed Espeon and Umbreon and earn Mega Energy! Daily tasks Spin 5 PokeStops or Gyms 50 PTS Catch 5 Pokemon 50 PTS Deluxe Catch 10 Pokemon 100 PTS Bonus points Up to 500 extra points daily Win a raid 100 PTS Hatch an Egg 40 PTS Catch a Pokemon 5 PTS Points / rank 100 Detailed Compact
+twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Eggs — Mega — Costume — Normal,Raid,Eggs,,,GO Pass: Twilight Wishes Rank up to encounter costumed Espeon and Umbreon and earn Mega Energy! Daily tasks Spin 5 PokeStops or Gyms 50 PTS Catch 5 Pokemon 50 PTS Deluxe Catch 10 Pokemon 100 PTS Bonus points Up to 500 extra points daily Win a raid 100 PTS Hatch an Egg 40 PTS Catch a Pokemon 5 PTS Points / rank 100 Detailed Compact
+twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Pikachu_umbreon.png,Eggs — Mega — Costume — Normal,Egg,Eggs,,,Rank up to encounter costumed Espeon and Umbreon and earn Mega Energy!
+twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Eggs — Mega — Costume — Normal,Egg,Eggs,,,Rank up to encounter costumed Espeon and Umbreon and earn Mega Energy!
+twilight_wishes,Twilight Wishes,Staryu,False,Normal/Staryu.png,Eggs — Normal,Egg,Eggs,,,Staryu Staryu
+twilight_wishes,Twilight Wishes,Elgyem,False,Normal/Elgyem.png,Eggs — Normal,Egg,Eggs,,,Elgyem Elgyem
+twilight_wishes,Twilight Wishes,Flamigo,False,Normal/Flamigo.png,Eggs — Normal,Egg,Eggs,,,Flamigo Flamigo
+twilight_wishes,Twilight Wishes,Munna,False,Normal/Munna.png,Eggs — Normal,Egg,Eggs,,,Munna Maschiff
+twilight_wishes,Twilight Wishes,Cottonee,False,Costume/Cottonee_flower.png,Eggs — Flower Crown — Normal,Egg,Eggs,,,Cottonee wearing a flower crown Cottonee wearing a flower crown
+twilight_wishes,Twilight Wishes,Cottonee,False,Costume/Cottonee_flower.png,Eggs — Flower Crown — Normal,Egg,Eggs,,,Cottonee wearing a flower crown
+twilight_wishes,Twilight Wishes,Chimecho,False,Normal/Chimecho.png,Eggs — Normal,Egg,Eggs,,,Chimecho Applin
+twilight_wishes,Twilight Wishes,Applin,False,Normal/Applin.png,Eggs — Normal,Egg,Eggs,,,Chimecho Applin
+twilight_wishes,Twilight Wishes,Electrike,False,Normal/Electrike.png,Eggs — Normal,Egg,Eggs,,,Electrike Electrike
+twilight_wishes,Twilight Wishes,Drifblim,False,Costume/Drifblim_halloween.png,Eggs — Costume — Normal,Egg,Eggs,,,Greavard Drifblim wearing a Halloween Mischief costume
+twilight_wishes,Twilight Wishes,Greavard,False,Normal/Greavard.png,Eggs — Costume — Normal,Egg,Eggs,,,Greavard Drifblim wearing a Halloween Mischief costume
+twilight_wishes,Twilight Wishes,Greavard,False,Normal/Greavard.png,Eggs — Normal,Egg,Eggs,,,Greavard
+twilight_wishes,Twilight Wishes,Drifblim,False,Costume/Drifblim_halloween.png,Eggs — Costume — Normal,Egg,Eggs,,,Drifblim wearing a Halloween Mischief costume
+twilight_wishes,Twilight Wishes,Beedrill,False,Mega/Beedrill_mega.png,Eggs — Mega — Normal,Egg,Eggs,,,Beedrill Mega Energy ×100 Beedrill Mega Energy ×400
+twilight_wishes,Twilight Wishes,Rockruff,False,Normal/Rockruff.png,Eggs — Costume — Normal,Egg,Eggs,,,Rockruff Gengar wearing a Spooky Festival costume
+twilight_wishes,Twilight Wishes,Gengar,False,Costume/Gengar_halloween.png,Eggs — Costume — Normal,Egg,Eggs,,,Rockruff Gengar wearing a Spooky Festival costume
+twilight_wishes,Twilight Wishes,Rockruff,False,Normal/Rockruff.png,Eggs — Normal,Egg,Eggs,,,Rockruff
+twilight_wishes,Twilight Wishes,Gengar,False,Costume/Gengar_halloween.png,Eggs — Costume — Normal,Egg,Eggs,,,Gengar wearing a Spooky Festival costume
+twilight_wishes,Twilight Wishes,Houndoom,False,Mega/Houndoom_mega.png,Eggs — Mega — Normal,Egg,Eggs,,,Houndoom Mega Energy ×100 Houndoom Mega Energy ×400
+twilight_wishes,Twilight Wishes,Manectric,False,Mega/Manectric_mega.png,Eggs — Mega — Normal,Egg,Eggs,,,Manectric Mega Energy ×100 Manectric Mega Energy ×400
+twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_moon.png,Eggs — Crown — Normal,Egg,Eggs,,,Pikachu wearing a moon crown Pikachu wearing a sun crown
+twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_moon.png,Eggs — Crown — Normal,Egg,Eggs,,,Pikachu wearing a moon crown
+twilight_wishes,Twilight Wishes,Pikachu,False,Costume/Pikachu_sun.png,Eggs — Crown — Normal,Egg,Eggs,,,Pikachu wearing a sun crown
+twilight_wishes,Twilight Wishes,Sableye,False,Mega/Sableye_mega.png,Eggs — Mega — Normal,Egg,Eggs,,,Sableye Mega Energy ×100 Sableye Mega Energy ×400
+twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Pikachu_umbreon.png,Eggs — Scarf — Normal,Egg,Eggs,,,Umbreon wearing a moon scarf Espeon wearing a sun scarf
+twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Eggs — Scarf — Normal,Egg,Eggs,,,Umbreon wearing a moon scarf Espeon wearing a sun scarf
+twilight_wishes,Twilight Wishes,Umbreon,False,Costume/Pikachu_umbreon.png,Eggs — Scarf — Normal,Egg,Eggs,,,Umbreon wearing a moon scarf
+twilight_wishes,Twilight Wishes,Espeon,False,Costume/Espeon_day.png,Eggs — Scarf — Normal,Egg,Eggs,,,Espeon wearing a sun scarf
 pokemon_go_and_duolingo_timed_research,Pokémon GO and Duolingo Timed Research,Pikachu,False,Normal/Pikachu.png,Timed Research — Normal,Research,Timed Research,,,"Pokemon GO and Duolingo are teaming up! Do at least one Duolingo lesson a day for seven days to earn an offer code for Timed Research in Pokemon GO. Complete the research to earn XP, Stardust, and encounters with Pikachu, Meowth, Chatot, and Lucario that have a Special Background."
 pokemon_go_and_duolingo_timed_research,Pokémon GO and Duolingo Timed Research,Lucario,False,Normal/Lucario.png,Timed Research — Normal,Research,Timed Research,,,"Pokemon GO and Duolingo are teaming up! Do at least one Duolingo lesson a day for seven days to earn an offer code for Timed Research in Pokemon GO. Complete the research to earn XP, Stardust, and encounters with Pikachu, Meowth, Chatot, and Lucario that have a Special Background."
 pokemon_go_and_duolingo_timed_research,Pokémon GO and Duolingo Timed Research,Meowth,False,Normal/Meowth.png,Timed Research — Normal,Research,Timed Research,,,"Pokemon GO and Duolingo are teaming up! Do at least one Duolingo lesson a day for seven days to earn an offer code for Timed Research in Pokemon GO. Complete the research to earn XP, Stardust, and encounters with Pikachu, Meowth, Chatot, and Lucario that have a Special Background."
