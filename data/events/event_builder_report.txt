@@ -6,7 +6,7 @@ Upcoming events: 10
 Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
-Matched entries: 301
+Matched entries: 311
 Unmatched candidates: 18
 No-match debug rows: 18
 
@@ -23,7 +23,7 @@ Events written:
   URL: https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/
 - [current] Event: Twilight Wishes
   Date: Mon, Nov 30, at 8:00 PM
-  Entries: 80
+  Entries: 86
   File: current/twilight_wishes.json
   URL: https://leekduck.com/events/twilight-wishes-2026/
 - [current] Event: Minior Showers: Eta Aquariids 2027
