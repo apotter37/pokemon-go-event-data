@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 09:47:16",
+  "generated_at": "2026-11-24 22:20:37",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -22,6 +22,42 @@
       "file": "current/minior_showers_southern_delta_aquariids_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/"
+    },
+    {
+      "id": "unannounced_event",
+      "title": "Unannounced Event",
+      "category": "Event",
+      "date_text": "Mon, Dec 14, at 8:00 PM",
+      "file": "current/unannounced_event.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/unannounced-event-december-2026/"
+    },
+    {
+      "id": "winter_holiday_2026",
+      "title": "Winter Holiday 2026",
+      "category": "Event",
+      "date_text": "Mon, Dec 28, at 8:00 PM",
+      "file": "current/winter_holiday_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/winter-holiday-2026/"
+    },
+    {
+      "id": "tropical_paradise",
+      "title": "Tropical Paradise",
+      "category": "Event",
+      "date_text": "Mon, Dec 7, at 8:00 PM",
+      "file": "current/tropical_paradise.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/tropical-paradise-2026/"
+    },
+    {
+      "id": "new_year_s_2027",
+      "title": "New Year's 2027",
+      "category": "Event",
+      "date_text": "Mon, Jan 4, at 8:00 PM",
+      "file": "current/new_year_s_2027.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/new-years-2027/"
     },
     {
       "id": "twilight_wishes",
