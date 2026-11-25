@@ -1,9 +1,9 @@
 Pokemon GO Event Builder Report
 ========================================
-Events kept after cleanup: 24
-Current events: 14
+Events kept after cleanup: 28
+Current events: 18
 Upcoming events: 10
-Official news items found: 8
+Official news items found: 7
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
 Matched entries: 311
@@ -26,6 +26,11 @@ Events written:
   Entries: 0
   File: current/unannounced_event.json
   URL: https://leekduck.com/events/unannounced-event-december-2026/
+- [current] Event: Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (December 15, 2026)
+  Date: Mon, Dec 21, at 8:00 PM
+  Entries: 0
+  File: current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_december_15_2026.json
+  URL: https://leekduck.com/events/choose-your-path-daydream-destinations-2026-12-15/
 - [current] Event: Winter Holiday 2026
   Date: Mon, Dec 28, at 8:00 PM
   Entries: 0
@@ -36,6 +41,16 @@ Events written:
   Entries: 0
   File: current/tropical_paradise.json
   URL: https://leekduck.com/events/tropical-paradise-2026/
+- [current] Event: Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (January 26, 2027)
+  Date: Mon, Feb 1, at 8:00 PM
+  Entries: 0
+  File: current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_january_26_2027.json
+  URL: https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/
+- [current] Event: Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (January 12, 2027)
+  Date: Mon, Jan 18, at 8:00 PM
+  Entries: 0
+  File: current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_january_12_2027.json
+  URL: https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-12/
 - [current] Event: New Year's 2027
   Date: Mon, Jan 4, at 8:00 PM
   Entries: 0
@@ -56,6 +71,11 @@ Events written:
   Entries: 0
   File: current/minior_showers_perseids_2027.json
   URL: https://leekduck.com/events/minior-showers-perseids-2027/
+- [current] Event: Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (February 16, 2027)
+  Date: Sun, Feb 21, at 8:00 PM
+  Entries: 0
+  File: current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_february_16_2027.json
+  URL: https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/
 - [current] Event: Pokémon GO and Duolingo Timed Research
   Date: Thu, Dec 31, at 11:59 PM
   Entries: 18

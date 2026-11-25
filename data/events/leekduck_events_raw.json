@@ -36,6 +36,17 @@
     "source": "LeekDuck",
     "status": "current",
     "category": "Event",
+    "title": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (December 15, 2026)",
+    "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2026-12-15/",
+    "date_text": "Mon, Dec 21, at 8:00 PM",
+    "raw_text": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (December 15, 2026) Ends: Mon, Dec 21, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "choose_your_path_choose_your_path_choose_your_path_daydream_destinations_december_15_2026",
+    "file": "current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_december_15_2026.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
     "title": "Winter Holiday 2026",
     "url": "https://leekduck.com/events/winter-holiday-2026/",
     "date_text": "Mon, Dec 28, at 8:00 PM",
@@ -53,6 +64,28 @@
     "raw_text": "Event Event Tropical Paradise Ends: Mon, Dec 7, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "tropical_paradise",
     "file": "current/tropical_paradise.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
+    "title": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (January 26, 2027)",
+    "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/",
+    "date_text": "Mon, Feb 1, at 8:00 PM",
+    "raw_text": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (January 26, 2027) Ends: Mon, Feb 1, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "choose_your_path_choose_your_path_choose_your_path_daydream_destinations_january_26_2027",
+    "file": "current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_january_26_2027.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
+    "title": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (January 12, 2027)",
+    "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-12/",
+    "date_text": "Mon, Jan 18, at 8:00 PM",
+    "raw_text": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (January 12, 2027) Ends: Mon, Jan 18, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "choose_your_path_choose_your_path_choose_your_path_daydream_destinations_january_12_2027",
+    "file": "current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_january_12_2027.json"
   },
   {
     "source": "LeekDuck",
@@ -97,6 +130,17 @@
     "raw_text": "Event Event Minior Showers: Perseids 2027 Ends: Sun, Aug 15, at 11:59 PM Local Time Ends: 0 days 0 hours 0 min",
     "id": "minior_showers_perseids_2027",
     "file": "current/minior_showers_perseids_2027.json"
+  },
+  {
+    "source": "LeekDuck",
+    "status": "current",
+    "category": "Event",
+    "title": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (February 16, 2027)",
+    "url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/",
+    "date_text": "Sun, Feb 21, at 8:00 PM",
+    "raw_text": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (February 16, 2027) Ends: Sun, Feb 21, at 8:00 PM Local Time Ends: 0 days 0 hours 0 min",
+    "id": "choose_your_path_choose_your_path_choose_your_path_daydream_destinations_february_16_2027",
+    "file": "current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_february_16_2027.json"
   },
   {
     "source": "LeekDuck",

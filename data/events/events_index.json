@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 22:20:37",
+  "generated_at": "2026-11-25 08:22:37",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -33,6 +33,15 @@
       "source_url": "https://leekduck.com/events/unannounced-event-december-2026/"
     },
     {
+      "id": "choose_your_path_choose_your_path_choose_your_path_daydream_destinations_december_15_2026",
+      "title": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (December 15, 2026)",
+      "category": "Event",
+      "date_text": "Mon, Dec 21, at 8:00 PM",
+      "file": "current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_december_15_2026.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2026-12-15/"
+    },
+    {
       "id": "winter_holiday_2026",
       "title": "Winter Holiday 2026",
       "category": "Event",
@@ -49,6 +58,24 @@
       "file": "current/tropical_paradise.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/tropical-paradise-2026/"
+    },
+    {
+      "id": "choose_your_path_choose_your_path_choose_your_path_daydream_destinations_january_26_2027",
+      "title": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (January 26, 2027)",
+      "category": "Event",
+      "date_text": "Mon, Feb 1, at 8:00 PM",
+      "file": "current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_january_26_2027.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-26/"
+    },
+    {
+      "id": "choose_your_path_choose_your_path_choose_your_path_daydream_destinations_january_12_2027",
+      "title": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (January 12, 2027)",
+      "category": "Event",
+      "date_text": "Mon, Jan 18, at 8:00 PM",
+      "file": "current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_january_12_2027.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-01-12/"
     },
     {
       "id": "new_year_s_2027",
@@ -85,6 +112,15 @@
       "file": "current/minior_showers_perseids_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-perseids-2027/"
+    },
+    {
+      "id": "choose_your_path_choose_your_path_choose_your_path_daydream_destinations_february_16_2027",
+      "title": "Choose Your Path Choose Your Path Choose Your Path: Daydream Destinations (February 16, 2027)",
+      "category": "Event",
+      "date_text": "Sun, Feb 21, at 8:00 PM",
+      "file": "current/choose_your_path_choose_your_path_choose_your_path_daydream_destinations_february_16_2027.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/choose-your-path-daydream-destinations-2027-02-16/"
     },
     {
       "id": "pokemon_go_and_duolingo_timed_research",
