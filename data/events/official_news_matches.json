@@ -81,7 +81,13 @@
       "id": "tropical_paradise",
       "file": "current/tropical_paradise.json"
     },
-    "official_matches": []
+    "official_matches": [
+      {
+        "source": "Official Pokémon GO",
+        "title": "Make a splash during the Tropical Paradise event in Pokemon GO!",
+        "url": "https://pokemongo.com/news/tropical-paradise-2026"
+      }
+    ]
   },
   {
     "event": {
