@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25 21:37:14",
+  "generated_at": "2026-11-26 08:07:58",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -24,13 +24,13 @@
       "source_url": "https://leekduck.com/events/minior-showers-southern-delta-aquariids-2027/"
     },
     {
-      "id": "unannounced_event",
-      "title": "Unannounced Event",
+      "id": "pokemon_champions_celebration_event_2026",
+      "title": "Pokemon Champions Celebration Event 2026",
       "category": "Event",
       "date_text": "Mon, Dec 14, at 8:00 PM",
-      "file": "current/unannounced_event.json",
+      "file": "current/pokemon_champions_celebration_event_2026.json",
       "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/unannounced-event-december-2026/"
+      "source_url": "https://leekduck.com/events/pokemon-champions-celebration-event-2026/"
     },
     {
       "id": "choose_your_path_choose_your_path_choose_your_path_daydream_destinations_december_15_2026",
