@@ -1,8 +1,8 @@
 Pokemon GO Event Builder Report
 ========================================
 Events kept after cleanup: 28
-Current events: 18
-Upcoming events: 10
+Current events: 19
+Upcoming events: 9
 Official news items found: 8
 Pokemon names loaded: 1026
 Local asset files indexed: 9396
@@ -66,6 +66,11 @@ Events written:
   Entries: 0
   File: current/minior_showers_eta_aquariids_2027.json
   URL: https://leekduck.com/events/minior-showers-eta-aquariids-2027/
+- [current] Raid Day: Clefable Super Mega Raid Day
+  Date: Sat, Nov 28, at 5:00 PM
+  Entries: 13
+  File: current/clefable_super_mega_raid_day.json
+  URL: https://leekduck.com/events/clefable-super-mega-raid-day-2026/
 - [current] Event: Minior Showers: Perseids 2027
   Date: Sun, Aug 15, at 11:59 PM
   Entries: 0
@@ -138,11 +143,6 @@ Events written:
   Entries: 0
   File: upcoming/super_mega_raid_day.json
   URL: https://leekduck.com/events/super-mega-raid-day-january-2027/
-- [upcoming] Raid Day: Clefable Super Mega Raid Day
-  Date: Sat, Nov 28, at 5:00 PM
-  Entries: 13
-  File: upcoming/clefable_super_mega_raid_day.json
-  URL: https://leekduck.com/events/clefable-super-mega-raid-day-2026/
 - [upcoming] Community Day: December Community Day 2026
   Date: Sun, Dec 13, at 5:00 PM
   Entries: 117

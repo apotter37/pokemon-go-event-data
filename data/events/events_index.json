@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27 21:09:29",
+  "generated_at": "2026-11-28 07:39:36",
   "source_priority": [
     "LeekDuck",
     "Official Pokémon GO"
@@ -103,6 +103,15 @@
       "file": "current/minior_showers_eta_aquariids_2027.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/minior-showers-eta-aquariids-2027/"
+    },
+    {
+      "id": "clefable_super_mega_raid_day",
+      "title": "Clefable Super Mega Raid Day",
+      "category": "Raid Day",
+      "date_text": "Sat, Nov 28, at 5:00 PM",
+      "file": "current/clefable_super_mega_raid_day.json",
+      "source": "LeekDuck",
+      "source_url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
     },
     {
       "id": "minior_showers_perseids_2027",
@@ -240,15 +249,6 @@
       "file": "upcoming/super_mega_raid_day.json",
       "source": "LeekDuck",
       "source_url": "https://leekduck.com/events/super-mega-raid-day-january-2027/"
-    },
-    {
-      "id": "clefable_super_mega_raid_day",
-      "title": "Clefable Super Mega Raid Day",
-      "category": "Raid Day",
-      "date_text": "Sat, Nov 28, at 5:00 PM",
-      "file": "upcoming/clefable_super_mega_raid_day.json",
-      "source": "LeekDuck",
-      "source_url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
     },
     {
       "id": "december_community_day_2026",
